@@ -1,7 +1,7 @@
 ---
 title: How AI Is Reshaping the Legal Industry | Expert Perspectives on Technology at ABBYY
-date: 2024-08-21 10:14:28
-updated: 2024-08-22 10:52:10
+date: 2024-08-21T15:13:08.249Z
+updated: 2024-08-22T15:13:08.249Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5292de883673cace9e11db92.jpg
@@ -111,3 +111,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

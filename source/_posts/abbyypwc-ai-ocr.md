@@ -1,7 +1,7 @@
 ---
 title: ABBYYとPwCの戦略的協力 - AI OCR分野で革新的な提携開始
-date: 2024-08-20 11:29:29
-updated: 2024-08-22 10:53:40
+date: 2024-08-21T15:13:07.105Z
+updated: 2024-08-22T15:13:07.105Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56056b931eaef077a91501e84.jpg
@@ -66,3 +66,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

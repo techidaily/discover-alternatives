@@ -1,7 +1,7 @@
 ---
 title: "大規模建設文書の最適化を実現したABBYY OCRソリューションによるCMD拡張:プロジェクト情報提�aderの強力な統合"
-date: 2024-08-21 23:28:19
-updated: 2024-08-22 10:31:29
+date: 2024-08-21T15:13:07.515Z
+updated: 2024-08-22T15:13:07.515Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342cd4798dfe7202dea8939dfe.jpg
@@ -117,6 +117,9 @@ Mykulowyc氏によると、建設は季節的な事業だといいます。「2�
 
 [お問い合わせ](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

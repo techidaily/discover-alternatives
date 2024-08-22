@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Timelineで強力に利用するためのプロセスマイニング:実践的な事例とアクティベーションポイント"
-date: 2024-08-20 20:52:27
-updated: 2024-08-22 10:36:34
+date: 2024-08-21T15:13:08.688Z
+updated: 2024-08-22T15:13:08.688Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e4322ca2c6d47a165e3e9293b6.png
@@ -101,3 +101,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->

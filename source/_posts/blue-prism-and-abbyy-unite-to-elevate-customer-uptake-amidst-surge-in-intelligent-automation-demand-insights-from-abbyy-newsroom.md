@@ -1,7 +1,7 @@
 ---
 title: Blue Prism and ABBYY Unite to Elevate Customer Uptake Amidst Surge in Intelligent Automation Demand - Insights From ABBYY Newsroom
-date: 2024-08-21 22:21:26
-updated: 2024-08-22 10:19:43
+date: 2024-08-21T15:13:06.926Z
+updated: 2024-08-22T15:13:06.926Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867cd294c9e58180160b4e9b56.jpg
@@ -84,3 +84,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->

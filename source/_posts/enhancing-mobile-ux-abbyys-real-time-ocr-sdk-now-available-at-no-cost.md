@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Mobile UX: ABBYY's Real-Time OCR SDK Now Available at No Cost!"
-date: 2024-08-19 18:17:14
-updated: 2024-08-22 10:58:28
+date: 2024-08-21T15:13:08.480Z
+updated: 2024-08-22T15:13:08.480Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b7ac3fecaf39cbf4ad53ade68b5607328fb5fc5fabf85fb01691cb6e94c786a0.jpg
@@ -59,3 +59,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->

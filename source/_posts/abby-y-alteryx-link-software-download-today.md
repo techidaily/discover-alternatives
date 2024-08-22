@@ -1,7 +1,7 @@
 ---
 title: ABBY Y Alteryx Link Software - Download Today!
-date: 2024-08-20 20:44:10
-updated: 2024-08-22 10:43:16
+date: 2024-08-21T15:13:06.875Z
+updated: 2024-08-22T15:13:06.875Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272b657e526e62baf007bb9ef2.jpg
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
 Bringing the power of Process Intelligence to the Alteryx Analytic Process Automation (APA) Platform™.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY Timeline connector for Alteryx
 
 The ABBYY Connector for Alteryx delivers the integration between the ABBYY Timeline platform and the Alteryx APA PlatformTM. Alteryx data sources and assets can be accessed and leveraged by ABBYY Timeline to deliver insight into the data-driven processes resulting from advanced process analytics.

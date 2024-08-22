@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Digital Change: How ABBYY’s Smart Automation Powers Paragon's Transformation Journey"
-date: 2024-08-19 16:30:10
-updated: 2024-08-22 10:34:25
+date: 2024-08-21T15:13:07.796Z
+updated: 2024-08-22T15:13:07.796Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b2149d6ee352dfe8394d4845198.jpg
@@ -84,6 +84,9 @@ Paragon is able to reduce reliance on manually sorting and categorizing millions
 
 [Read the document](https://static5.abbyy.com/abbyycommedia/36200/paragon-bpo-customer-story-en.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

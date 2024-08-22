@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced: Optimize Your Site with Our Advanced Analytics Platform"
-date: 2024-08-21 11:13:42
-updated: 2024-08-22 11:49:58
+date: 2024-08-21T15:13:08.430Z
+updated: 2024-08-22T15:13:08.430Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/76da0ed68bc2a93de3bddfb794fb58ce57d0ed84b978982943f32b5ddbb0e182.jpg
@@ -41,26 +41,50 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### ABBYY Editorial Contact:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 #### Bianca Stupp
 
 _ABBYY_
 
 [bianca.stupp@abbyy.com](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### About the Bosch Group
 
 The Bosch Group is a leading international technology and services company with around 401,300 associates worldwide (as of Dec. 31, 2021). According to preliminary figures, it generated sales of 78.8 billion euros in fiscal 2021\. Its activities are divided into four business sectors: Mobility Solutions, Industrial Technology, Consumer Goods, and Energy and Building Technology. As a leading provider in the Internet of Things (IoT), Bosch offers innovative solutions for Smart Home, Industry 4.0, and Connected Mobility. Bosch pursues the vision of sustainable, safe and inspiring mobility. With its expertise in sensor technology, software, and services, as well as its own IoT cloud, the company is able to offer its customers connected and cross-domain solutions from a single source. The Bosch Group's strategic goal is to provide solutions and products for connected life that either have artificial intelligence (AI) or are developed or manufactured with its help. Bosch improves the quality of people's lives worldwide with innovative and inspiring products and services. Bosch offers "technology for life." The Bosch Group comprises Robert Bosch GmbH and its approximately 440 subsidiaries and regional companies in some 60 countries. Including trade and service partners, Bosch's global manufacturing, development, and sales network extends to almost every country in the world. With its more than 400 locations worldwide, the Bosch Group has been CO2-neutral since spring 2020\. The basis for future growth is the company's innovative strength. Bosch employs some 76,300 associates in research and development at 128 locations worldwide, including more than 38,000 software developers.
 
 The company was founded in 1886 as the "Workshop for Precision Mechanics and Electrical Engineering" by Robert Bosch (1861-1942) in Stuttgart. The corporate structure of Robert Bosch GmbH ensures the entrepreneurial independence of the Bosch Group. It enables the company to plan for the long term and to invest in significant up-front investments for the future. The non-profit Robert Bosch Stiftung GmbH holds 94 percent of the capital of Robert Bosch GmbH. The remaining shares are held by a Bosch family company and Robert Bosch GmbH. The majority of voting rights are held by Robert Bosch Industrietreuhand KG; it exercises the entrepreneurial shareholder function.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Bosch contact:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 #### Andreas Magnussen
 
 _Bosch_

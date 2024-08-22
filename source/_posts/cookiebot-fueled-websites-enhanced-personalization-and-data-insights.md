@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Fueled Websites: Enhanced Personalization & Data Insights"
-date: 2024-08-21 11:50:33
-updated: 2024-08-22 12:39:12
+date: 2024-08-21T15:13:08.753Z
+updated: 2024-08-22T15:13:08.753Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738e59505ca40bf7c4a2c48673.png
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 
 Bringing the power of Process Intelligence to the Alteryx Analytic Process Automation (APA) Platform™.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ABBYY Timeline connector for Alteryx
 
 The ABBYY Connector for Alteryx delivers the integration between the ABBYY Timeline platform and the Alteryx APA PlatformTM. Alteryx data sources and assets can be accessed and leveraged by ABBYY Timeline to deliver insight into the data-driven processes resulting from advanced process analytics.

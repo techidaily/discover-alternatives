@@ -1,7 +1,7 @@
 ---
 title: How AI and Machine Learning Enhance KYC Compliance in the Financial Industry
-date: 2024-08-20 11:17:26
-updated: 2024-08-22 12:23:39
+date: 2024-08-21T15:13:09.073Z
+updated: 2024-08-22T15:13:09.073Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3eb3971cf8c85804bd7c66ed.jpg
@@ -29,12 +29,18 @@ Téléchargez cet eBook pour découvrir comment la Digital Intelligence permet a
 * Obtenir des informations sur la façon dont les gens interagissent avec les documents
 * Découvrir les schémas de comportements suspects dans les processus
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Merci de votre intérêt pour ABBYY.
 
 [Lire l’eBook](https://digital.abbyy.com/hubfs/content/ebook-financialservices-banking-on-intelligence-fr.pdf "Lire l’eBook") 
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 #### Vous avez des questions ? [Contactez ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.

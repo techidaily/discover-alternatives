@@ -1,7 +1,7 @@
 ---
 title: "Enhancing SAP Bot Capabilities with Advanced Content Cognition: The Synergy of ABBYY and SAP"
-date: 2024-08-21 19:16:38
-updated: 2024-08-22 12:17:43
+date: 2024-08-21T15:13:08.486Z
+updated: 2024-08-22T15:13:08.486Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb770114051bf7d548d3853a87e8edbdb.jpg
@@ -42,6 +42,9 @@ ABBYY®T​​imeline SAP Connectorを使用して、各アクティビティを
 
 [パンフレットをダウンロード](https://static1.abbyy.com/abbyycommedia/33180/brochure-timeline-sap-connector-en.pdf)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 統合するメリット 
 
 ##### コンプライアンスの遵守 
@@ -68,6 +71,12 @@ SAP Intelligent RPAストアからFlexiCapture Connector for SAP Intelligent RPA
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/sap.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### 専門家に相談してみませんか？
 
 [デモを予約する](https://tools.techidaily.com/abbyy/products/)[お問い合わせ](https://tools.techidaily.com/abbyy/products/)

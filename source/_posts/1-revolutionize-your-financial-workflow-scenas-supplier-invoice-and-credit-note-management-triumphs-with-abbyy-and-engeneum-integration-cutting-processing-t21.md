@@ -1,7 +1,7 @@
 ---
 title: "1. Revolutionize Your Financial Workflow: Scena's Supplier Invoice & Credit Note Management Triumphs with ABBYY and Engeneum Integration, Cutting Processing Time by 60%% for Enhanced Efficiency with Sage™ - A Success Story"
-date: 2024-08-20 23:17:45
-updated: 2024-08-22 10:38:51
+date: 2024-08-21T15:13:07.505Z
+updated: 2024-08-22T15:13:07.505Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf84d67c3864e5678ef96194e7.jpg
@@ -100,6 +100,9 @@ The solution let’s Scena:
 
 [Read the document](https://static5.abbyy.com/abbyycommedia/31959/12622-case-study-scena-eng.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

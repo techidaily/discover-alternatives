@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Forests, Empowering Communities: ABBYY and NFF's Ambitious Goal of 20,000 Trees at Chippewa"
-date: 2024-08-19 14:55:17
-updated: 2024-08-22 10:26:54
+date: 2024-08-21T15:13:07.393Z
+updated: 2024-08-22T15:13:07.393Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56652514c20a9284502aff373.jpg
@@ -71,3 +71,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->

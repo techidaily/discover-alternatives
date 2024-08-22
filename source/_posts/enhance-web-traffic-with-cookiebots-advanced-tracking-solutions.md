@@ -1,7 +1,7 @@
 ---
 title: Enhance Web Traffic with Cookiebot's Advanced Tracking Solutions
-date: 2024-08-20 15:45:10
-updated: 2024-08-22 11:41:18
+date: 2024-08-21T15:13:07.006Z
+updated: 2024-08-22T15:13:07.006Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e93a7a87ff86f1d0befba824a.jpg
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 Enabling Blue Prism digital workers with the critical skills and understanding to turn unstructured content into structured, actionable information.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Connector Integrates ABBYY FlexiCapture with Blue Prism RPA
 
 ABBYY FlexiCapture Connector for Blue Prism is a VBO that provides the integration between the FlexiCapture enterprise platform and Blue Prism, automating the processing of unstructured content - documents, images, and text - turning into structured actionable data.

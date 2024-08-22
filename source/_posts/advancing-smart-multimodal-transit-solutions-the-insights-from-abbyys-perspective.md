@@ -1,7 +1,7 @@
 ---
 title: Advancing Smart Multimodal Transit Solutions - The Insights From ABBYY's Perspective
-date: 2024-08-21 10:59:20
-updated: 2024-08-22 12:40:32
+date: 2024-08-21T15:13:07.806Z
+updated: 2024-08-22T15:13:07.806Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9da02215f8d6dfb96116e057205fda88318f3946fc84dd604ea06497c2a68e23.jpg
@@ -29,16 +29,25 @@ Many BCOs believe that incorporating technologies that streamline and automate p
 
 One thought is to have an industry association or non-profit to take the leadership role and spearhead an initiative or platform through which all sectors of the supply chain can share information.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Desire for more real-time visibility
 
 BCOs and drayage companies have experienced the benefits of having real-time data. In one example, having real-time visibility into conditions at the marine terminal gate, the chassis pit, trouble window and chassis road-ability station from a secure website portal enabled dispatchers to significantly improve how they manage their fleets. One organization said that with having real-time access to marine terminal conditions, its dispatchers have tripled the number of trucks they can manage. A key to this is seamless integration of data from multiple sources, such a geofencing and GPS data, and using predictive analytics within supply chains to determine when shipments will be available for delivery. BCOs got a taste of what this level of business intelligence can deliver for their organization and want to be able to be more agile across all areas of their organization.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. The speed of information is critical
 
 Real-time visibility is only possible by the speed in which an organization can extract and derive context of data. This is where ABBYY intelligent capture solutions deliver the most value. ABBY can automatically extract data from transportation documents in a self-service process, thereby eliminating manual processing of documents. BCOs, drayage companies, terminal operators and equipment providers can use this data to achieve great productivity from existing assets without having to increase their footprint, purchase more equipment or hire more administrative staff. Leveraging intelligent capture technology is the best way to increase business with the same amount of assets. [Click here to learn more](http://bit.ly/2vQi3RL).
 
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Transportation & Logistics](https://tools.techidaily.com/abbyy/products/) [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

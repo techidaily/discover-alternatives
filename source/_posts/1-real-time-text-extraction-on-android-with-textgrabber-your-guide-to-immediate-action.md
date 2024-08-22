@@ -1,7 +1,7 @@
 ---
 title: "1. Real-Time Text Extraction on Android with TextGrabber: Your Guide to Immediate Action"
-date: 2024-08-21 20:26:20
-updated: 2024-08-22 10:41:57
+date: 2024-08-21T15:13:08.978Z
+updated: 2024-08-22T15:13:08.978Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f5343bae186756d50b06815cf1.jpg
@@ -73,3 +73,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->

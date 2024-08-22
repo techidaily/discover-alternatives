@@ -1,7 +1,7 @@
 ---
 title: "Comprendre Les Textes Complexes Grâce À L'automatisation Cognitive : Solution D'ABBYY Indispensable Au Savoir Numérique"
-date: 2024-08-19 12:17:14
-updated: 2024-08-22 11:19:33
+date: 2024-08-21T15:13:07.122Z
+updated: 2024-08-22T15:13:07.122Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446ee8e6c9838cd48c592632a7.png
@@ -19,6 +19,9 @@ Livre blanc
 
 Les événements actuels ont intensifié la pression sur les organisations pour qu’elles intègrent la transformation numérique à leurs plans stratégiques. L’émergence de plateformes de développement low-code et no-code a permis l’essor de nouveaux « citizens developers », et des technologies comme la RPA ont été essentielles lors des premières phases du parcours de nombreuses organisations vers la transformation numérique. Face à de nouvelles urgences, les entreprises avancent maintenant rapidement vers la découverte et l’automatisation de processus plus complexes et de plus grande valeur. Ces processus importants touchent souvent les clients et impliquent inévitablement du contenu non structuré qui doit être traité intelligemment.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Télécharger maintenant!
 
 Téléchargez ce livre blanc pour en savoir plus sur :
@@ -30,12 +33,18 @@ Téléchargez ce livre blanc pour en savoir plus sur :
 
 Lisez ce livre blanc pour savoir comment les plateformes de traitement intelligent des documents comme ABBYY Vantage répondent à ce besoin et s’inscrivent dans ce nouveau paradigme low/no-code. Faciles à mettre en œuvre, elles satisfont les citizen developers et s’intègrent aux plateformes de RPA et BPM. Vous apprendrez également comment des éléments réutilisables du Marketplace ABBYY peuvent être rapidement utilisés dans de nouvelles initiatives d’automatisation pour vous permettre d’obtenir des résultats commerciaux visibles en peu de temps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Merci de votre intérêt pour ABBYY.
 
 [Lire le livre blanc](https://digital.abbyy.com/hubfs/content/whitepaper-vantage-need-for-understanding-content-fr.pdf "Lire le livre blanc") 
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 #### Vous avez des questions ? [Contactez ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.

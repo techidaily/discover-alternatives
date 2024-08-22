@@ -1,7 +1,7 @@
 ---
 title: ABBYY to Showcase Advanced Cognitive Document Analysis Innovations at AI Europe, London
-date: 2024-08-21 18:44:18
-updated: 2024-08-22 12:57:52
+date: 2024-08-21T15:13:08.351Z
+updated: 2024-08-22T15:13:08.351Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
@@ -57,3 +57,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->

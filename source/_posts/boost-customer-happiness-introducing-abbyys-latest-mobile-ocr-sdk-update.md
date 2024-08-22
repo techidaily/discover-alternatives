@@ -1,7 +1,7 @@
 ---
 title: "Boost Customer Happiness: Introducing ABBYY's Latest Mobile OCR SDK Update"
-date: 2024-08-21 17:43:34
-updated: 2024-08-22 12:45:43
+date: 2024-08-21T15:13:07.574Z
+updated: 2024-08-22T15:13:07.574Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353ebb15c30e049205c45a363ba.jpg
@@ -81,3 +81,9 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->

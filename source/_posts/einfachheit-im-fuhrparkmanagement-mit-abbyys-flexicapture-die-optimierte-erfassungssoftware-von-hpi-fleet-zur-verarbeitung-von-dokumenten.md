@@ -1,7 +1,7 @@
 ---
 title: Einfachheit Im Fuhrparkmanagement Mit ABBYY's FlexiCapture - Die Optimierte Erfassungssoftware Von HPI Fleet Zur Verarbeitung Von Dokumenten
-date: 2024-08-20 11:11:47
-updated: 2024-08-22 11:59:50
+date: 2024-08-21T15:13:07.003Z
+updated: 2024-08-22T15:13:07.003Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c153534fece429948183b0ad342f.png
@@ -94,6 +94,9 @@ Teilen  True ?  : ""
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the ABBYY Cloud Privacy Policy: Key Terms, Universal DPA Adherence and Integration of GDPR Standards"
-date: 2024-08-21 14:40:47
-updated: 2024-08-22 12:49:22
+date: 2024-08-21T15:13:07.484Z
+updated: 2024-08-22T15:13:07.484Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae226692000b54256157e02075b501.jpg
@@ -1120,6 +1120,9 @@ c. A data subject may also bring legal proceedings against the data exporter and
 
 d. The Parties agree to submit themselves to the jurisdiction of such courts. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### APPENDIX
 
 **EXHIBIT I.A - LIST OF PARTIES**

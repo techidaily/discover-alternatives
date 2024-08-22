@@ -1,7 +1,7 @@
 ---
 title: "Bruce Orcutt: Senior CMO at ABBYY Leading Innovative Strategies"
-date: 2024-08-20 12:41:35
-updated: 2024-08-22 10:19:19
+date: 2024-08-21T15:13:08.384Z
+updated: 2024-08-22T15:13:08.384Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10fcab5198bc36f19c430691c.jpg
@@ -41,3 +41,7 @@ He is a thought leader with market domain expertise in AI, machine learning, pro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

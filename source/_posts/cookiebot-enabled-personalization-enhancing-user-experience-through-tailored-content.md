@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled Personalization: Enhancing User Experience Through Tailored Content"
-date: 2024-08-19 15:50:50
-updated: 2024-08-22 10:13:18
+date: 2024-08-21T15:13:08.737Z
+updated: 2024-08-22T15:13:08.737Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1b0d3ea6af6735c5a10c75f4.jpg
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
 Enabling Pega BPM and RPA to transform documents and unstructured content automatically into actionable information for customer service and operational excellence.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## ABBYY FlexiCapture Connector for Pega
 
 ABBYY FlexiCapture Connector for Pega enables Pega BPM and RPA to transform documents and unstructured content automatically into actionable information for customer service and operational excellence.

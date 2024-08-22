@@ -1,7 +1,7 @@
 ---
 title: "ABBYY JapanとKDDIがOCR技術で力を合わせる:最新情報解禁！|業界初の協同製品"
-date: 2024-08-20 23:25:49
-updated: 2024-08-22 10:20:44
+date: 2024-08-21T15:13:07.509Z
+updated: 2024-08-22T15:13:07.509Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c689fcbfa16aad9f4c667d5e.jpg
@@ -63,3 +63,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->

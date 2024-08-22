@@ -1,7 +1,7 @@
 ---
 title: "Experienced Mid-Level Sales Expert Fiston Balumbu at ABBYY: Driving Business Growth"
-date: 2024-08-21 22:44:46
-updated: 2024-08-22 11:13:35
+date: 2024-08-21T15:13:08.496Z
+updated: 2024-08-22T15:13:08.496Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30f3dde81226f486e6ab605fb.jpg
@@ -37,16 +37,28 @@ Interestingly enough, prior to joining ABBYY, I worked as an Associate Manager S
 
 I’ve learned that it is best to sell a solution to the customer’s pain point rather than a product. Ask a lot of questions and listen to your customer. Seek the assistance of your colleagues as needed, as you may find more success when working as a team.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Do you have any hobbies?
 
 I am a big sports fan and enjoy competing in obstacle courses. You can find me rooting for the San Francisco 49ers, Golden State Warriors and Oakland A’s - my 3 major US sports teams.
 
 ![ABBYY Fiston Balumbu](https://static1.abbyy.com/abbyycommedia/34040/fistonbalumbu-game.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 I also enjoy kayaking, and love grilling on the BBQ, as well as many more outdoor activities. I’m lucky to live in San Diego, where the weather is always great. Also, I can’t forget to include traveling with my wife Meagan, as we both love history, culture and arts.
 
 ![Megan and Fiston](https://static1.abbyy.com/abbyycommedia/34039/fistonbalumbu-meagan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What's your party trick?
 
 I don’t know if I can answer this as I am now married! Just kidding. I simply enjoy having a good time.
@@ -59,6 +71,9 @@ I don’t have any kids, so I would say the wellbeing of my extended family.
 
 That no-one goes to bed hungry by choice or has to sleep outside by choice. I would like those of us who have been blessed to do more to help our fellow human beings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What’s your pet peeve?
 
 Selfishness. Whether it be knowledge, ability, monetary or anything else, we should share what we can with each other especially with those less fortunate. We need to be mindful that not everyone has been dealt the same cards.
@@ -69,6 +84,9 @@ Selfishness. Whether it be knowledge, ability, monetary or anything else, we sho
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

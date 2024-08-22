@@ -1,7 +1,7 @@
 ---
 title: "ABBYY FineReader: Die Kerntechnologie Für Eine Umfassende Dokumentenbearbeitungslösung"
-date: 2024-08-20 17:34:27
-updated: 2024-08-22 10:39:30
+date: 2024-08-21T15:13:08.683Z
+updated: 2024-08-22T15:13:08.683Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7e23e537fd44d6a1e4e623e1.png
@@ -94,6 +94,9 @@ Teilen  True ?  : ""
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.

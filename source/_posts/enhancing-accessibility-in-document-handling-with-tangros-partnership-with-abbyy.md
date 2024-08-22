@@ -1,7 +1,7 @@
 ---
 title: Enhancing Accessibility in Document Handling with Tangro's Partnership with ABBYY
-date: 2024-08-20 23:29:54
-updated: 2024-08-22 12:20:46
+date: 2024-08-21T15:13:09.058Z
+updated: 2024-08-22T15:13:09.058Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d09bf52bb3d1445c9e89ae06d.jpg
@@ -68,3 +68,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Seamless Integration: Merging ABBYY FlexiCapture and UiPath Through The Connector for Enhanced Business Automation"
-date: 2024-08-20 11:59:15
-updated: 2024-08-22 11:55:35
+date: 2024-08-21T15:13:08.638Z
+updated: 2024-08-22T15:13:08.638Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e1d979284c574fcec450998c.jpg
@@ -15,6 +15,18 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 
 Enabling UiPath robots with the critical skills and understanding to turn unstructured content into structured, actionable information.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Connector Integrates ABBYY FlexiCapture with UiPath
 
 ABBYY FlexiCapture Connector for UiPath is an activity that provides the integration between the FlexiCapture enterprise platform and UiPath, automating the processing of unstructured content - documents, images, and text - turning into structured actionable data.

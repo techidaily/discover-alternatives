@@ -1,7 +1,7 @@
 ---
 title: Is Your Accounts Payable Still Lagging Behind Due To Old Tech? See What The Latest Infographic Reveals!
-date: 2024-08-20 17:27:18
-updated: 2024-08-22 10:17:16
+date: 2024-08-21T15:13:09.088Z
+updated: 2024-08-22T15:13:09.088Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fe76b6185e26f2c7036c1e782f8aa4282a912d0cf8002f2ddafcfc14bd50d2eb.jpg
@@ -39,3 +39,7 @@ Bring your AP department into the now with invoice processing and payment automa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

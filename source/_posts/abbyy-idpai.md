@@ -1,7 +1,7 @@
 ---
 title: カールスバーググループ：世界最大ビールメーカーがABBYY IDP/AI認識ソフトウェア選定
-date: 2024-08-21 12:47:15
-updated: 2024-08-22 12:33:49
+date: 2024-08-21T15:13:06.887Z
+updated: 2024-08-22T15:13:06.887Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764cfef6c9d047807d2b22fa28f.jpg
@@ -47,6 +47,9 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 報道関係者お問い合わせ先
 
 #### 株式会社井之上パブリックリレーションズ 

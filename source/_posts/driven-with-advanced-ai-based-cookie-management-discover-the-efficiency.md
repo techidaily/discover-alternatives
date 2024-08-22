@@ -1,7 +1,7 @@
 ---
 title: "Driven with Advanced AI-Based Cookie Management: Discover the Efficiency"
-date: 2024-08-21 14:24:58
-updated: 2024-08-22 12:41:25
+date: 2024-08-21T15:13:07.224Z
+updated: 2024-08-22T15:13:07.224Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e9c990e25117479e90a6a7012f47011623d3e85d5155cf7861b563822cc331cb.jpg
@@ -53,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/e9c990e25117479e90a6a7012f47011623d3e85d5
 
 ギャラリー画面上部のバーに検索フレーズを入力し始めるだけでOKです。 適切なドキュメントカテゴリフォルダに移動して、検索することにより、特定のカテゴリ（A4など）のドキュメントを検索することもできます。 これを行うと、検索が特定のドキュメントタイプに制限されます。
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 新しいスマートギャラリーと検索機能の活用
 
 次に、技術的な詳細についてです。すべてが実際にどのように機能するかを見てみましょう。 まず、[FineScanner](https://fsfree.onelink.me/RsYZ/fs8blogjp)を更新したら、スマートギャラリーとテキスト検索機能をアクティブにする必要があります。
@@ -150,6 +153,9 @@ Connect with us
 
 ![](https://static4.abbyy.com/abbyycommedia/31472/fs-8-blog-main-no-sign.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 今回は、ABBYY Mobileの中から最新世代のモバイルスキャナーであるFineScannerAI 8をご紹介します。FineScannerはドキュメントをスキャンして保存するだけでなく、個人のスマートフォンアーキビスト（記録、公文書保管人）にもなります。 また、今Updateより、FineScannerは、すべての写真を7つの異なるドキュメントタイプに自動的に並べ替え、検索機能を使用して特定の写真を検索し、AR（拡張現実）を使用してドキュメントのサイズを正確に測定できるようになりました。
 
 ## 新世代のスマートギャラリー
@@ -178,14 +184,23 @@ Connect with us
 
 我々のテスト結果によると、分類の精度は約90〜95％です。 しかし、それはギャラリーの写真品質に大きく依存します。
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## テキスト検索を使って写真を見つける
 
 また、皆さまに、今までよりも早く必要な写真を見つけていただきたいと思っています。 これを実現するために、独自のテキスト検索機能を実装しました。 これにより、適切な写真から検索バーにテキストを入力するだけで、[FineScanner](https://fsfree.onelink.me/RsYZ/fs8blogjp)でその写真を見つけることが可能です。 つまり、写真のテキストを覚えている限り、ギャラリーをスクロールする必要はありません。検索バーにテキストを入力するだけで、[FineScanner](https://fsfree.onelink.me/RsYZ/fs8blogjp)が検索結果を表示し、検出されたキーワードを強調表示します。
 
 ![search_fs_8](https://static1.abbyy.com/abbyycommedia/31421/search_fs_8.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ギャラリー画面上部のバーに検索フレーズを入力し始めるだけでOKです。 適切なドキュメントカテゴリフォルダに移動して、検索することにより、特定のカテゴリ（A4など）のドキュメントを検索することもできます。 これを行うと、検索が特定のドキュメントタイプに制限されます。
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 新しいスマートギャラリーと検索機能の活用
 
 次に、技術的な詳細についてです。すべてが実際にどのように機能するかを見てみましょう。 まず、[FineScanner](https://fsfree.onelink.me/RsYZ/fs8blogjp)を更新したら、スマートギャラリーとテキスト検索機能をアクティブにする必要があります。
@@ -221,6 +236,9 @@ AR（拡張現実）を使用してドキュメントを測定するには、次
 
 ![arkit_fs_8](https://static1.abbyy.com/abbyycommedia/31423/arkit_fs_8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ドキュメントのサイズが標準サイズの1つ（A4や運転免許証など）に対応している場合、[FineScanner](https://fsfree.onelink.me/RsYZ/fs8blogjp)では、その特定のサイズのドキュメントとして扱われるようにドキュメントを設定するかどうかの確認が求められます。 非標準サイズのドキュメントの場合、あとで使用するために検出されたサイズを保存することを選択できます。 これを行うためには、検出されたドキュメント測定値をタップし、「リストに保存」を「オン」に切り替えます。 それが完了したら、「Flyer」など、新しいフォーマットの名前を指定します。
 
 [FineScannerアプリを更新](https://fsfree.onelink.me/RsYZ/fs8blogjp)して頂くことで、これらすべての新機能をすぐにお試し頂けます。AppStoreとGooglePlayの両方のアプリケーションページでフィードバックとリクエストを頂けることを楽しみにしております。
@@ -231,6 +249,9 @@ AR（拡張現実）を使用してドキュメントを測定するには、次
 
 [モバイル](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア

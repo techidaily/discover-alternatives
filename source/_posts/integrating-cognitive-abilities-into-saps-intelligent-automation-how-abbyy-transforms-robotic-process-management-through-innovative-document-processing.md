@@ -1,7 +1,7 @@
 ---
 title: "Integrating Cognitive Abilities Into SAP's Intelligent Automation: How ABBYY Transforms Robotic Process Management Through Innovative Document Processing"
-date: 2024-08-20 23:31:54
-updated: 2024-08-22 10:42:21
+date: 2024-08-21T15:13:08.854Z
+updated: 2024-08-22T15:13:08.854Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227de663d1016dd55e7780d59f.jpg
@@ -123,3 +123,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

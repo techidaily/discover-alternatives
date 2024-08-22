@@ -1,7 +1,7 @@
 ---
 title: "Worldwide Expansion: ABBYY's Strategic Restructure to Accelerate International Progress - Company Statement"
-date: 2024-08-19 12:15:39
-updated: 2024-08-22 10:54:12
+date: 2024-08-21T15:13:08.041Z
+updated: 2024-08-22T15:13:08.041Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7b970dc3ae9c242e74e0d377.jpg
@@ -92,3 +92,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->

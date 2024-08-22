@@ -1,7 +1,7 @@
 ---
 title: Transform Your Invoices with ABBYY's AI OCR - Achieve a Dramatic 90%% Reduction in Processing Time
-date: 2024-08-20 17:11:15
-updated: 2024-08-22 11:11:24
+date: 2024-08-21T15:13:08.330Z
+updated: 2024-08-22T15:13:08.330Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
@@ -41,3 +41,7 @@ CASE STUDY | TRANSPORTATION & LOGISTICS Challenge • Streamlining customs clear
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->

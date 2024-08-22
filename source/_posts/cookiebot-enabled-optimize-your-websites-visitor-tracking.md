@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Optimize Your Website's Visitor Tracking"
-date: 2024-08-21 16:44:30
-updated: 2024-08-22 12:19:22
+date: 2024-08-21T15:13:08.176Z
+updated: 2024-08-22T15:13:08.176Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c041837cad5f3c0f9163df97.jpg
@@ -33,6 +33,9 @@ Gehe direkt zu:
 
 **Process Intelligence ist eine Kombination von datengesteuerten Fähigkeiten, die der Analyse und Verbesserung von Geschäftsabläufen dienen.**  Sie nutzt die Daten aus unternehmenseigenen Informationssystemen, um Muster und Erkenntnisse zu finden, die den Weg zu neuen betrieblichen Effizienzen weisen. **Die fünf wesentlichen Säulen für nachhaltige Process Intelligence sind Prozesserkennung, Prozessanalyse, Prozessüberwachung, Prozessvorhersage und Prozesssimulation.**  Unternehmen können die daraus resultierenden Erkenntnisse nutzen, um ihre Prozesse zu erkennen, zu verstehen und effektiver zu verwalten.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Die fünf Säulen von Process Intelligence
 
 #### 1\. Prozesserkennung
@@ -73,10 +76,16 @@ Durch die Nutzung von Process Intelligence können Unternehmen ein breites Spekt
 
 **Kosteneinsparungen** Durch die Ermittlung und Beseitigung von Prozessineffizienzen können Unternehmen ihre Betriebskosten senken. Process Intelligence ermöglicht eine kosteneffiziente Ressourcenzuweisung und hilft, unnötige Kosten zu vermeiden, die durch manuelle Eingriffe oder Fehler entstehen.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Anwendungsfälle für Process Intelligence
 
 In jeder Branche ermöglicht [die Integration von Process Intelligence in eine digitale Transformationsstrategie](https://tools.techidaily.com/abbyy/products/) den Unternehmen, die zukünftigen Auswirkungen von vorgeschlagenen Änderungen zu bewerten, den Übergang effektiver zu gestalten, die Leistung der implementierten Automatisierungsschritte zu gewährleisten und eine Feedbackschleife für kontinuierliche Verbesserungen zu schaffen. Unternehmen aller Branchen nutzen Process Intelligence, um in einer Vielzahl von Anwendungsfällen bessere Ergebnisse zu erzielen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Gesundheitswesen
 
 Krankenhäuser und andere Gesundheitsdienstleister können Process Intelligence nutzen, um das Patientenerlebnis und die klinische Effektivität zu verbessern, Qualitätsstandards aufrechtzuerhalten und Compliance-Risiken zu vermeiden. Sie können die Einhaltung von Vorschriften erleichtern, indem sie klinische Abläufe in Echtzeit überwachen und das Personal proaktiv warnen, wenn Protokolle nicht eingehalten oder Prozessabweichungen festgestellt werden.
@@ -89,6 +98,9 @@ Process Intelligence ermöglicht es Banken und anderen Finanzinstituten, die dig
 
 Versicherungsunternehmen können prädiktive Analysen nutzen, um Risikobewertung, Risikoauswahl und Risikoübernahme-Entscheidungen zu beschleunigen. Sie können die Einhaltung von Vorschriften durch automatisierte Überwachung und Abhilfemaßnahmen verbessern und gleichzeitig Produktivitätssteigerungen erzielen, indem sie eine durchgehende Datenverarbeitung ermöglichen. Prozessanalysen bieten einen Mehrwert für interne Mitarbeitende, Vertragsregulierer, externe Supportorganisationen und andere Partner.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Verknüpfung von Process Intelligence mit intelligenter Prozessautomatisierung
 
 Unter digitaler Transformation versteht man die Integration digitaler Technologien in alle Bereiche eines Unternehmens, wodurch sich die Art und Weise, wie das Unternehmen arbeitet und seinen Kundinnen und Kunden einen Mehrwert bietet, grundlegend ändert. Erfolgreiche Transformationsaktivitäten beinhalten ein radikales Überdenken der Art und Weise, wie ein Unternehmen Technologie, Mitarbeitende und Prozesse einsetzt, um die Unternehmensperformance grundlegend zu verändern. [Intelligente Prozessautomatisierung (IPA)](https://www.abbyy.com/de/solutions/intelligent-process-automation-ipa/?itm%5Fsource=corpblog-de) ist das Herzstück dieses Wandels. Sie kombiniert künstliche Intelligenz (KI) und Automatisierung, um intelligente Geschäftsprozesse zu schaffen, die sich mit der Zeit anpassen und weiterentwickeln können.
@@ -113,6 +125,9 @@ Unternehmen auf der ganzen Welt automatisieren zeitaufwendige Routineabläufe, d
 
 [Demo anfordern](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Häufig gestellte Fragen
 
 [Was ist eine Process-Intelligence-Strategie?](https://tools.techidaily.com/abbyy/products/)
@@ -145,6 +160,9 @@ In seiner 30-jährigen Laufbahn in der Computerbranche hat Scott Opitz verschied
 
 Zuvor fungierte er unter anderem als Senior Vice President, Worldwide Marketing & Business Development für webMethods (heute Software AG), wobei er für Marketing, Geschäftsentwicklung und strategische Produktplanung verantwortlich zeichnete. Zu webMethods war er im Zuge von dessen Übernahme von IntelliFrame Corporation gekommen, einem Unternehmen, das sowohl Produkte zur Datenintegration als auch die integrierte Workflow- und BPM-Plattform InVista bereitstellte, die Opitz mitgegründet hatte. Scott Opitz hat außerdem zahlreiche Führungspositionen in den Bereichen Technologie, Marketing und Geschäftsentwicklung für staatliche und privatwirtschaftliche Unternehmen bekleidet.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Gefällt mir, teilen oder neu posten 
 
 Teilen 

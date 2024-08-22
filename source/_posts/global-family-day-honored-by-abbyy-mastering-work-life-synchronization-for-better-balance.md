@@ -1,7 +1,7 @@
 ---
 title: "Global Family Day Honored by ABBYY: Mastering Work-Life Synchronization for Better Balance"
-date: 2024-08-21 22:27:26
-updated: 2024-08-22 11:46:49
+date: 2024-08-21T15:13:08.235Z
+updated: 2024-08-22T15:13:08.235Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd051ad18a83009076fc1de06.jpg
@@ -57,6 +57,10 @@ Anna, Customer Service Expert
 
 ![ryan-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/ryan-600x600.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 From Ukraine, we go to Singapore, and from siblings, we chat with parents, specifically with our Senior Solution Consultant and mother of two, **Ryan**, who tells us that balancing parenthood and work is a true balancing act. 
 
 "Kids consistently require a lot of my energy and attention when they are back from school. And I’m not exaggerating when I say that I can hear my children call ‘mom/mama!’ at least 50 times a day. For me to respond with good energy it is key that I prioritize maintaining a good work-life balance." 
@@ -67,6 +71,9 @@ For me to respond with good energy, it is key that I prioritize maintaining a go
 
 Ryan, Senior Solution Consultant
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steve
 
 ![steve-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/steve-600x600.png)
@@ -81,6 +88,9 @@ After having my first child, I found myself seeking greater flexibility in my ca
 
 Steve, Head of Talent Acquisition
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Aleksandar
 
 ![aleksandar-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/aleksandar-600x600.png)
@@ -95,10 +105,25 @@ Initially, my biggest concern was how to organize my time and find a balance bet
 
 Aleksander, Order Fulfillment Specialist
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Konstantin and Ekaterina
 
 ![konstantin-ekaterina-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/konstantin-ekaterina-600x600.png)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In our Cyprus Research Development (R&D) and Product Development teams, we found **Konstantin** and **Ekaterina** who shared a bit about their experience working as a married couple with children at ABBYY:
 
 “Truth be told, ABBYY isn't our first rodeo together. We hustled as waiters back in our student days, then rocked it out at another IT joint.
@@ -117,6 +142,9 @@ Konstantin and Ekaterina, R&D and Product Development
 
 ![rahul-600x600](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/international-day-of-families/rahul-600x600.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 When asked about how working remotely impacted his family dynamics compared to working in a traditional office setting, **Rahul**, Partner Innovation and Enablement Consultant, who you might remember from our [heartwarming Valentine's Day story](https://www.linkedin.com/posts/abbyy%5Flifeatabbyy-abbyy-valentinesday-activity-7163133907616395264-uMgS), told us that flexible working arrangements have been a game-changer for his family.
 
 "The big win? No more commuting. This means we get more time together as a family—time we can spend on fun activities, sharing meals, or just being there for each other.," he told us.

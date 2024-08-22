@@ -1,7 +1,7 @@
 ---
 title: ABBYY's Identity Verification & Authentication Solutions Tailored for the Finance Sector
-date: 2024-08-20 13:32:45
-updated: 2024-08-22 12:41:49
+date: 2024-08-21T15:13:07.530Z
+updated: 2024-08-22T15:13:07.530Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140b89f27b65013967fb63481d.jpg
@@ -43,3 +43,7 @@ For more information, please visit [www.abbyy.com](https://tools.techidaily.com/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->

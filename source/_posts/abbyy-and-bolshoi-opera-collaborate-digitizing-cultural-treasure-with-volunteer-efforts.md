@@ -1,7 +1,7 @@
 ---
 title: "ABBYY & Bolshoi Opera Collaborate: Digitizing Cultural Treasure with Volunteer Efforts"
-date: 2024-08-20 18:57:23
-updated: 2024-08-22 11:42:47
+date: 2024-08-21T15:13:08.080Z
+updated: 2024-08-22T15:13:08.080Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3a9eb41a58803887d90c7bef.jpg
@@ -73,3 +73,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Enhanced Performance via Cookiebot Integration
-date: 2024-08-19 23:28:44
-updated: 2024-08-22 11:29:16
+date: 2024-08-21T15:13:07.667Z
+updated: 2024-08-22T15:13:07.667Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
@@ -39,6 +39,10 @@ ABBYY has been recognized by more than 10 analyst firms as a leader in IDP inclu
 
 Nagarro, a global digital engineering leader, helps clients become fluidic, innovative, digital-first companies and thus win in their markets. The company is distinguished by its entrepreneurial, agile, global character, CARING mindset, and Fluidic Enterprise vision. Nagarro employs over 18,000 people in 36 countries. For more information, visit [www.nagarro.com](https://www.nagarro.com/en). You can find more information about the [Invoice Scanner here](https://www.nagarro.com/en/services/erp/sap/add-ons/invoice-scanner).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### About ABBYY
 
 ABBYY puts your information to work. We combine innovation and experience to transform data from business-critical documents into intelligent actionable outcomes in over 200 languages in real time. We enable more than 10,000 companies globally, including many of the Fortune 500, to drive significant impact where it matters most: customer experience, operational excellence, and competitive advantage. ABBYY is a global company with headquarters in Milpitas, CA and offices in 12 countries, and is the [Official Intelligent Automation Partner of Arsenal Women Football Club](https://tools.techidaily.com/abbyy/products/). For more information, visit [www.abbyy.com/company/about-us/](https://tools.techidaily.com/abbyy/products/) and follow us on [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware) and [Facebook](https://www.facebook.com/ABBYYsoft).

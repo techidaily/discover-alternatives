@@ -1,7 +1,7 @@
 ---
 title: Transform Customer Journeys with Advanced Process Mining & Integrated Data Platforms
-date: 2024-08-19 12:11:58
-updated: 2024-08-22 10:28:25
+date: 2024-08-21T15:13:08.652Z
+updated: 2024-08-22T15:13:08.652Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba848022dab03800aadbcadb1.jpg
@@ -21,6 +21,9 @@ Today’s customers expect a frictionless experience. But too often, financial s
 
 This is where the process intelligence journey begins. 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Download it now!
 
 Financial Services is now using process intelligence—a combination of process mining, task mining, process monitoring, and simulation—to get the answers they need. Using data from their own systems, process intelligence provides insight to:
@@ -31,6 +34,9 @@ Financial Services is now using process intelligence—a combination of process 
 
 Download this eBook to understand how to start realizing these benefits, and others, today with recommended first steps, pro tips, and key considerations from Doculabs and ABBYY.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Thank you for your interest in ABBYY.
 
 [Read eBook](https://global.abbyy.com/hubfs/documents/content/ebook-financial-services-abbyy-doculabs-en.pdf  "Read eBook") 

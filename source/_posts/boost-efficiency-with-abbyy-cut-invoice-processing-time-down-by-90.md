@@ -1,7 +1,7 @@
 ---
 title: "Boost Efficiency with ABBYY: Cut Invoice Processing Time Down by 90%%"
-date: 2024-08-19 12:33:54
-updated: 2024-08-22 12:42:40
+date: 2024-08-21T15:13:07.819Z
+updated: 2024-08-22T15:13:07.819Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6659fe54b6365b1f6893f18c4aeffaf5df66ed6e08cee6f612c187a5f5545374.jpg
@@ -93,6 +93,9 @@ Invoice-processing time reduced from more than 40 minutes to 4 minutes per docum
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

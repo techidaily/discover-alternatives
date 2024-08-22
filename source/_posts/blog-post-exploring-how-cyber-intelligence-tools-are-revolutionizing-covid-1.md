@@ -1,7 +1,7 @@
 ---
 title: "Blog Post: Exploring How Cyber Intelligence Tools Are Revolutionizing COVID-1"
-date: 2024-08-21 22:13:23
-updated: 2024-08-22 12:32:52
+date: 2024-08-21T15:13:06.918Z
+updated: 2024-08-22T15:13:06.918Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbdef4cb5558c43f077a848c48.jpg
@@ -37,6 +37,9 @@ At the same time, analytic software solutions that provide vaccination distribut
 
 ![healthcare ai solutions](https://static1.abbyy.com/abbyycommedia/32882/healthcare-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Using Content Intelligence to simplify vaccine distribution reporting
 
 Whether reporting completed vaccinations, adverse reactions or active COVID-19 variants to the CDC, HCOs need to find the right information quickly and easily. The same holds true for patient follow-up to schedule second doses.
@@ -47,6 +50,18 @@ With collaboration at this scale, there are hundreds and hundreds of application
 
 _Kenya Smith, Healthcare Solution Marketing Manager, ABBYY_
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Complexities will continue to shape healthcare solutions
 
 Tracking vaccines from multiple pharmaceutical companies and the emergence of COVID-19 variants are expected to further complicate distribution tracking and reporting challenges. Like the pharmaceutical rivals working together to stop the spread of the coronavirus, technology companies are collaborating to rise to the occasion. For instance, [ABBYY is partnering with Alteryx](https://tools.techidaily.com/abbyy/products/), an automated analytics provider, to offer specific solutions and use cases that help HCOs quickly load, transform and analyze critical vaccine data that enables them to get the vaccine out to patients faster. Moving forward, there will be more technology platforms introduced with this kind of public and private sector collaboration in mind. There will be some basic must-haves like transparency and engagement. Platforms that deliver these kinds of features will become the norm.
@@ -59,8 +74,14 @@ Tracking vaccines from multiple pharmaceutical companies and the emergence of CO
 
 ![](https://static4.abbyy.com/abbyycommedia/31997/kenyasmith-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Kenya Smith
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
