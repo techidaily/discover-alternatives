@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter"
-date: 2024-08-26 10:54:40
-updated: 2024-08-29 10:59:22
+date: 2024-08-30T11:29:07.812Z
+updated: 2024-08-31T11:29:07.812Z
 tags:
   - product-reviews
 categories:
@@ -119,6 +119,9 @@ Close
 
  Most importantly, the OnePlus 12R does not feel like the “budget” option in the OnePlus 12 family. It’s $300 cheaper than the standard OnePlus 12, but I would not have guessed that based on the feel of the phone. When I’m holding the 12R, it feels weighty, solid, and premium. That’s not always the case with budget devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  OnePlus 12R Display: Big, Bright, and Beautiful
 
 ![The lockscreen of the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-holding-the-oneplus-12r-on-its-homescreenjpg_53485137588_o.jpg) 
@@ -131,12 +134,18 @@ Sergio Rodriguez / How-To Geek
 
 ![OnePlus app folder on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus-app-folder-on-the-oneplus-12rjpg_53485297754_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  As mentioned, the OnePlus 12R’s display has an adaptive refresh rate that can automatically adjust from 1Hz to 120Hz, depending on what you're doing. This saves battery life and ensures a smooth and responsive performance when needed. The screen also has an adaptive brightness that can adjust from 1 nit to 4500 nits depending on the ambient light. All in all, this is a great display, up there with the best of the best from Samsung.
 
  In terms of durability, the display is protected by Gorilla Glass Victus 2, which is the toughest glass ever made by Corning. The display is curved along the edges, and a lot of people complain about that, but it’s not something that has ever bothered me. The screen also has an in-display fingerprint sensor that I found to be fast and accurate and a centered punch-hole selfie camera that is barely noticeable.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  OnePlus 12R Software: Steady as She Goes
 
 ![The quick settings menu of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-pull-down-settings-menu-on-the-oneplus-12rjpg_53485136928_o.jpg) 
@@ -153,10 +162,16 @@ Close
 
  Software support is another big thing to mention. OnePlus promises only three years of OS upgrades and four years of security patches. That's far behind what [Samsung and Google are offering these days](https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-se-2022windowsmac-by-drfone-ios/). OxygenOS is a perfectly fine UI, but it might not be the best if you plan to use the 12R for many years down the road.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  OnePlus 12R Performance & Battery: The Main Event
 
 ![Box with included accessories for the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/box-with-included-accessories-for-the-oneplus12rjpg_53484088717_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The OnePlus 12R is a beast when it comes to performance. It has the Snapdragon 8 Gen 2 chip, which is the same one that powered the Galaxy S23 series. The model I tested had a whopping 16GB of RAM, and that is more than enough for any task I threw at it. Whether I was doing mundane daily tasks, scrolling social media, or watching a video while making my grocery list, the OnePlus 12R handled it all with ease.
@@ -165,6 +180,10 @@ Jerome Thomas / How-To Geek
 
 ![Close up of the OnePlus12R front camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus12r.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On the battery front, OnePlus has put its biggest battery yet in the 12R. It packs a 5,500mAh battery along with 80W SUPERVOOC charging. Honestly, I’ve never had a bad experience with battery life on OnePlus devices, and the 12R is no exception. In the past, I've said phones could last multiple days if you adjust your usage, but you truly can make the 12R last multiple days just by using it normally (assuming you aren't gaming and watching videos all day).
@@ -191,6 +210,10 @@ Close
 
  The OnePlus 12R also has a 16MP selfie camera. The selfie camera doesn’t have autofocus or OIS, but it does have EIS (electronic image stabilization). The most important thing to me with a selfie camera is Portrait Mode, and OnePlus has one of the best. It’s not quite as good as Samsung, but probably on par with Google.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ##  Should You Buy the OnePlus 12R?
 
 ![Close up of the rear camera of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-of-the-rear-camera-of-the-oneplus12rjpg_53484088827_o.jpg) 
@@ -233,3 +256,67 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhance-visibility-in-igtv-6-insider-tips-for-video-size-mastery/"><u>[New] Enhance Visibility in IGTV  6 Insider Tips for Video Size Mastery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-laugh-ledger-10-hilarious-tweets/"><u>[New] Laugh Ledger  10 Hilarious Tweets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-youtube-to-facebook-sharing-pathways/"><u>[New] Navigating YouTube to Facebook Sharing Pathways</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>[Updated] In 2024, Crafting the Perfect Strategy  Exclusive YouTube to Gmail Connection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-key-3d-tools-optimized-for-animation-workflows/"><u>[Updated] Key 3D Tools Optimized for Animation Workflows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-video-posts-on-tiktok-your-guide-for-mac-and-pc-users-for-2024/"><u>[Updated] Mastering Video Posts on TikTok  Your Guide for MAC & PC Users for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-science-of-light-in-hdr-photography/"><u>[Updated] The Science of Light in HDR Photography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-editing-essentials-the-ultimate-guide-post-upload-refinements/"><u>[Updated] YouTube Editing Essentials  The Ultimate Guide Post-Upload Refinements</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-easily-transform-text-files-into-epub-format-with-txttoepub-converter/"><u>1. Easily Transform Text Files Into ePub Format with TxtToePub Converter</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-revolutionize-your-financial-workflow-scenas-supplier-invoice-and-credit-note-management-triumphs-with-abbyy-and-engeneum-integration-cutting-processing-t21/"><u>1. Revolutionize Your Financial Workflow: Scena's Supplier Invoice & Credit Note Management Triumphs with ABBYY and Engeneum Integration, Cutting Processing Time by 60%% for Enhanced Efficiency with Sage™ - A Success Story</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>2024 Approved  The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-ocrcmdader/"><u>大規模建設文書の最適化を実現したABBYY OCRソリューションによるCMD拡張:プロジェクト情報提�aderの強力な統合</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-japankddiocr/"><u>ABBYY JapanとKDDIがOCR技術で力を合わせる:最新情報解禁！|業界初の協同製品</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-study-reveals-key-factors-driving-public-abandonment-of-e-government-onboarding-processes/"><u>ABBYY Study Reveals Key Factors Driving Public Abandonment of E-Government Onboarding Processes</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyys-identity-verification-and-authentication-solutions-tailored-for-the-finance-sector/"><u>ABBYY's Identity Verification & Authentication Solutions Tailored for the Finance Sector</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ai-integration-dominates-insights-from-the-abbyy-perspective/"><u>AI Integration Dominates : Insights From the ABBYY Perspective</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ai-driven-document-automation-transformations-within-the-banking-sector/"><u>AI-Driven Document Automation Transformations Within the Banking Sector</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-with-cookiebot-seamless-conversion-tracking-and-lead-generation/"><u>Automated with Cookiebot: Seamless Conversion Tracking & Lead Generation</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/balance-als-schlussel-zur-unternehmensstabilitat-in-der-it-welt-entdecken-sie-die-power-von-zoom/"><u>Balance Als Schlüssel Zur Unternehmensstabilität in Der IT Welt - Entdecken Sie Die Power Von Zoom</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-customer-happiness-introducing-abbyys-latest-mobile-ocr-sdk-update/"><u>Boost Customer Happiness: Introducing ABBYY's Latest Mobile OCR SDK Update</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boosting-conversions-with-cookiebot-technology-tailored-web-solutions/"><u>Boosting Conversions with Cookiebot Technology - Tailored Web Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-success-elevate-your-sites-performance/"><u>Cookiebot-Driven Success: Elevate Your Site's Performance</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-enhancing-user-experience-and-tracking-with-precision/"><u>Cookiebot-Enabled: Enhancing User Experience and Tracking with Precision</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enhanced-user-tracking-elevate-your-sites-analytics/"><u>Cookiebot-Enhanced User Tracking: Elevate Your Site's Analytics</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-fueled-personalization-enhance-your-sites-user-engagement/"><u>Cookiebot-Fueled Personalization: Enhance Your Site's User Engagement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cutting-edge-vector-design-the-most-popular-apps-reviewed-for-2024/"><u>Cutting-Edge Vector Design  The Most Popular Apps Reviewed for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/die-rolle-von-geschaftsprozessoptimierung-fur-die-steigerung-der-kundenzufriedenheit-und-bindung/"><u>Die Rolle Von Geschäftsprozessoptimierung Für Die Steigerung Der Kundenzufriedenheit Und -Bindung</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-12r-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 12R Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-updated-wireless-1535-driver-now-resolved-issues/"><u>Download the Updated Wireless 1535 Driver - Now Resolved Issues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/efficient-tricks-to-scramble-youtube-playlists-pcphonetv-for-2024/"><u>Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV) for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-sites-engagement-using-the-power-of-cookiebot-technology/"><u>Enhance Your Site's Engagement Using the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-data-management-with-cookiebot-technology-solutions/"><u>Enhanced Data Management with Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-performance-via-cookiebot-integration/"><u>Enhanced Performance via Cookiebot Integration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhancing-digital-success-with-cookiebot-technology-integration/"><u>Enhancing Digital Success with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/exclusive-webinar-how-streamlining-operations-drives-exceptional-customer-service-outcomes/"><u>Exclusive Webinar: How Streamlining Operations Drives Exceptional Customer Service Outcomes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y28-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-nord-ce-3-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus Nord CE 3 5Gwith/without a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-cinematic-art-with-top-ten-professional-tools/"><u>In 2024, Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-prioritizing-quality-the-best-skype-recorders-listed/"><u>In 2024, Prioritizing Quality  The Best Skype Recorders Listed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y36i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y36i Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-review-of-camstudio-capturing-features/"><u>In 2024, The Ultimate Review of CamStudio Capturing Features</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/innovative-strategies-for-enhancing-your-websites-page-ranking/"><u>Innovative Strategies for Enhancing Your Website's Page Ranking</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/introducing-herve-laurandin-the-new-leader-of-abbyys-french-operations/"><u>Introducing Hervé Laurandin, the New Leader of ABBYY's French Operations</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leverage-advanced-tracking-solutions-discover-how-cookiebot-can-elevate-your-site-performance-now/"><u>Leverage Advanced Tracking Solutions - Discover How Cookiebot Can Elevate Your Site Performance Now!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-digital-transformation-why-abbyy-leads-as-eucons-premier-tech-collaborator-explore-insights-from-abbyy-press-releases/"><u>Mastering Digital Transformation: Why ABBYY Leads as Eucon's Premier Tech Collaborator - Explore Insights From ABBYY Press Releases</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-page-level-seo-strategies-for-enhanced-online-discoverability/"><u>Mastering Page-Level SEO Strategies for Enhanced Online Discoverability</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-lost-nvidia-configuration-a-guide-for-winx-users/"><u>Restoring Lost NVIDIA Configuration: A Guide for WinX Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionize-your-online-presence-using-advanced-ai-marketing-tools-for-unmatched-engagement-and-reach/"><u>Revolutionize Your Online Presence Using Advanced AI Marketing Tools for Unmatched Engagement and Reach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionize-your-visual-experience-top-10-4k-mac-displays/"><u>Revolutionize Your Visual Experience - Top 10 4K Mac Displays</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-insurance-with-technology-how-abbyy-is-bridging-gaps-tech-insights/"><u>Revolutionizing Insurance with Technology: How ABBYY Is Bridging Gaps | Tech Insights</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-scanning-technology-with-new-abbyy-pdf-and-ocr-tools-spotlighted-at-the-american-bar-associations-annual-techshow-2019/"><u>Revolutionizing Scanning Technology with New ABBYY PDF and OCR Tools, Spotlighted at the American Bar Association's Annual Techshow 2019</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-microsoft-flight-simulator-2020-launch-avoid-update/"><u>Seamless Microsoft Flight Simulator 2020 Launch - Avoid Update</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/the-competitive-edge-of-abbyy-recognition-server-seamless-patent-discovery-and-clarity-boosts-efficiency-at-rws/"><u>The Competitive Edge of ABBYY Recognition Server: Seamless Patent Discovery and Clarity Boosts Efficiency at RWS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-dangers-of-buying-fake-youtube-subscribers-for-2024/"><u>The Dangers of Buying Fake YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/track-your-every-step-top-motion-tracking-apps-for-2024/"><u>Track Your Every Step Top Motion Tracking Apps for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-2024-cd-gear-guide-unmatched-performance-reviews/"><u>Ultimate 2024 CD Gear Guide: Unmatched Performance Reviews</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/understanding-developer-preferences-for-abbyy-tools-insights-from-industry-professionals-on-their-top-choices/"><u>Understanding Developer Preferences for ABBYY Tools: Insights From Industry Professionals on Their Top Choices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-ultimate-methods-for-high-quality-video-conversion/"><u>Unveiling the Ultimate Methods for High Quality Video Conversion</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/worldwide-expansion-abbyys-strategic-restructure-to-accelerate-international-progress-company-statement/"><u>Worldwide Expansion: ABBYY's Strategic Restructure to Accelerate International Progress - Company Statement</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/zentrale-strategien-der-prozessanalyse-eine-vergleichende-analyse-von-zwei-hauptansatzen-pdf-abbyy/"><u>Zentrale Strategien Der Prozessanalyse: Eine Vergleichende Analyse Von Zwei Hauptansätzen (PDF) - ABBYY</u></a></li>
+</ul></div>

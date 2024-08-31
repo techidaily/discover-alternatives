@@ -1,7 +1,7 @@
 ---
 title: "Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC"
-date: 2024-08-26 17:57:24
-updated: 2024-08-29 10:10:25
+date: 2024-08-30T11:28:59.475Z
+updated: 2024-08-31T11:28:59.475Z
 tags:
   - product-reviews
 categories:
@@ -94,6 +94,9 @@ Expand
 
 [See at Amazon](https://www.amazon.com/MSI-Cubi-Mini-i7-12550U-Thunderbolt/dp/B0BQYBNPKT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmsi-cube-5-12m-mini-pc-review%2F&asc%5Fcampaign=Affiliate) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Form Factor** 
 
 ![MSI Cube 5 12M, AC adapter, and mounting plate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/01-msi-cubi-5-12m-accessoriesjpg_53124988854_o-1.jpg) 
@@ -128,10 +131,16 @@ Joe Robinson / How-To Geek
 
  Besides [MSI Center](https://www.msi.com/Landing/MSI-Center) and [Norton 360](https://us.norton.com/), no other apps were included—beyond what comes stock with Windows 11 Pro. MSI Center provides backup functionality, hardware monitoring, and the ability to optimize for various use cases, like with Smart Priority for creative applications. Norton 360 is the usual 60-day trial and includes device security, cloud backup, and secure VPN.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Performance Tests** 
 
 ![Rear of MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/03-msi-cubi-5-12m-rear-portsjpg_53124785551_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  As expected with a computer with these specifications, I had no issue browsing the web, watching full-screen YouTube videos in 4K, using Microsoft 365 apps like Word and Excel, and using Adobe Creative Cloud apps like Photoshop. Gaming-wise, this system is really only good for 2D, or older, less 3D-intensive games. For instance, I had no trouble smoothly running a wildly popular game from late 2016 that's still receiving regular updates, "[Sid Meier's Civilization VI](https://civilization.com/)", using DirectX 12 at a 4K resolution of 3840 x 2160\. This form factor is also popular for those who like to emulate older consoles and computers, as those tend to rely more on CPU power than graphics processing power.
@@ -148,10 +157,16 @@ Joe Robinson / How-To Geek
 
 [Cinebench R23](https://apps.microsoft.com/store/detail/cinebench/9PGZKJC81Q7J), which uses a 3D engine to evaluate CPU rendering performance capabilities, gave the MSI Cube 5 12M a CPU (multi-core) score of 5,756 points, placing it above the 2.81 GHz, 11th Gen Intel Core i7-1165G7 at 28W, which had a score of 4,904, and below the 4.2 GHz Intel Core i7-7700K, which had a score of 6,302\. In CPU (single-core), the score was 1,529, which was a close second to the first place 2.81 GHz, 11 Gen Intel Core i7-1165G7 at 28W, which scored 1,532.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## **Should You Buy the MSI Cube 5 12M mini PC?** 
 
 ![MSI Cube 5 12M behind a mouse and near a keyboard and monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/04-the-msi-cubi-5-12m-set-up-on-a-desk-2jpg_53132290414_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  Even though this is not a budget product, If you want a PC that saves space and is transportable rather than portable, the [MSI Cube 5 12M](https://www.amazon.com/MSI-Cubi-Mini-i7-12550U-Thunderbolt/dp/B0BQYBNPKT/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2000220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmsi-cube-5-12m-mini-pc-review%2F&asc%5Fcampaign=Affiliate) is less than the price of a laptop with equivalent specifications. You'll also take up less desk space and generally do better with fan noise over a similarly-spec laptop.
@@ -162,6 +177,9 @@ Joe Robinson / How-To Geek
 
 ![MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/05-1024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 #####  MSI Cube 5 12M
 
 7/ 10 
@@ -184,3 +202,67 @@ The MSI Cube 5 12M mini PC can handle everyday computing tasks and takes up mini
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-search-filters-on-instagram-and-get-more-filters-for-free/"><u>[New] In 2024, How to Search Filters on Instagram and Get More Filters for Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screen-grab-mastery-for-windows-users-3-techniques/"><u>[New] Screen Grab Mastery for Windows Users (3 Techniques)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-crack-the-code-of-creativity-in-depth-snapchat-filters-exploration-for-2024/"><u>[Updated] Crack the Code of Creativity  In-Depth Snapchat Filters Exploration for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-preserve-your-gaming-moments-with-windows-10/"><u>[Updated] How to Preserve Your Gaming Moments with Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boost-engagement-the-art-of-adding-borders-on-insta/"><u>[Updated] In 2024, Boost Engagement  The Art of Adding Borders on Insta</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-obs-enhancing-integrating-a-timed-countdown-mechanism-for-2024/"><u>[Updated] Obs Enhancing  Integrating a Timed Countdown Mechanism for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-formulate-light-hearted-images-for-social-media-giphy/"><u>2024 Approved  Formulate Light-Hearted Images for Social Media Giphy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-use-telegram-web-step-by-step-guide/"><u>2024 Approved  How To Use Telegram Web  Step-By-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrate-images-select-caption-apps-for-your-photos-iosandroid/"><u>2024 Approved  Illustrate Images  Select Caption Apps for Your Photos (iOS/Android)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unveiling-the-best-skype-recorders-of-this-year/"><u>2024 Approved  Unveiling the Best Skype Recorders of This Year</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abby-y-alteryx-link-software-download-today/"><u>ABBY Y Alteryx Link Software - Download Today!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-announces-linda-ameurs-appointment-to-head-commerce-division-in-france-fresh-updates/"><u>ABBYY Announces Linda Améur's Appointment to Head Commerce Division in France - Fresh Updates</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-signs-exclusive-brand-license-agreement-with-xerox-expanding-document-solutions/"><u>ABBYY Signs Exclusive Brand License Agreement with Xerox: Expanding Document Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-lead-capture-with-the-help-of-cookiebot-technology/"><u>Automated Lead Capture with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://ai-video.techidaily.com/best-10-free-video-translators-to-mitigate-translation-risks/"><u>Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/blog-post-exploring-how-cyber-intelligence-tools-are-revolutionizing-covid-1/"><u>Blog Post: Exploring How Cyber Intelligence Tools Are Revolutionizing COVID-1</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/blue-prism-and-abbyy-unite-to-elevate-customer-uptake-amidst-surge-in-intelligent-automation-demand-insights-from-abbyy-newsroom/"><u>Blue Prism and ABBYY Unite to Elevate Customer Uptake Amidst Surge in Intelligent Automation Demand - Insights From ABBYY Newsroom</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-analytics-and-marketing-solutions/"><u>Cookiebot Driven Analytics & Marketing Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-analytics-boosting-online-engagement/"><u>Cookiebot-Driven Analytics: Boosting Online Engagement</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-performance-boost-your-sites-efficiency/"><u>Cookiebot-Driven Performance: Boost Your Site's Efficiency</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enhanced-smart-and-efficient-data-management/"><u>Cookiebot-Enhanced: Smart & Efficient Data Management</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-fueled-conversion-optimization-supercharge-your-sites-performance/"><u>Cookiebot-Fueled Conversion Optimization: Supercharge Your Site's Performance</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-harnessing-powerful-automation-tools-for-marketing-success/"><u>Cookiebot: Harnessing Powerful Automation Tools for Marketing Success</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-streamlining-analytics-and-conversion-tracking-through-advanced-scripts/"><u>Cookiebot: Streamlining Analytics and Conversion Tracking Through Advanced Scripts</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/discover-how-abbyy-leads-with-seven-revolutionary-digital-transformation-solutions-in-intelligent-data-capture/"><u>Discover How ABBYY Leads with Seven Revolutionary Digital Transformation Solutions in Intelligent Data Capture</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/einfachheit-im-fuhrparkmanagement-mit-abbyys-flexicapture-die-optimierte-erfassungssoftware-von-hpi-fleet-zur-verarbeitung-von-dokumenten/"><u>Einfachheit Im Fuhrparkmanagement Mit ABBYY's FlexiCapture - Die Optimierte Erfassungssoftware Von HPI Fleet Zur Verarbeitung Von Dokumenten</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-web-traffic-with-cookiebots-advanced-tracking-solutions/"><u>Enhance Web Traffic with Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhancing-user-experience-through-personalization-powered-by-cookiebot/"><u>Enhancing User Experience Through Personalization Powered by Cookiebot</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhancing-user-experience-with-cookiebot-technology/"><u>Enhancing User Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/families-and-the-world-of-generative-ai/"><u>Families and the World of Generative AI</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/fueled-by-advanced-ai-data-collection-technology-from-cookiebot/"><u>Fueled by Advanced AI Data Collection Technology From Cookiebot</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-starting-problems-in-persona-3-reload-game/"><u>How to Resolve Starting Problems in Persona 3 Reload Game</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-realme-v30t-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme V30T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-8t-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Reno 8T 5G Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g34-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G34 5G FRP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leverage-browser-cookies-for-superior-analytics-experience-the-power-of-cookiebot-technology/"><u>Leverage Browser Cookies for Superior Analytics - Experience the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-abbyy-vantage-expert-video-guide-series/"><u>Mastering ABBYY Vantage: Expert Video Guide Series</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-value-based-color-gradients-in-microsoft-excel-for-enhanced-data-visualization/"><u>Mastering Value-Based Color Gradients in Microsoft Excel for Enhanced Data Visualization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-chatgpt-experience-discover-the-pluses/"><u>Maximize Your ChatGPT Experience - Discover the Pluses</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/navigating-roadblocks-in-digital-evolution-three-critical-challenges-to-overcome-for-effective-change-with-abbyys-perspective/"><u>Navigating Roadblocks in Digital Evolution: Three Critical Challenges to Overcome for Effective Change with ABBYY's Perspective</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/navigating-the-conflict-how-gdpr-regulations-clash-with-blockchain-technology-insights/"><u>Navigating the Conflict: How GDPR Regulations Clash with Blockchain Technology Insights</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/navigating-the-moral-maze-understanding-ais-ethical-and-legal-implications/"><u>Navigating the Moral Maze: Understanding AI's Ethical & Legal Implications</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/neomlabbyy-freeai/"><u>NeoMLおよびAbbyy Freeの力:人工知能（AI）ソリューション用の機械学習ライブラリ</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimized-with-advanced-ai-enhancing-your-websites-performance-using-cookiebot/"><u>Optimized with Advanced AI: Enhancing Your Website's Performance Using Cookiebot</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimized-with-automated-ai-the-power-of-cookiebot/"><u>Optimized with Automated AI: The Power of Cookiebot</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimized-with-the-help-of-cookiebot-enhancing-user-experience-and-conversion-rates/"><u>Optimized with the Help of Cookiebot: Enhancing User Experience and Conversion Rates</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/potentielle-verbesserungen-im-lagerbestandsmanagement-entdecken-ein-umfassender-checklisten-download/"><u>Potentielle Verbesserungen Im Lagerbestandsmanagement Entdecken: Ein Umfassender Checklisten-Download</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/preserving-the-past-how-abbyy-and-bolshoi-theatre-unite-for-an-online-revival-of-historical-legacy/"><u>Preserving the Past: How ABBYY and Bolshoi Theatre Unite for an Online Revival of Historical Legacy</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/strengthening-forests-empowering-communities-abbyy-and-nffs-ambitious-goal-of-20000-trees-at-chippewa/"><u>Strengthening Forests, Empowering Communities: ABBYY and NFF's Ambitious Goal of 20,000 Trees at Chippewa</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/the-journey-beyond-abbyys-transformation-insights-into-the-rebranded-future-explore-with-us-on-abbyy-reimagine-blog/"><u>The Journey Beyond ABBYY's Transformation: Insights Into the Rebranded Future | Explore with Us on ABBYY Reimagine Blog</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-strategies-for-leveraging-process-intelligence-insights-from-forrester/"><u>Ultimate Strategies for Leveraging Process Intelligence: Insights From Forrester</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/understanding-the-abbyy-cloud-privacy-policy-key-terms-universal-dpa-adherence-and-integration-of-gdpr-standards/"><u>Understanding the ABBYY Cloud Privacy Policy: Key Terms, Universal DPA Adherence and Integration of GDPR Standards</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unleash-web-potential-visitor-insights-via-cookiebot-technology/"><u>Unleash Web Potential: Visitor Insights via Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlocking-the-potential-of-digital-advertising-how-smart-tech-like-cookiebot-powers-results/"><u>Unlocking the Potential of Digital Advertising: How Smart Tech Like Cookiebot Powers Results</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722851932959-vizio-televisions-and-wi-fi-woes-heres-how-you-can-fix-it/"><u>Vizio Televisions and Wi-Fi Woes? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/x1000-video-world-comprehensive-sony-examination/"><u>X1000 Video World  Comprehensive Sony Examination</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-idpai/"><u>カールスバーググループ：世界最大ビールメーカーがABBYY IDP/AI認識ソフトウェア選定</u></a></li>
+</ul></div>
