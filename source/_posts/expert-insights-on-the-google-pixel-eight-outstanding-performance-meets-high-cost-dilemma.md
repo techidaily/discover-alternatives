@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights on the Google Pixel Eight: Outstanding Performance Meets High Cost Dilemma"
-date: 2024-08-30T11:29:01.855Z
-updated: 2024-08-31T11:29:01.855Z
+date: 2024-09-05T11:24:49.602Z
+updated: 2024-09-06T11:24:49.602Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ## Expert Insights on the Google Pixel Eight: Outstanding Performance Meets High Cost Dilemma
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Google Pixel 8a is a fantastic mid-tier phone with flagship features, but the price may not justify choosing it over a discounted Pixel 8.
@@ -38,6 +50,12 @@ The Google Pixel 8a is a mid-range smartphone powered by the Google Tensor G3 So
 
 [$499 at Google Store](https://store.google.com/config/pixel%5F8a) [$499 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-8a-5g-128gb-unlocked-aloe%2F6578509.p) [$499 at Amazon](https://amazon.com/dp/B0CYQ916ZY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003093&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgoogle-pixel-8a-review%2F&asc%5Fcampaign=Authority) [$499 at Google Fi](https://fi.google.com/about/phones/pixel-8a) [$499 at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003093/https://www.verizon.com/smartphones/google-pixel-8a/) [$499 at T-Mobile](https://www.t-mobile.com/commerce/cell-phone/google-pixel-8a) [$499 at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003093/https://www.att.com/buy/phones/google-pixel-8a.html) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Google Pixel 8a starts at $499 for the 128GB model and goes up to $559 for the 256GB option. It's available in Aloe (green), Bay (blue), Porcelain (white), and Obsidian (black) and can be purchased unlocked or directly through your carrier.
@@ -124,9 +142,6 @@ The Google Pixel 8a is a mid-range smartphone powered by the Google Tensor G3 So
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Pixel 8a Looks Like...a Pixel
 
 ![Person holding the Google Pixel 8a showing the lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-lock-screen-1.jpg) 
@@ -155,15 +170,21 @@ Justin Duino / How-To Geek
 
  I also needed to keep the brightness at roughly 75% indoors and cranked it to maximum brightness outdoors. The Pixel 8a has 2000 nits of peak brightness, but it still tended to be hard to read text on the screen in brightly lit rooms and when walking outside.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  I'm So Glad Google Didn't Limit the AI Features
 
 ![Person holding the Google Pixel 8a showing the Circle to Search interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-circle-to-search-interface-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
@@ -176,12 +197,27 @@ Close
  I should note that [Google I/O](https://extra-support.techidaily.com/new-leveraging-picture-in-progressive-mode-on-chrome-across-platforms/) is set to kick off a day after this review is published, and it's basically guaranteed that there will be endless AI announcements. A number of those will likely include features included in Android 15\. The Pixel 8a is set to receive seven years of OS, security, and Feature Drop updates, so fingers crossed that everything will come to the entire Pixel 8 series, not just the flagships.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Tensor G3 Continues to Be a Champ
 
 ![Google Pixel 8a sitting on a table showing the rear camera bar and power button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-sitting-on-a-table-showing-the-rear-camera-bar-and-power-button-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Like its flagship siblings, the Pixel 8a is powered by the Tensor G3 SoC. Previous Google chips tended to run hot, and performance was inconsistent (especially in the [Google Fold](https://extra-skills.techidaily.com/updated-precision-and-performance-in-every-shade-the-eizo-cg318-4k-monitor/)), but the G3 turned that around. The processor and its power are, in part, why I loved reviewing the Pixel 8 Pro.
@@ -189,14 +225,20 @@ Justin Duino / How-To Geek
  That same performance is found in the Pixel 8a. Paired with 8GB of RAM, I never ran into lag, and the screen never felt sluggish. Unfortunately, the Tensor's heat output is still very present. I didn't notice it as much with the 8 Pro—probably due to the different build materials—but the temperature was ever-present after 10 minutes of scrolling through Instagram or playing a game. The phone never got too hot to hold, and the heat didn't cause any issues.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  All-Day Battery, Slow Wireless Charging
 
 ![Person holding the Google Pixel 8a showing the Battery menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-battery-menu-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
@@ -205,8 +247,16 @@ Justin Duino / How-To Geek
 ![Google Pixel 8a sitting on a wireless charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-sitting-on-a-wireless-charger-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
@@ -225,7 +275,10 @@ Justin Duino / How-To Geek
 ![Person holding the Google Pixel 8a showing the rear camera bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-rear-camera-bar-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
@@ -247,12 +300,27 @@ Close
 
  Google's Portrait mode software is also top-notch. It almost always nailed the bokeh effect around my hair, but as you can see from the samples above, it sometimes struggles with different patterns. I noticed some clipping around my chair's headrest, which is made out of a mesh-like material. But if you look on the other side of the photo where there is more separation between the subject (me) and the background, the dropoff looks pretty natural.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Compared to the Pixel 8, the Pixel 8a Doesn't Make Sense
 
 ![Google Pixel 8a sitting on a table next to a Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-sitting-on-a-table-next-to-a-pixel-8-pro-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
@@ -266,9 +334,6 @@ Justin Duino / How-To Geek
 
  But if you want to stay on the price-conscience end of things, the [Samsung Galaxy A35](https://www.androidpolice.com/samsung-galaxy-a35-review/) is a worthy contender. It starts at $400, has a large OLED display, and features decent cameras. You lose all the Google AI features, though, so consider the tradeoffs carefully.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Google Pixel 8a?
 
  The [Google Pixel 8a](http://amazon.com/dp/B0CYQ916ZY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003093&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgoogle-pixel-8a-review%2F&asc%5Fcampaign=Authority) is a great mid-tier smartphone with the power and features of a flagship. Despite the more budget look and feel and slow wireless charging, if it wasn't for the $499 price tag, I'd recommend it to everyone. But instead, I firmly believe that most people are better off looking at Google's more premium handsets. As they typically cost just as much as the A-series, I don't see why you'd go for the "cheaper" device.

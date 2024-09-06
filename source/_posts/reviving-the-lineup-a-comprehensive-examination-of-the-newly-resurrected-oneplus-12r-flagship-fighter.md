@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter"
-date: 2024-08-30T11:29:07.812Z
-updated: 2024-08-31T11:29:07.812Z
+date: 2024-09-05T11:24:49.724Z
+updated: 2024-09-06T11:24:49.724Z
 tags:
   - product-reviews
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8049e6555ff0f80bdf97ed47.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The OnePlus 12R is a budget-friendly smartphone that offers a high-quality phone experience without breaking the bank.
@@ -23,6 +35,18 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 
 ![OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/oneplus-12r.png) 
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  OnePlus 12R
@@ -103,10 +127,22 @@ Expand
 
 [See at OnePlus](https://onepluscom.pxf.io/c/5597632/916678/12532?subId1=UUhtgUeUpU2001897&subId2=ehtg&u=https%3A%2F%2Fwww.oneplus.com%2Fus%2Foneplus-12r) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Foneplus-12r-128gb-unlocked-iron-gray%2F6571130.p%3FskuId%3D6571130) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  OnePlus 12R Design: A Refined Classic
 
 ![The camera on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-camera-on-the-oneplus-12r-1jpg_53484997386_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The OnePlus 12R continues the company’s trend of putting huge, circular camera housings on the back of phones. The bump on the 12R is not as [ridiculous as the OnePlus Open](https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/), but it’s still an eye-catcher. Thankfully, it’s not nearly as annoying when the phone is lying on a flat surface despite being off-centered.
@@ -119,13 +155,16 @@ Close
 
  Most importantly, the OnePlus 12R does not feel like the “budget” option in the OnePlus 12 family. It’s $300 cheaper than the standard OnePlus 12, but I would not have guessed that based on the feel of the phone. When I’m holding the 12R, it feels weighty, solid, and premium. That’s not always the case with budget devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  OnePlus 12R Display: Big, Bright, and Beautiful
 
 ![The lockscreen of the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-holding-the-oneplus-12r-on-its-homescreenjpg_53485137588_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  OnePlus has generally equipped its flagship phones with great displays ([though I can’t say the same for the Nord series](https://video-screen-grab.techidaily.com/new-step-into-professionalism-aiseesofts-screen-recording-made-accessible-for-2024/)), and the 12R is no exception. The phone has a 6.78-inch LTPO4.0 AMOLED panel that boasts a resolution of 2, 780 x 1,264, a dynamic refresh rate of 1-120Hz, and a peak brightness of 4500 nits. It also has ProXDR display technology that enhances the contrast, color, and clarity of the screen.
@@ -134,18 +173,12 @@ Sergio Rodriguez / How-To Geek
 
 ![OnePlus app folder on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus-app-folder-on-the-oneplus-12rjpg_53485297754_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  As mentioned, the OnePlus 12R’s display has an adaptive refresh rate that can automatically adjust from 1Hz to 120Hz, depending on what you're doing. This saves battery life and ensures a smooth and responsive performance when needed. The screen also has an adaptive brightness that can adjust from 1 nit to 4500 nits depending on the ambient light. All in all, this is a great display, up there with the best of the best from Samsung.
 
  In terms of durability, the display is protected by Gorilla Glass Victus 2, which is the toughest glass ever made by Corning. The display is curved along the edges, and a lot of people complain about that, but it’s not something that has ever bothered me. The screen also has an in-display fingerprint sensor that I found to be fast and accurate and a centered punch-hole selfie camera that is barely noticeable.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  OnePlus 12R Software: Steady as She Goes
 
 ![The quick settings menu of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-pull-down-settings-menu-on-the-oneplus-12rjpg_53485136928_o.jpg) 
@@ -163,15 +196,15 @@ Close
  Software support is another big thing to mention. OnePlus promises only three years of OS upgrades and four years of security patches. That's far behind what [Samsung and Google are offering these days](https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-se-2022windowsmac-by-drfone-ios/). OxygenOS is a perfectly fine UI, but it might not be the best if you plan to use the 12R for many years down the road.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  OnePlus 12R Performance & Battery: The Main Event
 
 ![Box with included accessories for the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/box-with-included-accessories-for-the-oneplus12rjpg_53484088717_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The OnePlus 12R is a beast when it comes to performance. It has the Snapdragon 8 Gen 2 chip, which is the same one that powered the Galaxy S23 series. The model I tested had a whopping 16GB of RAM, and that is more than enough for any task I threw at it. Whether I was doing mundane daily tasks, scrolling social media, or watching a video while making my grocery list, the OnePlus 12R handled it all with ease.
@@ -180,10 +213,6 @@ Jerome Thomas / How-To Geek
 
 ![Close up of the OnePlus12R front camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus12r.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On the battery front, OnePlus has put its biggest battery yet in the 12R. It packs a 5,500mAh battery along with 80W SUPERVOOC charging. Honestly, I’ve never had a bad experience with battery life on OnePlus devices, and the 12R is no exception. In the past, I've said phones could last multiple days if you adjust your usage, but you truly can make the 12R last multiple days just by using it normally (assuming you aren't gaming and watching videos all day).
@@ -194,6 +223,18 @@ Jerome Thomas / How-To Geek
 
 ![The camera on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-camera-on-the-oneplus-12r-3jpg_53484088527_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Camera quality is one area where OnePlus has never really excelled. But it’s hard to miss the big triple camera setup on the back, consisting of a 50MP main camera, an 8MP ultrawide camera, and a 2MP macro lens. Of the three, only the main camera has autofocus and OIS, which is especially disappointing for the ultrawide camera.
@@ -210,14 +251,16 @@ Close
 
  The OnePlus 12R also has a 16MP selfie camera. The selfie camera doesn’t have autofocus or OIS, but it does have EIS (electronic image stabilization). The most important thing to me with a selfie camera is Portrait Mode, and OnePlus has one of the best. It’s not quite as good as Samsung, but probably on par with Google.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ##  Should You Buy the OnePlus 12R?
 
 ![Close up of the rear camera of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-of-the-rear-camera-of-the-oneplus12rjpg_53484088827_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  There aren't many super solid, near flagship-level Android phones that cost only $500\. The small, afterthought Galaxy S24, for example, is still pretty pricey at $800\. The [OnePlus 12R](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Foneplus-12r-128gb-unlocked-iron-gray%2F6571130.p%3FskuId%3D6571130)'s closest direct competitor, at least if you live in the U.S., is the [Pixel 7a](https://youtube-lab.techidaily.com/nlocking-the-secrets-to-parallel-playback-prowess-for-2024/), which also costs $500.
@@ -234,6 +277,12 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  OnePlus 12R
 
 8/ 10 

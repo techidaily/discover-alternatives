@@ -1,7 +1,7 @@
 ---
 title: "Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed"
-date: 2024-08-30T11:29:06.503Z
-updated: 2024-08-31T11:29:06.503Z
+date: 2024-09-05T11:24:49.682Z
+updated: 2024-09-06T11:24:49.682Z
 tags:
   - product-reviews
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac3562475afaa223146d9d0657f5f7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The KW X ULP keyboard is responsive and has tactile keys to enhance the typing experience.
@@ -104,6 +116,12 @@ Expand
 
 [$200 at Amazon](https://www.amazon.com/Cherry-Wireless-Mechanical-Keyboard-Switches/dp/B0C4HRP34X?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002387&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-kw-x-ulp-keyboard-review%2F&asc%5Fcampaign=Authority) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Thin Profile That Doesn’t Feel Cheap
 
  When a manufacturer goes thin, it always risks creating a product that feels cheap and flimsy. That’s not the case with the KW X ULP wireless keyboard, which boasts an aluminum plate for overall durability. Even the three kickstands that give the board some height are held in place well, ensuring they won’t randomly fold in while in use.
@@ -112,12 +130,21 @@ Expand
 
  The keyboard is thin, but it’s also wide across a desk. At nearly 17.4 inches, it’s not the most portable, which is a shame considering it offers three quick-swap wireless connections that make it easy to use the board on virtually any Windows-based device. Sorry, Mac users. You'll need to find your own ultra-thin board.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Latency-Free Quadruple Connectivity
 
 ![Wireless and Bluetooth connectivity buttons on ultra-low profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479489137_ae0f636efd_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
@@ -127,9 +154,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Ultra-low-profile mechanical keyboard connected to multiple devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479487432_d3935187b9_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  On the rare occasion, while connected via Bluetooth, it seemed I needed to wake the board up before it registered keystrokes. It seemed to happen when the battery was lower. I read through the keyboard’s manual but found nothing suggesting it went into sleep mode to conserve power.
@@ -152,21 +176,36 @@ Sergio Rodriguez / How-To Geek
 
 ![Cherry Keys keyboard app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/cherry-keys.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Mark LoProto / How-to Geek
 
  Sometimes, there’s a lot to say about a companion app. However, the [Cherry Keys desktop app](https://www.cherry-world.com/service/software/keys) is a barebones program that doesn’t provide many options when paired with the KW X ULP. You can assign macros, but only to the FN keys. Those already have alternate functions that are helpful for quick navigation, adjusting volume and brightness, or swapping between connections.
 
  It would be nice to have more options for customizing keys, but if you’re not big on creating macros, you won’t even notice Cherry Keys’ limitations.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Office-Ready Keyboard Built for Gamers
 
  Though the KW X ULP seems like a better fit for an office environment, Cherry didn’t want to limit its audience. Personally, I wouldn’t game on a low-profile board, but if you did want to, it [offers an n-key rollover](https://hardware-updates.techidaily.com/download-logitech-g-pro-driver-for-windows-111087/), so every key pressed is registered as an individual input when hit simultaneously with other keys.
 
  For reference, a keyboard with a 2-key rollover will only read up to two keys. This is especially helpful in gaming when you need to perform button combinations, such as in fighting games. Since it does feature n-key rollover, the wireless board also has anti-ghosting, which prevents special characters or erroneous keys from being registered when too many keys are pressed.
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Lighting and Additional Functions
 
  Unlike most mechanical keyboards built for gamers, Cherry opted against RGB lighting and went for a simple but bright white backlight. Each laser-etched key shines unmistakably so you can type confidently, even in low light.
@@ -178,7 +217,10 @@ Sergio Rodriguez / How-To Geek
  Maybe even more helpful is that status keys like for the Caps lock, Num lock, and Scroll lock turn red when activated. The Windows buttons also turn red when the keyboard’s Gaming mode is activated, and the buttons are disabled to prevent accidental popups mid-game.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy Cherry’s KW X ULP Wireless Keyboard?
 
@@ -190,13 +232,19 @@ Sergio Rodriguez / How-To Geek
 
 ![Cherry KW X ULP ultra thin profile keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/cherry-kw-x-ulp-keyboard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Cherry KW X ULP
 

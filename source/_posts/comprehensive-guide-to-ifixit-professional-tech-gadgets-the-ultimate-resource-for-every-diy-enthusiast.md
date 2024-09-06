@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast
-date: 2024-08-30T11:29:00.654Z
-updated: 2024-08-31T11:29:00.654Z
+date: 2024-09-05T11:24:49.576Z
+updated: 2024-09-06T11:24:49.576Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why You Should Care About Right to Repair](https://tiktok-video-recordings.techidaily.com/new-in-2024-avoiding-frustrations-with-tiktok-glitches/)
@@ -69,7 +75,10 @@ The Pro Tech Toolkit has everything from a Y000 bit for next-gen Apple products 
 ![iFixit Pro Tech Toolkit laying on top of manuals](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-with-manual-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Marcus Mears III / How-To Geek_
 
@@ -83,6 +92,12 @@ Related: [What Happened To DCPromo in Windows Server 2012?](https://www.reviewge
 
 [Right to Repair laws](https://extra-lessons.techidaily.com/in-2024-android-video-from-end-to-beginning/) say the products you purchase are the products you own. No more warranty red tape. They also seek to protect you from the monopolistic practices of withholding tools and parts for repair (meaning cheaper fixes, even if you take it into a shop and don't want to tinker with the device yourself).
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Comes in the iFixit Pro Tech Toolkit
 
 Close 
@@ -95,13 +110,16 @@ Close
 
  Repairing my PS4 controller was a breeze, thanks to the tools at my disposal. As you'll read, the only outside help I called on was from household supplies like isopropyl alcohol.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ##  Fixer Upper: Get That Stick Drift Out of Here
 
 ![Person with blue gloves working on PlayStation 4 controller with iFIxit 64-Bit Driver](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-driver-focused.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Marcus Mears III / How-To Geek_
 
  I've been using the same [Dualshock PS4 controller](https://www.amazon.com/DualShock-Wireless-Controller-PlayStation-Midnight-4/dp/B0799976M1?tag=hotoge-20&ascsubtag=UUhtgUeUpU228102&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fifixit-pro-tech-toolkit-review%2F&asc%5Fcampaign=Affiliate) to play games like Rocket League and DARK SOULS: REMASTERED for a few years now, and I was starting to notice some stick drift on the left side and a few stiff buttons all around. Fortunately for me, iFixit created a [written guide on fixing stick drift](https://www.ifixit.com/Guide/How+to+Fix+Left+Joystick+Drift+on+a+DualShock+PS4+Controller+Without+Soldering/140074) and a [video guide that showcases an overall teardown and button cleaning](https://www.youtube.com/watch?v=g2iyFrKAq2U).
@@ -147,7 +165,10 @@ Close
 ![Person with blue gloves using iFixit Blunt Tweezers to pointing to white disk inside of Dualshock PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-white-disk-reinstalled.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Marcus Mears III / How-To Geek_
 
@@ -159,13 +180,22 @@ _Marcus Mears III / How-To Geek_
 
  That's all there is to it! Instead of buying a whole new controller and tossing the other out, you can feel the sense of accomplishment that comes with saving money and repairing something with your own hands.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the iFixit Pro Tech Toolkit?
 
 ![iFixit 64-Bit Driver on top of Pro Tech Toolkit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-64-bit-driver-on-closed-case-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 _Marcus Mears III / How-To Geek_
 
  You don't have to be a gadget guru to use an iFixit kit, [follow their guides](https://www.ifixit.com/Guide), and come out the other end with a like-new device. The [iFixit Pro Tech Toolkit](https://www.amazon.com/iFixit-Pro-Tech-Toolkit-Electronics/dp/B01GF0KV6G?tag=hotoge-20&ascsubtag=UUhtgUeUpU228102&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fifixit-pro-tech-toolkit-review%2F&asc%5Fcampaign=Affiliate) is an excellent investment for anyone who hates spending money to replace perfectly good electronics.
@@ -177,13 +207,13 @@ _Marcus Mears III / How-To Geek_
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ifixit-pro-tech-toolkit-review-img-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  iFixit Pro Tech Toolkit
 
 9/ 10 

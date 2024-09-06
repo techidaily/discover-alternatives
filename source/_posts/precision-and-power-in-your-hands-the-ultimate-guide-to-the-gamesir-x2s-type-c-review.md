@@ -1,7 +1,7 @@
 ---
 title: "Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review"
-date: 2024-08-30T11:29:05.368Z
-updated: 2024-08-31T11:29:05.368Z
+date: 2024-09-05T11:24:49.662Z
+updated: 2024-09-06T11:24:49.662Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
 ## Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The GameSir X2s Type-C is a budget-friendly mobile gaming controller with responsive buttons but an uncomfortable design.
@@ -21,8 +33,20 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
 ![GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gamesir-x2s-type-c.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  GameSir X2s Type-C Controller
 
 8/ 10 
@@ -75,13 +99,16 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Retro-Inspired for an Awkward, Lacking Design
 
 ![GameSir X2s Type-C gaming controller showing back](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-rear.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  If you’re familiar with the Nintendo Switch, then GameSir’s X2s Type-C will look especially familiar. Though GameSir advertises the mobile controller as a call-back to the Nintendo 2DS, it’s definitely a Switch layout, complete with one of my biggest issues with Nintendo’s hybrid handheld.
@@ -93,7 +120,10 @@ Sergio Rodriguez / How-To Geek
  Unfortunately, I think GameSir got caught up with making a budget-friendly option without considering what that entails. There’s still no USB-C audio passthrough or 3.5mm jack, a carryover issue from the [X2 controller](https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-pattern-lock-without-factory-reset-by-drfone-android/). You’ll either need a wireless headset or restrict playing in public to avoid annoying all around you. Even when playing in private, mobile phones, like the Google Pixel 8 Pro I tested the X2s with, have decent speakers, but they don’t replace the quality and clarity of a headset.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Flimsy Build with Sturdy, Responsive Inputs
 
@@ -123,17 +153,27 @@ Close
 
  There are two additional controller modes—DS5 and HiD—but neither seemed to change much, save, maybe, for compatibility. GameSir’s manuals aren’t clear, but both seem to exist to allow the X2s to run games that already have native controller support, with DS5 mode made specifically for the PS5\. In future models, I’d like to see a mobile controller that mimics DualSense’s haptic feedback trigger so you can get the full experience of playing on the console.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Limited Only By Your Gaming Library
 
 ![Falout Shelter running on GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesirt-x2s-type-c-fallout.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
@@ -143,9 +183,6 @@ Sergio Rodriguez / How-To Geek
 
  That doesn’t even touch on the app’s backend features, like adjusting trigger sensitivity, calibrating the thumbsticks, swapping between an Xbox and Switch face button layout, and testing that all buttons are functional.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy GameSir X2s Type-C
 
  When I recommended [GameSir’s G8 Galileo](https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/) mobile controller, it was pretty cut and dry. Unfortunately, the [GameSir X2s Type-C](https://www.amazon.com/GameSir-Controller-Android-Trigger-Zenless-Emulator/dp/B0CRVCFJKD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004214&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgamesir-x2s-type-c-review%2F&asc%5Fcampaign=Authority) has a few fatal flaws that I fear would make it quite difficult for everyone to enjoy. I don’t have big hands, but they are arthritic, and the lack of any real contouring hurts after a very short time. I suspect anyone with bigger hands will also have an issue with the X2s overall and button sizes.
@@ -155,14 +192,19 @@ Sergio Rodriguez / How-To Geek
 ![GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gamesir-x2s-type-c.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 #####  GameSir X2s Type-C Controller
 
 8/ 10 
