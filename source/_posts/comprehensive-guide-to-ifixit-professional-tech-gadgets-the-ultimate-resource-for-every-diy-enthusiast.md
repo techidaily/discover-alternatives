@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast
-date: 2024-09-05T11:24:49.576Z
-updated: 2024-09-06T11:24:49.576Z
+date: 2024-09-10T10:28:03.299Z
+updated: 2024-09-11T10:28:03.299Z
 tags:
   - product-reviews
 categories:
@@ -9,20 +9,42 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-hero-1.jpg
 ---
 
-## Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast
+
 ### Quick Links
 
 * [Why You Should Care About Right to Repair](https://tiktok-video-recordings.techidaily.com/new-in-2024-avoiding-frustrations-with-tiktok-glitches/)
 * [What Comes in the iFixit Pro Tech Toolkit](https://sound-tweaking.techidaily.com/updated-2024-approved-best-audio-editors-to-remove-background-noise-from-audio-windows/)
 * [Fixer Upper: Get That Stick Drift Out of Here](https://facebook-video-content.techidaily.com/new-enhanced-viewing-fb-videos-on-large-displays/)
 * [Should You Buy the iFixit Pro Tech Toolkit?](https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-11-proplus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -35,6 +57,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ifixit-pro-tech-toolkit-review-img-1.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  iFixit Pro Tech Toolkit
 
@@ -74,12 +116,20 @@ The Pro Tech Toolkit has everything from a Y000 bit for next-gen Apple products 
 
 ![iFixit Pro Tech Toolkit laying on top of manuals](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-with-manual-2.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _Marcus Mears III / How-To Geek_
 
  Every year, we [throw away millions of tons of electronics](https://www.theworldcounts.com/stories/electronic-waste-facts) that end up hogging space in landfills and polluting our oceans. Many of these expensive devices just need a simple 30-minute fix to be perfectly functional again, yet they end up in the garbage anyway.
@@ -92,12 +142,6 @@ Related: [What Happened To DCPromo in Windows Server 2012?](https://www.reviewge
 
 [Right to Repair laws](https://extra-lessons.techidaily.com/in-2024-android-video-from-end-to-beginning/) say the products you purchase are the products you own. No more warranty red tape. They also seek to protect you from the monopolistic practices of withholding tools and parts for repair (meaning cheaper fixes, even if you take it into a shop and don't want to tinker with the device yourself).
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Comes in the iFixit Pro Tech Toolkit
 
 Close 
@@ -114,12 +158,20 @@ Close
 
 ![Person with blue gloves working on PlayStation 4 controller with iFIxit 64-Bit Driver](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-driver-focused.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _Marcus Mears III / How-To Geek_
 
  I've been using the same [Dualshock PS4 controller](https://www.amazon.com/DualShock-Wireless-Controller-PlayStation-Midnight-4/dp/B0799976M1?tag=hotoge-20&ascsubtag=UUhtgUeUpU228102&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fifixit-pro-tech-toolkit-review%2F&asc%5Fcampaign=Affiliate) to play games like Rocket League and DARK SOULS: REMASTERED for a few years now, and I was starting to notice some stick drift on the left side and a few stiff buttons all around. Fortunately for me, iFixit created a [written guide on fixing stick drift](https://www.ifixit.com/Guide/How+to+Fix+Left+Joystick+Drift+on+a+DualShock+PS4+Controller+Without+Soldering/140074) and a [video guide that showcases an overall teardown and button cleaning](https://www.youtube.com/watch?v=g2iyFrKAq2U).
@@ -164,12 +216,20 @@ Close
 
 ![Person with blue gloves using iFixit Blunt Tweezers to pointing to white disk inside of Dualshock PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-white-disk-reinstalled.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _Marcus Mears III / How-To Geek_
 
  With the chambers cleaned out, I was onto cleaning and reassembly. With another cotton swab, I got rid of the gunk and grime you wouldn't be able to reach without taking the controller apart. Then, I placed the two white disks back into the chambers with tweezers and used my fingers to pinch them shut. I popped the left joystick back on using my hand.
@@ -180,18 +240,6 @@ _Marcus Mears III / How-To Geek_
 
  That's all there is to it! Instead of buying a whole new controller and tossing the other out, you can feel the sense of accomplishment that comes with saving money and repairing something with your own hands.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the iFixit Pro Tech Toolkit?
 
 ![iFixit 64-Bit Driver on top of Pro Tech Toolkit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-64-bit-driver-on-closed-case-1.jpg) 
@@ -206,12 +254,26 @@ _Marcus Mears III / How-To Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ifixit-pro-tech-toolkit-review-img-1.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
 #####  iFixit Pro Tech Toolkit

@@ -1,7 +1,7 @@
 ---
 title: "Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC"
-date: 2024-09-05T11:24:49.533Z
-updated: 2024-09-06T11:24:49.533Z
+date: 2024-09-10T10:28:03.279Z
+updated: 2024-09-11T10:28:03.279Z
 tags:
   - product-reviews
 categories:
@@ -9,20 +9,42 @@ categories:
 thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f305cb5ba36be85ff8ad3eb26.png
 ---
 
-## Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [Form Factor](https://some-skills.techidaily.com/2024-approved-strategy-revealed-a-box-opening-narrative/)
@@ -30,12 +52,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 * [Performance Tests](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-gt-5-pro-without-them-knowing-drfone-by-drfone-virtual-android/)
 * [Should You Buy the MSI Cube 5 12M mini PC?](https://extra-hints.techidaily.com/three-key-strategies-for-acquiring-youtube-srt-files/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The MSI Cube 5 12M is a compact PC that offers space savings and can be mounted on the back of a monitor, cutting down on cables.
@@ -49,6 +65,20 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
  Does the MSI Cube 5 12M's combination of size and performance make for a worthy purchase? Let's find out.
 
 ![MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/05-1024-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  MSI Cube 5 12M mini PC
 
@@ -116,6 +146,26 @@ Expand
 
 ![MSI Cube 5 12M, AC adapter, and mounting plate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/01-msi-cubi-5-12m-accessoriesjpg_53124988854_o-1.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Joe Robinson / How-To Geek
 
  The MSI Cube 5 12M measures just 4.88 x 4.88 x 2.11 inches and weighs roughly 1.2 pounds. The included 65W AC adapter is about a quarter of the size of the PC. The computer is so compact that it comes with a VESA mounting plate and screws to attach it to the back of a compatible monitor or other display. Of course, when mounting, you'll want to make sure the power button is accessible, but it's a neat concept that's really only possible with a computing device this small and light.
@@ -132,12 +182,6 @@ Joe Robinson / How-To Geek
 
 ![Inside of MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/02-msi-cubi-5-12m-inside-1jpg_53125185595_o-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The key technical specifications for the MSI Cube 5 12M are an Intel Core i7-1255U 1.7GHz CPU, which was first available in early 2022, 16GB of DDR 4 2666 / 23200MHz RAM from two 8GB memory chips, a 512GB M.2 SSD, and 802.11AX and Bluetooth 5.3 wireless. Along with the use of Windows 11 Professional as the operating system and its plethora of ports, this is a surprisingly capable, compact workstation.
@@ -152,15 +196,29 @@ Joe Robinson / How-To Geek
 
  Besides [MSI Center](https://www.msi.com/Landing/MSI-Center) and [Norton 360](https://us.norton.com/), no other apps were included—beyond what comes stock with Windows 11 Pro. MSI Center provides backup functionality, hardware monitoring, and the ability to optimize for various use cases, like with Smart Priority for creative applications. Norton 360 is the usual 60-day trial and includes device security, cloud backup, and secure VPN.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance Tests** 
 
 ![Rear of MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/03-msi-cubi-5-12m-rear-portsjpg_53124785551_o-1.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Joe Robinson / How-To Geek
 
@@ -178,22 +236,10 @@ Joe Robinson / How-To Geek
 
 [Cinebench R23](https://apps.microsoft.com/store/detail/cinebench/9PGZKJC81Q7J), which uses a 3D engine to evaluate CPU rendering performance capabilities, gave the MSI Cube 5 12M a CPU (multi-core) score of 5,756 points, placing it above the 2.81 GHz, 11th Gen Intel Core i7-1165G7 at 28W, which had a score of 4,904, and below the 4.2 GHz Intel Core i7-7700K, which had a score of 6,302\. In CPU (single-core), the score was 1,529, which was a close second to the first place 2.81 GHz, 11 Gen Intel Core i7-1165G7 at 28W, which scored 1,532.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Should You Buy the MSI Cube 5 12M mini PC?** 
 
 ![MSI Cube 5 12M behind a mouse and near a keyboard and monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/04-the-msi-cubi-5-12m-set-up-on-a-desk-2jpg_53132290414_o-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  Even though this is not a budget product, If you want a PC that saves space and is transportable rather than portable, the [MSI Cube 5 12M](https://www.amazon.com/MSI-Cubi-Mini-i7-12550U-Thunderbolt/dp/B0BQYBNPKT/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2000220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmsi-cube-5-12m-mini-pc-review%2F&asc%5Fcampaign=Affiliate) is less than the price of a laptop with equivalent specifications. You'll also take up less desk space and generally do better with fan noise over a similarly-spec laptop.
@@ -203,6 +249,20 @@ Joe Robinson / How-To Geek
  If you're in a position where you need a compact PC and primarily want a solid system for web browsing, office apps, and media playback, the MSI Cube 5 12M makes a strong case. If you already have a display, keyboard, and mouse, you can save even more money over an equivalent laptop. Just keep in mind the potential limitations and if a lower priced desktop PC with equivalent performance, but one that happens to take up more desk space, can serve the same function.
 
 ![MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/05-1024-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  MSI Cube 5 12M
 

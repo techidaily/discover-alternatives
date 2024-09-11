@@ -1,11 +1,25 @@
 ---
 title: "Für Mac Nutzer: Wie Man Jede Beliebige DVD Sicher Kopiert"
-date: 2024-08-30T11:29:27.868Z
-updated: 2024-08-31T11:29:27.868Z
+date: 2024-09-10T10:28:03.806Z
+updated: 2024-09-11T10:28:03.806Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002cdc0aa0e847be271477f189f.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Für Mac Nutzer: Wie Man Jede Beliebige DVD Sicher Kopiert
 
@@ -20,6 +34,20 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon7.png) [Startseite](https://tools.techidaily.com/macxdvd/products/) \> [Anleitung](https://tools.techidaily.com/macxdvd/products/) \> DVD auf Mac Festplatte kopieren 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## \[5 Möglichkeiten\] So kopieren Sie DVDs auf die Mac-Festplatte (inkl. kopiergeschützte DVDs)
 
 
@@ -31,7 +59,35 @@ _Wie kopiere ich eine geschützte DVD auf die Mac-Festplatte?? Hier sind die bes
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/tutorial-de/dvd-film-auf-festplatte-kopieren-speichern.htm)
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/tutorial-de/dvd-film-auf-festplatte-kopieren-speichern.htm)
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/tutorial-de/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/tutorial-de/dvd-film-auf-festplatte-kopieren-speichern.htm)
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/tutorial-de/dvd-film-auf-festplatte-kopieren-speichern.htm&title=&summary=https://www.macxdvd.com/tutorial-de/dvd-film-auf-festplatte-kopieren-speichern.htm&source=)
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 
 _Was ist der beste Weg, um meine DVDs (mit Kopierschutz) auf die Mac-Festplatte zu kopieren, damit ich sie einfach per Mausklick öffnen und abspielen kann? Ich möchte keine DVD-Disk-Kopien erstellen, sondern nur meine Bibliothek mit DVD-Filmen auf meine Festplatte speichern, um mich auf AppleTV vorzubereiten. - Apple Discussion_
 
@@ -50,21 +106,49 @@ Im Zeitalter der digitalen Medien ist es beunruhigend, wenn man noch viele älte
 
 ![Rippen Sie die DVD auf die Festplatte des Mac](https://www.macxdvd.com/tutorial-de/article-image/portable-hard-drive-6.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Inhaltsverzeichnis
 
 * [So kopieren Sie DVDs auf die Mac-Festplatte mit MacX DVD Ripper \[für hausgemachte und geschützte DVD\]](https://tools.techidaily.com/macxdvd/products/)![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon4.png)
 * [So kopieren Sie DVDs auf die Mac-Festplatte mit Disk Utility \[für ungeschützte Heimvideo-DVD\]](https://tools.techidaily.com/macxdvd/products/)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * [So kopieren Sie DVDs auf die Mac-Festplatte mit Handbrake \[für ungeschützte Heimvideo-DVD\]](https://tools.techidaily.com/macxdvd/products/)
 * [So kopieren Sie DVDs auf die Mac-Festplatte mit MakeMKV](https://tools.techidaily.com/macxdvd/products/)
 * [So kopieren Sie DVDs auf die Mac-Festplatte mit VLC \[für ungeschützte Heimvideo-DVD\]](https://tools.techidaily.com/macxdvd/products/)
 * [FAQ zum Kopieren von DVDs auf die Mac-Festplatte](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Versuchen Sie zunächst, DVD-Inhalte direkt auf die Festplatte des Mac zu kopieren:
 
 Wenn die DVD kein DRM oder andere Kopierschutzmaßnahmen enthält, können Sie versuchen, den DVD-Inhalt per Drag & Drop auf Festplatten auf Macs zu kopieren. 
@@ -77,9 +161,6 @@ Schritt 3: Öffnen Sie nun den Ordner VIDEO\_TS und Sie sehen einige BUP-, IFO- 
 
 Wenn Sie jedoch versuchen, die VOB-Dateien in einem DVD-Video\_TS-Ordner abzuspielen, stellen Sie möglicherweise fest, dass die Datei leer ist oder nicht normal abgespielt werden kann. Oder noch schlimmer: Sie können den DVD-Inhalt überhaupt nicht auf die Festplatte Ihres Mac kopieren. Dies liegt daran, dass die DVD kopiergeschützt ist und die Verschlüsselungen auf der DVD verhindern, dass Sie das DVD-Video direkt kopieren können. Wie kann man also eine geschützte DVD auf die Festplatte eines Mac übertragen?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Methode 1\. So kopieren Sie DVDs auf die Mac-Festplatte mit MacX DVD Ripper \[für hausgemachte und geschützte DVD\]
 
 Für die ungeschützte DVD-Konvertierung ist es ganz einfach. Aber viele Film- oder TV-Serien-DVDs, die Sie auf die Mac-Festplatte kopieren möchten, sind möglicherweise durch CSS, Sony ARccOS oder etwas anderes kopiergeschützt. In diesem Fall benötigen Sie einen professionellen DVD-Ripper, der diese DVD-Kopierschutzprogramme umgehen kann. 
@@ -120,6 +201,20 @@ Laden Sie dann Ihre DVD, indem Sie auf der MacX DVD Ripper Pro auf die Schaltfl�
 
 ![Beginnen Sie mit der Konvertierung der DVD in einen Festplatten-Mac](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/dvd-backup-700.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 **Schritt 3: Wählen Sie den Ausgabeordner**
 
 Klicken Sie auf die Schaltfläche "Durchsuchen", um den Pfad zu wählen, in dem Sie die Ausgabedateien speichern möchten.
@@ -133,6 +228,20 @@ Wenn wir die DVD-THOR (Dauer: 1:54:50) in das MKV-Format kopieren, werden wenige
 Nachdem Sie die DVD auf die Mac-Festplatte gerippt haben, können Sie die DVD-Videos auch auf iPhone, iPad, Android usw. übertragen, um sie unterwegs anzusehen.
 
 ![Notizsymbol](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon0.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Die MacXDVD-Software ruft zum Kopieren oder Rippen von DVDs unter dem Konzept der fairen Nutzung auf und unterstützt keine illegale Verbreitung von urheberrechtlich geschützten Inhalten. Bitte beachten Sie dabei das lokale DVD-Urheberrechtsgesetz. 
 
@@ -150,6 +259,20 @@ Das Disk Utility ist ein sehr nützliches Tool, das in Mac OS X und im MacOS-Sys
 * Das Disk Utility kann nur für ungeschützte DVDs verwendet werden. Wenn Sie eine geschützte DVD auf die Festplatte eines Mac kopieren möchten, sollten Sie die [zweite Methode](https://tools.techidaily.com/macxdvd/products/) lesen.
 * Das Disk Utility kann nur ungeschützte DVDs als ISO-Image auf die Mac-Festplatte kopieren, was mit vielen Geräten nicht kompatibel ist.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Schritte zum Kopieren einer DVD auf die Mac-Festplatte mit Disk Utility:
 
 Jetzt zeigen wir Ihnen, wie Sie DVDs mit dem Disk Utility auf dem Mac auf die Festplatte kopieren. Bevor Sie beginnen, vergewissern Sie sich, dass die Festplatte auf Ihrem Mac mindestens 4 GB zum Speichern einer DVD-Kopie hat, da das Disk Utility nur DVDs auf ISO-Images kopieren kann, die ziemlich groß sind.
@@ -164,18 +287,40 @@ Jetzt zeigen wir Ihnen, wie Sie DVDs mit dem Disk Utility auf dem Mac auf die Fe
 
 ![Erstellen Sie ein Bild von einer DVD auf einem Mac](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/create-disc-image-disk-utility.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 **Schritt 5.** Im Pop-up-Fenster sollten Sie den Dateinamen, den Speicherpfad (wählen Sie einen Ordner auf Ihrer Festplatte), das Format (wählen Sie DVD/CD-Master) und die Verschlüsselung (setzen Sie diese auf "Keine") angeben. Klicken Sie dann auf Speichern. Nun beginnt das Disk Utility mit der Erstellung einer Image-Datei von Ihrer DVD. Sobald dies geschehen ist, wird eine Bestätigungsmeldung angezeigt. Das DVD-Video wird in einem ISO-Image auf der Festplatte Ihres Mac gespeichert.
 
 **Hinweis:** Wenn Sie die mit dem Disk Utility erstellten DVD-Kopien wiedergeben möchten, müssen Sie die ISO-Image-Dateien möglicherweise in Videoformate wie MP4 umcodieren. Sie können dies mit dem kostenlosen Transcoder Handbrake tun oder die DVD mit Methode 2 direkt auf die Festplatte als MP4 kopieren.
 
 ![Speichern Sie die DVD auf der Festplatte des Mac](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/save-disk-image-disk-utility.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ### Wie brenne ich die kopierten DVD-Daten auf eine neue DVD auf dem Mac?
 
 1\. Legen Sie zuerst eine leere DVD in das Laufwerk des Mac ein.
@@ -184,9 +329,6 @@ Jetzt zeigen wir Ihnen, wie Sie DVDs mit dem Disk Utility auf dem Mac auf die Fe
 
 3\. Es ist ein bisschen anders, DVDs unter Mac OS Sierra zu kopieren (nur für ungeschützte DVDs). Öffnen Sie den Finder und die eingelegte DVD liegt auf dem Schreibtisch. Öffnen Sie das DVD-Fenster und ziehen Sie dann die kopierten DVD-Dateien von der Mac-Festplatte in das neue DVD-Fenster. Wählen Sie unter "Datei" die Option "Brennen" neben dem Namen der DVD aus.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Methode 3\. So kopieren Sie DVDs auf die Mac-Festplatte mit Handbrake \[für ungeschützte Heimvideo-DVD\]
 
 Handbrake unterstützt Sie beim Konvertieren der DVD auf eine Festplatte auf einem Mac oder PC, damit Sie sie auf dem Fernseher, auf Mobiltelefonen oder anderen Geräten ansehen können. Es ist in der Lage, DVDs auf der Mac-Festplatte im MKV-, MP4- oder WebM-Format zu rippen. Es gibt eine Vielzahl von Einstellungen, um die kopierten Dateien anzupassen. Sie können beispielsweise die Videoeinstellungen anpassen, bearbeiten, die Qualität festlegen, die Untertitel/Audiospuren optimieren und vieles mehr. Handbrake kann auch DVDs mit GPU-Encodern rippen, was es zu einer guten Wahl macht, wenn Sie mehrere DVDs auf die Festplatte Ihres Mac übertragen müssen.
@@ -213,18 +355,32 @@ Es kann jedoch keine exakte Kopie einer DVD auf der Mac-Festplatte in einem ISO-
 
 ![DVD auf Mac Festplatte rippen](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/handbrake-for-mac.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 **Schritt 3:** Passen Sie die Ausgabeeinstellungen an. Klicken Sie auf die Registerkarte Video und dann können Sie den Encoder auswählen. Mit Handbrake können Sie die DVD mit Codecs wie H.264, H.265, VP9, ​​VP8 auf die Mac-Festplatte rippen. Sie können auch den RF-Wert unter Konstante Qualität einstellen, um die Codierungsqualität anzupassen. Der Standardwert ist auf „20“ eingestellt, was für eine DVD-Kopie als ausreichend angesehen werden kann.
 
 **Schritt 4:** Klicken Sie auf Start und warten Sie auf den Vorgang. Sobald Sie fertig sind, finden Sie eine DVD-Kopie auf Ihrer Mac-Festplatte.
 
 ![dvd mit kopierschutz auf festplatte kopieren mac](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/handbrake-cpu-limit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Methode 4\. So kopieren Sie DVDs auf die Mac-Festplatte mit MakeMKV \[für ungeschützte Heimvideo-DVD\]
 
 MakeMKV ist ein perfektes Tool zum Kopieren geschützter DVDs auf die Festplatte eines Mac oder PCs. Es unterstützt DVD-Kopierschutz wie Strukturschutz, AACS und BD+. Sie können eine exakte DVD-Kopie im MKV-Format auf der Mac-Festplatte speichern, wodurch die Original-DVD-Video-/Audiospuren, Menüs, Untertitel, Kapitel und Extras ohne Transkodierung gespeichert werden. Da der Inhalt ohne Transkodierung von einer DVD auf die Festplatte des Mac kopiert wird, ist der gesamte Vorgang sehr schnell. Darüber hinaus hilft es auch, Blu-ray-Discs auf Ihre Festplatte zu kopieren.
@@ -243,9 +399,6 @@ MakeMKV ist möglicherweise nicht der [besten kostenlosen DVD-Ripper](https://to
 * Der einzige Nachteil von MakeMKV ist, dass die Ausgabedatei so groß wie die DVD ist, da das DVD-Video nicht komprimiert wird. Sie müssen also sicherstellen, dass die Festplatte Ihres Mac/PC groß genug ist, um die gerippten DVD-MKV-Videos zu speichern.
 * MakeMKV bietet keine zusätzlichen Funktionen oder Formatoptionen.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Schritte zum Kopieren einer DVD auf die Mac-Festplatte mit MakeMKV:
 
 **Schritt 1:** Laden Sie MakeMKV auf Ihren Mac herunter und legen Sie die DVD in das DVD-Laufwerk ein. MakeMKV erkennt es und zeigt es automatisch an. Wenn nicht, klicken Sie auf die Schaltfläche Quelle und wählen Sie das DVD-Laufwerk aus.
@@ -254,14 +407,45 @@ MakeMKV ist möglicherweise nicht der [besten kostenlosen DVD-Ripper](https://to
 
 ![dvd auf mac kopieren](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/makemkv-700.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 **Schritt 3:** Dann werden alle DVD-Kapitel und Titel angezeigt. Wählen Sie alle Titel der DVD aus, die Sie auf Ihre Festplatte kopieren möchten.
 
 **Schritt 4:** Wählen Sie rechts unter dem Ordner "Ausgabe" die Festplatte auf Ihrem Mac oder PC als Ausgabeordner aus, um die gerippten MKV-DVD-Videos zu speichern. Klicken Sie dann rechts auf "MKV erstellen". MakeMKV kopiert alle Filmtitel in einzelne MKV-Dateien auf die Festplatte Ihres Macs. Sie können den Film dann mit VLC öffnen oder transkodieren.
 
 ![dvd film auf festplatte kopieren](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/makemkv-convert-700.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Methode 5\. So kopieren Sie DVDs auf die Mac-Festplatte mit VLC \[für ungeschützte Heimvideo-DVD\]
 
@@ -279,9 +463,20 @@ VLC ist ein Multimedia-Player, der den meisten Computerbenutzern bekannt ist. Ei
 * VLC benötigt zu lange, um eine DVD zu kopieren.
 * VLC ist nicht so benutzerfreundlich oder intuitiv wie dedizierte DVD-Ripping-Software.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Schritte zum Kopieren einer DVD auf die Mac-Festplatte mit VLC:
 
 **Schritt 1:** Legen Sie zunächst die DVD in das optische Laufwerk Ihres Mac (oder ein externes DVD-Laufwerk) ein. Öffnen Sie den VLC Media Player, klicken Sie oben links im Programm auf "Datei" und wählen Sie die Schaltfläche "Disc öffnen…".
@@ -290,16 +485,38 @@ VLC ist ein Multimedia-Player, der den meisten Computerbenutzern bekannt ist. Ei
 
 ![DVD auf Mac Festplatte rippen](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/vlc-rip-700.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 **Schritt 3:** Aktivieren Sie als Nächstes das Kontrollkästchen "Streaming/Speichern". Klicken Sie dann auf die Schaltfläche "Durchsuchen", um den Ordner auf Ihrer Mac-Festplatte auszuwählen, um das konvertierte DVD-Video zu speichern.
 
 **Schritt 4:** Optimieren Sie die Video-/Audioeinstellungen wie die Ausgabevideoformate. Wenn Sie mit der Einstellung der Konfiguration fertig sind, klicken Sie zum Starten auf "OK".
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Welches ist der beste Weg, DVDs auf die Festplatte auf dem Mac zu kopieren?
 
 Um Ihnen dabei zu helfen, die beste Methode zum Herunterladen einer DVD auf die Festplatte Ihres Mac zu ermitteln, haben wir fünf verschiedene Optionen im Detail verglichen.
@@ -313,10 +530,20 @@ Um Ihnen dabei zu helfen, die beste Methode zum Herunterladen einer DVD auf die 
 | Andere Eigenschaften                           | Bearbeiten, Parameter anpassen, Titel zusammenführen, Untertitel hinzufügen, zuschneiden, trimmen usw.               | NEIN               | Passen Sie Qualität, Encoder, Zuschneiden, Zuschneiden, Untertitel hinzufügen und mehr an. | NEIN                                                  | Passen Sie die Videoparameter an     |
 | Einfach zu verwenden                           | Ja                                                                                                                   | Ja                 | NEIN                                                                                       | Ja                                                    | Ja                                   |
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Zusammenfassung
 
 Um eine DVD auf eine Festplatte auf einem Mac zu kopieren, sind alle oben genannten Optionen ausreichend. Was den besseren Weg betrifft, hängt es von Ihren spezifischen Bedürfnissen und Vorlieben ab. Das Festplatten-Dienstprogramm ist eine kostenlose und einfache Option, verfügt jedoch nicht über erweiterte Funktionen. Handbrake und MakeMKV sind kostenlose Optionen mit mehr Anpassungsmöglichkeiten, erfordern jedoch möglicherweise einige technische Kenntnisse. VLC ist ein vielseitiger Mediaplayer, der auch DVDs rippen kann, im Vergleich zu dedizierter Software ist er jedoch möglicherweise nicht so benutzerfreundlich oder vielseitig. Insgesamt bietet MacX DVD Ripper ein benutzerfreundlicheres Erlebnis mit erweiterten Funktionen. Es zeigt auch eine bessere Leistung beim Kopieren geschützter DVDs auf die Festplatte, bei der Ausgabequalität und bei der Kopiergeschwindigkeit. 
@@ -328,6 +555,20 @@ Klicken Sie unten auf die Download-Schaltfläche, um den besten Mac-DVD-Ripper z
 ## Wie kopiert man DVDs auf dem Mac auf eine externe Festplatte, um sie auf dem Fernseher anzusehen?
 
 Wenn Sie die DVD-Filme auf einer Festplatte auf dem Mac kopieren, um sie später auf Fernsehern abzuspielen, sollten Sie die DVD in einem vom Fernseher unterstützten Format kopieren. Sie können sich dafür entscheiden, die DVD in MP4 zu rippen, das von den meisten Fernsehern unterstützt wird, oder das Benutzerhandbuch Ihres TV-Modells überprüfen. Nachdem Sie die DVD auf eine externe Festplatte auf Mac/Windows gerippt haben, können Sie die Filme von der Festplatte auf dem Fernseher abspielen. Es gibt zwei Methoden, um Filme von einer Festplatte auf einem Fernseher abzuspielen.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 1\. Streamen Sie DVD-Filme von der Festplatte auf den TV über Plex
 
@@ -409,27 +650,60 @@ Related Articles
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic7.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Kopiergeschützte DVD kopieren unter Windows (11/10)/Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic6.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 [So kann man DVD in MP4 umwandeln unter Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [Die besten DVD to MP4 Converter für PC und Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic4.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [3 Möglichkeiten zum Abspielen von DVDs auf einem Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic3.jpg)
@@ -438,19 +712,41 @@ Related Articles
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic2.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Bester DVD Ripper für Mac/Win](https://tools.techidaily.com/macxdvd/products/) 
 
 
 
 ![Digiarty Software](https://www.macxdvd.com/tutorial-de/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 MacXDVD Software ist ein führender Anbieter von Multimedia-Software und bietet innovative Multimedia-Lösungen für Anwender auf der ganzen Welt.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Produkte
 
