@@ -1,7 +1,7 @@
 ---
 title: "Webinar on Leading RPA CoE Strategies: Essential Tips & Techniques"
-date: 2024-08-30T11:30:34.952Z
-updated: 2024-08-31T11:30:34.952Z
+date: 2024-09-24T20:27:49.666Z
+updated: 2024-09-30T16:00:40.516Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43ce819e245d60c114f5c5c21.jpg
@@ -15,13 +15,17 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
 
 English
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featuring
 
 ![Billgalusha 198X198](https://static2.abbyy.com/abbyycommedia/31960/billgalusha-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Bill Galusha
 
 Senior Director, Product Marketing RPA, **ABBYY**  
@@ -29,17 +33,18 @@ Senior Director, Product Marketing RPA, **ABBYY**
 ![Asherlake 88X88](https://static4.abbyy.com/abbyycommedia/29988/asherlake-88x88.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Asher Lake
 
 Lead Automation Centre of Excellence, **KLM**  
 
 ![Vadanakhanna 88X88](https://static4.abbyy.com/abbyycommedia/29990/vadanakhanna-88x88.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Vandana Khanna
 
 Director Finance Transformation, **Unilever**  
@@ -47,11 +52,12 @@ Director Finance Transformation, **Unilever**
 ![Sallyfletcher 88X88](https://static2.abbyy.com/abbyycommedia/29989/sallyfletcher-88x88.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Sally Fletcher
 
 Head of Online Events, **IQPC**
@@ -63,8 +69,12 @@ Last year SSON’s global survey revealed that two-thirds of the centers of exce
 As relatively new structures best practice is still being established when it comes to talent, process, organization and even technology, so comparing notes on what works and what doesn’t is absolutely crucial.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Watch it now!
 
 This collaborative session from Oct. 5th is now available on demand, and discusses:
@@ -74,6 +84,13 @@ This collaborative session from Oct. 5th is now available on demand, and discuss
 * Filling the skills gap in your CoE
 * Ensuring your CoE is agile post-crisis and for future business needs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fill in the form to register for the webinar now
 
 ### Get in touch with us
@@ -82,8 +99,12 @@ Please note that progressive profiling is used on this form to incrementally col
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Thank you for registering!
 
 [![02 Best Practices In Running RPA EN 643X363](https://static3.abbyy.com/abbyycommedia/29976/02-best-practices-in-running-rpa-en-643x363.jpg)](https://www.youtube.com/watch?v=hEeP8PHZpcI) 
@@ -148,8 +169,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +176,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>[New] 2024 Approved Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-non-athletic-games-the-best-10-front-rows/"><u>[New] Non-Athletic Games The Best 10 Front Rows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-ad-101-create-stunning-and-effective-snapchat-ads/"><u>[New] Snapchat Ad 101 Create Stunning & Effective Snapchat Ads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-share-igtv-video-on-instagram-story-with-ease/"><u>[Updated] 2024 Approved How to Share IGTV Video on Instagram Story with Ease</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-signs-exclusive-brand-license-agreement-with-xerox-expanding-document-solutions/"><u>ABBYY Signs Exclusive Brand License Agreement with Xerox: Expanding Document Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-lead-capture-with-the-help-of-cookiebot-technology/"><u>Automated Lead Capture with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/blog-post-exploring-how-cyber-intelligence-tools-are-revolutionizing-covid-1/"><u>Blog Post: Exploring How Cyber Intelligence Tools Are Revolutionizing COVID-1</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/blue-prism-and-abbyy-unite-to-elevate-customer-uptake-amidst-surge-in-intelligent-automation-demand-insights-from-abbyy-newsroom/"><u>Blue Prism and ABBYY Unite to Elevate Customer Uptake Amidst Surge in Intelligent Automation Demand - Insights From ABBYY Newsroom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-steps-toward-monetary-success-on-youtube/"><u>First Steps Toward Monetary Success on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-windows-11s-5ghz-connectivity/"><u>Mastering the Art of Fixing Windows 11'S 5GHz Connectivity</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/reality-check-for-popular-year-end-commitments/"><u>Reality Check for Popular Year-End Commitments</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-idpai/"><u>カールスバーググループ：世界最大ビールメーカーがABBYY IDP/AI認識ソフトウェア選定</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficiently Organizing Images & Converting Contact Data with CSV in ABBYY Tools
-date: 2024-08-26T00:16:43.412Z
-updated: 2024-08-27T00:16:43.412Z
+date: 2024-09-28T19:48:00.686Z
+updated: 2024-09-30T17:42:40.492Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79b5ffdb49f75954366a9ab9c.jpg
@@ -69,6 +69,13 @@ As an example, we will take the standard Gallery app pre-installed on popular Sa
 
 ![samsung gallery](https://static1.abbyy.com/abbyycommedia/26637/samsung1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Share**
 
 Just like in iOS, you can easily share links to media content with your friends, who will be able to view and download the respective files.
@@ -82,8 +89,12 @@ Select photos or videos that you want to share with someone, say, with your fami
 The handy Smart View feature allows owners of Samsung Smart TVs to cast photos, videos or music directly to their TVs.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **ABBYY Tip: Opening CSV Files in Excel**
 
 [Business Card Reader](http://qrs.ly/iw4uqj5) can export data from business cards to a [CSV](https://en.wikipedia.org/wiki/Comma-separated%5Fvalues) file, which you can then open in Microsoft Excel. All the contact information will be neatly arranged in columns for easy access. To export your business card data to Microsoft Excel, complete the following steps:
@@ -100,24 +111,22 @@ The handy Smart View feature allows owners of Samsung Smart TVs to cast photos, 
 Please don’t be put off by so many steps. These are just consecutive steps of the wizard, and they are quite logical. When you’re done, you will have acquired yet another useful data management skill :)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **App of the Week: Kubic**
 
 If you like toying with optical illusions, you’ll like this app. Meet Kubic, a game topping the Puzzle Game charts in more than 20 countries. There’s an old adage saying that genius lies in simplicity. This game is very simple, with uncluttered design and beautifully drawn cube compositions. But the puzzles are quite fiendish.
 
 ![kubic app](https://static1.abbyy.com/abbyycommedia/26638/img_3879.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Kubic provides a good workout for your brain and encourages abstract thinking. The app includes a big collection of visual tricks to deceive your eyes. The impossible geometrical shapes may seem realistic enough, but just when you expect everything to fall into place, you realize that it’s just an optical illusion.
 
 ![creativity](https://static1.abbyy.com/abbyycommedia/26639/img_3881.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Available on [iOS](https://itunes.apple.com/br/app/kubic/id1115010672?l=en) and [Android](https://play.google.com/store/apps/details?id=com.appsolutegames.kubic&hl=ru).
 
 That’s all from us for today. Until next Monday!
@@ -127,8 +136,12 @@ P.S. You can find the previous issue of this newsletter [here](https://tools.tec
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -184,8 +197,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +204,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-theme-that-stands-out-crafting-banners-for-gamers/"><u>[New] 2024 Approved Theme That Stands Out Crafting Banners for Gamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-pixel-prowess-unleashed-pro-techniques-for-filters-mastery/"><u>2024 Approved Pixel Prowess Unleashed Pro Techniques for Filters Mastery</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-to-change-mpeg-audio-to-mp3-comparing-web-based-and-pc-software-solutions/"><u>How to Change MPEG Audio to MP3: Comparing Web-Based and PC Software Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-s24-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy S24 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/memories-in-motion-a-step-by-step-guide-for-digital-conversion/"><u>Memories in Motion A Step-by-Step Guide for Digital Conversion</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimiza-tus-videos-para-la-excelencia-de-calidad-con-winxvideo-ai/"><u>Optimiza Tus Videos Para La Excelencia De Calidad Con Winxvideo AI</u></a></li>
+<li><a href="https://video-capture.techidaily.com/perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reduzieren-sie-die-grosse-von-hd-4k-und-8k-videos-um-bis-zu-90-einfach-wie/"><u>Reduzieren Sie Die Größe Von HD, 4K Und 8K Videos Um Bis Zu 90 %: Einfach Wie</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-mastering-the-art-of-video-editing-on-facebooks-platform/"><u>Step-by-Step Guide: Mastering the Art of Video Editing on Facebook's Platform</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-invisible-threads-weaving-through-youtube-shorts-success/"><u>The Invisible Threads Weaving Through YouTube Shorts Success</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-5-no-cost-video-editing-apps-for-windows-1011-slice-join-and-optimize-your-footage/"><u>Top 5 No-Cost Video Editing Apps for Windows 10/11: Slice, Join & Optimize Your Footage!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/windows-10-dvd-tv/"><u>Windows 10 用 DVD 最終化ガイド: TV や別ディスク再生機に対応</u></a></li>
+</ul></div>
 

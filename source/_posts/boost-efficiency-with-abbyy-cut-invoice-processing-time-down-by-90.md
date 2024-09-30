@@ -1,7 +1,7 @@
 ---
 title: "Boost Efficiency with ABBYY: Cut Invoice Processing Time Down by 90%%"
-date: 2024-08-26T00:17:50.069Z
-updated: 2024-08-27T00:17:50.069Z
+date: 2024-09-29T17:08:05.143Z
+updated: 2024-09-30T16:42:47.200Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6659fe54b6365b1f6893f18c4aeffaf5df66ed6e08cee6f612c187a5f5545374.jpg
@@ -18,6 +18,13 @@ Transportation & Logistics | Accounts Payable Automation
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/en/134841.png?h=40&iar=0&w=120)
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ABBYY Intelligent Document Processing Reduces Invoice Processing Time by 90%
 
@@ -79,9 +86,23 @@ Invoice-processing time reduced from more than 40 minutes to 4 minutes per docum
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Learn more about ABBYY solutions for accounts payable automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY Solutions for Accounts Payable Automation](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
@@ -94,8 +115,18 @@ Invoice-processing time reduced from more than 40 minutes to 4 minutes per docum
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -108,8 +139,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +146,19 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-pioneering-techniques-in-hand-based-tracking/"><u>[New] 2024 Approved Pioneering Techniques in Hand-Based Tracking</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhancing-virtual-communication-applying-zoom-filter-features/"><u>Enhancing Virtual Communication Applying Zoom Filter Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-sound-in-csglobal-offensive-pc-version/"><u>Expert Advice on Restoring Sound in CS:Global Offensive PC Version</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-edge-2023-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Edge 2023?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>In 2024, The Future of Gaming at Your Fingertips Top 10 VR Headsets for PC</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-informed-choices-boost-performance-and-streamline-operations-via-smart-process-analysis/"><u>Mastering Informed Choices: Boost Performance & Streamline Operations via Smart Process Analysis</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/maximieren-sie-die-betriebsexzellenz-und-profitsteigerung-mit-dem-neusten-release-von-abbyy-timeline-fur-ihr-unternehmen/"><u>Maximieren Sie Die Betriebsexzellenz Und Profitsteigerung Mit Dem Neusten Release Von ABBYY Timeline Für Ihr Unternehmen</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/maximizing-visibility-with-cookiebot-powered-seo-strategies/"><u>Maximizing Visibility with Cookiebot Powered SEO Strategies</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mobile-scanning-and-ocr-technology-for-documents-convert-pdf-jpg-to-text-with-iphone-app/"><u>Mobile Scanning & OCR Technology for Documents - Convert PDF, JPG to Text with iPhone App</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/navigating-abbyys-compliance-with-online-privacy-regulations-the-companys-cookie-use-guidelangs/"><u>Navigating ABBYY's Compliance with Online Privacy Regulations: The Company’s Cookie Use Guidelangs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-stabilize-your-footage-for-free-the-best-online-video-stabilizers/"><u>New Stabilize Your Footage for Free The Best Online Video Stabilizers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-harnessing-chatgpt-powerfully-as-a-freelance-writer/"><u>The Ultimate Guide to Harnessing ChatGPT Powerfully as a Freelance Writer</u></a></li>
+</ul></div>
 

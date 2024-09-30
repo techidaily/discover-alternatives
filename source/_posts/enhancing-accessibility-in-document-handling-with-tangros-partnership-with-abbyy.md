@@ -1,7 +1,7 @@
 ---
 title: Enhancing Accessibility in Document Handling with Tangro's Partnership with ABBYY
-date: 2024-08-30T11:30:46.407Z
-updated: 2024-08-31T11:30:46.407Z
+date: 2024-09-23T17:04:46.428Z
+updated: 2024-09-30T19:28:10.448Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d09bf52bb3d1445c9e89ae06d.jpg
@@ -60,8 +60,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,7 +67,33 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone-free-for-2024/"><u>[New] How to View Instagram Stories Anonymously on PC, Android and iPhone [Free] for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discovering-eastern-architectural-wonders-in-minecraft/"><u>[New] In 2024, Discovering Eastern Architectural Wonders in Minecraft</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-luminous-landscapes-mastering-nightscape-portraits-with-precision/"><u>[New] Luminous Landscapes Mastering Nightscape Portraits with Precision</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724766337045-dvd/"><u>「DVDコピー・リッピングツールの最新情報とお勧め！有料ソフト紹介」</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-google-pixel-8-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Google Pixel 8 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/download-free-top-shows-box-substitutes-available-on-iphone-ipad-and-android-devices/"><u>Download Free: Top Shows Box Substitutes Available on iPhone, iPad, and Android Devices</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/easy-guide-downloading-flash-videos-on-macos/"><u>Easy Guide: Downloading Flash Videos on macOS</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/free-premier-sporting-and-exerceboard-applications-for-ios-android-devices-and-apple-wristwatches/"><u>Free Premier Sporting and Exerceboard Applications for iOS, Android Devices & Apple Wristwatches</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969774272-get-your-surface-book-running-smoothly-with-instant-driver-downloads/"><u>Get Your Surface Book Running Smoothly with Instant Driver Downloads</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-reno-10-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Reno 10 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-12-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 12 online without jailbreak</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/iphonesonicstage-for-ios/"><u>IPhoneへのウォークマン音源移植：SonicStage for iOS対応手順</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/macx-dvd-and-hd-video-converter-pro-for-wineblish-macx/"><u>MacX DVD & HD Video Converter Pro for Winについeblish推奨: MacX品質を保ちながら最安値オプション</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/macx-youtube-downloader-unveiled-a-complete-breakdown-of-features-for-free-users/"><u>MacX YouTube Downloader Unveiled: A Complete Breakdown of Features for Free Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mov-to-avi-conversion-guide-step-by-step-process-on-mac-os/"><u>MOV to AVI Conversion Guide: Step-by-Step Process on Mac OS</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-easy-opening-mouse-properties-in-win11/"><u>Quick and Easy: Opening Mouse Properties in Win11</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/seamless-media-adaptation-with-macx-elite-no-cost-quicktime-video-converter-for-macos-ideal-for-all-formats/"><u>Seamless Media Adaptation with MacX: Elite No-Cost QuickTime Video Converter for MacOS, Ideal for All Formats</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy M34? | Dr.fone</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

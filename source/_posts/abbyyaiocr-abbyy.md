@@ -1,7 +1,7 @@
 ---
 title: トッパン・フォームズとABBYYが提携、AI駆動の請求書処理OCRソリューションを投入 - ABBYY紹介
-date: 2024-08-26T00:19:04.461Z
-updated: 2024-08-27T00:19:04.461Z
+date: 2024-09-25T16:50:26.642Z
+updated: 2024-09-30T17:09:47.375Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
@@ -95,8 +95,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,7 +102,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-should-you-keep-previewing-fb-activity-visible-insights/"><u>[New] Should You Keep Previewing FB Activity Visible? Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-keep-it-flowing-repasting-content-on-ig/"><u>[Updated] In 2024, Keep It Flowing Repasting Content on IG</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-high-definition-zoom-calls-with-filter-skills/"><u>2024 Approved Achieving High-Definition Zoom Calls with Filter Skills</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/k-lite-codec-pack/"><u>優れた動画再生体験を手に入れよう！K-Lite Codec Packダウンロード・設置のステップバイステップ</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ai-60120fps/"><u>AI超高速動畫优化软件 - 幀率提升至60/120fps平滑视频转换</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-secrets-of-stellar-podcast-covers/"><u>Decoding the Secrets of Stellar Podcast Covers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/fix-and-guide-how-to-restore-wi-fi-visibility-on-windows-11-devices/"><u>Fix & Guide: How To Restore Wi-Fi Visibility On Windows 11 Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-pinnacle-nintendo-switch-fighting-game-index-max-156/"><u>In 2024, Pinnacle Nintendo Switch Fighting Game Index (Max 156)</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/las-10-mejores-herramientas-de-edicion-de-videos-mas-populares-en-pcs-guia-completa/"><u>Las 10 Mejores Herramientas De Edición De Vídeos Más Populares en PCs: Guía Completa</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

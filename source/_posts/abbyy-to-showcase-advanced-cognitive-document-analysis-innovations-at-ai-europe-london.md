@@ -1,7 +1,7 @@
 ---
 title: ABBYY to Showcase Advanced Cognitive Document Analysis Innovations at AI Europe, London
-date: 2024-08-26T00:19:03.560Z
-updated: 2024-08-27T00:19:03.560Z
+date: 2024-09-23T19:14:15.247Z
+updated: 2024-09-30T17:12:58.038Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
@@ -49,8 +49,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,7 +56,31 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-hack-swiftly-delete-your-youtube-comments/"><u>[New] In 2024, The Ultimate Hack Swiftly Delete Your YouTube Comments</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-move-a-window-that-is-off-screen/"><u>[Solved] How to Move a Window That Is Off-Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] 2024 Approved From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-no-cost-slow-motion-video-capture-options-for-iphonesandroid/"><u>[Updated] Premium No-Cost Slow Motion Video Capture Options for iPhones/Android</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/fix-ios-videos-wont-stream-on-your-windows-laptop-or-desktop/"><u>Fix: IOS Videos Won't Stream on Your Windows Laptop or Desktop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-honor-play-7t-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Honor Play 7T using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-to-master-mp4-file-encoding-with-the-finest-tools-and-techniques-available/"><u>How to Master MP4 File Encoding with the Finest Tools and Techniques Available</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/imovie-for-pc-ultimate-guide-on-downloading-and-video-editing-for-windows-users/"><u>IMovie for PC - Ultimate Guide on Downloading & Video Editing for Windows Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/in-depth-guide-to-windows-11-on-lumia-phones-specs-release-dates-and-cost-breakdown-for-models-950950-xl/"><u>In-Depth Guide to Windows 11 on Lumia Phones: Specs, Release Dates, and Cost Breakdown for Models 950/950 XL</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-the-art-of-video-editing-join-the-top-6-swift-integration-strategies/"><u>Mastering the Art of Video Editing: Join the Top 6 Swift Integration Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-performance-in-cs2-tips-and-tricks-for-mac-users/"><u>Optimize Performance in CS2: Tips and Tricks for Mac Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/prime-low-cost-full-hd-cameras-for-stunts/"><u>Prime Low-Cost Full HD Cameras for Stunts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-reset-nvidia-drivers-are-back/"><u>Screen Reset: Nvidia Drivers Are Back</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-12-free-open-source-media-players-you-can-install-right-now/"><u>Top 12 Free, Open-Source Media Players You Can Install Right Now</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-handbrake-failures-in-movie-transcoding-understanding-the-issues-and-finding-remedies/"><u>Troubleshooting HandBrake Failures in Movie Transcoding: Understanding the Issues and Finding Remedies</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-festive-season-sweepstakes-top-toys-treats-and-surprises-for-your-loved-ones/"><u>Ultimate Festive Season Sweepstakes: Top Toys, Treats, and Surprises for Your Loved Ones</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Optimize Your Website's Visitor Tracking"
-date: 2024-08-26T00:18:39.134Z
-updated: 2024-08-27T00:18:39.134Z
+date: 2024-09-24T19:39:46.677Z
+updated: 2024-09-30T17:49:15.355Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c041837cad5f3c0f9163df97.jpg
@@ -33,9 +33,6 @@ Gehe direkt zu:
 
 **Process Intelligence ist eine Kombination von datengesteuerten Fähigkeiten, die der Analyse und Verbesserung von Geschäftsabläufen dienen.**  Sie nutzt die Daten aus unternehmenseigenen Informationssystemen, um Muster und Erkenntnisse zu finden, die den Weg zu neuen betrieblichen Effizienzen weisen. **Die fünf wesentlichen Säulen für nachhaltige Process Intelligence sind Prozesserkennung, Prozessanalyse, Prozessüberwachung, Prozessvorhersage und Prozesssimulation.**  Unternehmen können die daraus resultierenden Erkenntnisse nutzen, um ihre Prozesse zu erkennen, zu verstehen und effektiver zu verwalten.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Die fünf Säulen von Process Intelligence
 
 #### 1\. Prozesserkennung
@@ -77,30 +74,42 @@ Durch die Nutzung von Process Intelligence können Unternehmen ein breites Spekt
 **Kosteneinsparungen** Durch die Ermittlung und Beseitigung von Prozessineffizienzen können Unternehmen ihre Betriebskosten senken. Process Intelligence ermöglicht eine kosteneffiziente Ressourcenzuweisung und hilft, unnötige Kosten zu vermeiden, die durch manuelle Eingriffe oder Fehler entstehen.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Anwendungsfälle für Process Intelligence
 
 In jeder Branche ermöglicht [die Integration von Process Intelligence in eine digitale Transformationsstrategie](https://tools.techidaily.com/abbyy/products/) den Unternehmen, die zukünftigen Auswirkungen von vorgeschlagenen Änderungen zu bewerten, den Übergang effektiver zu gestalten, die Leistung der implementierten Automatisierungsschritte zu gewährleisten und eine Feedbackschleife für kontinuierliche Verbesserungen zu schaffen. Unternehmen aller Branchen nutzen Process Intelligence, um in einer Vielzahl von Anwendungsfällen bessere Ergebnisse zu erzielen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Gesundheitswesen
 
 Krankenhäuser und andere Gesundheitsdienstleister können Process Intelligence nutzen, um das Patientenerlebnis und die klinische Effektivität zu verbessern, Qualitätsstandards aufrechtzuerhalten und Compliance-Risiken zu vermeiden. Sie können die Einhaltung von Vorschriften erleichtern, indem sie klinische Abläufe in Echtzeit überwachen und das Personal proaktiv warnen, wenn Protokolle nicht eingehalten oder Prozessabweichungen festgestellt werden.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Banken
 
 Process Intelligence ermöglicht es Banken und anderen Finanzinstituten, die digitale Transformation voranzutreiben und Prioritäten bei der Risikokontrolle und der Einhaltung von Vorschriften zu unterstützen. Sie können Transaktionsdaten nahezu in Echtzeit analysieren, um den Kundenservice zu verbessern, die Genauigkeit der Berichterstattung zu erhöhen und das Risiko kostspieliger Fehler zu verringern. Prozessüberwachung hilft ihnen, sicherzustellen, dass SLAs, Compliance-Mandate und gesetzliche Anforderungen eingehalten werden, und verringert so das Risiko kostspieliger Fehler, die andernfalls übersehen werden könnten.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Versicherungen
 
 Versicherungsunternehmen können prädiktive Analysen nutzen, um Risikobewertung, Risikoauswahl und Risikoübernahme-Entscheidungen zu beschleunigen. Sie können die Einhaltung von Vorschriften durch automatisierte Überwachung und Abhilfemaßnahmen verbessern und gleichzeitig Produktivitätssteigerungen erzielen, indem sie eine durchgehende Datenverarbeitung ermöglichen. Prozessanalysen bieten einen Mehrwert für interne Mitarbeitende, Vertragsregulierer, externe Supportorganisationen und andere Partner.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Verknüpfung von Process Intelligence mit intelligenter Prozessautomatisierung
 
 Unter digitaler Transformation versteht man die Integration digitaler Technologien in alle Bereiche eines Unternehmens, wodurch sich die Art und Weise, wie das Unternehmen arbeitet und seinen Kundinnen und Kunden einen Mehrwert bietet, grundlegend ändert. Erfolgreiche Transformationsaktivitäten beinhalten ein radikales Überdenken der Art und Weise, wie ein Unternehmen Technologie, Mitarbeitende und Prozesse einsetzt, um die Unternehmensperformance grundlegend zu verändern. [Intelligente Prozessautomatisierung (IPA)](https://www.abbyy.com/de/solutions/intelligent-process-automation-ipa/?itm%5Fsource=corpblog-de) ist das Herzstück dieses Wandels. Sie kombiniert künstliche Intelligenz (KI) und Automatisierung, um intelligente Geschäftsprozesse zu schaffen, die sich mit der Zeit anpassen und weiterentwickeln können.
@@ -125,9 +134,6 @@ Unternehmen auf der ganzen Welt automatisieren zeitaufwendige Routineabläufe, d
 
 [Demo anfordern](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Häufig gestellte Fragen
 
 [Was ist eine Process-Intelligence-Strategie?](https://tools.techidaily.com/abbyy/products/)
@@ -161,8 +167,18 @@ In seiner 30-jährigen Laufbahn in der Computerbranche hat Scott Opitz verschied
 Zuvor fungierte er unter anderem als Senior Vice President, Worldwide Marketing & Business Development für webMethods (heute Software AG), wobei er für Marketing, Geschäftsentwicklung und strategische Produktplanung verantwortlich zeichnete. Zu webMethods war er im Zuge von dessen Übernahme von IntelliFrame Corporation gekommen, einem Unternehmen, das sowohl Produkte zur Datenintegration als auch die integrierte Workflow- und BPM-Plattform InVista bereitstellte, die Opitz mitgegründet hatte. Scott Opitz hat außerdem zahlreiche Führungspositionen in den Bereichen Technologie, Marketing und Geschäftsentwicklung für staatliche und privatwirtschaftliche Unternehmen bekleidet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Gefällt mir, teilen oder neu posten 
 
 Teilen 
@@ -179,8 +195,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +202,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-building-a-strong-network-how-to-form-effective-youtube-partner-relationships-for-2024/"><u>[Updated] Building a Strong Network How to Form Effective YouTube Partner Relationships for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-ios-tutorial-downloading-episodes-effortlessly/"><u>[Updated] Ultimate iOS Tutorial Downloading Episodes Effortlessly</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-no-cost-software-for-converting-dvds-into-mp3-files-windows-and-macos-supported/"><u>Best No-Cost Software for Converting DVDs Into MP3 Files - Windows & macOS Supported</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-tecno-camon-20-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/converti-rapidamente-i-file-vob-grandi-in-formato-mp4-senza-costi-tutti-e-due-gli-standard/"><u>Converti Rapidamente I File Vob Grandi in Formato MP4 Senza Costi - Tutti E Due Gli Standard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-personalizing-your-online-presence-for-optimal-engagement-and-conversion-rates/"><u>Cookiebot: Personalizing Your Online Presence for Optimal Engagement and Conversion Rates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discover-how-to-easily-determine-your-monitors-display-resolution-in-just-a-single-step/"><u>Discover How to Easily Determine Your Monitor's Display Resolution in Just a Single Step</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/discover-the-leading-12-ai-powered-free-video-editing-tools-for-windows-and-mac-users-online/"><u>Discover the Leading 12 AI-Powered Free Video Editing Tools for Windows and Mac Users Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-guide-creating-an-audio-only-video-with-simple-steps/"><u>Effortless Guide: Creating an Audio-Only Video with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-wi-fi-drivers-compatible-with-windows-111087-download-now/"><u>Get the Most Recent Wi-Fi Drivers Compatible with Windows 11/10/8/7 – Download Now!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/guida-alla-trasformazione-dei-formati-video-dal-ts-allmp4-mantenendo-lalta-qualita-con-4-metodi-essenziali/"><u>Guida Alla Trasformazione Dei Formati Video: Dal TS All'MP4 Mantenendo L'Alta Qualità Con 4 Metodi Essenziali</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-to-import-vr-video-content-onto-your-iphone-tips-and-tricks-for-seamless-transfers/"><u>How to Import VR Video Content Onto Your iPhone - Tips and Tricks for Seamless Transfers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-version-of-konica-minolta-printer-drivers-now-available-for-all-windows-platforms-windows-11-10-8-and-e/"><u>Latest Version of Konica Minolta Printer Drivers Now Available for All Windows Platforms (Windows 11, 10, 8, & E)</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-macs-gaming-capability-with-baldurs-gate-3/"><u>Maximize Your Mac's Gaming Capability with Baldur’s Gate 3</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-instagrams-video-time-policy-for-2024/"><u>Navigating Instagram's Video Time Policy for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/rotacion-de-videos-mp4-sin-perdidas-acciones-faciles-para-girar-por-90-180-y-270-grados/"><u>Rotación De Videos MP4 Sin Pérdidas - Acciones Fáciles Para Girar Por 90, 180 Y 270 Grados</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/the-ultimate-way-to-view-contagion-safe-legal-streaming-and-dvd-options-explored/"><u>The Ultimate Way to View 'Contagion': Safe, Legal Streaming & DVD Options Explored</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-10-secure-and-swift-video-conversion-tools-for-windows-1110-users/"><u>Top 10 Secure and Swift Video Conversion Tools for Windows 11/10 Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-guide-successfully-watching-dvds-on-your-nintendo-wii-or-wii-u-console/"><u>Ultimate Guide: Successfully Watching DVDs on Your Nintendo Wii or Wii U Console</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Website's Data Collection"
-date: 2024-08-26T00:16:33.063Z
-updated: 2024-08-27T00:16:33.063Z
+date: 2024-09-25T17:15:28.574Z
+updated: 2024-09-30T18:59:48.305Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8a537d585a504e6de4ee75de.jpg
@@ -40,6 +40,13 @@ _Neil Murphy, Global Channel Chief at ABBYY._
 ABBYY’s intelligent process automation platform includes industry-leading intelligent document processing (IDP) and process mining and task mining solutions. These include [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/), the industry’s first low-code/no-code platform that applies AI to understand your documents in a fast and simple way. Vantage makes today’s digital worker and processes smarter by delivering skills that read, understand, and extract insights from documents, helping enterprises accelerate digital transformation. [ABBYY Timeline](https://tools.techidaily.com/abbyy/products/) features advanced process mining and task mining technology using the latest artificial intelligence (AI). It enables businesses to automatically build an interactive digital twin of their processes, analyze them in real time to identify bottlenecks, and predict future outcomes to facilitate decision-making of technology investments.  
 For information visit <https://www.abbyy.com/solutions/intelligent-process-automation-ipa/>.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -51,15 +58,23 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Editorial Contact
 
 ![02E Eva Mariahufschmitt](https://static4.abbyy.com/abbyycommedia/23663/02e-eva-mariahufschmitt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Eva-Maria Hufschmitt
 
 _ABBYY_
@@ -74,8 +89,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +96,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-streamlined-capturing-top-5-mac-tools-for-effective-snipping/"><u>[New] 2024 Approved Streamlined Capturing Top 5 Mac Tools for Effective Snipping</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-ultimate-playlist-to-share-on-fb-stories/"><u>[New] 2024 Approved The Ultimate Playlist to Share on FB Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-monetize-your-youtube-shorts-simple-steps/"><u>[Updated] 2024 Approved How to Monetize Your YouTube Shorts Simple Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-capture-your-best-moments-top-8-mirrorless-cameras-for-you/"><u>[Updated] Capture Your Best Moments Top 8 Mirrorless Cameras For You</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winx-dvd-ripperai-dvd/"><u>使用WinX DVD Ripper与AI功能的線上販售服务中心 - 高效抓取DVD内容</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ausgewahlte-methoden-zum-spielen-von-dvds-auf-einem-windows-11-pc-entdecken-sie-vier-losungen/"><u>Ausgewählte Methoden Zum Spielen Von DVDs Auf Einem Windows 11 PC - Entdecken Sie Vier Lösungen!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/choosing-the-best-for-your-needs-a-comprehensive-guide-to-handbrake-vs-winx-dvd-ripper-features-and-performance-testing/"><u>Choosing the Best for Your Needs: A Comprehensive Guide to HandBrake Vs. WinX DVD Ripper Features & Performance Testing</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/imovie-step-by-step-guide-adding-captions-and-subtitles-to-your-videos/"><u>IMovie Step-by-Step Guide: Adding Captions and Subtitles to Your Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-discover-revolutionary-iphone-apps-for-virtual-reality-gaming/"><u>In 2024, Discover Revolutionary IPhone Apps for Virtual Reality Gaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-gt-neo-5-se-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme GT Neo 5 SE with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-pairing-process-setting-up-a-connection-between-your-samsung-clicker-and-smart-tv/"><u>Master the Pairing Process: Setting Up a Connection Between Your Samsung Clicker and Smart TV</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mp4-compressor-disminuyaacabose-el-tamano-de-los-archivos-mp4-manteniendo-la-mejor-calidad/"><u>MP4 Compressor: Disminuya/Acabose El Tamaño De Los Archivos MP4 Manteniendo La Mejor Calidad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-artificial-intelligence-the-intricacies-of-ai-black-box-technology/"><u>Understanding Artificial Intelligence: The Intricacies of AI 'Black Box' Technology</u></a></li>
+</ul></div>
 

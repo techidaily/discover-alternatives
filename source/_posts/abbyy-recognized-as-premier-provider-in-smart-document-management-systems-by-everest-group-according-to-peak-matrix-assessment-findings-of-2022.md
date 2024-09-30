@@ -1,7 +1,7 @@
 ---
 title: ABBYY Recognized as Premier Provider in Smart Document Management Systems by Everest Group, According to PEAK Matrix Assessment Findings of 2022
-date: 2024-08-26T00:16:23.460Z
-updated: 2024-08-27T00:16:23.460Z
+date: 2024-09-24T20:34:41.629Z
+updated: 2024-09-30T18:37:46.432Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9f258c0a63e3b6ef48739db7.jpg
@@ -38,6 +38,13 @@ Read the full evaluation of ABBYY’s Intelligent Document Processing capabiliti
 
 Register to see Vantage in action by registering for upcoming webinars May 18 and May 26, 2022 at <https://vantage.abbyy.com/north-america-webinar/>.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -49,15 +56,23 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### ABBYY editorial contacts
 
 ![02C Catherinejohnson](https://static1.abbyy.com/abbyycommedia/23661/02c-catherinejohnson.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Catherine Johnson
 
 _Director of Analyst Relations & Global Media Relations_
@@ -73,8 +88,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,4 +95,17 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[Updated] In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-credentials-on-youtube-for-2024/"><u>Checking Credentials on YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-system-wizardry-executing-archiving-operations-through-cmd/"><u>File System Wizardry: Executing Archiving Operations Through CMD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-proof-choices-top-power-inverters-dominating-consumer-picks/"><u>Future-Proof Choices: Top Power Inverters Dominating Consumer Picks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-efficient-laptop-recording-with-top-screenrec-tools/"><u>In 2024, Efficient Laptop Recording with Top ScreenRec Tools</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-process-for-transforming-mtsm2ts-video-files-into-premium-h265hevc-encoded-videos/"><u>Step-by-Step Process for Transforming MTS/M2TS Video Files Into Premium H.265/HEVC Encoded Videos</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-conversion-tools-pour-downloader-et-convertir-des-videos-de-youtube-au-format-wav/"><u>Top Conversion Tools Pour Downloader Et Convertir Des Vidéos De YouTube Au Format WAV</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-video-and-audio-transformation-software-macx-hd-pro-edition-on-windows-comprehensive-media-editing-solution/"><u>Ultimate Video and Audio Transformation Software: MacX HD Pro Edition on Windows - Comprehensive Media Editing Solution</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlock-your-macs-potential-effortless-dvd-movie-downloading-using-mtr-tools/"><u>Unlock Your Mac's Potential: Effortless DVD Movie Downloading Using MTR Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
+</ul></div>
 

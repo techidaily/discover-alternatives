@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Fueled Personalization: Enhance Your Site's User Engagement"
-date: 2024-08-26T00:17:21.536Z
-updated: 2024-08-27T00:17:21.536Z
+date: 2024-09-25T19:41:11.930Z
+updated: 2024-09-30T17:52:52.476Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044596db757054a8f03e6ab91e.jpg
@@ -41,9 +41,6 @@ The added perk is that I can work from different locations, which is a huge bonu
 
 ![Berlin, Germany - Mihajlo Mulic](https://static1.abbyy.com/abbyycommedia/38044/mihajlo-mulic-abbyy-berlin.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Your work journey is quite diverse; what was your previous experience before ABBYY, and how did you find your way into this area of Software Development?
 
 Before joining ABBYY, I worked in various software development companies, on products ranging from Advanced Distribution Management Systems for electrical grids to Financial Management Systems.
@@ -65,16 +62,29 @@ The beginning, transitioning into a new role or company, is often the toughest. 
 ![Santorini, Greece - ABBYY Software Developers - Mihajlo Mulic](https://static1.abbyy.com/abbyycommedia/38045/mihajlo-mulic-abbyy-santorini.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Your top advice to someone looking to follow a career path in Software Development?
 
 My advice is simple: cultivate curiosity and patience. **Curiosity keeps you asking questions and exploring, while patience enables you to tackle complex problems. Both are crucial for continuous learning, a must in the fast-evolving landscape of software engineering.**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Work-life balance is important—how would you define it for yourself?
 
 Work-life balance is something quite individual, and ABBYY's [flexible working arrangements](https://tools.techidaily.com/abbyy/products/) allowed me to tailor it to my needs and liking.
@@ -83,11 +93,22 @@ Sometimes this means staying late to finish a task, but sometimes it could mean 
 
 ![](https://static1.abbyy.com/abbyycommedia/38047/mihajlo-mulic-family-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.abbyy.com/abbyycommedia/38048/mihajlo-mulic-family-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Lastly, could you recommend us a book/movie/series/ or activity you have recently discovered or are enjoying at the moment? What’s so great about it?
 
 Not long after I was born, my parents opened a bookstore (pictured below), and it is still open. Unfortunately, I did not get into the habit of reading until my teenage years. That’s when I discovered epic fantasy and science fiction and became an avid reader.
@@ -101,38 +122,47 @@ Aside from reading and watching movies/series, I really enjoy running, traveling
 ![Mihajlo Mulic ABBYY Sr. Software Developer](https://static1.abbyy.com/abbyycommedia/38046/mihajlo-mulic-abbyy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
 Want to follow Mihajlo's footsteps and join one of our tech hubs? You're in luck! Check out our [careers page](https://tools.techidaily.com/abbyy/products/) for opportunities to join our team in Serbia, Cyprus, Hungary, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy?itm%5Fsource=corpblog)
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Related posts
 
 ![](https://static4.abbyy.com/abbyycommedia/37800/sofia-tarasova_848x444.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 [ABBYY Spotlight: Sofia Tarasova, People Partner for the Research and Development and Product Development teams](https://tools.techidaily.com/abbyy/products/) 
 
 ![](https://static2.abbyy.com/abbyycommedia/37579/milos-savic_cover_848x444-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [ABBYY Spotlight: Milos Savic, Security Compliance Officer](https://tools.techidaily.com/abbyy/products/) 
 
@@ -186,8 +216,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +223,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-simplified-guide-to-following-facebook-live-broadcasts/"><u>[New] 2024 Approved Simplified Guide to Following Facebook Live Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastery-in-making-single-stream-live-events-stand-out/"><u>[New] Mastery in Making Single-Stream LIVE Events Stand Out</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-arcade-avenue-a-million-paths-in-play/"><u>[Updated] In 2024, Arcade Avenue A Million Paths in Play</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-craft-your-ultimate-music-collection-for-2024/"><u>[Updated] Mastering YouTube Craft Your Ultimate Music Collection for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/flac-to-aac4/"><u>最適な音質保持：FLAC to AACフリーコンバータソフトウェア上位4つをご紹介</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effortless-dvd-to-avi-conversion-a-comprehensive-how-to-guide-for-beginners/"><u>Effortless DVD to AVI Conversion - A Comprehensive How-To Guide for Beginners</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effortless-methods-for-combining-multiple-mov-videos-into-one-file-on-windows/"><u>Effortless Methods for Combining Multiple MOV Videos Into One File on Windows</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effortless-methods-for-converting-your-divx-videos-into-high-quality-mp4-files/"><u>Effortless Methods for Converting Your DivX Videos Into High-Quality MP4 Files</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effortless-techniques-expert-tips-for-trimming-your-flac-audio-tracks/"><u>Effortless Techniques: Expert Tips for Trimming Your FLAC Audio Tracks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/essential-remedies-how-to-tackle-unplayable-videos-on-google-drive-7-strategies/"><u>Essential Remedies: How To Tackle Unplayable Videos on Google Drive (7 Strategies)</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/evaluating-the-htc-hd7-an-informed-look-at-its-strengths-and-weaknesses/"><u>Evaluating the HTC HD7: An Informed Look at Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-your-passport-featured-with-these-top-10-free-portrait-makers-for-2024/"><u>Get Your Passport Featured with These Top 10 Free Portrait Makers for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Without iTunes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-audio-issues-with-anthem-on-windows-10/"><u>Solved: Fixing Audio Issues with Anthem on Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme 12 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "NeoMLおよびAbbyy Freeの力:人工知能（AI）ソリューション用の機械学習ライブラリ"
-date: 2024-08-26T00:16:58.924Z
-updated: 2024-08-27T00:16:58.924Z
+date: 2024-09-26T17:51:56.858Z
+updated: 2024-09-30T18:32:45.845Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a072a292f551331a265718bf7.jpg
@@ -61,8 +61,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,7 +68,31 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-funny-photos-for-iphones/"><u>[New] Funny Photos for IPhones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlocking-the-power-of-instagram-filters-your-2023-guide/"><u>[New] In 2024, Unlocking the Power of Instagram Filters - Your 2023 Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-chromium-connection-pixel-phone-rhythms-for-2024/"><u>[New] The Chromium Connection Pixel Phone Rhythms for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-comprehensive-blueprint-for-vimeo-video-logging/"><u>[New] The Comprehensive Blueprint for Vimeo Video Logging</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-viewer-count-challenge-worldwide-youtuber-leaders/"><u>[Updated] 2024 Approved The Ultimate Viewer Count Challenge Worldwide YouTuber Leaders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-add-music-to-a-video-on-iphone-3-free-ways/"><u>2024 Approved How to Add Music to a Video on iPhone [3 FREE WAYS]</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/5-proven-methods-for-reducing-the-size-of-your-mkv-videos-without-cost/"><u>5 Proven Methods for Reducing the Size of Your MKV Videos without Cost</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ai-windowsmac/"><u>AI技術でぼやけたビデオを鮮明化: WindowsとMac用の最高のテクニック</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-practices-reducing-video-size-before-sending-via-email/"><u>Best Practices: Reducing Video Size Before Sending via Email</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/goovision-elite-next-gen-screen-capture-for-2024/"><u>GooVision Elite Next-Gen Screen Capture for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/professioneller-h2email-protected-encoder-and-konverter-speziell-fur-windows-11-und-mac-plattformen/"><u>Professioneller H.2([email Protected] Encoder & Konverter Speziell Für Windows 11 Und Mac Plattformen</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/resolving-the-issue-audio-works-but-video-wont-play-in-your-mkv-files-a-step-by-step-guide/"><u>Resolving the Issue: Audio Works, But Video Won't Play in Your MKV Files - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/topo-guia-essencial-transferir-dvd-com-sucesso-do-disco-ao-computador-windowsmac-no-ano-novo/"><u>Topo: Guia Essencial: Transferir DVD Com Sucesso Do Disco Ao Computador (Windows/Mac) No Ano Novo</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-handbrake-user-manual-for-mastering-deinterlace-conversion-techniques/"><u>Ultimate HandBrake User Manual for Mastering Deinterlace Conversion Techniques</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winx-dvd-copy-pro-effortless-dvd-cloning-and-iso-creation-for-reliable-backups/"><u>WinX DVD Copy Pro: Effortless DVD Cloning and ISO Creation for Reliable Backups</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/avchdtsmov/"><u>あらゆる形式の動画変換手順：AVCHD、TS、MOVなど各種ファイルを容易に変換する方法</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

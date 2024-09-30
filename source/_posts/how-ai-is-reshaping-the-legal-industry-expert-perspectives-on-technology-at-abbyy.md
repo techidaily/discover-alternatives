@@ -1,7 +1,7 @@
 ---
 title: How AI Is Reshaping the Legal Industry | Expert Perspectives on Technology at ABBYY
-date: 2024-08-26T00:18:48.784Z
-updated: 2024-08-27T00:18:48.784Z
+date: 2024-09-24T17:06:23.106Z
+updated: 2024-09-30T19:25:32.615Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5292de883673cace9e11db92.jpg
@@ -48,6 +48,19 @@ Michael Simon
 Michael Simon is the Principal of Seventh Samurai, an e-Discovery and Information Governance expert consulting firm. As a trial attorney in Chicago, he was an early innovator in using electronic evidence to win cases for his clients. He is an adjunct professor at Michigan State University College of Law (and formerly at Boston University School of Law), teaching classes in e-Discovery. He has advised a number of companies and government agencies on how to best mitigate the risks arising from their information while best optimizing value, and provides strategic consulting for companies in the analytics, security, privacy, and legal technology markets.
 
 Michael is a legal technology thought leader, having made over 100 presentations and written dozens of articles on e-Discovery and legal technology topics, including a book on Internet Law in 2002\. He received his J.D. from Loyola University Chicago School of Law, and his B.A. cum laude from Tufts University.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -103,8 +116,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,7 +123,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/rafting-engaging-music-reactions-the-youtube-enthusiasts-blueprint-for-2024/"><u>[New] Crafting Engaging Music Reactions The YouTube Enthusiast's Blueprint for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-download-and-conversion-mastery-vimeo-to-mp4-guide/"><u>[Updated] In 2024, Download and Conversion Mastery Vimeo to MP4 Guide</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/24-bit-32-bit48khz-wav-audio-conversion-to-16-bit441khz-easy-guide/"><u>24-Bit, 32-Bit/48kHz WAV Audio Conversion to 16-Bit/44.1kHz - Easy Guide</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/dvda-dvd-avi-mp4-h264-androidiphone/"><u>免费 DVDA转制软件，将 DVD 内容转为 AVI MP4 H264 - 适用于 Android、iPhone 与平板设备的自由工具</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-malfunctions-in-star-wars-squadrons-ultimate-crash-guide-revealed/"><u>Conquering Malfunctions in Star Wars Squadrons – Ultimate Crash Guide Revealed</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/discover-the-ultimate-guide-to-free-ai-powered-video-improvement-tools-for-both-windows-and-macos-users/"><u>Discover the Ultimate Guide to Free AI-Powered Video Improvement Tools for Both Windows and macOS Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/guia-passo-a-passo-para-copiar-um-dvd-em-um-pendrive-usb-no-windows-e-mac/"><u>Guia Passo-a-Passo Para Copiar Um DVD Em Um Pendrive USB No Windows E Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-repair-techniques-to-restore-true-colors-and-fix-distorted-displays-on-computers/"><u>Guide: Repair Techniques to Restore True Colors and Fix Distorted Displays on Computers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-moto-g04-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola Moto G04? Try These Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-setup-no-issues-encountered-during-install/"><u>NVIDIA Setup: No Issues Encountered During Install</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/perfecting-your-tiktok-videos-ideal-resolutions-and-sizes-for-maximum-impact/"><u>Perfecting Your TikTok Videos: Ideal Resolutions and Sizes for Maximum Impact</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/real-time-streaming-on-facebook-simplified-2023/"><u>Real-Time Streaming on Facebook, Simplified 2023</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/techniques-rapides-pour-rendre-les-films-mov-plus-petits-et-compacts/"><u>Techniques Rapides Pour Rendre Les Films MOV Plus Petits Et Compacts</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-screen-recorder-para-windows-11-8-y-7-como-capturar-totalmente-su-pantalla/"><u>Top Screen Recorder Para Windows 11, 8 Y 7: Cómo Capturar Totalmente Su Pantalla</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/toutes-les-etapes-pour-telecharger-vos-collections-de-dvd-vers-lamazon-cloud/"><u>Toutes Les Étapes Pour Télécharger Vos Collections De DVD Vers L'Amazon Cloud</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/transform-your-videos-easily-convert-mkvhevcmovavi-files-into-high-quality-mp4/"><u>Transform Your Videos: Easily Convert MKV/HEVC/MOV/AVI Files Into High-Quality MP4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scrolling-easy-solutions-for-smooth-navigation/"><u>Troubleshooting Unresponsive Touchpad Scrolling: Easy Solutions for Smooth Navigation</u></a></li>
+</ul></div>
 

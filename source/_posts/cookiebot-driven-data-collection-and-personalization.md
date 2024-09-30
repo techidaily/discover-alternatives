@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Data Collection & Personalization
-date: 2024-08-26T00:17:56.050Z
-updated: 2024-08-27T00:17:56.050Z
+date: 2024-09-29T16:44:52.191Z
+updated: 2024-09-30T18:21:23.087Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb4889a6eb2b11c281fd2cb5d878.jpg
@@ -45,9 +45,6 @@ Training a skill and then reviewing the results got a lot easier with a redesign
 
 To get started, users of Vantage can access the FREE [online training and certifications](https://tools.techidaily.com/abbyy/products/) courses.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## New supply chain document skills
 
 No release of Vantage is complete without introducing a new set of pre-trained machine learning (ML) models delivered as document skills. In Vantage v2.1 we’ve added new out-of-the-box, production-ready skills for several documents that are common in supply chain.
@@ -64,8 +61,12 @@ A new set of framework skills for processing tax documents including 1098 and 10
 What’s important to point out about the trained skills is that these document skill models can be further trained by users based on their own customer documents. The power of continuously collecting documents and data and retraining the model is built into the Vantage human-in-the-loop capabilities. Once you publish a skill(s) into production and enable online learning, every time a human operator validates exceptions or makes corrections, that information is stored and used to update the learning model. Eventually, your document processes achieve a higher degree of accuracy and straight through processing.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY Marketplace growing momentum
 
 We first launched the marketplace in August 2021, and since then, 30 more assets have been added by ABBYY and our partners. New assets include pre-trained skills, connectors, and solutions that are simple-to-use and accelerate the deployment of IDP projects. Expect this marketplace to lead the way into the future on how enterprises will want to start every document automation project.
@@ -77,22 +78,42 @@ Technology alliance partners like [Pipefy](https://tools.techidaily.com/abbyy/pr
 [Calling ISVs and Partners: Upskill Your Business Solutions to Intelligently Process Documents](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Advancing document skills training for the developer
 
 In this release, we have something for every type of user, including the skilled expert who understands the fine art of machine learning, natural language processing (NLP), and named entity recognition (NER). We are pleased to introduce the new Vantage Advanced Skill Designer (available in controlled release), a point-and-click design studio that opens the door to building out the processing pipeline of a trained document skill model.
 
 ![Advanced Designer ABBYY Vantage interface](https://static1.abbyy.com/abbyycommedia/34963/14194-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Advanced Skill Designer includes a set of activities for parsing address fields, training NLP for segmentation, or leveraging trained NER to extract entities like names, address, business, dates, and currency. An activity for defining data extraction for edge case document variations that machine learning is unable to pick up at a high degree of accuracy is also possible for a skilled user to create rules.
 
 All this means that no document is too challenging for Vantage to solve. If you have the human skill set, the new advanced designer will give you the tools to show off your expert skills and further developed trained document skills for your business groups.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Building out the delivery of a Cloud native platform with flexibility
 
 Native Cloud and all the buzzwords associated with the next wave of automation platforms can be mind-numbing for a business user, but have special meaning to the IT architect. To the IT architect team, the platform design is key to any purchase decision. The IT team wants to know they are not locking into any delivery model or working with a platform that is closed off and difficult to integrate with all their other cloud native apps.
@@ -113,14 +134,8 @@ If you have a trial of Vantage in the Cloud today, you already have access to al
 
 ![Bill Galusha ABBYY](https://static5.abbyy.com/abbyycommedia/25718/billgalusha-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Bill Galusha
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -175,8 +190,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +197,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-loom-downloader-how-to-loom-screen-record/"><u>[Updated] 2024 Approved Loom Downloader - How to Loom Screen Record</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-soundscapes-with-fusion-studios-tips/"><u>2024 Approved Integrating Soundscapes with Fusion Studio's Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/counteracting-text-slyness-openais-anti-deception-ai/"><u>Counteracting Text Slyness: OpenAI's Anti-Deception AI</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/experience-improved-analytics-through-advanced-cookiebot-integration/"><u>Experience Improved Analytics Through Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/experts-reveal-vital-role-of-process-visibility-in-achieving-robotic-automation-triumphs-us/"><u>Experts Reveal: Vital Role of Process Visibility in Achieving Robotic Automation Triumphs (US)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-srt-to-subc-efficient-conversion-tactics/"><u>From SRT to SUBC Efficient Conversion Tactics</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/global-family-day-honored-by-abbyy-mastering-work-life-synchronization-for-better-balance/"><u>Global Family Day Honored by ABBYY: Mastering Work-Life Synchronization for Better Balance</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-ai-is-reshaping-the-legal-industry-expert-perspectives-on-technology-at-abbyy/"><u>How AI Is Reshaping the Legal Industry | Expert Perspectives on Technology at ABBYY</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-13t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi 13T FRP</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leveraging-cookiebot-technology-for-enhanced-website-performance-and-insights/"><u>Leveraging Cookiebot Technology for Enhanced Website Performance and Insights</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/maximizing-us-supply-chain-performance-with-strategic-automation-insights-from-the-reuters-2cuke-seminar-2020/"><u>Maximizing US Supply Chain Performance with Strategic Automation - Insights From the Reuters 2Cuke Seminar, 2020</u></a></li>
+<li><a href="https://apple-account.techidaily.com/no-more-quiet-tunes-resolving-firefoxs-sound-malfunction-successfully/"><u>No More Quiet Tunes: Resolving Firefox's Sound Malfunction Successfully</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimieren-sie-ihre-compliance-losungen-erweiterte-moglichkeiten-mit-der-erneuerten-ediscovery-suite-von-deloitte/"><u>Optimieren Sie Ihre Compliance-Lösungen - Erweiterte Möglichkeiten Mit Der Erneuerten eDiscovery Suite Von Deloitte</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickly-end-wow-freezing-problems-with-these-simple-troubleshooting-steps/"><u>Quickly End WOW Freezing Problems with These Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/trimmer-och-avkastrar-medan-du-bara-foljer-vinnande-traningsutvecklingstips-videotrimming-101/"><u>Trimmer Och Avkastrar Medan Du Bara Följer Vinnande Träningsutvecklingstips - Videotrimming 101</u></a></li>
+</ul></div>
 

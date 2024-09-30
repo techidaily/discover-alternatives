@@ -1,7 +1,7 @@
 ---
 title: ABBYYとPwCの戦略的協力 - AI OCR分野で革新的な提携開始
-date: 2024-08-26T00:16:25.583Z
-updated: 2024-08-27T00:16:25.583Z
+date: 2024-09-26T20:03:58.687Z
+updated: 2024-09-30T18:48:23.540Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56056b931eaef077a91501e84.jpg
@@ -58,8 +58,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -67,7 +65,33 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-android-gb-advance-emulator-list/"><u>[New] 2024 Approved Essential Android GB Advance Emulator List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-live-feed-perfection-top-free-screen-capture-apps-reviewed/"><u>[Updated] 2024 Approved Live Feed Perfection Top Free Screen Capture Apps Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-epic-locations-for-immersive-virtual-adventures/"><u>[Updated] Epic Locations for Immersive Virtual Adventures</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mp3/"><u>【今年のおすすめ】特選無料MP3フリーウェア：操作がシンプルで早く、多数の機能も備えています！</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-best-free-hd-movie-downloader-websites-stream-top-quality-films-in-1080p-and-720p/"><u>1. Best Free HD Movie Downloader Websites: Stream Top-Quality Films in 1080P and 720P</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comment-resoudre-les-problemes-de-lecture-du-disque-dur-mac-dysfonctionnel/"><u>Comment Résoudre Les Problèmes De Lecture Du Disque Dur Mac Dysfonctionnel ?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/compact-powerhouse-unpacking-the-performance-of-the-msi-cube-5-12m-mini-pc/"><u>Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comprehensive-guide-to-ifixit-professional-tech-gadgets-the-ultimate-resource-for-every-diy-enthusiast/"><u>Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/expert-insights-on-the-google-pixel-eight-outstanding-performance-meets-high-cost-dilemma/"><u>Expert Insights on the Google Pixel Eight: Outstanding Performance Meets High Cost Dilemma</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/exploring-the-efficiency-and-functionality-of-the-logitech-combo-touch-as-a-competitive-replacement-to-apples-classic-ipad-keyboard/"><u>Exploring the Efficiency and Functionality of the Logitech Combo Touch as a Competitive Replacement to Apple’s Classic iPad Keyboard</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/fix-your-non-responsive-ea-application-with-these-proven-techniques/"><u>Fix Your Non-Responsive EA Application with These Proven Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-honor-x8b-frp-by-drfone-android/"><u>Full Guide to Bypass Honor X8b FRP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-secrets-when-to-share-content-for-youtube-success/"><u>In 2024, Secrets When to Share Content for YouTube Success</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-windowsgif/"><u>Microsoft Windowsインターフェース内で簡単に動く画像(GIF)を制作するためのガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/professionelle-anleitung-fur-macx-dvd-ripper-pro-konvertieren-von-dvds-zu-mp4-mov-und-kompatiblen-formaten/"><u>Professionelle Anleitung Für MacX DVD-Ripper Pro: Konvertieren Von DVDs Zu MP4, MOV Und Kompatiblen Formaten</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-blueprint-for-gathering-free-pictorial-video-files-for-2024/"><u>The Blueprint for Gathering Free Pictorial Video Files for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus Ace 2 Pro FRP</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlock-the-secret-to-free-football-mastery-with-downloads-of-expert-moves-and-strategies/"><u>Unlock the Secret to Free Football Mastery with Downloads of Expert Moves and Strategies</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

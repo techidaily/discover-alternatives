@@ -1,7 +1,7 @@
 ---
 title: Intégration ABBYY Lance À PaperStream NX Pour Une Saisie De Documents Flexible Et Efficace Avec Le Connecteur FlexiCapture
-date: 2024-08-26T00:20:08.886Z
-updated: 2024-08-27T00:20:08.886Z
+date: 2024-09-26T19:58:44.151Z
+updated: 2024-09-30T20:00:08.699Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f68ca812bcde6ea11b49f44592ad32b754408fad9ec2378e7166d9ec2c6bf6c4.jpg
@@ -67,8 +67,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,7 +74,33 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/xclusive-access-sharing-restricted-youtube-content-with-emailid/"><u>[New] Exclusive Access Sharing Restricted YouTube Content with EmailID</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-art-of-iphone-podcast-downloads-with-ease/"><u>2024 Approved Unlocking the Art of iPhone Podcast Downloads with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-analysis-distinctive-features-of-chatgpt-and-microsoft-bings-ai/"><u>Comparative Analysis: Distinctive Features of ChatGPT and Microsoft Bing's AI</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-by-the-power-of-cookiebot-software/"><u>Enhanced by the Power of Cookiebot Software</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-user-experience-with-advanced-automated-bots/"><u>Enhanced User Experience with Advanced Automated Bots</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-user-experience-with-dynamic-content-delivery-the-power-of-cookiebot-technology/"><u>Enhanced User Experience with Dynamic Content Delivery: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhancing-digital-presence-leveraging-the-efficient-power-of-cookiebot-technology/"><u>Enhancing Digital Presence: Leveraging the Efficient Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/experience-enhanced-traffic-with-cookiebot-power-drives/"><u>Experience Enhanced Traffic with Cookiebot Power Drives</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/harnessing-cookiebots-capabilities-for-enhanced-site-engagement-and-analytics/"><u>Harnessing Cookiebot's Capabilities for Enhanced Site Engagement and Analytics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-tecno-spark-20-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Tecno Spark 20 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/innovating-abbyys-brand-strategy-the-enthronement-of-its-novel-chief-marketing-executive/"><u>Innovating ABBYY's Brand Strategy: The Enthronement of Its Novel Chief Marketing Executive</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/introducing-abbyys-advanced-ocr-capabilities-for-uipath-go-users/"><u>Introducing ABBYY's Advanced OCR Capabilities for UiPath GO Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leading-security-consultancy-enhances-offerings-and-scales-operations-through-innovative-autoform-technology/"><u>Leading Security Consultancy Enhances Offerings & Scales Operations Through Innovative Autoform Technology</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-match-overcoming-technical-hurdles-with-fifa-19-on-your-desktop-computer/"><u>Master the Match: Overcoming Technical Hurdles with FIFA 19 on Your Desktop Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sandisk-driver-downloads-made-simple-perfect-for-windows-11-users/"><u>SanDisk Driver Downloads Made Simple: Perfect for Windows 11 Users!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-x8b-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor X8b Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-cmos-checksum-mismatch-issues/"><u>Ultimate Guide: Resolving CMOS Checksum Mismatch Issues</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

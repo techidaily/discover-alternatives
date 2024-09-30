@@ -1,7 +1,7 @@
 ---
 title: Introducing Hervé Laurandin, the New Leader of ABBYY's French Operations
-date: 2024-08-26T00:17:30.619Z
-updated: 2024-08-27T00:17:30.619Z
+date: 2024-09-28T16:40:19.714Z
+updated: 2024-09-30T19:56:33.612Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
@@ -37,6 +37,13 @@ Hervé Laurandin a occupé plusieurs fonctions décisionnelles au sein de grande
 
 Hervé Laurandin est diplômé de l'Institut polytechnique de Grenoble en ingénierie. Il réside à Paris.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 5 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
@@ -44,16 +51,23 @@ ABBYY est un acteur référent de l’Intelligent Process Automation. L’entrep
 ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont répartis au sein de 15 pays. Pour plus d’informations, veuillez consulter le site[https://www.abbyy.com/fr/](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Contact presse
 
 ![02E Eva Mariahufschmitt](https://static4.abbyy.com/abbyycommedia/23663/02e-eva-mariahufschmitt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Eva-Maria Hufschmitt
 
 _ABBYY_
@@ -68,8 +82,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +89,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-video-chatcall-on-snapchat-with-3-steps/"><u>[Updated] How to Video Chat/Call on Snapchat with 3 Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-premier-editing-suites-for-device-app-development/"><u>[Updated] Premier Editing Suites for Device App Development</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-seeking-the-8-pinnacle-of-androids-collaborative-video-collage-tools/"><u>[Updated] Seeking the #8 Pinnacle of Android's Collaborative Video Collage Tools</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/google-chromeb/"><u>「Google Chromeを使ったB站動画の下載テクニック」</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-how-to-choose-between-portable-and-plugged-in-vr-headsets-picking-between-wireless-mobile-or-connected-tethered/"><u>2024 Approved How to Choose Between Portable and Plugged-In VR Headsets Picking Between Wireless (Mobile) or Connected (Tethered)?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-hashtags-for-a-6-figure-view-spike-on-youtube/"><u>2024 Approved Navigating Hashtags for a 6-Figure View Spike on YouTube</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/m4a-windows11and11/"><u>高品質でM4A音楽を融合するステップ - Windows11&11対応レシピ</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/clearview-capture-watchlist-for-2024/"><u>ClearView Capture Watchlist for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/firefox-3/"><u>Firefox表示フレーム収めるための新ヒント！: 3つの有効なテクニックをご紹介</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/get-factory-pro-youtube-video-converter-for-free-secure-your-purchase-with-no-risk/"><u>GET FACTORY PRO YOUTUBE VIDEO CONVERTER FOR FREE: Secure Your Purchase with No Risk!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/gifwindowsjpeg/"><u>GIF画像を静止画化するためのWindows環境下でのJPEG変換ガイド</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-7-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 7 If Youve Tried Everything</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/idevice/"><u>IDevice間でシームレスな動画リンク手法：連続プレイガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-youtube-video-compression-techniques-for-premium-quality-with-compact-file-formats/"><u>Mastering YouTube Video Compression Techniques for Premium Quality with Compact File Formats</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-8-stellar-alternatives-to-windows-10-photos-for-enhanced-photography-experience/"><u>Updated 2024 Approved 8 Stellar Alternatives to Windows 10 Photos for Enhanced Photography Experience</u></a></li>
+</ul></div>
 

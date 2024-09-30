@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge EDRiTech Pioneer Integrates Enhanced Smart Doc Analysis Through ABBYY
-date: 2024-08-26T00:16:38.323Z
-updated: 2024-08-27T00:16:38.323Z
+date: 2024-09-23T19:29:45.135Z
+updated: 2024-09-30T17:07:58.005Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6ff66889aaf2236739a2923efe4cfc57f9cd9ea7ad49a91b99fcb2a46f695a7e.jpg
@@ -19,15 +19,48 @@ Legal | BPO and Shared Services | eDiscovery | Document Processing
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## eDiscovery Leader Adds Advanced Intelligent Document Processing with ABBYY
 
 BPO and Shared Services | Document Processing 
 
 ![Costain Transforms Its Finance Department Using ABBYY Content Intelligence](https://static4.abbyy.com/abbyycommedia/36085/abbyy-nuix-556x303.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Nuix](https://static1.abbyy.com/abbyycommedia/36096/nuix-logo_117x56.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name         | Nuix                                  |
 | ------------ | ------------------------------------- |
@@ -88,8 +121,12 @@ For Nuix, too, the benefits are multiple. “The added value that ABBYY brings i
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -102,8 +139,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +146,18 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-science-and-art-of-engaging-youtube-audiences/"><u>[New] In 2024, The Science and Art of Engaging YouTube Audiences</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/2024windowsmacdvd/"><u>2024年の最も優れたWindowsとMac用DVDコピーソフトを紹介します！無料ダウンロード直行リンク</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/converti-i-tuoi-dvd-in-formato-mp4-h264hevc-in-meno-di-5-minuti-con-winx-dvd-ripper-platinum-edizione-ufficiale/"><u>Converti I Tuoi DVD in Formato MP4 (H.264/HEVC) in Meno Di 5 Minuti Con WinX DVD Ripper Platinum - Edizione Ufficiale</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/efficient-tactics-for-changing-h2email-protected-files-to-unrestricted-h264-videos/"><u>Efficient Tactics for Changing H.2([email Protected]) Files to Unrestricted H.264 Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-navigating-wpm-on-windows-11/"><u>Essential Tips for Navigating WPM on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-the-studio-how-magix-video-pro-x-simplifies-production-for-2024/"><u>Inside the Studio How Magix Video Pro X Simplifies Production for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/les-meilleurs-convertisseurs-de-video-mp4-en-direct-trouvez-les-top-3-gratuits/"><u>Les Meilleurs Convertisseurs De Vidéo MP4 en Direct: Trouvez Les Top 3 Gratuits</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-windows-1110-performance-via-mtk-drivers/"><u>Optimize Windows 11/10 Performance via MTK Drivers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-5-time-lapse-screen-recorder/"><u>Top 5 Time-Lapse Screen Recorder</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-16-best-free-avi-video-rotator-software-for-windows-mac-android-and-iphone/"><u>Updated 2024 Approved 16 Best Free AVI Video Rotator Software for Windows, MAC, Android, and iPhone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winx-dvd-copy-pro-dvd-isodvd/"><u>WinX DVD Copy Pro 協助在 DVD 上緊湛 ISO/DVD 備份</u></a></li>
+</ul></div>
 

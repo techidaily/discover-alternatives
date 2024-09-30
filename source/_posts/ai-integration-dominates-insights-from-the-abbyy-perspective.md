@@ -1,7 +1,7 @@
 ---
 title: "AI Integration Dominates : Insights From the ABBYY Perspective"
-date: 2024-08-26T00:17:12.975Z
-updated: 2024-08-27T00:17:12.975Z
+date: 2024-09-26T19:13:21.579Z
+updated: 2024-09-30T20:21:57.513Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648e96e12c93c90dd39a83f971.jpg
@@ -73,6 +73,13 @@ Neil Murphy is Vice President, Global Channel Chief and in his role now responsi
 
 Over the years, Neil has worked with a variety of industry sectors ranging from Finance, Insurance, Healthcare to Government focusing on transforming their legacy approach to back and front office processes such as Accounts Payable, customer onboarding, and consumer loyalty programmes to name a few.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -127,8 +134,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,7 +141,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-rankings-secrets-enhancing-video-visibility/"><u>[New] 2024 Approved YouTube Rankings Secrets Enhancing Video Visibility</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/asy-loop-keeping-iphone-videos-running/"><u>[New] Easy Loop Keeping iPhone Videos Running</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-io-screen-snapshot-savvy-your-complete-manual-for-2024/"><u>[New] IO Screen Snapshot Savvy Your Complete Manual for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/44cm44ox44ot44gr5zci44gg44og44kv44ol44od44kv77ya44ot44oh44kq44ko44oh44kj44k344on44oz44gn6zplusz5aow44ks5pya6ygp5yyw44gz44kl5pa55rov44cn/"><u>「プロに合うテクニック：ビデオエディションで音声を最適化する方法」</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-discontinuing-instant-recording-on-quicktime/"><u>2024 Approved Discontinuing Instant Recording on QuickTime</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/avi-flv/"><u>高速で簡単なアーカイブ・ビデオ (AVI) とフラット・ライク・ビデオ(FLV)間の変換方法 -一括処理ガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-dvd-ripper-and-converter-apps-compatible-with-windows-11-your-ultimate-guide/"><u>Best DVD Ripper & Converter Apps Compatible with Windows 11 : Your Ultimate Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung Galaxy S24</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/complete-guide-setting-up-the-likuoo-plugin-for-unlimited-fun-with-likuoovideo-on-kodi-lea-and-krypton/"><u>Complete Guide: Setting Up the Likuoo Plugin for Unlimited Fun with likuoo.video on Kodi (Lea & Krypton)</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/easy-steps-for-flawless-audio-extraction-from-dvds/"><u>Easy Steps for Flawless Audio Extraction From DVDs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-for-inspirational-daily-living-visual-stories-for-2024/"><u>Steps for Inspirational Daily Living Visual Stories for 2024</u></a></li>
+</ul></div>
 

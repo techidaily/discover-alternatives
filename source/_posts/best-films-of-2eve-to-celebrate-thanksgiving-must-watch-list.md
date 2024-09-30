@@ -1,7 +1,7 @@
 ---
 title: Best Films of 2Eve to Celebrate Thanksgiving – Must-Watch List
-date: 2024-08-30T11:30:21.140Z
-updated: 2024-08-31T11:30:21.140Z
+date: 2024-09-25T18:23:57.334Z
+updated: 2024-09-30T17:25:08.323Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035cdbdf693fb3fdb8a7d6301cc.jpg
@@ -21,8 +21,6 @@ For some moviegoers, Thanksgiving means more than turkey and plethoric tryptopha
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/icon1.png) By [Bella Brown](https://www.linkedin.com/in/bella-brown-920145104/) to DVD Movies, Video Download｜Last updated on Mar.10, 2020
 
-
-
 ![new movies for thanksgiving](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-dvd-video-converter-how-to/article-image/thx-movie.jpg)
 
 ### Download and Watch Thanksgiving Movies
@@ -40,8 +38,12 @@ CONTENTS
 * [How to Watch Thanksgiving Movies Easily](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1 - 2018 New Movies for Thanksgiving
 
 **1\. Ralph Breaks the Internet**
@@ -77,8 +79,12 @@ The Grinch returns the holiday in a 3D animated comedy movie just in time. Dr. S
 If you want some revenge movie for Thanksgiving night, don't miss Creed II. The sequel has Rocky Balboa and Ivan Drago face-off again. In the movie, Adonis Creed will fight against Viktor Drago to get the honor of his father, who was killed by Ivan Drago. the movie features one of the series' most epic fights. 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2 - Other Movies for Thanksgiving 2018
 
 **1\. Thor: Ragnarok (2017)**
@@ -119,9 +125,6 @@ If you'd like to watch these new Thanksgiving movies on your computer, or libera
 
 [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/d-mac.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/d-win.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 1\. Add New Thanksgiving Movies**  
  Free download the Thanksgiving movie DVD ripper for Mac or Windows to backup/decrypt the newly released Thanksgiving movies. Click "Add" button to add DVD disk, or you are also allowed to add DVD folder or ISO image for Thanksgiving movies.
 
@@ -147,6 +150,13 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/img2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [\[Movie List\] Top 10 Xmas Movies for Kids to Watch](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/img3.jpg)
@@ -155,23 +165,18 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/vcp.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### MacX Video Converter Pro
 
 Free Download & Convert new movies, TV shows, trailers, music, more to TV, computers, mobiles and more! 
 
 [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/fd.png)](https://tools.techidaily.com/macxdvd/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Trusted by Macworld,CNET
 
@@ -185,15 +190,10 @@ MOST READ
 
 4 [Top 10 Disney Movies Your Kids & Fmilies will Love](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -201,9 +201,12 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -212,6 +215,13 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -219,8 +229,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Site Map](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -235,8 +243,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +250,21 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-business-boosters-the-ultimate-highlight-enhancement-guide/"><u>[New] Business Boosters The Ultimate Highlight Enhancement Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-stepwise-methodology-for-launching-a-discord-channel/"><u>[New] Stepwise Methodology for Launching a Discord Channel</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-televisions-as-a-window-to-facebook-world-vids/"><u>[Updated] In 2024, Televisions as a Window to Facebook World Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transform-your-vids-for-social-scenes-with-tunes/"><u>[Updated] Transform Your Vids for Social Scenes With Tunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-efficient-path-to-time-stamped-image-documentation/"><u>2024 Approved The Efficient Path to Time-Stamped Image Documentation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-c67-4g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme C67 4G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-success-enhance-your-websites-performance/"><u>Cookiebot-Driven Success: Enhance Your Website's Performance</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-website-optimization-enhance-your-online-presence/"><u>Cookiebot-Driven Website Optimization: Enhance Your Online Presence</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-enhance-your-websites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics and Personalization</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-optimize-your-websites-visitor-tracking/"><u>Cookiebot-Enabled: Optimize Your Website's Visitor Tracking</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/empower-your-website-with-cookiebots-advanced-analytics-and-marketing-tools/"><u>Empower Your Website with Cookiebot's Advanced Analytics & Marketing Tools</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-site-with-cookiebots-ai-powered-behavioral-tracking-and-tailoring-techniques/"><u>Enhance Your Site with Cookiebot's AI-Powered Behavioral Tracking & Tailoring Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploiting-windows-11s-error-diagnostic-solutions/"><u>Exploiting Windows 11'S Error Diagnostic Solutions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-dominating-tiktok-the-ultimate-list-of-trending-tags/"><u>In 2024, Dominating TikTok The Ultimate List of Trending Tags</u></a></li>
+</ul></div>
 

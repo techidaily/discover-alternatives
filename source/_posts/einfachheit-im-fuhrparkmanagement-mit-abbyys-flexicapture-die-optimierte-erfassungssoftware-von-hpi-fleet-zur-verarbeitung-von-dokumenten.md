@@ -1,7 +1,7 @@
 ---
 title: Einfachheit Im Fuhrparkmanagement Mit ABBYY's FlexiCapture - Die Optimierte Erfassungssoftware Von HPI Fleet Zur Verarbeitung Von Dokumenten
-date: 2024-08-26T00:16:08.888Z
-updated: 2024-08-27T00:16:08.888Z
+date: 2024-09-26T20:21:45.876Z
+updated: 2024-09-30T20:17:43.210Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c153534fece429948183b0ad342f.png
@@ -19,11 +19,31 @@ Transportation & Logistics | Document Management
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fuhrparkdienstleister HPI Fleet nutzt FlexiCapture für Erfassung und Verarbeitung von Dokumenten
 
 Transport und Logistik | Dokumentenmanagement 
 
 ![](https://static1.abbyy.com/abbyycommedia/14452/7-luz-del-sur-oilgas.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Über den Kunden
 
@@ -80,6 +100,13 @@ Unter dem Strich bleibt durch den Systemwechsel eine zukunftsfähige und effizie
 
 [![Transport und Logistik](https://static5.abbyy.com/abbyycommedia/14363/13-transportation.jpg)](https://tools.techidaily.com/abbyy/products/) [Transport und Logistik](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![Montgomery1](https://static2.abbyy.com/abbyycommedia/15761/montgomery1.png)](https://static1.abbyy.com/abbyycommedia/6149/cs%5Fhpi%5Ffleet%5Ffc%5Fd.pdf "PDF-Version") [PDF-Version](https://static1.abbyy.com/abbyycommedia/6149/cs%5Fhpi%5Ffleet%5Ffc%5Fd.pdf "PDF-Version") 
@@ -95,8 +122,12 @@ Teilen  True ?  : ""
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -109,8 +140,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +147,24 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-visionary-views-top-tweets-bypassing-the-screen/"><u>[New] 2024 Approved Visionary Views Top Tweets Bypassing the Screen</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-comprehensive-coverage-coalition-picking-an-mcn/"><u>[New] In 2024, Comprehensive Coverage Coalition Picking an MCN</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-zoom-for-podcast-recordings-a-step-by-step-guide/"><u>[New] Mastering Zoom for Podcast Recordings A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/urn-any-youtube-experience-into-a-fun-animated-gif-on-devices-for-2024/"><u>[New] Turn Any YouTube Experience Into a Fun, Animated GIF on Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-reach-optimal-timestamp-in-fb-posting/"><u>2024 Approved Reach Optimal Timestamp in Fb Posting</u></a></li>
+<li><a href="https://driver-download.techidaily.com/access-official-gigabyte-drivers-for-the-gc-wb8e867d-i-model/"><u>Access Official Gigabyte Drivers for the GC-WB8e867D-I Model</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-officejet-pro-8720-drivers-on-windows-free-guide/"><u>Download & Update HP OfficeJet Pro 8720 Drivers on Windows - Free Guide</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhancing-user-experience-through-personalization-powered-by-cookiebot/"><u>Enhancing User Experience Through Personalization Powered by Cookiebot</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhancing-user-experience-with-cookiebot-technology/"><u>Enhancing User Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/fueled-by-advanced-ai-data-collection-technology-from-cookiebot/"><u>Fueled by Advanced AI Data Collection Technology From Cookiebot</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-urdu-swiftly-with-daily-10-minute-intervals/"><u>Learn Urdu Swiftly with Daily 10-Minute Intervals</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-abbyy-vantage-expert-video-guide-series/"><u>Mastering ABBYY Vantage: Expert Video Guide Series</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/neomlabbyy-freeai/"><u>NeoMLおよびAbbyy Freeの力:人工知能（AI）ソリューション用の機械学習ライブラリ</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimized-with-advanced-ai-enhancing-your-websites-performance-using-cookiebot/"><u>Optimized with Advanced AI: Enhancing Your Website's Performance Using Cookiebot</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/preserving-the-past-how-abbyy-and-bolshoi-theatre-unite-for-an-online-revival-of-historical-legacy/"><u>Preserving the Past: How ABBYY and Bolshoi Theatre Unite for an Online Revival of Historical Legacy</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/strengthening-forests-empowering-communities-abbyy-and-nffs-ambitious-goal-of-20000-trees-at-chippewa/"><u>Strengthening Forests, Empowering Communities: ABBYY and NFF's Ambitious Goal of 20,000 Trees at Chippewa</u></a></li>
+</ul></div>
 

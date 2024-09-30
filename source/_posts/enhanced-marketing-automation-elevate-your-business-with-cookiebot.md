@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Marketing Automation: Elevate Your Business with Cookiebot"
-date: 2024-08-26T00:20:06.158Z
-updated: 2024-08-27T00:20:06.158Z
+date: 2024-09-26T19:32:45.345Z
+updated: 2024-09-30T20:30:16.432Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bc534bc9ef4d9b3f9c6dd91c298512dc6fbda892688583d91964121896089fd7.jpg
@@ -19,6 +19,13 @@ Construction | PDF and Document Conversion | Document Processing
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Balfour Beatty Rail maîtrise son processus métier principal grâce à ABBYY FineReader
 
 Construction | Conversion de PDF et de documents 
@@ -28,6 +35,13 @@ Construction | Conversion de PDF et de documents
 #### Aperçu du client
 
 ![Balfour Beatty Rail](https://static4.abbyy.com/abbyycommedia/14831/balfourbeatty-logo.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Prénom               | Balfour Beatty Rail                                   |
 | -------------------- | ----------------------------------------------------- |
@@ -39,6 +53,13 @@ Construction | Conversion de PDF et de documents
 #### Aperçu des partenaires
 
 ![Om Trigono](https://static1.abbyy.com/abbyycommedia/14832/trigono-logo.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Prénom   | Om Trigono                                |
 | -------- | ----------------------------------------- |
@@ -86,6 +107,19 @@ ABBYY FineReader est un logiciel de reconnaissance optique des caractères (OCR)
 
 [![1-accounts-payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Dématérialisation des factures](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
 [![cs-balfour-360x162](https://static4.abbyy.com/abbyycommedia/14874/cs-balfour-360x162.jpg)](https://static4.abbyy.com/abbyycommedia/10535/cs%5Fbalfourbeattyrail%5Ffr%5Ff.pdf "version PDF") [version PDF](https://static4.abbyy.com/abbyycommedia/10535/cs%5Fbalfourbeattyrail%5Ffr%5Ff.pdf "version PDF") 
@@ -100,9 +134,6 @@ Partager  True ?  : ""
 
 [Tous les sièges d’ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -115,8 +146,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +153,23 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-ultimate-guide-how-to-download-podcasts-on-iphone/"><u>[Updated] Ultimate Guide How to Download Podcasts on iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rethink-your-youtube-videos-with-these-non-youtube-edits/"><u>2024 Approved Rethink Your YouTube Videos with These Non-Youtube Edits</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-welcomes-jae-park-as-new-vice-president-of-sales-across-asia-pacific/"><u>ABBYY Welcomes Jae Park as New Vice President of Sales Across Asia-Pacific</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyys-timeline-5-boosts-productivity-with-innovative-task-mining-features/"><u>ABBYY's Timeline 5 Boosts Productivity with Innovative Task Mining Features</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313315355-abbyy/"><u>ABBYY社の最高財務責任者に就任するジェームズ・リッター</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/accelerating-digital-change-how-abbyys-smart-automation-powers-paragons-transformation-journey/"><u>Accelerating Digital Change: How ABBYY’s Smart Automation Powers Paragon's Transformation Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-screen-projection-not-working-window-glitch/"><u>Addressing Screen Projection Not Working Window Glitch</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/advancing-smart-multimodal-transit-solutions-the-insights-from-abbyys-perspective/"><u>Advancing Smart Multimodal Transit Solutions - The Insights From ABBYY's Perspective</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-cost-effective-cams-for-everyday-use/"><u>Discover Cost-Effective Cams for Everyday Use</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-unveiling-the-pros-and-cons-of-samsungs-galaxy-tab-s7plus/"><u>Expert Review: Unveiling the Pros and Cons of Samsung's Galaxy Tab S7+</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a54-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A54 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-x-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone X Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-video-editors-for-youtube-on-the-houseno-cost-included/"><u>Top Video Editors for YouTube on the House—No Cost Included</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/website-personalization-enhanced-using-cookiebot-technology/"><u>Website Personalization Enhanced Using Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313576749-dxabbyy/"><u>エレガント解決策でDXを前進させる：ABBYYの革新的なデジタルインテリジェンス強化について</u></a></li>
+</ul></div>
 

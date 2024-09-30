@@ -1,7 +1,7 @@
 ---
 title: "Smart Document Automation: Comparing the Capabilities of ABBYY Vs. Pegasystems"
-date: 2024-08-26T00:19:40.796Z
-updated: 2024-08-27T00:19:40.796Z
+date: 2024-09-26T16:46:16.543Z
+updated: 2024-09-30T18:07:57.232Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545b8fd2ecff1c5ec11c0e45ff.png
@@ -10,6 +10,13 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ## Smart Document Automation: Comparing the Capabilities of ABBYY Vs. Pegasystems
 
 ## 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ABBYY | Pegasystems 
 
@@ -23,9 +30,6 @@ As a Pega technology partner, ABBYY provides Intelligent Document Processing sol
 
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-onboarding/overview-image.jpg?h=716&iar=0&w=1272)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Integration benefits
 
 ##### Document-enable Pega processes 
@@ -49,11 +53,12 @@ ABBYY FlexiCapture Connector for Pega enables Pega BPM and RPA to transform docu
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/pegasystems_logo_rev_120px.png?h=26&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
+
 ### Selected use cases
 
 ##### Automate insurance document processing 
@@ -77,16 +82,31 @@ Adding FlexiCapture to Pega’s Accounts Payable processes easily manages this c
 ![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_microscopic_web_photos_2_1486--836.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to speak with an expert?
 
 [Schedule a demo](https://tools.techidaily.com/abbyy/products/)[Get in touch](https://tools.techidaily.com/abbyy/products/)
@@ -97,8 +117,6 @@ Adding FlexiCapture to Pega’s Accounts Payable processes easily manages this c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +124,18 @@ Adding FlexiCapture to Pega’s Accounts Payable processes easily manages this c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-ouroboros-creator-suite/"><u>[New] Ouroboros Creator Suite</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/best-manycam-compatible-webcam-apps-for-macs-ichat/"><u>Best ManyCam Compatible Webcam Apps for Mac's iChat</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreranly-assessing-ustream-with-equivalent-sites/"><u>Compreranly Assessing Ustream with Equivalent Sites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/loop-it-best-free-gif-makers-for-endless-animation-for-2024/"><u>Loop It! Best Free GIF Makers for Endless Animation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-selection-leading-wifi-expanders-of-2024/"><u>The Ultimate Selection: Leading WiFi Expanders of 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-walkthrough-to-update-logitech-m310-mouse-drivers/"><u>The Ultimate Walkthrough to Update Logitech M310 Mouse Drivers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-10-reliable-video-downloaders-from-tenplay-enjoy-uninterrupted-viewing-anywhere/"><u>Top 10 Reliable Video Downloaders From Tenplay: Enjoy Uninterrupted Viewing Anywhere!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-3-dependable-techniques-for-effective-gopro-video-rotation/"><u>Top 3 Dependable Techniques for Effective GoPro Video Rotation</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-guide-choosing-the-finest-pc-dvd-to-mkv-transcoder-for-windows-users/"><u>Ultimate Guide: Choosing the Finest PC DVD to MKV Transcoder for Windows Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-guide-downloading-movies-from-youtube-to-your-ipad-in-four-simple-steps/"><u>Ultimate Guide: Downloading Movies From YouTube to Your iPad in Four Simple Steps</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/vlc-media-player-on-windows-1110-fixes-for-playing-wmv-videos/"><u>VLC Media Player on Windows 11/10: Fixes for Playing WMV Videos</u></a></li>
+</ul></div>
 

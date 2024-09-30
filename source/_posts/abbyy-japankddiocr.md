@@ -1,7 +1,7 @@
 ---
 title: "ABBYY JapanとKDDIがOCR技術で力を合わせる:最新情報解禁！|業界初の協同製品"
-date: 2024-08-26T00:17:07.577Z
-updated: 2024-08-27T00:17:07.577Z
+date: 2024-09-29T16:09:41.512Z
+updated: 2024-09-30T19:09:04.768Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c689fcbfa16aad9f4c667d5e.jpg
@@ -55,8 +55,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,7 +62,28 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/xporting-your-creativity-imovie-videos-for-youtube-audiences/"><u>[New] Exporting Your Creativity IMovie Videos for YouTube Audiences</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enabling-pip-for-youtube-viewing-on-your-iphone-for-2024/"><u>[Updated] Enabling PIP for YouTube Viewing on Your iPhone for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-synching-youtube-songs-to-video-frameworks/"><u>[Updated] In 2024, Synching YouTube Songs to Video Frameworks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-uncovering-veiled-viewer-interactions-with-video-content/"><u>[Updated] In 2024, Uncovering Veiled Viewer Interactions with Video Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y78plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y78+ Quickly? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-x5-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/master-live-broadcasts-with-manycam-premium-virtual-webcam-solutions-unveiled/"><u>Master Live Broadcasts with ManyCam - Premium Virtual Webcam Solutions Unveiled</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/real-time-broadcasting-with-manycam-professional-streamers-virtual-camera-solution/"><u>Real-Time Broadcasting with ManyCam - Professional Streamer's Virtual Camera Solution</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/real-time-recording-and-streaming-with-manycam-the-ultimate-live-video-solution/"><u>Real-Time Recording & Streaming with ManyCam: The Ultimate Live Video Solution</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/real-time-streaming-discover-how-manycam-enhances-your-online-presence-with-superior-live-video-tech-and-digital-webcams/"><u>Real-Time Streaming: Discover How ManyCam Enhances Your Online Presence with Superior Live Video Tech and Digital Webcams</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-rated-manycam-app-professional-live-streaming-and-virtual-cam-solutions/"><u>Top-Rated ManyCam App: Professional Live Streaming and Virtual Cam Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/transform-any-camera-into-a-professional-webcam-with-manycams-advanced-live-streaming-features/"><u>Transform Any Camera Into a Professional Webcam with ManyCam's Advanced Live-Streaming Features!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstucking-techniques-for-red-dead-redemption-2s-persistent-startup-issue/"><u>Unstucking Techniques for Red Dead Redemption 2'S Persistent Startup Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiled-wonders-talk-to-chatgpt/"><u>Unveiled Wonders: Talk to ChatGPT</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,33 +1,13 @@
 ---
 title: "Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed"
-date: 2024-09-10T10:28:03.407Z
-updated: 2024-09-11T10:28:03.407Z
+date: 2024-09-28T18:39:43.372Z
+updated: 2024-09-30T20:31:16.120Z
 tags:
   - product-reviews
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac3562475afaa223146d9d0657f5f7.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed
 
@@ -124,6 +104,13 @@ Expand
 
 [$200 at Amazon](https://www.amazon.com/Cherry-Wireless-Mechanical-Keyboard-Switches/dp/B0C4HRP34X?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002387&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-kw-x-ulp-keyboard-review%2F&asc%5Fcampaign=Authority) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Thin Profile That Doesn’t Feel Cheap
 
  When a manufacturer goes thin, it always risks creating a product that feels cheap and flimsy. That’s not the case with the KW X ULP wireless keyboard, which boasts an aluminum plate for overall durability. Even the three kickstands that give the board some height are held in place well, ensuring they won’t randomly fold in while in use.
@@ -132,23 +119,23 @@ Expand
 
  The keyboard is thin, but it’s also wide across a desk. At nearly 17.4 inches, it’s not the most portable, which is a shame considering it offers three quick-swap wireless connections that make it easy to use the board on virtually any Windows-based device. Sorry, Mac users. You'll need to find your own ultra-thin board.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ###  Latency-Free Quadruple Connectivity
 
 ![Wireless and Bluetooth connectivity buttons on ultra-low profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479489137_ae0f636efd_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -158,75 +145,15 @@ Sergio Rodriguez / How-To Geek
 
 ![Ultra-low-profile mechanical keyboard connected to multiple devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479487432_d3935187b9_o.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Sergio Rodriguez / How-To Geek
 
  On the rare occasion, while connected via Bluetooth, it seemed I needed to wake the board up before it registered keystrokes. It seemed to happen when the battery was lower. I read through the keyboard’s manual but found nothing suggesting it went into sleep mode to conserve power.
 
  What I really liked about the keyboard is its battery life. I used the board for a full workweek and still didn’t have to charge it. You’ll easily get at least two weeks out of one charge, which is especially helpful if access to a plug isn't convenient.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ###  The Click You Get is the Click You Get
 
 ![Clust of keys on mechanical wireless keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53480703269_7284a76947_o.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Sergio Rodriguez / How-To Geek
 
@@ -240,39 +167,18 @@ Sergio Rodriguez / How-To Geek
 
 ![Cherry Keys keyboard app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/cherry-keys.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Mark LoProto / How-to Geek
 
  Sometimes, there’s a lot to say about a companion app. However, the [Cherry Keys desktop app](https://www.cherry-world.com/service/software/keys) is a barebones program that doesn’t provide many options when paired with the KW X ULP. You can assign macros, but only to the FN keys. Those already have alternate functions that are helpful for quick navigation, adjusting volume and brightness, or swapping between connections.
 
  It would be nice to have more options for customizing keys, but if you’re not big on creating macros, you won’t even notice Cherry Keys’ limitations.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  The Office-Ready Keyboard Built for Gamers
 
@@ -286,29 +192,22 @@ Mark LoProto / How-to Geek
 
 ![White backlight with red indicator lighting on low-profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53480801350_ae077610ee_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Maybe even more helpful is that status keys like for the Caps lock, Num lock, and Scroll lock turn red when activated. The Windows buttons also turn red when the keyboard’s Gaming mode is activated, and the buttons are disabled to prevent accidental popups mid-game.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Should You Buy Cherry’s KW X ULP Wireless Keyboard?
 
@@ -321,20 +220,6 @@ Sergio Rodriguez / How-To Geek
 ![Cherry KW X ULP ultra thin profile keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/cherry-kw-x-ulp-keyboard.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Cherry KW X ULP
 
@@ -350,8 +235,6 @@ Cherry's KW X ultra-low-profile keyboard features an aluminum frame, mechanical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -359,4 +242,22 @@ Cherry's KW X ultra-low-profile keyboard features an aluminum frame, mechanical 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-streamer-soundscape-the-top-5-headset-guidebook/"><u>[New] 2024 Approved Streamer Soundscape The Top 5 Headset Guidebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-comprehensive-guide-to-great-ig-videos-for-2024/"><u>[New] The Comprehensive Guide to Great IG Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-ios-tutorial-downloading-episodes-effortlessly-for-2024/"><u>[New] Ultimate iOS Tutorial Downloading Episodes Effortlessly for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-altering-gender-display-in-digital-photographs-step-by-step-guide/"><u>[Updated] Altering Gender Display in Digital Photographs Step by Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-explore-free-virtual-music-pulse-analyzers/"><u>2024 Approved Explore Free, Virtual Music Pulse Analyzers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-fine-tune-focus-effective-minecraft-zooming-strategies/"><u>2024 Approved Fine-Tune Focus Effective Minecraft Zooming Strategies</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1726218342705-mkv-aac-movavi/"><u>網路上自由更改 MKV 影片成 AAC格式 - 使用 Movavi 編解碼工具</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-to-efficiently-transform-your-mkv-videos-into-mov-filetype-a-guide-for-windowsmac-users/"><u>How to Efficiently Transform Your MKV Videos Into MOV Filetype: A Guide for Windows/Mac Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimiza-tus-videos-para-la-excelencia-de-calidad-con-winxvideo-ai/"><u>Optimiza Tus Videos Para La Excelencia De Calidad Con Winxvideo AI</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reduzieren-sie-die-grosse-von-hd-4k-und-8k-videos-um-bis-zu-90-einfach-wie/"><u>Reduzieren Sie Die Größe Von HD, 4K Und 8K Videos Um Bis Zu 90 %: Einfach Wie</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/schritt-fur-schritt-anleitung-zum-hinzufugen-von-untertiteln-zu-mp4-videodateien/"><u>Schritt-Für-Schritt-Anleitung Zum Hinzufügen Von Untertiteln Zu MP4-Videodateien</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-into-the-future-elevate-your-gameplay-with-fbx-recorder/"><u>Step Into the Future Elevate Your Gameplay with FBX Recorder</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-mastering-the-art-of-video-editing-on-facebooks-platform/"><u>Step-by-Step Guide: Mastering the Art of Video Editing on Facebook's Platform</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-5-no-cost-video-editing-apps-for-windows-1011-slice-join-and-optimize-your-footage/"><u>Top 5 No-Cost Video Editing Apps for Windows 10/11: Slice, Join & Optimize Your Footage!</u></a></li>
+</ul></div>
 

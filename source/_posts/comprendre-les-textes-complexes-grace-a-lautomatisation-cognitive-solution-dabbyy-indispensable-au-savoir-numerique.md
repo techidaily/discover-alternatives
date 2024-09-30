@@ -1,7 +1,7 @@
 ---
 title: "Comprendre Les Textes Complexes Grâce À L'automatisation Cognitive : Solution D'ABBYY Indispensable Au Savoir Numérique"
-date: 2024-08-26T00:16:28.786Z
-updated: 2024-08-27T00:16:28.786Z
+date: 2024-09-28T17:56:26.933Z
+updated: 2024-09-30T19:53:57.614Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446ee8e6c9838cd48c592632a7.png
@@ -15,13 +15,24 @@ Livre blanc
 
 ![Le besoin incontournable de comprendre les contenus - Livre blanc d'ABBYY](https://static1.abbyy.com/abbyycommedia/33252/24c-inevitable-need-for-understanding-content-fr-262x340.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surmonter l’obstacle de l’automatisation des contenus non structurés, grâce à une approche no-code/low-code
 
 Les événements actuels ont intensifié la pression sur les organisations pour qu’elles intègrent la transformation numérique à leurs plans stratégiques. L’émergence de plateformes de développement low-code et no-code a permis l’essor de nouveaux « citizens developers », et des technologies comme la RPA ont été essentielles lors des premières phases du parcours de nombreuses organisations vers la transformation numérique. Face à de nouvelles urgences, les entreprises avancent maintenant rapidement vers la découverte et l’automatisation de processus plus complexes et de plus grande valeur. Ces processus importants touchent souvent les clients et impliquent inévitablement du contenu non structuré qui doit être traité intelligemment.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Télécharger maintenant!
 
 Téléchargez ce livre blanc pour en savoir plus sur :
@@ -34,8 +45,18 @@ Téléchargez ce livre blanc pour en savoir plus sur :
 Lisez ce livre blanc pour savoir comment les plateformes de traitement intelligent des documents comme ABBYY Vantage répondent à ce besoin et s’inscrivent dans ce nouveau paradigme low/no-code. Faciles à mettre en œuvre, elles satisfont les citizen developers et s’intègrent aux plateformes de RPA et BPM. Vous apprendrez également comment des éléments réutilisables du Marketplace ABBYY peuvent être rapidement utilisés dans de nouvelles initiatives d’automatisation pour vous permettre d’obtenir des résultats commerciaux visibles en peu de temps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Merci de votre intérêt pour ABBYY.
 
 [Lire le livre blanc](https://digital.abbyy.com/hubfs/content/whitepaper-vantage-need-for-understanding-content-fr.pdf "Lire le livre blanc") 
@@ -43,8 +64,12 @@ Lisez ce livre blanc pour savoir comment les plateformes de traitement intellige
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Vous avez des questions ? [Contactez ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.
@@ -105,8 +130,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +137,16 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts/"><u>[New] Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-your-cover-videos-pull/"><u>[Updated] In 2024, Enhancing Your Cover Video's Pull</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-the-2023-landscape-for-screen-captures-and-ppts-for-2024/"><u>[Updated] Navigating the 2023 Landscape for Screen Captures & PPTs for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/converti-rapidamente-i-file-vob-grandi-in-formato-mp4-senza-costi-tutti-e-due-gli-standard/"><u>Converti Rapidamente I File Vob Grandi in Formato MP4 Senza Costi - Tutti E Due Gli Standard</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-create-amazing-mosaic-photo-collage/"><u>How to Create Amazing Mosaic Photo Collage</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/rotacion-de-videos-mp4-sin-perdidas-acciones-faciles-para-girar-por-90-180-y-270-grados/"><u>Rotación De Videos MP4 Sin Pérdidas - Acciones Fáciles Para Girar Por 90, 180 Y 270 Grados</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-tutorial-for-installing-and-using-a-dvd-player-on-windows-1011/"><u>Step-by-Step Tutorial for Installing & Using a DVD Player on Windows 10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-screenshare-experience-discover-the-top-3-methods-to-modify-your-microsoft-teams-backdrop/"><u>Transform Your Screenshare Experience - Discover the Top 3 Methods to Modify Your Microsoft Teams Backdrop</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-guide-successfully-watching-dvds-on-your-nintendo-wii-or-wii-u-console/"><u>Ultimate Guide: Successfully Watching DVDs on Your Nintendo Wii or Wii U Console</u></a></li>
+</ul></div>
 

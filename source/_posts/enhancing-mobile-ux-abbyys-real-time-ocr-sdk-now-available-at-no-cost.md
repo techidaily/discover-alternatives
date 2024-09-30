@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Mobile UX: ABBYY's Real-Time OCR SDK Now Available at No Cost!"
-date: 2024-08-26T00:19:21.509Z
-updated: 2024-08-27T00:19:21.509Z
+date: 2024-09-28T19:16:19.608Z
+updated: 2024-09-30T19:20:01.356Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b7ac3fecaf39cbf4ad53ade68b5607328fb5fc5fabf85fb01691cb6e94c786a0.jpg
@@ -51,8 +51,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,7 +58,30 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-explore-mp4-recording-tools-today-for-2024/"><u>[New] Explore MP4 Recording Tools Today for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-golden-grounds-guided-the-finest-treasure-maps/"><u>[New] Golden Grounds Guided The Finest Treasure Maps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-crafting-an-epic-unboxing-journey/"><u>[New] In 2024, Crafting an Epic Unboxing Journey</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mkv-to-mp4-3/"><u>最高のMKV to MP4 フリーコンバーター: 上位3つの選考に至る理由</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-patching-blues-a-detailed-walkthrough-to-correct-steam-error-130/"><u>Beat the Patching Blues: A Detailed Walkthrough to Correct Steam Error 130</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-frozen-updates-in-windows-10-a-comprehensive-fix-approach/"><u>Bypassing Frozen Updates in Windows 10 - A Comprehensive Fix Approach</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-the-user-friendly-design-and-functionality-of-mods-latest-sidecar-e-bike/"><u>Explore the User-Friendly Design and Functionality of Mod’s Latest Sidecar E-Bike</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enable-and-use-compatibility-mode-for-legacy-software-on-windows-11/"><u>How to Enable and Use Compatibility Mode for Legacy Software on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-usb-30-drivers-available-for-download-on-windows-10/"><u>Latest Intel USB 3.0 Drivers Available for Download on Windows 10</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-hd-video-exports-in-premiere-pro-achieve-crystal-clear-quality-at-108np-resolution-and-60fps-frame-rate-easily/"><u>Mastering HD Video Exports in Premiere Pro: Achieve Crystal Clear Quality at 108nP Resolution & 60FPS Frame Rate Easily!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-on-screen-recording-in-vlc-how-to-include-high-quality-audio/"><u>Mastering On-Screen Recording in VLC: How to Include High-Quality Audio</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-the-art-of-vob-conversion-tips-for-handling-all-dvd-types/"><u>Mastering the Art of VOB Conversion: Tips for Handling All DVD Types</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-video-trimming-on-windows-media-player-tips-and-techniques/"><u>Mastering Video Trimming on Windows Media Player: Tips & Techniques</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/p90x-dvd/"><u>P90X DVDセットの模倣で成功へ:完全ガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/premiere-proavi/"><u>Premiere ProでAviファイルが開けない理由：解決策ガイド</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unrestricted-media-playback-free-on-windows-and-macos/"><u>Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: ABBYY Study Reveals Key Factors Driving Public Abandonment of E-Government Onboarding Processes
-date: 2024-08-26T00:17:09.682Z
-updated: 2024-08-27T00:17:09.682Z
+date: 2024-09-25T16:58:56.556Z
+updated: 2024-09-30T16:19:51.047Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5042e30f7996e1ded01bfda5.jpg
@@ -54,6 +54,13 @@ To learn more about the survey, download [The State of Intelligent Automation Re
 
 This research was conducted by Sapio Research in September 2022 on behalf of ABBYY. The survey was conducted among 1,623 IT decision makers across the UK, US, France, Germany, and Japan and highlights government responses on the challenges and drivers organizations face with digital onboarding. The survey also included responses from IT decision makers in banking, finance, and transportation and logistics.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -65,15 +72,29 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Gina Ray
 
 _ABBYY_
@@ -89,8 +110,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +117,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-iosandroid-apps-for-creative-photo-captions/"><u>[New] 2024 Approved Top iOS/Android Apps for Creative Photo Captions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ompile-of-free-high-quality-sound-clips-for-videos/"><u>[New] Compile of Free, High-Quality Sound Clips for Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-rated-pc-and-mobile-mkv-reader/"><u>[New] Top-Rated PC & Mobile MKV Reader</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-ways-to-record-and-preserve-streaming-sounds-online/"><u>[Updated] 2024 Approved Innovative Ways to Record and Preserve Streaming Sounds Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-explore-top-10-apples-affordable-and-free-image-collage-applications-for-2024/"><u>[Updated] Explore Top 10 Apple's Affordable & Free Image Collage Applications for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726030357743-20248/"><u>新鮮な最先端動画編集ソフトウェア2024選!無料でおすすめランキングトップ8推薦</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/anticipating-the-arrival-of-the-new-ipad-pro-is-it-worth-the-wait/"><u>Anticipating the Arrival of the New iPad Pro: Is It Worth the Wait?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/bypassing-dvd-region-restrictions-for-australian-audiences/"><u>Bypassing DVD Region Restrictions for Australian Audiences</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/easy-step-by-step-tutorial-adding-audio-tracks-to-your-gopro-footage-using-a-computer/"><u>Easy Step-by-Step Tutorial: Adding Audio Tracks to Your GoPro Footage Using a Computer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-strategies-efficiently-saving-rocket-league-matches/"><u>In 2024, Top Strategies Efficiently Saving Rocket League Matches</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mogg-to-mp3-bulk-converter-tutorial-efficient-techniques/"><u>MOGG to MP3 Bulk Converter Tutorial: Efficient Techniques</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726029266179-pc/"><u>PCやスマートフォンから撮影したビデオの音声除去テクニック</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/playing-avi-videos-on-itunes-conversion-and-import-guide/"><u>Playing AVI Videos on iTunes: Conversion & Import Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/professional-screenshot-taker-apowersoft-screen-recorder-for-2024/"><u>Professional Screenshot Taker Apowersoft Screen Recorder for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/tecno-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
 

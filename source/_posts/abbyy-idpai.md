@@ -1,7 +1,7 @@
 ---
 title: カールスバーググループ：世界最大ビールメーカーがABBYY IDP/AI認識ソフトウェア選定
-date: 2024-08-26T00:15:54.881Z
-updated: 2024-08-27T00:15:54.881Z
+date: 2024-09-26T16:31:59.590Z
+updated: 2024-09-30T18:00:11.953Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764cfef6c9d047807d2b22fa28f.jpg
@@ -35,6 +35,13 @@ ABBYY のグローバル・チャネル・チーフであるニール・マー�
 
 ABBYYが提供するインテリジェント・プロセス・オートメーション・プラットフォームには、業界をリードするIDP、プロセスマイニング、およびタスクマイニングソリューションが含まれています。これらには、AIを適用して高速かつシンプルな方法でドキュメントを理解する業界初のローコード／ノーコードプラットフォーム「[ABBYY Vantage（以下、Vantage）](https://tools.techidaily.com/abbyy/products/)」が含まれます。Vantageは、ドキュメントを読み取り、理解し、洞察を抽出するスキルを提供することで、今日のデジタルワーカーとプロセスをよりスマートにし、企業のデジタル変革加速化を支援します。「[ABBYY Timeline](https://tools.techidaily.com/abbyy/products/)」は、最新の人工知能（AI）を使用した高度なプロセスマイニングとタスクマイニング技術を搭載しています。これにより、企業は、業務のインタラクティブなデジタルツインを自動的に構築し、リアルタイムで分析、ボトルネックを特定、将来の結果を予測し、技術投資の意思決定を容易にすることができます。詳細については、下記をご覧ください。<https://www.abbyy.com/solutions/intelligent-process-automation-ipa/>。
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ABBYYについて
 
 ABBYYはインテリジェント・オートメーションを推進するリーディング・カンパニーです。オートメーション・プラットフォームの原動力となるテクノロジーを提供することにより、人々の働き方やビジネス加速の方法に新しいビジョンをもたらしています。ABBYYのソリューションは、企業データを変換し、よりスマートかつ迅速な業務の遂行に必要なインサイトを提供します。 
@@ -48,8 +55,12 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 報道関係者お問い合わせ先
 
 #### 株式会社井之上パブリックリレーションズ 
@@ -65,8 +76,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,4 +83,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>[New] 2024 Approved Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-craft-your-signature-snaps-with-easeful-lens-design/"><u>[New] Craft Your Signature Snaps with Easeful Lens Design</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfecting-the-instagram-story-format-with-youtube-integration/"><u>[Updated] Perfecting the Instagram Story Format with YouTube Integration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-issues-when-vrchat-wont-load-correctly/"><u>How to Resolve Issues When VRChat Won't Load Correctly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-capturing-the-action-overwatch-video-recordings/"><u>In 2024, Capturing the Action Overwatch Video Recordings</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leveraging-digital-intelligence-how-modern-businesses-are-evolving-with-abbyys-insights/"><u>Leveraging Digital Intelligence: How Modern Businesses Are Evolving with ABBYY's Insights</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-merge-videos-without-logos-7-best-software-options/"><u>New 2024 Approved Merge Videos Without Logos 7 Best Software Options</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/personalized-user-experience-with-cookiebot-technology-driving-traffic/"><u>Personalized User Experience with Cookiebot Technology Driving Traffic</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionize-your-user-experience-our-solutions-are-driven-by-cutting-edge-cookiebot-tech/"><u>Revolutionize Your User Experience: Our Solutions Are Driven by Cutting-Edge Cookiebot Tech</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/simplify-your-billing-mastering-invoicing-with-abbyy-and-m-files-solutions/"><u>Simplify Your Billing: Mastering Invoicing with ABBYY & M-Files Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-deinterlacing-solving-the-puzzle-of-interlaced-footage-with-three-effective-techniques/"><u>Understanding Deinterlacing: Solving the Puzzle of Interlaced Footage with Three Effective Techniques</u></a></li>
+</ul></div>
 

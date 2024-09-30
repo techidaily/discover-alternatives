@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Success: Elevate Your Site's Performance"
-date: 2024-08-26T00:17:18.322Z
-updated: 2024-08-27T00:17:18.322Z
+date: 2024-09-25T20:03:52.927Z
+updated: 2024-09-30T18:58:51.899Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab7f55e4985ff315c1fb2d97a.jpg
@@ -23,23 +23,28 @@ January 18, 2023
 
 Im Zentrum dieses Wandels steht eine Technologie, die wir schon seit Jahrzehnten kennen – die optische Zeichenerkennung (OCR). Einst ein einfaches Werkzeug zur Digitalisierung von Text, spielt OCR heute eine entscheidende Rolle beim Training großer Sprachmodelle (LLM) mit hochwertigen Daten. Diese Entwicklung von einem einfachen Textkonvertierungstool zu einem hochentwickelten Datenlieferanten verdeutlicht die Anpassungsfähigkeit und die anhaltende Relevanz von IDP-Technologien. Die alte IDP ebnet den Weg für eine neue Ära, in der Präzision und Kontext von größter Bedeutung sind.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Anwendungen und Herausforderungen der realen Welt
 
 Bei der heutigen [OCR](https://tools.techidaily.com/abbyy/products/) geht es nicht nur darum, Texte zu lesen, sondern sie in ihrer Gesamtheit zu verstehen. Unternehmen verlangen nach höherer Genauigkeit und tieferen Dateneinblicken, was fortschrittlichere und differenziertere IDP-Technologien erforderlich macht. Diese Entwicklung ist jedoch nicht ohne Herausforderungen. Das Gleichgewicht zwischen Genauigkeit und kontextuellem Verständnis ist entscheidend. Wie stellen wir sicher, dass die in KI-Systeme eingespeisten Daten nicht nur korrekt, sondern auch kontextbezogen relevant sind?
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Die Zukunft der intelligenten Dokumentenverarbeitung (IDP)
 
 Die Zukunft der IDP liegt in ihrer Fähigkeit, sich nicht nur weiterzuentwickeln, sondern die Art und Weise, wie wir über Daten und KI denken, zu revolutionieren. Es geht darum, Systeme zu schaffen, die Dokumente nicht nur verarbeiten, sondern sie auch verstehen und nicht nur Daten, sondern auch Erkenntnisse gewinnen. Diese neue IDP wird der Eckpfeiler in der sich ständig weiterentwickelnden KI-Landschaft sein, eine entscheidende Komponente beim Aufbau intelligenterer, effizienterer und intuitiverer Systeme. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Das Innenleben einer modernen IDP
 
 In dieser neuen Ära der IDP ist es wichtig, die technologischen Fortschritte zu verstehen, die diesen Wandel vorantreiben. Der Kern der [modernen intelligenten Dokumentenverarbeitung](https://tools.techidaily.com/abbyy/products/) liegt in der Integration mit fortschrittlichen KI-Techniken, insbesondere im Bereich des maschinellen Lernens und der Verarbeitung natürlicher Sprache.
@@ -56,9 +61,6 @@ Die Integration der Verarbeitung natürlicher Sprache (NLP) bringt IDP noch eine
 
 Das Schöne an modernen IDP-Systemen ist ihre Fähigkeit, ständig zu lernen und sich zu verbessern. Durch die Einbeziehung von Feedback-Schleifen können diese Systeme ihre Algorithmen verfeinern, sich an neue Dokumenttypen anpassen und ihre Genauigkeit im Laufe der Zeit verbessern. Durch diesen kontinuierlichen Lernprozess wird zudem sichergestellt, dass die IDP relevant und effektiv bleibt, auch wenn sich die Arten und Formate der Dokumente weiterentwickeln.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Die Rolle hochwertiger Daten beim Training großer Sprachmodelle (LLMs)
 
 Wenn man versteht, wie LLMs wie GPT-4, Claude, Llama und andere mit von IDP abgeleiteten Daten trainiert werden, wird die symbiotische Beziehung zwischen diesen Technologien deutlich. Hier finden Sie eine Aufschlüsselung des Prozesses:
@@ -84,8 +86,12 @@ Beim Trainingsprozess wird das LLM großen Datenmengen ausgesetzt, damit es lern
 Nach dem Training wird das LLM einer strengen Prüfung und Validierung unterzogen. Dazu gehört die Überprüfung der Fähigkeit, Sprache in verschiedenen Bereichen, Stilen und Formaten zu verstehen und zu erzeugen. Die Rückmeldungen aus dieser Phase fließen in den Trainingskreislauf ein und verfeinern die Fähigkeiten des LLM weiter.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Anbruch einer neuen Ära
 
 Die Aussage „IDP ist tot, es lebe IDP“ ist kein Widerspruch, sondern ein Beweis für die Widerstandsfähigkeit und Weiterentwicklung dieser Technologie. Was wir als IDP kannten, hat sich gewandelt, und an seine Stelle ist ein fortschrittlicherer, integralerer Teil des KI-Ökosystems getreten. Es ist eine aufregende Zeit, Teil dieser Reise zu sein und den Anbruch einer neuen Ära der intelligenten Dokumentenverarbeitung und der künstlichen Intelligenz mitzuerleben. 
@@ -97,8 +103,12 @@ Erfahren Sie, warum ABBYY zum vierten Mal in Folge zum IDP-Marktführer ernannt 
 ![Maxime Vermier ABBYY](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -157,8 +167,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +174,20 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-a-vloggers-guide-to-camera-lenses/"><u>[Updated] 2024 Approved A Vlogger's Guide To Camera Lenses</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[Updated] 2024 Approved Free YouTube Subtitled Content Download Without Paying</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cutting-edge-approaches-to-mov-file-recordings-on-windows-10/"><u>[Updated] Cutting-Edge Approaches to MOV File Recordings on Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-metaverse-meets-omniverse-a-comparative-guide/"><u>[Updated] Metaverse Meets Omniverse A Comparative Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/achieve-seamless-integration-the-step-by-step-process-of-updating-targus-drivers-on-windows-os/"><u>Achieve Seamless Integration: The Step-by-Step Process of Updating Targus Drivers on Windows OS</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/optimal-user-profile-selection-during-windows-11-installation-tips-and-decision-guide/"><u>Optimal User Profile Selection During Windows 11 Installation - Tips & Decision Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-italian-explorers-vocabulary-100plus-must-learn-phrases/"><u>The Italian Explorer’s Vocabulary: 100+ Must-Learn Phrases</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/understanding-video-compression-a-thorough-explanation-from-wonderfox/"><u>Understanding Video Compression: A Thorough Explanation From WonderFox</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/windows-10web/"><u>Windows 10上でシームレスなWeb会議を捉え続ける方法：全面的なガイドブック</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/windows-10-vob-mp4/"><u>Windows 10向け VOB から MP4への変換最強ツールと使い方完全ガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/windowsgopro/"><u>Windows上でGoPro映像をスムーズに回転・反転するテクニック</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/youtubeyoutubed/"><u>YouTube動画の字幕文字への変換手順【YouTubed字幕テキスト化】</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/youtubemp3-chrome/"><u>YouTube音楽動画MP3ダウンロード手順 - Chrome拡張機能</u></a></li>
+</ul></div>
 

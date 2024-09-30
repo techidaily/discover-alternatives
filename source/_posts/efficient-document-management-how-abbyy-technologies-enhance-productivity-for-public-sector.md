@@ -1,7 +1,7 @@
 ---
 title: "Efficient Document Management: How ABBYY Technologies Enhance Productivity for Public Sector"
-date: 2024-08-26T00:18:01.391Z
-updated: 2024-08-27T00:18:01.391Z
+date: 2024-09-27T18:29:18.962Z
+updated: 2024-09-30T20:06:20.617Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76bcacfc4b43e4f27ded6f318e.jpg
@@ -25,9 +25,23 @@ Government | Accounts Payable Automation
 
 ![](https://static1.abbyy.com/abbyycommedia/15760/montgomery.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Department of Technology Services, Montgomery County Government](https://static4.abbyy.com/abbyycommedia/15460/montgomery-county_155.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name                  | Department of Technology Services, Montgomery County Government                       |
 | --------------------- | ------------------------------------------------------------------------------------- |
@@ -55,23 +69,21 @@ Inefficient OCR and the need to correct scanned timesheet information was costin
 
 ###### SEE HOW ABBYY CAN HELP
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### over **10,000**
 
 timesheets to process bi-monthly
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### a **3**\-day
 
 processing cycle
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **1** person
 
 to do the job
@@ -126,20 +138,21 @@ Having enjoyed the initial results of its year-long work with ABBYY’s solution
 
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Government](https://static2.abbyy.com/abbyycommedia/14361/11-government.jpg)](https://tools.techidaily.com/abbyy/products/) [Government](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static2.abbyy.com/abbyycommedia/15761/montgomery1.png)](https://static1.abbyy.com/abbyycommedia/1039/fc%5Fmontgomerycounty%5Fgovernment%5F2014.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/1039/fc%5Fmontgomerycounty%5Fgovernment%5F2014.pdf "PDF version") 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 [read more](https://static1.abbyy.com/abbyycommedia/1039/fc%5Fmontgomerycounty%5Fgovernment%5F2014.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -150,9 +163,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -165,8 +175,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +182,18 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-hourly-hitlist-the-leading-youtube-videos-by-watch-time/"><u>[New] In 2024, Hourly Hitlist The Leading YouTube Videos by Watch Time</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/sized-broadcasting-maintaining-quality-in-quick-posts-for-2024/"><u>Bite-Sized Broadcasting Maintaining Quality in Quick Posts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-leveraging-desktop-utilities-and-applications-in-media-file-handling/"><u>Comprehensive Strategies for Leveraging Desktop Utilities and Applications in Media File Handling</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebots-advanced-data-collection-technology-transforming-online-engagement-strategies/"><u>Cookiebot's Advanced Data Collection Technology - Transforming Online Engagement Strategies</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-by-the-power-of-cookiebot-software/"><u>Enhanced by the Power of Cookiebot Software</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-user-experience-with-advanced-automated-bots/"><u>Enhanced User Experience with Advanced Automated Bots</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-user-experience-with-dynamic-content-delivery-the-power-of-cookiebot-technology/"><u>Enhanced User Experience with Dynamic Content Delivery: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhancing-digital-presence-leveraging-the-efficient-power-of-cookiebot-technology/"><u>Enhancing Digital Presence: Leveraging the Efficient Power of Cookiebot Technology</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insight-on-the-performance-and-features-of-samsung-galaxy-note20-ultra-5g/"><u>Expert Insight on the Performance and Features of Samsung Galaxy Note20 Ultra 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-hardware-reviews/"><u>Tom's Tech Hub: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transformative-youtube-decks-via-tailored-templates-for-2024/"><u>Transformative Youtube Decks via Tailored Templates for 2024</u></a></li>
+</ul></div>
 

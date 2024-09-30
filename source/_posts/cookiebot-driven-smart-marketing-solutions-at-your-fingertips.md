@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Smart Marketing Solutions at Your Fingertips
-date: 2024-08-26T00:19:14.016Z
-updated: 2024-08-27T00:19:14.016Z
+date: 2024-09-26T17:26:28.193Z
+updated: 2024-09-30T19:49:11.184Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720e595c798abbf52d66cb7d09.jpg
@@ -15,6 +15,13 @@ Report
 
 ![](https://static1.abbyy.com/abbyycommedia/35250/145-ia-solutionsandservices-idp-262x340.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ABBYY named 2021 leader of Intelligent Document Processing
 
 The 2021 ISG Provider Lens™ Intelligent Automation – Solutions and Services report placed ABBYY in the leading position for IDP solutions.
@@ -22,41 +29,44 @@ The 2021 ISG Provider Lens™ Intelligent Automation – Solutions and Services 
 **ABBYY stands out for its industry proven portfolio of solutions that leverage these technologies coupled with strategic global partnerships with major RPA and other intelligent automation vendors and customer-centric sales teams. ABBYY provides customers with the Content Intelligence they need to maintain a competitive edge and gain business value.**
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Download it now!
 
 ![](https://static1.abbyy.com/abbyycommedia/35087/intelligent-document-processing-isg-matrix.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ISG Provider Lens™ quadrant focuses on providers that offer proprietary software products or solutions for the automated discovery, analysis and processing of documents across an organization. More than 80 percent of companies have realized that they cannot unlock the true value of intelligent automation without a strong data foundation.
 
 Going beyond traditional optical character recognition (OCR), ISG defines IDP as software that uses artificial intelligence (AI) technologies such as natural language processing (NLP), machine learning (ML), computer vision, and deep learning to filter and analyze large volumes of unstructured data from multiple formats (I.e. emails, PDFs, Excel, Word, or images) for further processing, storage, and use in other applications.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Thank you for your interest in ABBYY.
 
 [Read the report](https://digital.abbyy.com/hubfs/documents/content/analystreport-intelligent-document-processing-isg-provider-lens-en.pdf "Read the report") 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### You might also be interested in...
 
 [![Quadrant Knowledge Solutions SPARK Matrix 2021](https://static3.abbyy.com/abbyycommedia/35006/137-abbyy-is-leader-in-spark-matrix-2021-en-360x232.jpg) ABBYY Named 2021 Technology Leader of IDP in the Quadrant Knowledge Solutions SPARK Matrix See report](https://digital.abbyy.com/hubfs/documents/content/analystreport-intelligentdocumentprocessing-quadrantknowledgesolutions-en.pdf "ABBYY Named 2021 Technology Leader of IDP in the Quadrant Knowledge Solutions SPARK Matrix")[![ABBYY Vantage IDP](https://static4.abbyy.com/abbyycommedia/34808/vantage-new-product-video.jpg) ABBYY Vantage: Intelligent Document Processing Platform for the Digital Workforce Learn more](https://www.abbyy.com/vantage/ "ABBYY Vantage: Intelligent Document Processing Platform for the Digital Workforce")[![Intelligent Document Processing | ABBYY Blog](https://static1.abbyy.com/abbyycommedia/34870/ap-content-2-848x444.jpg) What Is Intelligent Document Processing (IDP), and How Does It Work? Read article](https://www.abbyy.com/blog/intelligent-document-processing/ "What Is Intelligent Document Processing (IDP), and How Does It Work?") 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.
@@ -117,8 +127,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +134,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-supercharged-video-engagement-with-youtube-notes-for-2024/"><u>[New] Guide to Supercharged Video Engagement with YouTube Notes for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-complete-overview-regulating-snapchats-video-velocity-for-2024/"><u>[Updated] A Complete Overview Regulating Snapchat's Video Velocity for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-why-does-your-facebook-message-feature-a-blue-emoji-uncovering-its-relevance-for-2024/"><u>[Updated] Why Does Your FaceBook Message Feature a Blue Emoji? Uncovering Its Relevance for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-snap-instantly-with-iphone-time-lapse-tips/"><u>2024 Approved Snap Instantly with iPhone Time Lapse Tips</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-broadcast-quality-using-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Broadcast Quality Using ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-broadcasts-with-manycam-top-ranked-live-video-software-featuring-virtual-webcam-technology/"><u>Enhance Your Broadcasts with ManyCam - Top-Ranked Live Video Software Featuring Virtual Webcam Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-lava-blaze-2-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Lava Blaze 2 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/live-stream-pro-multicam-integration-with-manycam-features/"><u>Live Stream Pro: MultiCam Integration with ManyCam Features</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/live-streaming-mastery-with-manycam-professional-webcam-solutions-and-applications/"><u>Live Streaming Mastery with ManyCam: Professional Webcam Solutions and Applications</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-webcam-and-hd-video-enhancement/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Webcam and HD Video Enhancement</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/live-streaming-pro-explore-manycam-features-and-virtual-camera-capabilities/"><u>Live Streaming Pro: Explore ManyCam Features and Virtual Camera Capabilities</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/livestream-pro-multi-camera-recording-and-online-streaming-with-manycam-integration/"><u>LiveStream Pro: Multi-Camera Recording and Online Streaming with ManyCam Integration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/master-live-broadcasts-with-manycam-premium-virtual-webcam-solutions-unveiled/"><u>Master Live Broadcasts with ManyCam - Premium Virtual Webcam Solutions Unveiled</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapping-sharing-how-to-send-images-with-a-single-touch/"><u>Snapping, Sharing How To Send Images With a Single Touch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tgatiff-movavi/"><u>TGA/TIFF 이미지를 구체화하기 – 모바비 무료 변환 도구 (Movavi와 유사한 제안)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlock-visual-storytelling-potential-with-snapchat-edits-for-2024/"><u>Unlock Visual Storytelling Potential with Snapchat Edits for 2024</u></a></li>
+</ul></div>
 

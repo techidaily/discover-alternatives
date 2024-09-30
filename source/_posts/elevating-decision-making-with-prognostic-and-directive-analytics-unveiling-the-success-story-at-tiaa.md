@@ -1,7 +1,7 @@
 ---
 title: "Elevating Decision-Making with Prognostic and Directive Analytics: Unveiling the Success Story at TIAA"
-date: 2024-08-26T00:16:46.139Z
-updated: 2024-08-27T00:16:46.139Z
+date: 2024-09-28T19:21:09.221Z
+updated: 2024-09-30T16:59:48.596Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f9ba460d1a5d5ea60dfb5a94.jpg
@@ -19,11 +19,22 @@ March 16, 2023 | English
 
 ![Bruce Orcutt 198X198](https://static4.abbyy.com/abbyycommedia/35123/logo-2021-90x27.svg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Bruce Orcutt 198X198](https://static1.abbyy.com/abbyycommedia/36289/bruce-orcutt-198x198.png)
 
 <!-- affiliate ads begin -->
-
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Bruce Orcutt
 
 Senior Vice President of Product Marketing, **ABBYY**
@@ -33,15 +44,16 @@ Senior Vice President of Product Marketing, **ABBYY**
 ![Justin Reinking 198X198](https://static4.abbyy.com/abbyycommedia/36894/justin-reinking-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Justin Reinking
 
 Sr. Director of Reporting and Analytics, **TIAA**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Improve the future of work with new process mining capabilities for strategic decision-making
 
 Today’s business leaders need to be able to identify and quickly take action on ways they can strategically and thoughtfully reduce unnecessary costs, yet enable growth opportunities.
@@ -57,9 +69,6 @@ Check out this session where Justin is joined by Bruce Orcutt, Senior Vice Presi
   
 Watch now and hear real-world lessons learned from a process improvement visionary.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Watch now
 
 ### Get in touch with us
@@ -72,15 +81,29 @@ All personal information collected via this method is under full scope of all pr
 [![Improve Decision Making 643](https://static2.abbyy.com/abbyycommedia/36893/improve-decision-making-643.jpg)](https://www.youtube.com/watch?v=ogn1GDRrEMs) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [![ABBYY Named a 2022 Leader in Intelligent Document Processing and Process Discovery & Mining](https://static4.abbyy.com/abbyycommedia/36500/isg-report-2022.jpg) ABBYY Named a 2022 Leader in IDP and Process Discovery & Mining Download report](https://www.abbyy.com/resources/report/intelligent-document-processing-and-mining-isg-provider-lens/ "ABBYY Named a 2022 Leader in IDP and Process Discovery & Mining")[![ABBYY Whitepaper: Combining Process & Task Mining for Greater Insight](https://static3.abbyy.com/abbyycommedia/35906/14946-whitepaper-nelsonhall-2022-en-360x232.jpg) Combining Process & Task Mining for Greater Insight Download whitepaper](https://www.abbyy.com/resources/whitepaper/combining-process-task-mining-for-greater-insight/ "Combining Process & Task Mining for Greater Insight")[![ABBYY Timeline 6.0 Accelerates Operational Excellence by Helping Organizations Find their ‘Primary Path’](https://static5.abbyy.com/abbyycommedia/36784/timeline-webinars.jpg) ABBYY Timeline 6.0 Accelerates Operational Excellence by Helping Organizations Find their ‘Primary Path’ Read blog](https://www.abbyy.com/blog/abbyy-timeline-release-6-accelerates-operational-excellence/ "ABBYY Timeline 6.0 Accelerates Operational Excellence by Helping Organizations Find their ‘Primary Path’") 
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -137,8 +160,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +167,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/1726030504666-pc/"><u>「PC画面録画専用、無料ソフトで高耐久性紹介」</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>2024 Approved Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-wmv-video-players-compatible-with-macos-windows-11-and-10/"><u>Best WMV Video Players Compatible with MacOS, Windows 11 & 10</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/dvdipad-6-and/"><u>DVDからiPadへ簡単移行! - 6推した無料アプリをご紹介 - レビュー&口コミ集</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adding-captions-to-videos-using-microsoft-photos-windows-11/"><u>In 2024, Adding Captions to Videos Using Microsoft Photos (Windows 11)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-the-craft-of-digital-cinematography-with-ipad-for-2024/"><u>Mastering the Craft of Digital Cinematography with iPad for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-time-lapse-a-guide-with-gopro-studio/"><u>Mastering Time-Lapse A Guide with GoPro Studio</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-transferring-your-dvds-into-digital-format-across-pc-mac-and-mobile/"><u>Step-by-Step Guide: Transferring Your DVDs Into Digital Format Across PC, Mac and Mobile</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-13-no-cost-dvd-player-apps-compatible-with-windows-11-a-comprehensive-guide/"><u>Top 13 No-Cost DVD Player Apps Compatible with Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unveiling-the-secrets-behind-microsofts-latest-update-addressing-privacy-concerns-amidst-the-recall-feature-debate/"><u>Unveiling the Secrets Behind Microsoft's Latest Update - Addressing Privacy Concerns Amidst the Recall Feature Debate</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725289014560-winxvideo-ai/"><u>WinxVideo AI 正式推出:高端影片編輯解決方案及其對應的標準</u></a></li>
+</ul></div>
 

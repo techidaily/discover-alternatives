@@ -1,7 +1,7 @@
 ---
 title: "1. Revolutionize Your Financial Workflow: Scena's Supplier Invoice & Credit Note Management Triumphs with ABBYY and Engeneum Integration, Cutting Processing Time by 60%% for Enhanced Efficiency with Sage™ - A Success Story"
-date: 2024-08-26T00:17:06.480Z
-updated: 2024-08-27T00:17:06.480Z
+date: 2024-09-26T18:01:01.785Z
+updated: 2024-09-30T17:37:33.156Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf84d67c3864e5678ef96194e7.jpg
@@ -19,11 +19,25 @@ Other | Accounts Payable Automation
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scena automates supplier invoice & credit note processing with ABBYY and Engeneum, saving 60% of processing time with an automated seamless connection to Sage™
 
 Other | Accounts Payable Automation 
 
 ![Sumitomo Warehouse Co. Ltd. & ABBYY](https://static4.abbyy.com/abbyycommedia/31985/02-scena-cover-556x303.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -90,6 +104,13 @@ The solution let’s Scena:
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Learn more about ABBYY solutions for accounts payable automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY Solutions for Accounts Payable Automation](https://tools.techidaily.com/abbyy/products/) 
@@ -98,11 +119,15 @@ The solution let’s Scena:
 
 [![Download the PDF version](https://static4.abbyy.com/abbyycommedia/31986/02d-scena-cover-360x162.jpg)](https://static5.abbyy.com/abbyycommedia/31959/12622-case-study-scena-eng.pdf "PDF Version") [PDF Version](https://static5.abbyy.com/abbyycommedia/31959/12622-case-study-scena-eng.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Read the document](https://static5.abbyy.com/abbyycommedia/31959/12622-case-study-scena-eng.pdf "PDF Version") 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -115,8 +140,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +147,24 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-androids-best-podcast-apps-top-6-revealed/"><u>[New] Explore Android's Best Podcast Apps - Top 6 Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-your-story-game-applying-fun-sticker-themes-for-2024/"><u>[Updated] Enhance Your Story Game Applying Fun Sticker Themes for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-minimiser-les-videos-lourdes-pour-facebook-la-solution-parfaite/"><u>Comment Minimiser Les Vidéos Lourdes Pour Facebook : La Solution Parfaite</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-online-presence-top-virtual-camcorders-like-manycam-revolutionizing-video-streaming/"><u>Enhance Online Presence: Top Virtual Camcorders Like ManyCam Revolutionizing Video Streaming</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-broadcast-quality-using-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Broadcast Quality Using ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-broadcasts-with-manycam-top-ranked-live-video-software-featuring-virtual-webcam-technology/"><u>Enhance Your Broadcasts with ManyCam - Top-Ranked Live Video Software Featuring Virtual Webcam Technology</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f54-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F54 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-memory-mine-for-moments/"><u>In 2024, Memory Mine for Moments</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-infinix-note-30-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Infinix Note 30 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-the-lg-k51-attractive-design-undermined-by-lagging-performance/"><u>In-Depth Evaluation of the LG K51: Attractive Design Undermined by Lagging Performance</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/live-stream-pro-multicam-integration-with-manycam-features/"><u>Live Stream Pro: MultiCam Integration with ManyCam Features</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/live-streaming-mastery-with-manycam-professional-webcam-solutions-and-applications/"><u>Live Streaming Mastery with ManyCam: Professional Webcam Solutions and Applications</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-webcam-and-hd-video-enhancement/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Webcam and HD Video Enhancement</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/live-streaming-pro-explore-manycam-features-and-virtual-camera-capabilities/"><u>Live Streaming Pro: Explore ManyCam Features and Virtual Camera Capabilities</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/livestream-pro-multi-camera-recording-and-online-streaming-with-manycam-integration/"><u>LiveStream Pro: Multi-Camera Recording and Online Streaming with ManyCam Integration</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+</ul></div>
 

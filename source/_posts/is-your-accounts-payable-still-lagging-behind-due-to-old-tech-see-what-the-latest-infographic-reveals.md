@@ -1,7 +1,7 @@
 ---
 title: Is Your Accounts Payable Still Lagging Behind Due To Old Tech? See What The Latest Infographic Reveals!
-date: 2024-08-30T11:30:50.991Z
-updated: 2024-08-31T11:30:50.991Z
+date: 2024-09-24T17:45:48.360Z
+updated: 2024-09-30T18:15:31.752Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fe76b6185e26f2c7036c1e782f8aa4282a912d0cf8002f2ddafcfc14bd50d2eb.jpg
@@ -12,8 +12,6 @@ thumbnail: https://thmb.techidaily.com/fe76b6185e26f2c7036c1e782f8aa4282a912d0cf
 1/ 1100%实际尺寸适合宽度适合高度适合页面自动
 
 Bring your AP department into the now with invoice processing and payment automation that is best in class, easy to use, and integrates into your existing systems, processes, and user experience. There’s truly no time like the present. Is Your AP Automation Stuck in the Past? MODERN AP automation solutions take advantage of AI-driven machine learning and neural networks to deliver unprecedented accuracy in recognizing and extracting invoice data of any level of complexity, achieving straight-through processing with results like: 91 % 81 % This takes more than eliminating paper with digitization and OCR. You need modern intelligent automation to achieve higher rates of straight-through processing, stay flexible to manage changes, and provide your citizen developers with fast implementation. MODERN AP automation solutions must consider whether existing processes are designed for automation or what changes are needed to support it. They take a holistic approach to improving Accounts Payable efﬁciency by using Process Intelligence, so automation results in as much as: MODERN AP automation solutions must consider user experience and user adoption—ready-to-run out of the box with superior quality. They make the work of the AP department easier, so people want to use them. PROCESSING INVOICES 77% 64% SENDING PAYMENT TO SUPPLIERS What makes a modern AP automation solution? Most popular AP employee tasks: Most AP automation processes are not well adopted by employees and don’t deliver great results. Even if invoices can be received electronically, the processes are built around manual data entry and late archiving, which throttles any beneﬁts of basic automation. Accuracy, efﬁciency, and visibility Digitizing paper invoices is a great idea, but that’s as far as some AP departments go in their efforts to automate, continually processing invoices with the same inefficient, manual approaches. Without redesigning their processes for automation of invoice capture at the point of entry, they will never achieve the desired results. Don’t stay stuck in the past! AP automation should deliver the accuracy, efficiency, and visibility that it promises. WE’LL SHOW YOU HOW... All of these cost savings go directly to your bottom line and show up in your performance metrics. 75% of AP teams report invoice volume continuing to increase. 75% IOFM, 2022 1 ABBYY Accounts Payable Automation Solutions 2 2021 Payables Insight Report, Endava 3 400% increase in employee productivity ABBYY Accounts Payable Automation Solutions PROCESSING EXPENSE REPORTS 57% 10% years SOURCES: 1 [www.iofm.com/ap/benchmarking/latest-iofm-data/longer-hours-lead-to-ap-burnout](https://www.iofm.com/ap/benchmarking/latest-iofm-data/longer-hours-lead-to-ap-burnout) 2 [www.abbyy.com/solutions/accounts-payable-automation](https://tools.techidaily.com/abbyy/products/) 3 [www.levvel.io/resource-library/access/2021-payables-insight-report](http://www.levvel.io/resource-library/access/2021-payables-insight-report) 4 [www.cpapracticeadvisor.com/2021/06/28/ap-automation-is-taking-off-in-small-and-mid-sized-businesses/44409/](http://www.cpapracticeadvisor.com/2021/06/28/ap-automation-is-taking-off-in-small-and-mid-sized-businesses/44409/) lower invoicing costs faster invoice processing time Get your invoice processing in the modern age. AP automation is nothing new... but the need for it is greater than ever. ONLY AP Automation Is Taking Off in Small and Mid-Sized Businesses 4 of businesses have fully automated their AP process ABBYY has been helping businesses automate and improve document-intensive processes for Reimagine your Accounts Payable department with ABBYY. 30 [Learn more](https://tools.techidaily.com/abbyy/products/) © ABBYY 2023\. ABBYY is a registered trademark or a trademark of ABBYY Development Inc. and/or its affiliates. This designation can also be logo, product, or company name (or part of any of the above) of ABBYY Development Inc. and/or its affiliates and may not be used without consent of their respective owners. All other product names and trademarks mentioned herein are the property of their respective owners. #12937 
-
-
 
 0/0
 
@@ -31,8 +29,6 @@ Bring your AP department into the now with invoice processing and payment automa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -40,7 +36,31 @@ Bring your AP department into the now with invoice processing and payment automa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-quit-quickly-leave-facebook-lives-on-pc-and-pads/"><u>[New] In 2024, Quit Quickly Leave Facebook Lives on PC & Pads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-navigating-apples-content-downloading-with-ease/"><u>[New] Navigating Apple's Content Downloading with Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-comfortable-cinematography-amidst-the-chill/"><u>[Updated] In 2024, Crafting Comfortable Cinematography Amidst the Chill</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>[Updated] In 2024, Unleash Video Potential Top 4K Downloader Apps Reviewed</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/compact-powerhouse-unpacking-the-performance-of-the-msi-cube-5-12m-mini-pc/"><u>Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comprehensive-guide-to-ifixit-professional-tech-gadgets-the-ultimate-resource-for-every-diy-enthusiast/"><u>Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/expert-insights-on-the-google-pixel-eight-outstanding-performance-meets-high-cost-dilemma/"><u>Expert Insights on the Google Pixel Eight: Outstanding Performance Meets High Cost Dilemma</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/exploring-the-efficiency-and-functionality-of-the-logitech-combo-touch-as-a-competitive-replacement-to-apples-classic-ipad-keyboard/"><u>Exploring the Efficiency and Functionality of the Logitech Combo Touch as a Competitive Replacement to Apple’s Classic iPad Keyboard</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/exploring-the-hoverair-x1-the-revolutionary-purpose-driven-self-flying-camera-drone-experience/"><u>Exploring the HoverAir X1: The Revolutionary, Purpose-Driven Self-Flying Camera Drone Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-11-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme 11 Pro Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone X</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/precision-and-power-in-your-hands-the-ultimate-guide-to-the-gamesir-x2s-type-c-review/"><u>Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reviewing-the-functionality-and-responsiveness-of-cherry-kw-x-ulp-board-for-gamers-and-typists-sturdy-clicky-mechanisms-reviewed/"><u>Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strategies-for-avoiding-layer-displacement-faults-during-3d-printing-process/"><u>Strategies for Avoiding Layer Displacement Faults During 3D Printing Process</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlock-the-secret-to-free-football-mastery-with-downloads-of-expert-moves-and-strategies/"><u>Unlock the Secret to Free Football Mastery with Downloads of Expert Moves and Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-neo-5-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT Neo 5 Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

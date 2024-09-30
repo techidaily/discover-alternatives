@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Worldwide Financial Tides: How They Reshape AI Objectives - Insights From the Intelligent Automation Analysis Report"
-date: 2024-08-26T00:19:35.339Z
-updated: 2024-08-27T00:19:35.339Z
+date: 2024-09-24T16:53:10.597Z
+updated: 2024-09-30T16:30:26.042Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc1c73b73894ec43a1b1c5c03.jpg
@@ -31,8 +31,6 @@ Total France Germany UK USA At least 1x cost of investment 31% 33% 28% 32% 31% A
 
 Monitoring software (software that monitors processes and how you complete tasks) Intelligent document processing platforms (automatic digitization of documents) Data analysis and insights (e.g. Tableau, Power BI, Qlikview) Artiﬁcial Intelligence Mobile productivity apps (e.g. mobile app scanners or PDF converters) None of the above To tal France UK USA 58% 49% 56% 60% 66% 53% 42% 56% 57% 58% 53% 45% 50% 56% 60% 52% 42% 51% 57% 58% 50% 40% 46% 58% 56% 2% 4% 2% 0% 1% Germany Does your company use any of the following Monitoring software, intelligent document processing platforms, and data analysis and insights are the most utilized technologies, however AI and mobile productivity apps are also recognized by respondents. • Unsurprisingly, the larger the organization, the more technologies are being used. Technologies are utilized the most in organizations with 4000-4999 employees (an average of 66% vs an average of 44% in an organization with 250-299 employees). • Manufacturing, Software/Technology and Hospitality are the biggest adopters of the listed technologies, whereas Agriculture • Compared to 2021, there has been an increase in companies using all technologies except for mobile productivity apps (decrease by 1%). Monitoring software (15%) and AI (12%) saw the largest increase in adoption. • In 2023, we are seeing more focus on monitoring software and intelligent document processing platforms, whilst AI is still a key focus area for respondents in their organizations \- compared to 2019, where AI and automation systems were the top solutions implemented by respondents. 
 
-
-
 0/0
 
 匹配案例每页限制结果 1 个
@@ -61,15 +59,11 @@ Monitoring software (software that monitors processes and how you complete tasks
 
 [![Created with BuildVu](https://www.abbyy.com/buildvu-logo.png)](https://www.idrsolutions.com/online-pdf-to-html-converter)
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -78,7 +72,31 @@ Monitoring software (software that monitors processes and how you complete tasks
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-vllevaluation-insight-into-app-quality/"><u>[New] VLLEvaluation Insight Into App Quality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-insiders-guide-to-creating-viral-instagram-reels-for-2024/"><u>[Updated] The Insider’s Guide to Creating Viral Instagram Reels for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726029678312-2024/"><u>画質を下げる方法:2024動画編、初心者も簡単に学べるテクニック</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726027583233-dvd/"><u>既製DVD素材を迅速かつ容易にデジタルデータへ変換するテクニック</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726029539908-flvmp4/"><u>無料のツールで簡単にFLV動画をMP4形式に変換する手順</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciphering-average-income-the-podcasters-guide/"><u>Deciphering Average Income The Podcaster's Guide</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726026484083-gif/"><u>GIFからフルビデオへの変換テクニック集</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-movaviafree-directly-convert-raf-to-jpeg-online-and-save/"><u>Gratis MOVAVIAFree: Directly Convert RAF to JPEG Online and Save!</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-3-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord 3 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-lava-yuva-2-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Lava Yuva 2 Pro Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone X</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-google-pixel-8-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Google Pixel 8 Pro FRP Bypass</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726030134675-iphone/"><u>IPhoneでスムーズに動画連携方法 - 一つの動画から次へ</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726030237756-tiktok/"><u>TikTokストーリーコレクション:最新ツールで保管し続ける方法</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726026369558-windows-11/"><u>Windows 11による動画からの静止画取得とセーブ手順</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726029492250-aviutlmp4/"><u>プラグインレスにAviUtlでMP4へのダビュー・保存が可能な高度動画エディットツール</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

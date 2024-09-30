@@ -1,7 +1,7 @@
 ---
 title: "The Competitive Edge of ABBYY Recognition Server: Seamless Patent Discovery and Clarity Boosts Efficiency at RWS"
-date: 2024-08-26T00:18:19.085Z
-updated: 2024-08-27T00:18:19.085Z
+date: 2024-09-26T16:33:20.058Z
+updated: 2024-09-30T17:54:57.921Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e935ed979e13eb915c45489fc.jpg
@@ -19,15 +19,42 @@ BPO and Shared Services | Digital Archiving
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Benefits of ABBYY Recognition Server Patently Clear to RWS
 
 Other | Digital Archiving 
 
 ![](https://static1.abbyy.com/abbyycommedia/14330/3-rws_rs_e.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![RWS](https://static4.abbyy.com/abbyycommedia/14444/rws.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name         | RWS                               |
 | ------------ | --------------------------------- |
@@ -52,23 +79,14 @@ RWS is recognised as one of the world's leading patent translation and search co
 
 ###### SEE HOW ABBYY CAN HELP
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **24/7**
 
 OCR functions available to all employees
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### **28** million pages
 
 converted in only 7 months
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **£100,000**
 
 saved on reduced labour costs and licensing expenses
@@ -117,19 +135,20 @@ ROI on the first rollout of Recognition Server was achieved within a 12 month pe
 
 [![ABBYY Recognition Server has rebranded as ABBYY FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (now FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![BPO](https://static2.abbyy.com/abbyycommedia/14364/14-bpo.jpg)](https://tools.techidaily.com/abbyy/products/) [BPO](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static5.abbyy.com/abbyycommedia/14329/3a-rws_rs_e_small.jpg)](https://static4.abbyy.com/abbyycommedia/5496/cs%5Frws%5Frs%5Fe.pdf "PDF version") [PDF version](https://static4.abbyy.com/abbyycommedia/5496/cs%5Frws%5Frs%5Fe.pdf "PDF version") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [read more](https://static4.abbyy.com/abbyycommedia/5496/cs%5Frws%5Frs%5Fe.pdf "PDF version") 
 
@@ -141,9 +160,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -156,8 +172,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +179,20 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-masterfb-mp4-hacking-facebook-videos-with-ease/"><u>[New] 2024 Approved MasterFB-MP4 Hacking Facebook Videos with Ease</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enhancing-minecraft-through-optimal-ram-assignment/"><u>[New] Enhancing Minecraft Through Optimal RAM Assignment</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-from-novice-to-influencer-a-step-by-step-fb-live-blueprint/"><u>[New] In 2024, From Novice to Influencer A Step-by-Step FB Live Blueprint</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-humor-hive-undead-jester-creators/"><u>[Updated] In 2024, Humor Hive Undead Jester Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-restoring-classic-photo-viewing-on-the-modern-windows-11/"><u>[Updated] Restoring Classic Photo Viewing on the Modern Windows 11</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-announces-linda-ameurs-appointment-to-head-commerce-division-in-france-fresh-updates/"><u>ABBYY Announces Linda Améur's Appointment to Head Commerce Division in France - Fresh Updates</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-signs-exclusive-brand-license-agreement-with-xerox-expanding-document-solutions/"><u>ABBYY Signs Exclusive Brand License Agreement with Xerox: Expanding Document Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-lead-capture-with-the-help-of-cookiebot-technology/"><u>Automated Lead Capture with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/blog-post-exploring-how-cyber-intelligence-tools-are-revolutionizing-covid-1/"><u>Blog Post: Exploring How Cyber Intelligence Tools Are Revolutionizing COVID-1</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ideal-shade-modifier-software/"><u>Ideal Shade Modifier Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solutions-to-combat-elephant-foot-in-your-3d-printed-creations/"><u>Solutions to Combat Elephant Foot in Your 3D Printed Creations</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-idpai/"><u>カールスバーググループ：世界最大ビールメーカーがABBYY IDP/AI認識ソフトウェア選定</u></a></li>
+</ul></div>
 

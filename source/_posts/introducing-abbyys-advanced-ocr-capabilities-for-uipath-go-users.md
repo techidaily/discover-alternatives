@@ -1,7 +1,7 @@
 ---
 title: Introducing ABBYY's Advanced OCR Capabilities for UiPath GO Users
-date: 2024-08-26T00:18:10.016Z
-updated: 2024-08-27T00:18:10.016Z
+date: 2024-09-24T19:01:49.057Z
+updated: 2024-09-30T19:53:22.388Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda6764b32f863c3da9da1ce561fb.jpg
@@ -70,8 +70,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,8 +77,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-clearview-recorder-xtreme-win10/"><u>[New] ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sizzling-skills-7-keys-for-scrumptious-video-cooking/"><u>[Updated] Sizzling Skills 7 Keys for Scrumptious Video Cooking</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-revolutionizes-fda-document-management-with-its-advanced-intelligent-automation-technology/"><u>ABBYY Revolutionizes FDA Document Management with Its Advanced Intelligent Automation Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyys-latest-update-innovative-ios-app-transforms-with-social-network-scanning-and-advanced-interactive-editor-for-business-cards/"><u>ABBYY's Latest Update: Innovative iOS App Transforms with Social Network Scanning & Advanced Interactive Editor for Business Cards</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyypwc-ai-ocr/"><u>ABBYYとPwCの戦略的協力 - AI OCR分野で革新的な提携開始</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-your-site-traffic-naturally-with-advanced-cookiebot-seo-tools/"><u>Boost Your Site Traffic Naturally with Advanced Cookiebot SEO Tools</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comprendre-les-textes-complexes-grace-a-lautomatisation-cognitive-solution-dabbyy-indispensable-au-savoir-numerique/"><u>Comprendre Les Textes Complexes Grâce À L'automatisation Cognitive : Solution D'ABBYY Indispensable Au Savoir Numérique</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-spark-10-4g-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Spark 10 4G FRP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-g310-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on G310</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/inside-insights-on-high-tech-components-from-toms-hardware-experts/"><u>Inside Insights on High-Tech Components From Tom's Hardware Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/paww-acoustic-tech-3-evaluation-economical-audio-earpieces/"><u>Paww Acoustic Tech 3 Evaluation: Economical Audio Earpieces</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor X8b? | Dr.fone</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

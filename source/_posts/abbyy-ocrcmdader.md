@@ -1,7 +1,7 @@
 ---
 title: "大規模建設文書の最適化を実現したABBYY OCRソリューションによるCMD拡張:プロジェクト情報提�aderの強力な統合"
-date: 2024-08-26T00:17:08.629Z
-updated: 2024-08-27T00:17:08.629Z
+date: 2024-09-25T16:22:51.553Z
+updated: 2024-09-30T17:10:32.302Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342cd4798dfe7202dea8939dfe.jpg
@@ -28,6 +28,13 @@ Construction | Digital Archiving
 #### お客様の概要
 
 ![Construction Management Data (CMD)](https://static1.abbyy.com/abbyycommedia/15457/cmd-logo-150.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | 氏名     | Construction Management Data (CMD)            |
 | ------ | --------------------------------------------- |
@@ -99,6 +106,13 @@ Mykulowyc氏によると、建設は季節的な事業だといいます。「2�
 
 [![ABBYY認識サーバーは、ABBYY FineReaderサーバーとしてブランド変更されました](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (現在、ABBYY FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![ドキュメントアーカイブ<small>EN</small>](https://static1.abbyy.com/abbyycommedia/14355/5-document-archiving.jpg)](https://tools.techidaily.com/abbyy/products/) [ドキュメントアーカイブEN](https://tools.techidaily.com/abbyy/products/) 
@@ -106,6 +120,13 @@ Mykulowyc氏によると、建設は季節的な事業だといいます。「2�
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF版](https://static3.abbyy.com/abbyycommedia/15558/11-construction-management-data-cmd-2.png)](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") [PDF版](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [詳細を読む](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") 
 
@@ -118,8 +139,12 @@ Mykulowyc氏によると、建設は季節的な事業だといいます。「2�
 [お問い合わせ](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -132,8 +157,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +164,17 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-comparing-nikon-d7500-and-mirrorless-rivals/"><u>[New] Comparing Nikon D7500 and Mirrorless Rivals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-idea-to-execution-reviewing-spring-screenrecorder/"><u>2024 Approved From Idea to Execution - Reviewing Spring ScreenRecorder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nokia-c12-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726028396513-mp4-avi-movbmp/"><u>動画の互換性向上: MP4, AVI, MOVからBMPへのスムーズな変換テクニック</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-7-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 7 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-find-n3-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Find N3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/transform-your-online-presence-with-manycam-the-essential-virtual-camera-tool-for-authentic-livestreaming/"><u>Transform Your Online Presence with ManyCam - The Essential Virtual Camera Tool for Authentic Livestreaming</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/transform-your-streaming-experience-with-manycam-virtual-webcams-and-more/"><u>Transform Your Streaming Experience with ManyCam - Virtual Webcams and More</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unleash-your-creative-potential-capture-lifes-moments-with-manycam-for-seamless-livestream-and-virtual-background-experiences/"><u>Unleash Your Creative Potential: Capture Life's Moments with ManyCam for Seamless Livestream and Virtual Background Experiences</u></a></li>
+</ul></div>
 

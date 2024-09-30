@@ -1,7 +1,7 @@
 ---
 title: "ABBYY & Bolshoi Opera Collaborate: Digitizing Cultural Treasure with Volunteer Efforts"
-date: 2024-08-26T00:18:25.504Z
-updated: 2024-08-27T00:18:25.504Z
+date: 2024-09-25T16:57:41.974Z
+updated: 2024-09-30T19:33:01.786Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3a9eb41a58803887d90c7bef.jpg
@@ -65,8 +65,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,7 +72,27 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-copyright-free-game-audio-repositories/"><u>[New] Copyright-Free Game Audio Repositories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-compact-cities-for-a-sustainable-future-for-2024/"><u>[Updated] Crafting Compact Cities for a Sustainable Future for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevating-visual-content-a-guide-to-adding-descriptions-on-instagram/"><u>2024 Approved Elevating Visual Content A Guide to Adding Descriptions on Instagram</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/convert-dvds-to-iphones-easily-on-mac-using-the-best-free-software-macx-ripper-featuring-copyguard-technology/"><u>Convert DVDs to iPhones Easily on Mac Using the Best Free Software - MacX Ripper Featuring CopyGuard Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-computers-processor-to-unlock-full-potential-of-vanguard-application/"><u>Elevate Computer's Processor to Unlock Full Potential of Vanguard Application</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-razr-40-ultra-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724766350856-macx-mediatrans/"><u>MacX MediaTransでプロフェッショナルなビデオ移行・同期：インストールから使い方まで完全ガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-heic-image-support-for-cross-platform-use-on-macs-windows-and-android-phones/"><u>Mastering HEIC Image Support for Cross-Platform Use on Macs, Windows, and Android Phones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/optimizing-facebook-live-from-pcmaclaptop-through-obs/"><u>Optimizing Facebook Live From PC/Mac/Laptop Through OBS</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-adding-srt-captions-to-your-avi-video-files-on-mac-or-pc/"><u>Step-by-Step Guide: Adding SRT Captions to Your AVI Video Files on Mac or PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-you-dont-need-professional-camera-equipment-if-you-want-to-create-time-lapse-videos-you-can-share-on-your-social-media-accounts-becaus/"><u>Updated 2024 Approved You Dont Need Professional Camera Equipment if You Want to Create Time-Lapse Videos You Can Share on Your Social Media Accounts because There Are Plenty of Apps that Let You Create These Types of Vid</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

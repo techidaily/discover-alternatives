@@ -1,7 +1,7 @@
 ---
 title: "Preserving the Past: How ABBYY and Bolshoi Theatre Unite for an Online Revival of Historical Legacy"
-date: 2024-08-26T00:17:01.095Z
-updated: 2024-08-27T00:17:01.095Z
+date: 2024-09-24T18:51:51.168Z
+updated: 2024-09-30T16:07:27.666Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b78c5dad2639277dfb76f19b.jpg
@@ -65,8 +65,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,7 +72,27 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-depth-the-full-spectrum-of-toolwiz-apps-capabilities-2023/"><u>[New] In 2024, In Depth The Full Spectrum of Toolwiz App's Capabilities, 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-7-low-cost-video-compacting-tools-for-android-devices/"><u>[Updated] Top 7 Low-Cost Video Compacting Tools for Android Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-dissecting-splitcams-superiority-as-a-recorder/"><u>2024 Approved Dissecting SplitCam’s Superiority as a Recorder</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abspielen-von-oggvob-medien-unter-modernen-betriebssystemen-wie-w11-und-macos/"><u>Abspielen Von OGG/VOB Medien Unter Modernen Betriebssystemen Wie W11 Und MacOS</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-zero-cost-uhd-media-software-featuring-h265-hevc-encoding-compatible-with-windows-10macos-expert-reviews-for-2020/"><u>Best Zero Cost UHD Media Software Featuring H.265 HEVC Encoding Compatible with Windows 10/MacOS - Expert Reviews for 2020</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725287845293-dvd-windows-11/"><u>DVDダビングが駄目になる!? Windows 11パソコンで成功する方法</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-oppo-reno-9a-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Oppo Reno 9A</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-vibrant-display-with-galaxy-book-4-edges-amoled-screen-and-powerful-snapdragon-processor/"><u>Experience Vibrant Display with Galaxy Book 4 Edge's AMOLED Screen & Powerful Snapdragon Processor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-your-complete-reddit-post-blueprint/"><u>In 2024, From Novice to Pro Your Complete Reddit Post Blueprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-lava-yuva-2-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Lava Yuva 2 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/light-up-your-feed-expert-tips-for-instagram-highlights-3-steps/"><u>Light Up Your Feed Expert Tips for Instagram Highlights (3 Steps)</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/understanding-digiarty-softwares-data-protection-policies-a-comprehensive-guide/"><u>Understanding Digiarty Software's Data Protection Policies: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winxvideo-ai-rapidly-increase-video-and-audio-playback-speeds-using-graphics-processing-unit-technology/"><u>Winxvideo AI: Rapidly Increase Video and Audio Playback Speeds Using Graphics Processing Unit Technology</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "ABBYYとBlue Prismが提案する最先端プロセスインテリジェンス: 自動化パフォーマンスの大幅な改善"
-date: 2024-08-26T00:19:05.454Z
-updated: 2024-08-27T00:19:05.454Z
+date: 2024-09-24T19:28:27.133Z
+updated: 2024-09-30T17:57:22.359Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800c8dc1ddbd91690f85f039c9.jpg
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800
 10月7日, 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ABBYY TimelineをBlue Prism Captureに統合し、  
 包括的なプロセスとタスク検出を標準機能として提供
@@ -86,8 +93,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,7 +100,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-mastering-zooms-filters-for-clear-premium-calls/"><u>[New] Mastering Zoom's Filters for Clear, Premium Calls</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-seamlessly-connect-the-3-step-guide-to-enhanced-communication-on-snapchat/"><u>[Updated] In 2024, Seamlessly Connect The 3-Step Guide to Enhanced Communication on Snapchat</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mobile-video-experience-review-report-for-2024/"><u>[Updated] Mobile Video Experience Review Report for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/5-proven-methods-for-reducing-the-size-of-your-mkv-videos-without-cost/"><u>5 Proven Methods for Reducing the Size of Your MKV Videos without Cost</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725285020078-dvd/"><u>安心してDVDをバックアップできる無料ソフトウェア:問題解析と回避方法のガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/addressing-freemake-issues-steps-to-fix-download-and-conversion-problems/"><u>Addressing Freemake Issues: Steps to Fix Download & Conversion Problems</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ai-windowsmac/"><u>AI技術でぼやけたビデオを鮮明化: WindowsとMac用の最高のテクニック</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/osts-boost-creativity-learn-the-secrets-of-green-screen-artistry-from-4-leading-educators/"><u>Cut Costs, Boost Creativity Learn the Secrets of Green Screen Artistry From 4 Leading Educators</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/free-mkv-to-mp3-conversion-top-5-methods-explained/"><u>Free MKV to MP3 Conversion: Top 5 Methods Explained</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-a2pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi A2+with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-instant-transition-vanishing-in-a-minute/"><u>In 2024, Instant Transition Vanishing in a Minute</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Spark 10 5G</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/professioneller-h2email-protected-encoder-and-konverter-speziell-fur-windows-11-und-mac-plattformen/"><u>Professioneller H.2([email Protected] Encoder & Konverter Speziell Für Windows 11 Und Mac Plattformen</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/regionskodenknackung-fur-dvds-frei-handhabung-mit-windows-10-11-oder-7-schritt-fur-schritt-anleitung-zur-regionsumstellung-kostenlos/"><u>Regionskodenknackung Für DVDs: Frei Handhabung Mit Windows 10, 11 Oder 7 - Schritt-Für-Schritt-Anleitung Zur Regionsumstellung Kostenlos</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/troubleshoot-mp4-videos-in-quicktime-proven-techniques-for-successful-playout/"><u>Troubleshoot MP4 Videos in QuickTime - Proven Techniques for Successful Playout</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

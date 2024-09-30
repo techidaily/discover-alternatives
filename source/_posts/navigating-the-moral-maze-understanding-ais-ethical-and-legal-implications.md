@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Moral Maze: Understanding AI's Ethical & Legal Implications"
-date: 2024-08-26T00:16:14.355Z
-updated: 2024-08-27T00:16:14.355Z
+date: 2024-09-25T16:06:55.932Z
+updated: 2024-09-30T19:20:52.995Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eebd789d21de62a66b954929b6.jpg
@@ -48,6 +48,13 @@ Digital transformation expert and AI Ethics Evangelist for ABBYY
 Andrew Pery is an AI Ethics Evangelist at intelligent automation company [ABBYY](https://tools.techidaily.com/abbyy/products/). His expertise is in artificial intelligence (AI) technologies, application software, data privacy and AI ethics. He has written and presented several papers on the ethical use of AI and is currently co-authoring a book for the American Bar Association. He holds a Masters of Law degree with Distinction from Northwestern University Pritzker School of Law and is a Certified Information Privacy Professional (CIPP/C), (CIPP/E) and a Certified Information Professional (CIP/AIIM).
 
 Connect with Andrew on [LinkedIn](https://www.linkedin.com/in/andrew-pery-ll-m-cipp-c-cipp-e-3a536726/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -103,8 +110,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,7 +117,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/omprehensive-but-concise-guide-to-keyers-techniques/"><u>[New] Comprehensive but Concise Guide to Keyers' Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-youtube-intro-wonders-with-imovie-for-2024/"><u>[New] From Zero to Hero YouTube Intro Wonders with iMovie for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-free-software-showdown-for-premium-audio-capture-tools/"><u>[Updated] In 2024, Free Software Showdown for Premium Audio Capture Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-the-secrets-to-high-impact-live-streaming-with-wirecast-on-youtube/"><u>[Updated] In 2024, Unveiling the Secrets to High-Impact Live Streaming with WireCast on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-technique-for-capturing-time-on-iphone/"><u>2024 Approved The Ultimate Technique for Capturing Time on iPhone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-films-of-2eve-to-celebrate-thanksgiving-must-watch-list/"><u>Best Films of 2Eve to Celebrate Thanksgiving – Must-Watch List</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-free-youtube-video-grabbing-tools-for-mac-quick-easy-and-trusted-picks/"><u>Best Free Youtube Video Grabbing Tools For Mac - Quick, Easy, and Trusted Picks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/beste-alternativen-zu-jdownloader-funf-empfehlungen-fur-optimale-dateiubertragungen/"><u>Beste Alternativen Zu JDownloader - Fünf Empfehlungen Für Optimale Dateiübertragungen</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/download-festive-season-classics-at-no-cost-family-friendly-christmas-songs-for-december-collection/"><u>Download Festive Season Classics at No Cost - Family-Friendly Christmas Songs for December Collection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-video-reach-the-role-of-smart-backlinking-techniques/"><u>Elevating Video Reach The Role of Smart Backlinking Techniques</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/get-your-favorite-tamil-and-telugu-movies-for-free-stream-at-blu-ray-resolution/"><u>Get Your Favorite Tamil & Telugu Movies for Free – Stream at Blu-Ray Resolution!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-se-2022-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone SE (2022) to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/macx-dvd-ripper-pro-v495-upgraded-with-new-features-for-macos-sierra-and-iphone/"><u>MacX DVD Ripper Pro v4.9.5 Upgraded with New Features for macOS Sierra & iPhone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/seamless-ios-device-synchronization-with-your-mac-no-need-for-itunes/"><u>Seamless iOS Device Synchronization with Your Mac - No Need for iTunes!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spotlight-on-top-8-authentic-youtube-growth-tactics-for-2024/"><u>Spotlight on Top 8 Authentic YouTube Growth Tactics for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-mac-based-iphone-media-transformer-seamlessly-rip-movies-from-dvds-for-ios-devices/"><u>Top Mac-Based iPhone Media Transformer: Seamlessly Rip Movies From DVDs for iOS Devices</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-subcontracting-partners-for-expert-abbyy-solutions/"><u>Top Subcontracting Partners for Expert ABBYY Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-lesser-known-media-players-post-vlc-for-2024/"><u>Unveiling the Lesser-Known Media Players Post-VLC for 2024</u></a></li>
+</ul></div>
 
