@@ -1,7 +1,7 @@
 ---
 title: YouTube動画の字幕文字への変換手順【YouTubed字幕テキスト化】
-date: 2024-09-27T18:11:32.093Z
-updated: 2024-09-30T19:04:15.459Z
+date: 2024-10-02T18:56:04.572Z
+updated: 2024-10-06T03:56:56.914Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7aef2eb6fc1425b4243cea5954.jpg
@@ -44,6 +44,13 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** There are two ways to mute the video.
 
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
@@ -54,16 +61,16 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Mute the Volume](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-3.webp) 
 
-**Step 4.** Adjust other video and audio options based on needs. Finally, click “Run” to export the final videos without sound. When the process is done, you can check the resulting files in the output folder.
-
-![Export Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-4.webp) 
-
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
   <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Step 4.** Adjust other video and audio options based on needs. Finally, click “Run” to export the final videos without sound. When the process is done, you can check the resulting files in the output folder.
+
+![Export Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-4.webp) 
 
 ### Versatile Audio Remover App for PC
 
@@ -94,6 +101,19 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 
 ![Remove Audio from Video iMovie](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-5.webp) 
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Tip. How to mute part of a video in iMovie?**  
  1\. After detaching the audio from the video, position the playhead (white line on the timeline) and split the audio into two or more parts.  
 2\. Select the audio clip you want to remove.  
@@ -103,13 +123,6 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 ## How to Mute a Video on iPhone and Android?
 
 Here, we provide two ways to remove audio from a video on your Android or iOS device: Google Photos and InShot.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### • Google Photos
 
@@ -139,13 +152,6 @@ How to remove background audio from a video with InShot:
 
 ![Remove Original Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-7.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Remove Audio from Video Online?
 
 Many online video editors can help you remove background sound from a video. However, most online tools will leave a watermark on the output video. To [delete audio from videos online without watermarks](https://tools.techidaily.com/videoconverterfactory/video-watermark/), you can use AudioRemover or Ezgif. Here shows you how to remove audio from video free without watermark with Ezgif:
@@ -158,13 +164,6 @@ Many online video editors can help you remove background sound from a video. How
 
 ![Remove Audio from Video Online Free](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-8.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Common Ways to Mute a Video
 
 ### • Clipchamp
@@ -174,6 +173,13 @@ Clipchamp is a free non-linear video editor that allows users to mute, trim, com
 → Learn [how to detach audio from video with Clipchamp](https://clipchamp.com/en/blog/separate-audio-video/) 
 
 ![Clipchamp Mute Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-9.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### • Adobe Premiere Pro
 
@@ -185,10 +191,10 @@ You can try Adobe Premiere Pro for free for 7 days and then purchase a subscript
 ![Remove Audio from Video Premiere Pro](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-10.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### • VLC Media Player
@@ -198,13 +204,6 @@ VLC is a well-known multimedia player for almost all platforms. It can help you 
 → Learn [how to remove audio from video using VLC](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
 ![Delete Audio from Video in VLC](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-11.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### • VSDC Video Editor
 
@@ -217,10 +216,16 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 ## Remove Audio from Video FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q1\. Can I remove the audio from an iPhone video?
@@ -254,6 +259,19 @@ All-in-one Video Editor, Converter & Downloader
 
 ![WonderFox HD Video Converter Factory Pro](https://www.videoconverterfactory.com/tips/img-autofit/single-hd-pro-free.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **WonderFox HD Video Converter Factory Pro**
 
 It’s the easiest way to convert, edit, and download videos on Windows. Beyond that, it can record video and audio, make GIFs, create ringtones, extract subtitles, etc. Download the software now to achieve all your purposes in one tool!
@@ -265,10 +283,10 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -286,22 +304,22 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-driving-engagement-and-returns-animated-advertising-on-facebook/"><u>[New] Driving Engagement and Returns Animated Advertising on Facebook</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-guide-to-altering-your-facebook-background-image/"><u>[Updated] 2024 Approved Guide to Altering Your Facebook Background Image</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-journey-to-the-ultimate-vr-cycling-spaces/"><u>[Updated] In 2024, Journey to the Ultimate VR Cycling Spaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/an-in-depth-look-at-winservicesexe-and-its-errors/"><u>An In-Depth Look at Winservices.exe and Its Errors</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/die-top-10-beliebtesten-gratuiten-software-zur-bearbeitung-von-mp4-dateien-fur-windows-macos-und-linux/"><u>Die Top 10 Beliebtesten Gratuiten Software Zur Bearbeitung Von MP4 Dateien Für Windows, macOS Und Linux</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/fix-ios-videos-wont-stream-on-your-windows-laptop-or-desktop/"><u>Fix: IOS Videos Won't Stream on Your Windows Laptop or Desktop</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-videography-starter-pack-openers-and-more-for-2024/"><u>Free Videography Starter Pack Openers & More for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-correctly-pair-your-samsung-galaxy-tab-2015-260ci-with-a-pc-via-usb/"><u>How to Correctly Pair Your Samsung Galaxy Tab 2015 (260Ci) With a PC via USB</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/how-to-master-mp4-file-encoding-with-the-finest-tools-and-techniques-available/"><u>How to Master MP4 File Encoding with the Finest Tools and Techniques Available</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/imovie-for-pc-ultimate-guide-on-downloading-and-video-editing-for-windows-users/"><u>IMovie for PC - Ultimate Guide on Downloading & Video Editing for Windows Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-15-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 15 Without Passcode Now</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>In 2024, Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-modern-technology-in-depth-evaluations-from-toms-hardware-insider/"><u>Mastering Modern Technology: In-Depth Evaluations From Tom's Hardware Insider</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mastering-the-art-of-video-editing-join-the-top-6-swift-integration-strategies/"><u>Mastering the Art of Video Editing: Join the Top 6 Swift Integration Strategies</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-3-free-dvd-player-programs-compatible-with-windows-11-play-any-disc-easily/"><u>Top 3 Free DVD Player Programs Compatible with Windows 11 - Play Any Disc Easily</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-handbrake-failures-in-movie-transcoding-understanding-the-issues-and-finding-remedies/"><u>Troubleshooting HandBrake Failures in Movie Transcoding: Understanding the Issues and Finding Remedies</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/ultimate-festive-season-sweepstakes-top-toys-treats-and-surprises-for-your-loved-ones/"><u>Ultimate Festive Season Sweepstakes: Top Toys, Treats, and Surprises for Your Loved Ones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cant-see-cursor-only-sony-a6400-glitch/"><u>[New] 2024 Approved Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-break-bot-patterns-enhance-organic-video-reach-for-2024/"><u>[New] Break Bot Patterns, Enhance Organic Video Reach for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-effortless-file-exchange-5-routes-to-computers/"><u>[Updated] 2024 Approved Effortless File Exchange 5 Routes to Computers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ai-powered-youtube-monetization-strategies-2024-guidebook/"><u>[Updated] AI-Powered Youtube Monetization Strategies - 2024 Guidebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-initiate-an-impactful-live-stream-on-facebook-today-for-2024/"><u>[Updated] Initiate an Impactful Live Stream on Facebook Today for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-prime-video-conferencing-and-communication-aids-for-2024/"><u>[Updated] Prime Video Conferencing & Communication Aids for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-advanced-ocr-solutions-with-abbyy-sdk-automating-document-scanning-and-interpretation/"><u>1. Advanced OCR Solutions with ABBYY SDK: Automating Document Scanning & Interpretation</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-enhanced-conversion-tracking-with-the-help-of-cookiebot-solutions/"><u>1. Enhanced Conversion Tracking with the Help of Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-and-bolshoi-opera-collaborate-digitizing-cultural-treasure-with-volunteer-efforts/"><u>ABBYY & Bolshoi Opera Collaborate: Digitizing Cultural Treasure with Volunteer Efforts</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-annonce-que-les-francais-sont-en-tete-du-process-mining-73-des-entreprises-utilisent-desormais-loutil-etudy-pour-une-meilleure-analyse-et-gestion-de-l16/"><u>ABBYY Annonce Que Les Français Sont en Tête Du Process Mining : 73 % Des Entreprises Utilisent Désormais L'outil Étudy Pour Une Meilleure Analyse Et Gestion De Leurs Données</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/advanced-sub-processor-partnerships-boosting-abbyy-professional-offerings/"><u>Advanced Sub-Processor Partnerships Boosting ABBYY Professional Offerings</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313320603-aiocr-abbyy/"><u>AI駆使したOCR技術で最適化された会計書類処理 - ABBYY製品レビュー</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209689115-resolution-guide-toshiba-laptop-key-malfunction-fixed/"><u>Resolution Guide: Toshiba Laptop Key Malfunction Fixed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-to-crafting-an-instagram-enterprise-profile/"><u>Step-by-Step Guide to Crafting an Instagram Enterprise Profile</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/verstehen-von-aufgaben-und-prozessmining-ein-leitfaden-fur-effizienz/"><u>Verstehen Von Aufgaben-Und Prozessmining: Ein Leitfaden Für Effizienz</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/website-tailored-using-advanced-cookiebot-solutions-for-custom-user-experiences/"><u>Website Tailored Using Advanced Cookiebot Solutions for Custom User Experiences</u></a></li>
 </ul></div>
 
