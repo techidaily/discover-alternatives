@@ -1,7 +1,7 @@
 ---
 title: IPhoneへのウォークマン音源移植：SonicStage for iOS対応手順
-date: 2024-09-29T17:42:29.454Z
-updated: 2024-09-30T20:08:20.009Z
+date: 2024-10-13T17:50:10.538Z
+updated: 2024-10-17T19:11:38.448Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463ce070f6b273e0abf69dbbe5.jpg
@@ -40,6 +40,13 @@ MacとiOS機器の間で、音楽転送は勿論、電子書籍/動画/写真な
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/)[![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Sony x-アプリからiPhoneに音楽を転送する方法まとめ
 
 Xアプリはウォークマンやメモリースティックなどのソニー製品へ、音楽/ビデオ/写真などを転送するためのソフトである。現在はWindowsしか動作できない。だが、Xアプリ側は「フォルダを指定して読み込む」といった選択肢があり、XアプリiTunes共有も手軽に行える。以下では、Sony x-アプリからiPhoneに音楽を転送する方法をまとめてみた。
@@ -51,13 +58,6 @@ Xアプリはウォークマンやメモリースティックなどのソニー�
 XアプリはWindows専用アプリケーションで、macOSで使えない。だが、MacにWindows7/Vista/XPをインストールすれば使える。その時、BootCampというユーティリティはおすすめ。それで、MacとWindowsを同時に使用できる。インストールが完了したら、下記の手順に従って操作してください。
 
 ![XアプリiPhone転送](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/x-appli-musci-01.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **①、Xアプリにウォークマンから音楽を取り込む方法**
 
@@ -86,13 +86,6 @@ Xアプリに取り込んだ音楽の保存先を確認してから、PCに保�
 
 心配しないで、以下では、非常に簡単なXアプリからiPhoneへ曲を入れる方法をシェアしている。Sony製「MP3 Conversion Tool」を使ってください。高画質・高音質でATRACをMP3に変換できる。MP3 Conversion Tool 使い方の詳細は、<http://hashiken.air-nifty.com/blog/2013/01/x-mp3-mp3conver.html> までにご参照ください。
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## XアプリiPhone転送方法｜MacX MediaTransを使ってXアプリの曲をiPhoneに入れ
 
 エックスアプリiPhone転送方法を紹介する前、ATRACをMP3に変換しておくべき。ATRACはMacX MediaTransに読み込まれないから。
@@ -103,10 +96,10 @@ Xアプリに取り込んだ音楽の保存先を確認してから、PCに保�
 [![XアプリiPhone転送](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-4-ways-to-transfer-photos-from-iphone7-to-mac01.jpg)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step1：**動作環境によって、「ダウンロード」ボタンをクリックして、macOSなら、「Mac版無料ダウンロード」と書かれたボタンをクリックし[macx-mediatrans.dmg](https://tools.techidaily.com/macxdvd/products/)をダウンロードする。Windowsユーザーなら、「Win版無料ダウンロード」と書かれたボタンをクリックし[winx-mediatrans-setup.exe](https://tools.techidaily.com/winxdvd/products/)をダウンロードする。こちらはMacBook Airを使っていて、Mac版を例として解説する。
@@ -124,13 +117,20 @@ Xアプリに取り込んだ音楽の保存先を確認してから、PCに保�
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![XアプリiPhone転送](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/mmt-zld-1230-01.jpg)](https://tools.techidaily.com/macxdvd/products/)   
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step1：XアプリiPhone転送ソフトを立ち上げ
 
@@ -149,6 +149,13 @@ MacX MediaTransのメイン画面にある「音楽管理」タブをクリッ�
 [【世界一高速】MacX MediaTransを使ってMac iPhone音楽転送方法をご案内](https://tools.techidaily.com/macxdvd/products/)
 
 [![XアプリiPhone転送](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/mmt-zld-0811-02.jpg)](https://tools.techidaily.com/macxdvd/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2：Macから音楽を選択する。
 
@@ -190,6 +197,13 @@ MacX MediaTransは動画変換機能があり、Xアプリ内のビデオファ�
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/sp-1030.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ◎ 【最大50％OFF】5千万ユーザー突破のプレゼントセット -（期間限定）
 
 ◎ MediaTrans＋MacX DVD Ripper Pro for Windows＋MacX Video Converter Pro for Windows＋5KPlayer
@@ -213,46 +227,26 @@ MacX MediaTransは動画変換機能があり、Xアプリ内のビデオファ�
 * [_Wi-Fiなし音楽_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p7.jpg) オフラインやWi-Fiなしで聴ける無料音楽アプリ2024年版！](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [_iPhone曲 PCなし_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p5.jpg) 超簡単！パソコンを使わずにiPhoneに曲を入れる方法3つ！](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [_iPhone写真_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p2.jpg) 勝手にiPhone写真が消えた！アイフォン写真消えた原因と復元方法](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * [_Music FM iTunes_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p3.jpg) 本物Music FM iTunesにファイル共有できない原因及びその対策！](https://tools.techidaily.com/macxdvd/products/)
 * [_iPhone認識_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p1.jpg) iTunes iPhone認識しない原因と対処法まとめ！MacとWindows](https://tools.techidaily.com/macxdvd/products/)
 * [_iPhone動画保存_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p6.jpg) iPhone動画ダウンロード・動画保存アプリおすすめ（無料＆有料）](https://tools.techidaily.com/macxdvd/products/)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[iPhone・iPad・iPod](https://tools.techidaily.com/macxdvd/products/) \>x-アプリからiPhoneに音楽を転送する
 
@@ -306,20 +300,24 @@ Digiarty SoftwareがApple Inc.と開発または商業提携をしていませ�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-to-superior-click-through-rates-youtube-advertising-mastery/"><u>[New] The Roadmap to Superior Click-Through Rates YouTube Advertising Mastery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-premium-cut-tools-the-top-8-linux-apps-for-2024/"><u>[Updated] Premium Cut Tools The Top 8 Linux Apps for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-flawless-coexistence-of-linktree-and-tiktok-biographies/"><u>2024 Approved Flawless Coexistence of Linktree and TikTok Biographies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/advanced-practices-for-capturing-iptv-visuals-for-2024/"><u>Advanced Practices for Capturing IPTV Visuals for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/easy-steps-for-flawless-audio-extraction-from-dvds/"><u>Easy Steps for Flawless Audio Extraction From DVDs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/hasty-thumbnail-crafting-for-fortnite-gameplay-for-2024/"><u>Hasty Thumbnail Crafting for Fortnite Gameplay for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/how-to-efficiently-separate-soundtracks-from-movies-and-clips-using-windows-11-tools/"><u>How to Efficiently Separate Soundtracks From Movies and Clips Using Windows 11 Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-picks-free-video-editing-software-to-watch/"><u>In 2024, Top Picks Free Video Editing Software to Watch</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/latest-innovations-on-the-apple-iphone-5-explore-new-enhancements-and-upgrades/"><u>Latest Innovations on the Apple iPhone 5: Explore New Enhancements and Upgrades</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/leading-dvd-to-avi-file-transformation-tools-on-windows-11-top-picks/"><u>Leading DVD to AVI File Transformation Tools on Windows 11 - Top Picks</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/learn-how-to-free-convert-flc-videos-into-mp4-avi-and-more-with-our-top-3-reliable-tools/"><u>Learn How To Free Convert FLC Videos Into MP4, AVI & More With Our Top 3 Reliable Tools</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/master-high-quality-hd-viewing-a-step-by-step-tutorial-for-playing-hevch265-content-on-android-phones-and-tablets/"><u>Master High-Quality HD Viewing: A Step-by-Step Tutorial for Playing HEVC/H.265 Content on Android Phones and Tablets</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mastering-hd-video-exports-in-premiere-pro-achieve-crystal-clear-quality-at-108np-resolution-and-60fps-frame-rate-easily/"><u>Mastering HD Video Exports in Premiere Pro: Achieve Crystal Clear Quality at 108nP Resolution & 60FPS Frame Rate Easily!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/professional-footage-integrating-watermarks-and-logos-into-yt-videos/"><u>Professional Footage Integrating Watermarks and Logos Into YT Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-create-and-change-an-igtv-cover-photo-thumbnail/"><u>[New] How to Create and Change an IGTV Cover Photo (Thumbnail)?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerate-your-creative-process-instagram-collage-tips/"><u>2024 Approved Accelerate Your Creative Process Instagram Collage Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-construct-share-worthy-graphics-on-giphy/"><u>2024 Approved Construct Share-Worthy Graphics on Giphy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unlocking-the-potential-ps4-recording-techniques-in-obs/"><u>2024 Approved Unlocking the Potential PS4 Recording Techniques in OBS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-windows-11-photos-enhancement-techniques-soundtracks-plus-filter-layers/"><u>2024 Approved Windows 11 Photos Enhancement Techniques Soundtracks + Filter Layers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-cloud-services-optimal-data-handling-and-locale-solutions/"><u>ABBYY Cloud Services: Optimal Data Handling and Locale Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-recognized-as-premier-provider-in-smart-document-management-systems-by-everest-group-according-to-peak-matrix-assessment-findings-of-2022/"><u>ABBYY Recognized as Premier Provider in Smart Document Management Systems by Everest Group, According to PEAK Matrix Assessment Findings of 2022</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-revolutionizes-fda-document-management-with-its-advanced-intelligent-automation-technology/"><u>ABBYY Revolutionizes FDA Document Management with Its Advanced Intelligent Automation Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyys-latest-update-innovative-ios-app-transforms-with-social-network-scanning-and-advanced-interactive-editor-for-business-cards/"><u>ABBYY's Latest Update: Innovative iOS App Transforms with Social Network Scanning & Advanced Interactive Editor for Business Cards</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyypwc-ai-ocr/"><u>ABBYYとPwCの戦略的協力 - AI OCR分野で革新的な提携開始</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313240636-abbyy/"><u>ABBYYブログ: 最新のプロセスマイニングソリューションがヘルスケアを変革する方法</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-your-site-traffic-naturally-with-advanced-cookiebot-seo-tools/"><u>Boost Your Site Traffic Naturally with Advanced Cookiebot SEO Tools</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comprendre-les-textes-complexes-grace-a-lautomatisation-cognitive-solution-dabbyy-indispensable-au-savoir-numerique/"><u>Comprendre Les Textes Complexes Grâce À L'automatisation Cognitive : Solution D'ABBYY Indispensable Au Savoir Numérique</u></a></li>
+<li><a href="https://video-capture.techidaily.com/get-your-own-copy-of-blackpinks-boombayah-quick-and-easy-steps-to-download-the-chart-topper/"><u>Get Your Own Copy of Blackpink's 'Boombayah': Quick & Easy Steps to Download the Chart-Topper!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-huawei-p60-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Huawei P60 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-updates-on-the-google-pixel-tablet-launch-detailed-specifications-and-announcement-details/"><u>Latest Updates on the Google Pixel Tablet Launch: Detailed Specifications & Announcement Details</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-and-twitch-expand-your-viewership-with-multi-streaming-techniques-for-2024/"><u>Mastering YouTube & Twitch Expand Your Viewership with Multi-Streaming Techniques for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlocking-efficiency-with-innovation-how-abbyy-is-revolutionizing-business-through-its-process-digital-twin/"><u>Unlocking Efficiency with Innovation: How ABBYY Is Revolutionizing Business Through Its Process Digital Twin</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-display-selecting-premium-timers-and-savers/"><u>Upgrade Your Display: Selecting Premium Timers & Savers</u></a></li>
 </ul></div>
 

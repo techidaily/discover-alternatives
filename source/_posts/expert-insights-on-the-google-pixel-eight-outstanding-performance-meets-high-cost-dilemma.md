@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights on the Google Pixel Eight: Outstanding Performance Meets High Cost Dilemma"
-date: 2024-09-25T16:46:20.832Z
-updated: 2024-09-30T18:05:30.355Z
+date: 2024-10-12T16:15:00.888Z
+updated: 2024-10-17T19:59:07.360Z
 tags:
   - product-reviews
 categories:
@@ -37,6 +37,13 @@ The Google Pixel 8a is a mid-range smartphone powered by the Google Tensor G3 So
 * Budget look and feel
 
 [$499 at Google Store](https://store.google.com/config/pixel%5F8a) [$499 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-8a-5g-128gb-unlocked-aloe%2F6578509.p) [$499 at Amazon](https://amazon.com/dp/B0CYQ916ZY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003093&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgoogle-pixel-8a-review%2F&asc%5Fcampaign=Authority) [$499 at Google Fi](https://fi.google.com/about/phones/pixel-8a) [$499 at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003093/https://www.verizon.com/smartphones/google-pixel-8a/) [$499 at T-Mobile](https://www.t-mobile.com/commerce/cell-phone/google-pixel-8a) [$499 at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003093/https://www.att.com/buy/phones/google-pixel-8a.html) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -124,16 +131,16 @@ The Google Pixel 8a is a mid-range smartphone powered by the Google Tensor G3 So
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Pixel 8a Looks Like...a Pixel
 
 ![Person holding the Google Pixel 8a showing the lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-lock-screen-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -150,13 +157,6 @@ Justin Duino / How-To Geek
  Speaking of the display, you'll find some serious bezels surrounding the screen. They're expected at this price point, but they still surprised me when I unboxed the device. What's annoying, though, is that the bezels aren't uniform, as the bottom portion is thicker than the top and sides. You mostly get used to and look past this detail, but it continued to bug me.
 
 ![Person holding the Google Pixel 8a showing the bottom bezels and home bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-bottom-bezels-and-home-bar-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -180,16 +180,16 @@ Close
 
  I should note that [Google I/O](https://extra-support.techidaily.com/new-leveraging-picture-in-progressive-mode-on-chrome-across-platforms/) is set to kick off a day after this review is published, and it's basically guaranteed that there will be endless AI announcements. A number of those will likely include features included in Android 15\. The Pixel 8a is set to receive seven years of OS, security, and Feature Drop updates, so fingers crossed that everything will come to the entire Pixel 8 series, not just the flagships.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Tensor G3 Continues to Be a Champ
 
 ![Google Pixel 8a sitting on a table showing the rear camera bar and power button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-sitting-on-a-table-showing-the-rear-camera-bar-and-power-button-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -197,15 +197,22 @@ Justin Duino / How-To Geek
 
  That same performance is found in the Pixel 8a. Paired with 8GB of RAM, I never ran into lag, and the screen never felt sluggish. Unfortunately, the Tensor's heat output is still very present. I didn't notice it as much with the 8 Pro—probably due to the different build materials—but the temperature was ever-present after 10 minutes of scrolling through Instagram or playing a game. The phone never got too hot to hold, and the heat didn't cause any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  All-Day Battery, Slow Wireless Charging
 
 ![Person holding the Google Pixel 8a showing the Battery menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-battery-menu-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -220,22 +227,21 @@ Justin Duino / How-To Geek
 
  Between it being hard to align the wireless coils (I once woke up with an almost dead handset) and the slow charging speed, I decided it was best to plug in the included USB-C cable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  I Will Forever Love the Pixel Camera
 
 ![Person holding the Google Pixel 8a showing the Camera app controls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-camera-app-controls-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -264,16 +270,22 @@ Close
 
  Google's Portrait mode software is also top-notch. It almost always nailed the bokeh effect around my hair, but as you can see from the samples above, it sometimes struggles with different patterns. I noticed some clipping around my chair's headrest, which is made out of a mesh-like material. But if you look on the other side of the photo where there is more separation between the subject (me) and the background, the dropoff looks pretty natural.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Compared to the Pixel 8, the Pixel 8a Doesn't Make Sense
 
 ![Google Pixel 8a sitting on a table next to a Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-sitting-on-a-table-next-to-a-pixel-8-pro-1.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -316,18 +328,21 @@ The Google Pixel 8a is a mid-range smartphone powered by the Google Tensor G3 So
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-samsung-tips-easy-time-lapse-photography/"><u>[New] 2024 Approved Samsung Tips Easy Time-Lapse Photography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-swiftly-clear-coffee-eye-distortions-a-no-cost-ios-fix-guide/"><u>[New] Swiftly Clear Coffee Eye Distortions A No-Cost iOS Fix Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-clearing-picture-edges/"><u>[Updated] Expert Techniques for Clearing Picture Edges</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-webcams-elevating-audio-quality-in-podcasts/"><u>2024 Approved Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/converti-i-tuoi-dvd-in-formato-mp4-h264hevc-in-meno-di-5-minuti-con-winx-dvd-ripper-platinum-edizione-ufficiale/"><u>Converti I Tuoi DVD in Formato MP4 (H.264/HEVC) in Meno Di 5 Minuti Con WinX DVD Ripper Platinum - Edizione Ufficiale</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-for-setting-up-a-second-monitor-with-your-notebook/"><u>Easy Tutorial for Setting Up a Second Monitor with Your Notebook</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/efficient-tactics-for-changing-h2email-protected-files-to-unrestricted-h264-videos/"><u>Efficient Tactics for Changing H.2([email Protected]) Files to Unrestricted H.264 Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/enhancing-iphone-7-screen-record-capabilities-for-2024/"><u>Enhancing iPhone 7 Screen Record Capabilities for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/guia-para-fijar-video-sin-problemas-en-dispositivos-mac-pc-o-telefonos-android-e-ios/"><u>Guía Para Fijar Video Sin Problemas en Dispositivos Mac, PC O Teléfonos Android E iOS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-spark-10-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Spark 10 4GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-s18-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo S18?</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/resolving-the-adobe-premiere-pro-missing-compatible-video-player-issue/"><u>Resolving the 'Adobe Premiere Pro Missing Compatible Video Player' Issue</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/windows-7windows-10/"><u>Windows 7到Windows 10的步骤：升级指南</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] In 2024, Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-creative-expression-tips-for-sharing-gifs-on-snapchat-for-2024/"><u>[New] Unlocking Creative Expression Tips for Sharing GIFs on Snapchat for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-quick-guide-to-hosting-a-virtual-meeting-with-zoom-on-android-gadgets/"><u>[Updated] Quick Guide to Hosting a Virtual Meeting with Zoom on Android Gadgets</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/2024-mp35/"><u>2024年度最新オールタイムベスト: MP3メタデータ編集ツール5つをご紹介</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726029097895-amv/"><u>安全で簡単なAMVファイル交換ソフトとオンラインリポジトリ</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/5yid5bplusd6icf5zcr44gr44kq44o844oh44kj44kq44ov44kh44kk44or5yi25l2c5ywl6zaa6kyb5bqn/"><u>初心者向けオーディオファイル制作入門講座</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726029739217-canva/"><u>Canvaにてシームレスビデオカットのコツと便利なワークアラウンド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effortless-steps-to-transform-your-vob-videos-into-lossless-flac-audio/"><u>Effortless Steps to Transform Your VOB Videos Into Lossless FLAC Audio</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eradicate-trash-blockage-with-error-code-36-fix/"><u>Eradicate Trash Blockage with Error Code 36 Fix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-tecno-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Tecno?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-15-plus-by-drfone-ios/"><u>How To Unlock A Found iPhone 15 Plus?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-70-lite-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor 70 Lite 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acoustic-architects-leading-sites-to-buy-skype-tones/"><u>In 2024, Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726027728517-mov/"><u>MOVフォーマットの再生問題:原因分析と解決策</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/youtubepc/"><u>YouTube切り取り動画が作れるワンライフタイトなPC講座 - 初学者向け</u></a></li>
 </ul></div>
 

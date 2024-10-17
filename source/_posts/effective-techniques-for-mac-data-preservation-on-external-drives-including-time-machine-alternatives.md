@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Mac Data Preservation on External Drives - Including Time Machine Alternatives
-date: 2024-09-29T16:08:47.081Z
-updated: 2024-09-30T17:17:12.692Z
+date: 2024-10-11T19:24:32.112Z
+updated: 2024-10-17T17:08:21.716Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858e011b7c1ceac58f39d7b6f4.jpg
@@ -30,6 +30,13 @@ _Summary: follow this post to read how to backup Mac to external hard drive with
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/how-to-backup-mac-to-external-hard-drive.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/how-to-backup-mac-to-external-hard-drive.htm&source=)
 
 If you haven't made any backup for your Mac, you'll regret when your most important data is lost or deleted accidentally. In this tutorial, you'll learn how to backup Mac to external hard drive (Western Digital, Seagate, Toshiba etc.) with or without Time Machine, whether they are movies, videos, music, movies on DVDs, iTunes library, iTunes purchases/rentals, [Mac apps](https://tools.techidaily.com/macxdvd/products/), documents, or games. We also provide tips and fixes for Mac backup problems, Mac not recognizing external hard drive error and more for your reference.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Backup MacBook Air/Pro/iMac to External Hard Drive with Time Machine
 
@@ -62,6 +69,13 @@ You might as well follow the Mac data backup process below without Time Machine.
 
 ![note icon](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **How to Fix "Can't Backup Mac to External Hard Drive"**
 
 * Check your Mac. Update your Mac software to the latest version. Restart your Mac to fix "can't backup MacBook to external hard drive" issue.
@@ -79,6 +93,13 @@ _[External hard drive not showing on Mac](https://tools.techidaily.com/macxdvd/p
 * Restart your Mac. A simple restart always solves problems.
 * Erase and reformat the external hard drive for Mac. Backup data first before reformatting as reformatting will delete all the data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fast Copy DVD to External Hard Drive with High Quality
 
 MacX DVD Ripper Pro is able to rip any DVD, including damaged ones, unplayable DVDs, 99-title DVDs, protected DVDs, Japanese DVDs, workout DVDs and more, to external hard drive partitions for backup and easier playback and management with ease and No.1 fast speed and original quality.
@@ -93,6 +114,13 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Best SSDs for Mac in 2024 You Must Never Miss](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
@@ -102,33 +130,19 @@ Related Articles
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Fix DVD Drive Not Working, Showing, Reading Discs Errors](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Best external hard drive to backup and store data on your Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to copy your DVD movie library to hard drive on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -136,25 +150,11 @@ Related Articles
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -194,22 +194,24 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-voice-changes-in-psgames/"><u>[New] Mastering Voice Changes in PSGames</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-finereader-die-kerntechnologie-fur-eine-umfassende-dokumentenbearbeitungslosung/"><u>ABBYY FineReader: Die Kerntechnologie Für Eine Umfassende Dokumentenbearbeitungslösung</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-timeline/"><u>ABBYY Timelineで強力に利用するためのプロセスマイニング:実践的な事例とアクティベーションポイント</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-upgrades-to-abbyy-finereader-server-with-significant-enhancements-and-rebranding/"><u>ABBYY Upgrades to ABBYY FineReader Server with Significant Enhancements and Rebranding</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/automated-traffic-optimization-with-cookiebot-technology/"><u>Automated Traffic Optimization with Cookiebot Technology</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/beyond-hype-identifying-pitfalls-of-artificial-intelligence-implementation-for-business-success/"><u>Beyond Hype: Identifying Pitfalls of Artificial Intelligence Implementation for Business Success</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/boost-your-at-home-business-success-with-smart-strategies-to-minimize-denials-and-optimize-revenue-processes-guided-by-an-abbyy-professional/"><u>Boost Your At-Home Business Success with Smart Strategies to Minimize Denials & Optimize Revenue Processes - Guided by an ABBYY Professional</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-lenovo-thinkpad-x1-nano-a-revolutionary-thin-and-light-solution/"><u>Breaking Down the Lenovo ThinkPad X1 Nano – A Revolutionary Thin & Light Solution</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/btoes-global-analysis-unveiling-the-worldwide-landscape-of-operational-expertise/"><u>BTOES Global Analysis: Unveiling the Worldwide Landscape of Operational Expertise</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-13-mini-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 13 mini - 4 Easy Ways</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-personalization-enhancing-user-experience-through-tailored-content/"><u>Cookiebot-Enabled Personalization: Enhancing User Experience Through Tailored Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oneplus-open-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone OnePlus Open Phone? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-techniques-for-transforming-swf-audio-into-mp3-an-experts-approach-to-online-conversion/"><u>Effortless Techniques for Transforming SWF Audio Into MP3 - An Expert's Approach to Online Conversion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-advantages-of-electric-vehicle-use-free-parking-and-high-occupancy-lane-access/"><u>Exclusive Advantages of Electric Vehicle Use: Free Parking & High-Occupancy Lane Access</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-unfiltered-truth-insights-into-instagram-reels/"><u>The Unfiltered Truth Insights Into Instagram Reels</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-x-flip-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo X Flip Phones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-discerning-the-ideal-audio-elements-for-movie-previews/"><u>[New] Discerning the Ideal Audio Elements for Movie Previews</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-exploring-stardews-peak-mods-list-of-the-best/"><u>[New] Exploring Stardew's Peak Mods - List of the Best</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-no-price-no-problem-turning-twitter-vids-into-gifs-for-2024/"><u>[New] No Price, No Problem Turning Twitter Vids Into GIFs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-editessence-system-for-2024/"><u>[Updated] EditEssence System for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unpacking-the-virb-ultra-30-action-cam-by-garmin/"><u>[Updated] Unpacking the VIRB Ultra 30 Action Cam by Garmin</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-fixing-the-issue-how-to-resolve-non-playable-facebook-video-content/"><u>1. Fixing the Issue: How to Resolve Non-Playable Facebook Video Content</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/compact-powerhouse-unpacking-the-performance-of-the-msi-cube-5-12m-mini-pc/"><u>Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comprehensive-guide-to-ifixit-professional-tech-gadgets-the-ultimate-resource-for-every-diy-enthusiast/"><u>Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-communication-learn-how-to-compose-and-share-voice-messages-with-ios-devices/"><u>Effortless Communication: Learn How to Compose and Share Voice Messages with iOS Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-fidelity-close-up-minecraft-tactics/"><u>Enhancing Fidelity Close-Up Minecraft Tactics</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/expert-insights-on-the-google-pixel-eight-outstanding-performance-meets-high-cost-dilemma/"><u>Expert Insights on the Google Pixel Eight: Outstanding Performance Meets High Cost Dilemma</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/exploring-the-efficiency-and-functionality-of-the-logitech-combo-touch-as-a-competitive-replacement-to-apples-classic-ipad-keyboard/"><u>Exploring the Efficiency and Functionality of the Logitech Combo Touch as a Competitive Replacement to Apple’s Classic iPad Keyboard</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/exploring-the-hoverair-x1-the-revolutionary-purpose-driven-self-flying-camera-drone-experience/"><u>Exploring the HoverAir X1: The Revolutionary, Purpose-Driven Self-Flying Camera Drone Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-webster.techidaily.com/lip-reading-tech-shakes-up-the-market-the-game-changing-competitor-to-zoom-and-ms-teams-unveiled-on-zdnet/"><u>Lip-Reading Tech Shakes Up the Market: The Game-Changing Competitor to Zoom and MS Teams Unveiled on ZDNet</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/precision-and-power-in-your-hands-the-ultimate-guide-to-the-gamesir-x2s-type-c-review/"><u>Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reviewing-the-functionality-and-responsiveness-of-cherry-kw-x-ulp-board-for-gamers-and-typists-sturdy-clicky-mechanisms-reviewed/"><u>Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reviving-the-lineup-a-comprehensive-examination-of-the-newly-resurrected-oneplus-12r-flagship-fighter/"><u>Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-secret-formula-for-expanding-your-instagram-presence/"><u>The Secret Formula for Expanding Your Instagram Presence</u></a></li>
 </ul></div>
 
