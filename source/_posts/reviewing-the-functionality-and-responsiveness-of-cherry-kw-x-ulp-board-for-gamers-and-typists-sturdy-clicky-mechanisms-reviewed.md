@@ -1,7 +1,7 @@
 ---
 title: "Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed"
-date: 2024-10-13T20:24:59.195Z
-updated: 2024-10-17T20:19:48.535Z
+date: 2024-10-17T17:35:49.363Z
+updated: 2024-10-23T16:24:56.925Z
 tags:
   - product-reviews
 categories:
@@ -104,13 +104,6 @@ Expand
 
 [$200 at Amazon](https://www.amazon.com/Cherry-Wireless-Mechanical-Keyboard-Switches/dp/B0C4HRP34X?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002387&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-kw-x-ulp-keyboard-review%2F&asc%5Fcampaign=Authority) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Thin Profile That Doesn’t Feel Cheap
 
  When a manufacturer goes thin, it always risks creating a product that feels cheap and flimsy. That’s not the case with the KW X ULP wireless keyboard, which boasts an aluminum plate for overall durability. Even the three kickstands that give the board some height are held in place well, ensuring they won’t randomly fold in while in use.
@@ -120,16 +113,10 @@ Expand
  The keyboard is thin, but it’s also wide across a desk. At nearly 17.4 inches, it’s not the most portable, which is a shame considering it offers three quick-swap wireless connections that make it easy to use the board on virtually any Windows-based device. Sorry, Mac users. You'll need to find your own ultra-thin board.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Latency-Free Quadruple Connectivity
@@ -137,10 +124,10 @@ Expand
 ![Wireless and Bluetooth connectivity buttons on ultra-low profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479489137_ae0f636efd_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -150,6 +137,13 @@ Sergio Rodriguez / How-To Geek
  I appreciated how quickly I could swap between the two bands. Assigned to the F2 and F3 keys, I just had to press the corresponding key when I needed to swap devices, and the board connected nearly instantly. Swapping between the USB-C wired and 2.4GHz wireless was easy, though I didn’t use that nearly as much,.
 
 ![Ultra-low-profile mechanical keyboard connected to multiple devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479487432_d3935187b9_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -169,23 +163,9 @@ Sergio Rodriguez / How-To Geek
 
  My biggest gripe with any low-profile key is that they’re not easy to remove to clean the board. There’s no tool to help lift the keys, and the switches are far more fragile than hot-swappable alternatives.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Cherry Keys Companion App
 
 ![Cherry Keys keyboard app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/cherry-keys.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mark LoProto / How-to Geek
 
@@ -199,11 +179,31 @@ Mark LoProto / How-to Geek
 
  For reference, a keyboard with a 2-key rollover will only read up to two keys. This is especially helpful in gaming when you need to perform button combinations, such as in fighting games. Since it does feature n-key rollover, the wireless board also has anti-ghosting, which prevents special characters or erroneous keys from being registered when too many keys are pressed.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Lighting and Additional Functions
 
  Unlike most mechanical keyboards built for gamers, Cherry opted against RGB lighting and went for a simple but bright white backlight. Each laser-etched key shines unmistakably so you can type confidently, even in low light.
 
 ![White backlight with red indicator lighting on low-profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53480801350_ae077610ee_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -244,18 +244,20 @@ Cherry's KW X ultra-low-profile keyboard features an aluminum frame, mechanical 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-an-easy-to-use-youtube-subscription-tagline-for-2024/"><u>[New] Crafting an Easy-to-Use YouTube Subscription Tagline for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-discover-top-10plus-free-desktop-capture-software-for-2024/"><u>[New] Discover Top 10+ Free Desktop Capture Software for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tag-and-showcase-a-podcast-episode/"><u>[New] Tag and Showcase a Podcast Episode</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-youtube-shorts-for-profit-essential-requirements-and-potential-earnings/"><u>[Updated] In 2024, Mastering Youtube Shorts for Profit Essential Requirements and Potential Earnings</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/2-step-by-step-strategy-for-your-digital-evolution-secure-the-exclusive-action-plan-now/"><u>2. Step-by-Step Strategy for Your Digital Evolution: Secure the Exclusive Action Plan Now</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-finereader-die-kerntechnologie-fur-eine-umfassende-dokumentenbearbeitungslosung/"><u>ABBYY FineReader: Die Kerntechnologie Für Eine Umfassende Dokumentenbearbeitungslösung</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722962483256-intel-uhd-graphics-driver-download-and-update-windows-1011/"><u>Intel UHD Graphics Driver Download & Update – Windows 10/11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/master-your-art-with-the-giant-canvas-of-the-htiu-kamvas-gt-191-drawing-tablet-in-depth-analysis/"><u>Master Your Art with the Giant Canvas of the HTIU Kamvas GT-191 Drawing Tablet - In-Depth Analysis</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/quick-scan-pdf-and-image-recognition-for-books-on-your-iphone-using-optical-character-recognition-ocr-technology/"><u>Quick-Scan PDF & Image Recognition for Books on Your iPhone Using Optical Character Recognition (OCR) Technology</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/utionize-your-content-delivery-with-live-streaming-expertise/"><u>Revolutionize Your Content Delivery with Live Streaming Expertise</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-legal-workflows-abbyys-demo-of-advanced-intelligence-tech-for-lawyers-at-aba-techshow/"><u>Revolutionizing Legal Workflows: ABBYY's Demo of Advanced Intelligence Tech for Lawyers at ABA TECHSHOW</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-paperwork-the-dawn-of-smart-document-handling/"><u>Revolutionizing Paperwork: The Dawn of Smart Document Handling</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/steigern-sie-effizienz-and-produktivitat-bei-der-arbeit-die-neueste-version-von-abbyy-finereader-15-fur-verbesserte-dokumentenverarbeitung/"><u>Steigern Sie Effizienz & Produktivität Bei Der Arbeit: Die Neueste Version Von ABBYY FineReader 15 Für Verbesserte Dokumentenverarbeitung</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleashing-potential-mastering-advertising-partnerships-with-famebit/"><u>[New] Unleashing Potential Mastering Advertising Partnerships with FameBit</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-all-inclusive-list-best-downloader-software-for-vimeo/"><u>2024 Approved All-Inclusive List Best Downloader Software for Vimeo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725285689843-dvd/"><u>一般的なDVD変換ソフトウェアのエラーを解消するコツ</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-welcomes-jae-park-as-new-vice-president-of-sales-across-asia-pacific/"><u>ABBYY Welcomes Jae Park as New Vice President of Sales Across Asia-Pacific</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyys-timeline-5-boosts-productivity-with-innovative-task-mining-features/"><u>ABBYY's Timeline 5 Boosts Productivity with Innovative Task Mining Features</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/accelerating-digital-change-how-abbyys-smart-automation-powers-paragons-transformation-journey/"><u>Accelerating Digital Change: How ABBYY’s Smart Automation Powers Paragon's Transformation Journey</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/advancing-smart-multimodal-transit-solutions-the-insights-from-abbyys-perspective/"><u>Advancing Smart Multimodal Transit Solutions - The Insights From ABBYY's Perspective</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-conversion-with-advanced-cookiebot-personalization-techniques/"><u>Boost Conversion with Advanced Cookiebot Personalization Techniques</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-efficiency-with-abbyy-cut-invoice-processing-time-down-by-90/"><u>Boost Efficiency with ABBYY: Cut Invoice Processing Time Down by 90%</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-your-sites-traffic-with-customized-analytics-smart-solutions-from-cookiebot/"><u>Boost Your Site's Traffic with Customized Analytics: Smart Solutions From Cookiebot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clearing-dns-caches-on-a-mac-a-comprehensive-walkthrough-for-better-connectivity/"><u>Clearing DNS Caches on a Mac - A Comprehensive Walkthrough for Better Connectivity</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-s21-fe-5g-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy S21 FE 5G (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mastering-private-blog-networks-pbn-for-boosted-rankings-insights-and-tips/"><u>Mastering Private Blog Networks (PBN) for Boosted Rankings - Insights & Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme Narzo 60x 5G | Dr.fone</u></a></li>
 </ul></div>
 

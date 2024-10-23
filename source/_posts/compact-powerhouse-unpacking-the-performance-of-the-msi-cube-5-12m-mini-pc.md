@@ -1,7 +1,7 @@
 ---
 title: "Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC"
-date: 2024-10-16T21:54:48.231Z
-updated: 2024-10-17T22:36:08.398Z
+date: 2024-10-17T17:10:04.963Z
+updated: 2024-10-23T16:06:10.325Z
 tags:
   - product-reviews
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 * [Performance Tests](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-gt-5-pro-without-them-knowing-drfone-by-drfone-virtual-android/)
 * [Should You Buy the MSI Cube 5 12M mini PC?](https://extra-hints.techidaily.com/three-key-strategies-for-acquiring-youtube-srt-files/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The MSI Cube 5 12M is a compact PC that offers space savings and can be mounted on the back of a monitor, cutting down on cables.
@@ -40,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 ![MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/05-1024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  MSI Cube 5 12M mini PC
@@ -108,16 +101,16 @@ Expand
 
 [See at Amazon](https://www.amazon.com/MSI-Cubi-Mini-i7-12550U-Thunderbolt/dp/B0BQYBNPKT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmsi-cube-5-12m-mini-pc-review%2F&asc%5Fcampaign=Affiliate) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Form Factor** 
 
 ![MSI Cube 5 12M, AC adapter, and mounting plate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/01-msi-cubi-5-12m-accessoriesjpg_53124988854_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
 
@@ -153,6 +146,13 @@ Joe Robinson / How-To Geek
 
 ![Rear of MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/03-msi-cubi-5-12m-rear-portsjpg_53124785551_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  As expected with a computer with these specifications, I had no issue browsing the web, watching full-screen YouTube videos in 4K, using Microsoft 365 apps like Word and Excel, and using Adobe Creative Cloud apps like Photoshop. Gaming-wise, this system is really only good for 2D, or older, less 3D-intensive games. For instance, I had no trouble smoothly running a wildly popular game from late 2016 that's still receiving regular updates, "[Sid Meier's Civilization VI](https://civilization.com/)", using DirectX 12 at a 4K resolution of 3840 x 2160\. This form factor is also popular for those who like to emulate older consoles and computers, as those tend to rely more on CPU power than graphics processing power.
@@ -169,13 +169,6 @@ Joe Robinson / How-To Geek
 
 [Cinebench R23](https://apps.microsoft.com/store/detail/cinebench/9PGZKJC81Q7J), which uses a 3D engine to evaluate CPU rendering performance capabilities, gave the MSI Cube 5 12M a CPU (multi-core) score of 5,756 points, placing it above the 2.81 GHz, 11th Gen Intel Core i7-1165G7 at 28W, which had a score of 4,904, and below the 4.2 GHz Intel Core i7-7700K, which had a score of 6,302\. In CPU (single-core), the score was 1,529, which was a close second to the first place 2.81 GHz, 11 Gen Intel Core i7-1165G7 at 28W, which scored 1,532.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Should You Buy the MSI Cube 5 12M mini PC?** 
 
 ![MSI Cube 5 12M behind a mouse and near a keyboard and monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/04-the-msi-cubi-5-12m-set-up-on-a-desk-2jpg_53132290414_o-1.jpg) 
@@ -189,6 +182,13 @@ Joe Robinson / How-To Geek
  If you're in a position where you need a compact PC and primarily want a solid system for web browsing, office apps, and media playback, the MSI Cube 5 12M makes a strong case. If you already have a display, keyboard, and mouse, you can save even more money over an equivalent laptop. Just keep in mind the potential limitations and if a lower priced desktop PC with equivalent performance, but one that happens to take up more desk space, can serve the same function.
 
 ![MSI Cube 5 12M](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/05-1024-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  MSI Cube 5 12M
 
@@ -213,22 +213,17 @@ The MSI Cube 5 12M mini PC can handle everyday computing tasks and takes up mini
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/roducing-channel-trailer-synopses-a-guide/"><u>[New] Producing Channel Trailer Synopses A Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-the-heart-of-sims-4-games-for-2024/"><u>[Updated] Capturing the Heart of Sims 4 Games for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/m4a-windows11and11/"><u>高品質でM4A音楽を融合するステップ - Windows11&11対応レシピ</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connect-and-enjoy-easy-methods-for-casting-apple-tv-plus-shows-onto-your-chromecast-device/"><u>Connect and Enjoy: Easy Methods for Casting Apple TV Plus Shows Onto Your Chromecast Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-drivers-on-your-toshiba-satellite-using-windows/"><u>How to Install Updated Drivers on Your Toshiba Satellite Using Windows</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/idevice/"><u>IDevice間でシームレスな動画リンク手法：連続プレイガイド</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/imagetangle-the-premier-montage-engineer-for-2024/"><u>ImageTangle The Premier Montage Engineer for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-k11-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo K11 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mastering-youtube-video-compression-techniques-for-premium-quality-with-compact-file-formats/"><u>Mastering YouTube Video Compression Techniques for Premium Quality with Compact File Formats</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/merging-mp4-videos-in-one-seamless-file-a-guide-for-windows-10-and-11-users/"><u>Merging MP4 Videos in One Seamless File: A Guide for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/pc-smartphone/"><u>PC / Smartphone 使用時の音なし画面録画手段</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/selecting-superior-footage-quality-a-guide-to-choosing-between-avchd-and-mp4-on-sonypanasonic-gear/"><u>Selecting Superior Footage Quality: A Guide to Choosing Between AVCHD & MP4 on Sony/Panasonic Gear</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-adding-soundtracks-to-your-aerial-footage/"><u>Step-by-Step Guide: Adding Soundtracks to Your Aerial Footage</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-adding-text-overlays-to-your-gifs-across-pcs-macs-smartphones-and-web-apps/"><u>Step-by-Step Guide: Adding Text Overlays to Your GIFs Across PCs, Macs, Smartphones & Web Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlocking-the-treasures-a-guide-to-accessing-and-enjoying-your-beloved-tunes-and-clips-from-blizzards-gaming-world/"><u>Unlocking the Treasures: A Guide to Accessing & Enjoying Your Beloved Tunes and Clips From Blizzard's Gaming World</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-expert-tips-for-seamless-audio-overlay-on-videos-using-filmora/"><u>Updated Expert Tips for Seamless Audio Overlay on Videos Using Filmora</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/asf-swf-flash/"><u>무료 ASF SWF 변환기 - 인터넷을 통해 Flash 파일 교체</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-intelligent-volume-modulation-strategies/"><u>[New] Intelligent Volume Modulation Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-joining-independent-iphone-videos-with-ease/"><u>[New] Joining Independent iPhone Videos with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A2 Activity | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/advanced-sub-processor-partnerships-boosting-abbyy-professional-offerings/"><u>Advanced Sub-Processor Partnerships Boosting ABBYY Professional Offerings</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-conversion-tracking-with-cookiebot-integration/"><u>Automated Conversion Tracking with Cookiebot Integration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boosting-site-engagement-with-cookiebot-technology-integration/"><u>Boosting Site Engagement with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boosting-your-websites-visibility-using-advanced-cookiebot-solutions/"><u>Boosting Your Website's Visibility Using Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-which-ipad-is-right-for-you-a-detailed-analysis/"><u>Expert Reviews: Which iPad Is Right for You? A Detailed Analysis</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-13-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 13</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-hot-40i-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Hot 40i to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-professional-techniques-editing-and-saving-movies-in-win-11/"><u>In 2024, Professional Techniques Editing and Saving Movies in Win 11</u></a></li>
 </ul></div>
 

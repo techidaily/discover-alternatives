@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Overcome Freezing and Sluggishness in macOS Updates
-date: 2024-10-14T19:20:17.792Z
-updated: 2024-10-17T19:30:13.511Z
+date: 2024-10-21T16:15:34.066Z
+updated: 2024-10-23T16:42:46.066Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/06ef633964d4aeb8c1c54f31a301e011025d7ea7f99ce0f0956fe9988aefd04b.jpg
@@ -41,6 +41,13 @@ Plus, after you backup macOS data, there are more memory to install macOS Monter
 
 _The downloads above are for Windows and Mac only. If you are a mobile user, please [click here](https://tools.techidaily.com/macxdvd/products/)._
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Make Sure Your Mac Installation Got Stuck/Frozen Really
 
 _Trying to update my MacBook Pro 16 running Monterey 12.6.1 to macOS Ventura 13, but it hangs at 5 minutes left somehow for hours, and won't finish._
@@ -52,13 +59,6 @@ Just press Command + L, you can see the detailed remaining time of the whole Mac
 ## Solutions to Fix Mac Installation Failed/Stuck/Frozen/Slow Errors
 
 If your Mac is unable to install macOS Monterey/Ventura or freezing on installing, try the following workarounds to troubleshoot this annoying issue. Hopefully any of the following approaches will work for your macOS installation problem. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Quick Access to Fixes
 
@@ -117,6 +117,13 @@ There some features of macOS Ventura however that will only be accessible on M1 
 
 Read more: [troubleshoot macOS Ventura update problems >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Shut down your Mac and wait for some time. 
 
 When a new OS releases, a massive number of people will go to download and install the updates in a snap. As a result, the downloads and installation will be very slow with the large file and many people doing the same thing at the same time, and even fail during the process. 
@@ -124,6 +131,13 @@ When a new OS releases, a massive number of people will go to download and insta
 What you should do is to **wait for the server becoming available**. According to Apple system status page, macOS Software Update issue has been resolved. Now you should download the macOS Monterey/Ventura update file faster and install it without seeing "An error occurred while installing the selected updates"message.
 
 ![macOS Ventura Installation failed error](https://www.macxdvd.com/mac/article-image/macos-big-sur-installation-failed-stuck.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Go to Mac App Store and open updates. 
 
@@ -139,20 +153,6 @@ Safe mode (also called safe boot) is a way to start up your Mac so that it perfo
 
 ![mac installation stuck](https://www.macxdvd.com/mac/article-image/mac-installation-stuck-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Clear Mac Storage Space.
 
 Click on the Apple icon > About This Mac >Storage to check the space available on your Mac computer. If your Mac doesn't have enough space, the macOS Monterey/Ventura installation can be stuck or slow as well. The Ventura installer requires aboutl 12GB. But to install Ventura update without error, you should at least have 25GB free space on your Mac. This is a lot of space for MacBook Pro/Air with storage lower than 128GB. 
@@ -166,26 +166,6 @@ Thus, you may need to [free up your Mac space](https://tools.techidaily.com/macx
  also works for Mac installation frozen error. But to be frank, it's the least option, since there is a possibility to loss your Mac data. To adopt this solution, you can hold down Command + R at start up. Then recover your Mac from last Time Machine backup, or from [iTunes and iCloud backup](https://tools.techidaily.com/macxdvd/products/). 
 
 ![macos installation slow](https://www.macxdvd.com/mac/article-image/mac-installation-stuck-3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Reset PRAM/ NVRAM and SMC \[for M1 Mac\]
 
@@ -216,15 +196,22 @@ Related Articles
 ![](https://www.macxdvd.com/mac/../image-style/new-seo/pic7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [MacOS 13 Ventura vs 12 Monterey: Is It Worth the Upgrade?](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac/../image-style/new-seo/pic6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [macOS Ventura Apps Slowdown or Not Opening? Quick Fixes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.macxdvd.com%2Fmac%2Fmac-app-slowdown-not-opening-on-macos.htm) 
 
@@ -234,13 +221,6 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [macOS Big Sur vs Catalina: What're the Differences](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac/../image-style/new-seo/pic3.jpg)
@@ -249,24 +229,31 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac/../image-style/new-seo/pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [MacOS 12 Monterey vs 11 Big Sur, Should You Upgrade to Monterey?](https://tools.techidaily.com/macxdvd/products/) 
 
 ![Digiarty Software](https://www.macxdvd.com/mac/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -275,6 +262,13 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Data Transfer >>](https://tools.techidaily.com/macxdvd/products/)
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Company
 
@@ -306,24 +300,18 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-deep-dive-magix-video-pro-x-features-and-performance-for-2024/"><u>[New] Deep Dive Magix Video Pro X Features and Performance for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-5-tactics-from-experts-a-journey-of-online-brand-growth/"><u>[New] In 2024, Top 5 Tactics From Experts A Journey of Online Brand Growth</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-lgs-advanced-4k-visual-display/"><u>[New] The Ultimate Guide to LG’s Advanced 4K Visual Display</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bring-your-footage-to-life-master-the-art-with-these-11-color-edits/"><u>[Updated] Bring Your Footage to Life Master the Art with These 11 Color Edits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-frameworks-for-compelling-youtube-content-layouts/"><u>[Updated] Frameworks for Compelling YouTube Content Layouts</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1-download-dvd-di-rippare-in-formato-hd-senza-perdite-il-guida-completa-per-il-mercato-gratuito/"><u>1. Download DVD Di 'Rippare' In Formato HD Senza Perdite: Il Guida Completa per Il Mercato Gratuito</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-precision-in-action-3-methods-for-gaming-footage/"><u>2024 Approved Precision in Action 3 Methods for Gaming Footage</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/windows-11-for-phone/"><u>快速学习：如何在移动设备上使用Windows 11 for Phone流式影片</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/como-liberar-y-transferir-contenido-de-itunes-pasos-faciles-para-conversion-musical-e-independizacion/"><u>Cómo Liberar Y Transferir Contenido De iTunes: Pasos Fáciles Para Conversión Musical E Independización</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/discover-the-ideal-free-dvd-viewer-apps-for-windows-11-users-ranking-of-top-13-choices/"><u>Discover the Ideal Free DVD Viewer Apps for Windows 11 Users – Ranking of Top 13 Choices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-functions-of-smartwatches-a-comprehensive-guide/"><u>Exploring the Functions of Smartwatches: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/free-download-winx-mobile-dvd-ripper-compatible-with-ios-and-android/"><u>Free Download: WinX Mobile DVD Ripper - Compatible with iOS and Android</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/free-mp4-recovery-techniques-expert-guide-to-restoring-videos-on-your-computer/"><u>Free MP4 Recovery Techniques: Expert Guide to Restoring Videos on Your Computer</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/lecteur-video-ultra-hd-free-le-meilleur-choix-en-format-h265-hevc-pour-windows-11mac-version-2020/"><u>Lecteur Vidéo Ultra HD Free : Le Meilleur Choix en Format H.2#65 HEVC Pour Windows 11/Mac - Version 2020</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/missing-popcorn-time-on-vlc-easy-steps-to-integrate-and-enjoy/"><u>Missing Popcorn Time on VLC? Easy Steps to Integrate and Enjoy!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connection-issues-with-audiovideo-hardware-in-windows-tips-and-tricks/"><u>Overcoming Connection Issues with Audio/Video Hardware in Windows - Tips and Tricks</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/professionelle-tipps-und-tricks-fur-die-umwandlung-von-interlaced-videos-in-progressive-formate-unter-verwendung-von-handbrake/"><u>Professionelle Tipps Und Tricks Für Die Umwandlung Von Interlaced-Videos in Progressive Formate Unter Verwendung Von HandBrake</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-inserting-animated-gifs-into-instagram-replies/"><u>Step-by-Step Tutorial: Inserting Animated GIFs Into Instagram Replies</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-the-top-4-video-game-emulators-for-idevices/"><u>The Ultimate Guide to the Top 4 Video Game Emulators for iDevices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-complete-assessment-of-macos-and-screenflow-v4-for-2024/"><u>[New] Complete Assessment of macOS and ScreenFlow V4 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/onstructing-youtube-video-content-that-resonates-with-viewers-for-2024/"><u>[New] Constructing YouTube Video Content That Resonates with Viewers for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-generate-brand-identity-accessible-logo-templates-and-editing/"><u>[Updated] 2024 Approved Generate Brand Identity Accessible Logo Templates & Editing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-gopro-hero5-footage-analysis/"><u>[Updated] 2024 Approved GoPro Hero5 Footage Analysis</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-zero-price-path-to-enhanced-youtube-video-analysis/"><u>[Updated] In 2024, Zero-Price Path to Enhanced YouTube Video Analysis</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-effettuata-la-riparazione-guida-gratuita-per-sistemare-i-file-video-mp4-danneggiati-su-computer-windows-o-mac/"><u>1. Effettuata La Riparazione: Guida Gratuita per Sistemare I File Video MP4 Danneggiati Su Computer Windows O Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flvvobmovavi/"><u>迅速なFLVとVOB形式変換を提供する、Movaviの強力なオンライン無料プログラム</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-practices-for-producing-encouragement-driven-vlogs-for-2024/"><u>Best Practices for Producing Encouragement-Driven Vlogs for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mac-avchdmkcwmvmp4/"><u>Mac用超萬能格式轉換器 - AVCHD、MKC、WMV、MP4快速變更</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-eliminating-stuttering-problems-in-halo-infinite-gameplay/"><u>Resolved: Eliminating Stuttering Problems in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/solve-your-dvds-sound-issues-tips-to-fix-distorted-or-skipped-audio-during-playback/"><u>Solve Your DVD's Sound Issues: Tips to Fix Distorted or Skipped Audio During Playback</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-10-mobile-and-desktop-video-chat-apps/"><u>Top 10 Mobile & Desktop Video Chat Apps</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-mp4-video-compressor-tools-effortless-free-mp4-resizing-techniques/"><u>Top MP4 Video Compressor Tools: Effortless Free MP4 Resizing Techniques</u></a></li>
 </ul></div>
 

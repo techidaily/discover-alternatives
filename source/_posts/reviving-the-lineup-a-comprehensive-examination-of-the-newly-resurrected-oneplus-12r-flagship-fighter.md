@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter"
-date: 2024-10-13T21:58:20.400Z
-updated: 2024-10-17T20:17:59.019Z
+date: 2024-10-20T16:55:42.413Z
+updated: 2024-10-23T17:05:08.066Z
 tags:
   - product-reviews
 categories:
@@ -103,15 +103,22 @@ Expand
 
 [See at OnePlus](https://onepluscom.pxf.io/c/5597632/916678/12532?subId1=UUhtgUeUpU2001897&subId2=ehtg&u=https%3A%2F%2Fwww.oneplus.com%2Fus%2Foneplus-12r) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Foneplus-12r-128gb-unlocked-iron-gray%2F6571130.p%3FskuId%3D6571130) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  OnePlus 12R Design: A Refined Classic
 
 ![The camera on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-camera-on-the-oneplus-12r-1jpg_53484997386_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -130,13 +137,6 @@ Close
 
 ![The lockscreen of the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-holding-the-oneplus-12r-on-its-homescreenjpg_53485137588_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  OnePlus has generally equipped its flagship phones with great displays ([though I can’t say the same for the Nord series](https://video-screen-grab.techidaily.com/new-step-into-professionalism-aiseesofts-screen-recording-made-accessible-for-2024/)), and the 12R is no exception. The phone has a 6.78-inch LTPO4.0 AMOLED panel that boasts a resolution of 2, 780 x 1,264, a dynamic refresh rate of 1-120Hz, and a peak brightness of 4500 nits. It also has ProXDR display technology that enhances the contrast, color, and clarity of the screen.
@@ -145,11 +145,31 @@ Sergio Rodriguez / How-To Geek
 
 ![OnePlus app folder on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus-app-folder-on-the-oneplus-12rjpg_53485297754_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  As mentioned, the OnePlus 12R’s display has an adaptive refresh rate that can automatically adjust from 1Hz to 120Hz, depending on what you're doing. This saves battery life and ensures a smooth and responsive performance when needed. The screen also has an adaptive brightness that can adjust from 1 nit to 4500 nits depending on the ambient light. All in all, this is a great display, up there with the best of the best from Samsung.
 
  In terms of durability, the display is protected by Gorilla Glass Victus 2, which is the toughest glass ever made by Corning. The display is curved along the edges, and a lot of people complain about that, but it’s not something that has ever bothered me. The screen also has an in-display fingerprint sensor that I found to be fast and accurate and a centered punch-hole selfie camera that is barely noticeable.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  OnePlus 12R Software: Steady as She Goes
 
@@ -179,25 +199,11 @@ Jerome Thomas / How-To Geek
 
 ![Close up of the OnePlus12R front camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus12r.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  On the battery front, OnePlus has put its biggest battery yet in the 12R. It packs a 5,500mAh battery along with 80W SUPERVOOC charging. Honestly, I’ve never had a bad experience with battery life on OnePlus devices, and the 12R is no exception. In the past, I've said phones could last multiple days if you adjust your usage, but you truly can make the 12R last multiple days just by using it normally (assuming you aren't gaming and watching videos all day).
 
  The insanely fast charging (1-100% in 31 minutes) is very cool, but I miss wireless charging. However, I understand the omission for a $500 device, and to its credit, OnePlus finally added wireless charging to the standard OnePlus 12\. If you do try to stretch the battery to last multiple days, that super speedy charging time comes in handy for topping off outside of the typical sleep charging routine.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  OnePlus 12R Cameras: Pretty Standard, Again
 
@@ -220,22 +226,15 @@ Close
  The OnePlus 12R also has a 16MP selfie camera. The selfie camera doesn’t have autofocus or OIS, but it does have EIS (electronic image stabilization). The most important thing to me with a selfie camera is Portrait Mode, and OnePlus has one of the best. It’s not quite as good as Samsung, but probably on par with Google.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy the OnePlus 12R?
 
 ![Close up of the rear camera of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-of-the-rear-camera-of-the-oneplus12rjpg_53484088827_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -250,6 +249,13 @@ Jerome Thomas / How-To Geek
  The only things that would degrade my experience with the OnePlus 12R over time are the cameras just being _okay_, small OxygenOS quirks, and the lack of wireless charging. Putting my personal preferences aside, that's actually not much. The OnePlus 12R is the closest the company has gotten to its old "flagship killer" mantra in a while. This device is a winner.
 
 ![OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/oneplus-12r.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -276,24 +282,14 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-screen-recorder-guide-apeak-vs-others/"><u>[New] Ultimate Screen Recorder Guide – Apeak vs Others</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-navigating-youtube-submission-a-filmmakers-guide-to-360-video/"><u>[Updated] 2024 Approved Navigating YouTube Submission A Filmmaker's Guide to 360 Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>[Updated] A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-the-power-of-picture-in-picture-on-chrome-platforms/"><u>2024 Approved Harness the Power of Picture In Picture on Chrome Platforms</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-timeline/"><u>ABBYY Timelineで強力に利用するためのプロセスマイニング:実践的な事例とアクティベーションポイント</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-upgrades-to-abbyy-finereader-server-with-significant-enhancements-and-rebranding/"><u>ABBYY Upgrades to ABBYY FineReader Server with Significant Enhancements and Rebranding</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/automated-traffic-optimization-with-cookiebot-technology/"><u>Automated Traffic Optimization with Cookiebot Technology</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/beyond-hype-identifying-pitfalls-of-artificial-intelligence-implementation-for-business-success/"><u>Beyond Hype: Identifying Pitfalls of Artificial Intelligence Implementation for Business Success</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/boost-your-at-home-business-success-with-smart-strategies-to-minimize-denials-and-optimize-revenue-processes-guided-by-an-abbyy-professional/"><u>Boost Your At-Home Business Success with Smart Strategies to Minimize Denials & Optimize Revenue Processes - Guided by an ABBYY Professional</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/btoes-global-analysis-unveiling-the-worldwide-landscape-of-operational-expertise/"><u>BTOES Global Analysis: Unveiling the Worldwide Landscape of Operational Expertise</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-personalization-enhancing-user-experience-through-tailored-content/"><u>Cookiebot-Enabled Personalization: Enhancing User Experience Through Tailored Content</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enhanced-enhancing-your-websites-performance/"><u>Cookiebot-Enhanced: Enhancing Your Website's Performance</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-fueled-websites-enhanced-personalization-and-data-insights/"><u>Cookiebot-Fueled Websites: Enhanced Personalization & Data Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-g2-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo G2 Device SIM</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-z50s-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nubia Z50S Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-scrutinizing-high-quality-brightness-in-hd-imaging/"><u>In 2024, Scrutinizing High-Quality Brightness in HD Imaging</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-transform-your-brand-with-powerful-fb-video-messaging/"><u>In 2024, Transform Your Brand with Powerful FB Video Messaging</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-guide-to-correcting-missing-shelldll-files-and-restoring-stability/"><u>The Definitive Guide to Correcting Missing Shell.dll Files and Restoring Stability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-a20-unveiled-comprehensive-guide-to-a-value-packed-android-device/"><u>The Samsung Galaxy A20 Unveiled: Comprehensive Guide to a Value-Packed Android Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-beginners-to-pros-choosing-webcams-for-youtube-live-for-2024/"><u>[Updated] From Beginners to Pros Choosing Webcams for YouTube Live for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-fix-for-disabled-photo-viewer-back-on-win-11/"><u>[Updated] Quick Fix for Disabled Photo Viewer Back on Win 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tips-and-tricks-for-efficient-use-of-steams-switch-controllers/"><u>2024 Approved Tips & Tricks for Efficient Use of Steam’s Switch Controllers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-poco-c55-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Poco C55 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-your-website-traffic-with-cookiebot-the-top-conversion-tracking-platform/"><u>Boost Your Website Traffic with Cookiebot - The Top Conversion Tracking Platform</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boosting-govtech-efficiency-with-abbyy-solutions-accelerating-time-saving-strategies-within-government-bodies/"><u>Boosting GovTech Efficiency with ABBYY Solutions – Accelerating Time-Saving Strategies Within Government Bodies</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/borse-im-dialog-so-erklart-der-handelsblatt-podcast-die-welt-der-finanzen/"><u>Börse Im Dialog: So Erklärt Der Handelsblatt-Podcast Die Welt Der Finanzen</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-automation-boost-your-sites-efficiency/"><u>Cookiebot-Driven Automation: Boost Your Site's Efficiency</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-reality-explained-meta-vs-omni-insights/"><u>Virtual Reality Explained Meta Vs. Omni Insights</u></a></li>
 </ul></div>
 

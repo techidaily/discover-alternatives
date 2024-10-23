@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Mac Data Preservation on External Drives - Including Time Machine Alternatives
-date: 2024-10-11T19:24:32.112Z
-updated: 2024-10-17T17:08:21.716Z
+date: 2024-10-20T17:34:26.204Z
+updated: 2024-10-23T16:57:47.002Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858e011b7c1ceac58f39d7b6f4.jpg
@@ -31,13 +31,6 @@ _Summary: follow this post to read how to backup Mac to external hard drive with
 
 If you haven't made any backup for your Mac, you'll regret when your most important data is lost or deleted accidentally. In this tutorial, you'll learn how to backup Mac to external hard drive (Western Digital, Seagate, Toshiba etc.) with or without Time Machine, whether they are movies, videos, music, movies on DVDs, iTunes library, iTunes purchases/rentals, [Mac apps](https://tools.techidaily.com/macxdvd/products/), documents, or games. We also provide tips and fixes for Mac backup problems, Mac not recognizing external hard drive error and more for your reference.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Backup MacBook Air/Pro/iMac to External Hard Drive with Time Machine
 
 [Time Machine](https://en.wikipedia.org/wiki/Time%5FMachine%5F%28macOS%29) is a built-in tool on Mac, which works with internal and external disk drives to backup and restore data for macOS. It's one of the easiest way to save your Mac data to SSD or HDD, including mac apps, media files, [DVD backup](https://tools.techidaily.com/macxdvd/products/), documents and other. Follow Mac backup steps with Time Machine below. You have to [format your new external hard drive for Mac](https://tools.techidaily.com/macxdvd/products/) before backup. 
@@ -50,6 +43,13 @@ If you haven't made any backup for your Mac, you'll regret when your most import
 * Time Machine will use up all the storage on the external hard drive. If you don't want the backup take up all the space on the drive and need to store other data on this drive, follow to [partition external hard drive on Mac](https://tools.techidaily.com/macxdvd/products/) with Time Machine.
 
 ![how to backup mac to external hard drive](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/how-to-backup-mac-to-external-hard-drive.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 how to backup mac to external hard drive
 
@@ -69,13 +69,6 @@ You might as well follow the Mac data backup process below without Time Machine.
 
 ![note icon](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **How to Fix "Can't Backup Mac to External Hard Drive"**
 
 * Check your Mac. Update your Mac software to the latest version. Restart your Mac to fix "can't backup MacBook to external hard drive" issue.
@@ -93,13 +86,6 @@ _[External hard drive not showing on Mac](https://tools.techidaily.com/macxdvd/p
 * Restart your Mac. A simple restart always solves problems.
 * Erase and reformat the external hard drive for Mac. Backup data first before reformatting as reformatting will delete all the data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fast Copy DVD to External Hard Drive with High Quality
 
 MacX DVD Ripper Pro is able to rip any DVD, including damaged ones, unplayable DVDs, 99-title DVDs, protected DVDs, Japanese DVDs, workout DVDs and more, to external hard drive partitions for backup and easier playback and management with ease and No.1 fast speed and original quality.
@@ -115,30 +101,37 @@ Related Articles
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Best SSDs for Mac in 2024 You Must Never Miss](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to Rip and Coppy DVD to NAS Drive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Fix DVD Drive Not Working, Showing, Reading Discs Errors](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Best external hard drive to backup and store data on your Mac](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -149,6 +142,13 @@ Related Articles
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -194,24 +194,18 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-discerning-the-ideal-audio-elements-for-movie-previews/"><u>[New] Discerning the Ideal Audio Elements for Movie Previews</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-exploring-stardews-peak-mods-list-of-the-best/"><u>[New] Exploring Stardew's Peak Mods - List of the Best</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-no-price-no-problem-turning-twitter-vids-into-gifs-for-2024/"><u>[New] No Price, No Problem Turning Twitter Vids Into GIFs for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-editessence-system-for-2024/"><u>[Updated] EditEssence System for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unpacking-the-virb-ultra-30-action-cam-by-garmin/"><u>[Updated] Unpacking the VIRB Ultra 30 Action Cam by Garmin</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1-fixing-the-issue-how-to-resolve-non-playable-facebook-video-content/"><u>1. Fixing the Issue: How to Resolve Non-Playable Facebook Video Content</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/compact-powerhouse-unpacking-the-performance-of-the-msi-cube-5-12m-mini-pc/"><u>Compact Powerhouse: Unpacking the Performance of the MSI Cube 5 12M Mini PC</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/comprehensive-guide-to-ifixit-professional-tech-gadgets-the-ultimate-resource-for-every-diy-enthusiast/"><u>Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-communication-learn-how-to-compose-and-share-voice-messages-with-ios-devices/"><u>Effortless Communication: Learn How to Compose and Share Voice Messages with iOS Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/enhancing-fidelity-close-up-minecraft-tactics/"><u>Enhancing Fidelity Close-Up Minecraft Tactics</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/expert-insights-on-the-google-pixel-eight-outstanding-performance-meets-high-cost-dilemma/"><u>Expert Insights on the Google Pixel Eight: Outstanding Performance Meets High Cost Dilemma</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/exploring-the-efficiency-and-functionality-of-the-logitech-combo-touch-as-a-competitive-replacement-to-apples-classic-ipad-keyboard/"><u>Exploring the Efficiency and Functionality of the Logitech Combo Touch as a Competitive Replacement to Apple’s Classic iPad Keyboard</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/exploring-the-hoverair-x1-the-revolutionary-purpose-driven-self-flying-camera-drone-experience/"><u>Exploring the HoverAir X1: The Revolutionary, Purpose-Driven Self-Flying Camera Drone Experience</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win-webster.techidaily.com/lip-reading-tech-shakes-up-the-market-the-game-changing-competitor-to-zoom-and-ms-teams-unveiled-on-zdnet/"><u>Lip-Reading Tech Shakes Up the Market: The Game-Changing Competitor to Zoom and MS Teams Unveiled on ZDNet</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/precision-and-power-in-your-hands-the-ultimate-guide-to-the-gamesir-x2s-type-c-review/"><u>Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/reviewing-the-functionality-and-responsiveness-of-cherry-kw-x-ulp-board-for-gamers-and-typists-sturdy-clicky-mechanisms-reviewed/"><u>Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/reviving-the-lineup-a-comprehensive-examination-of-the-newly-resurrected-oneplus-12r-flagship-fighter/"><u>Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-secret-formula-for-expanding-your-instagram-presence/"><u>The Secret Formula for Expanding Your Instagram Presence</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-maximizing-your-time-best-ways-to-follow-facebook-live/"><u>[Updated] In 2024, Maximizing Your Time Best Ways to Follow Facebook Live</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-wmv-video-players-compatible-with-macos-windows-11-and-10/"><u>Best WMV Video Players Compatible with MacOS, Windows 11 & 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/drones-and-stability-optimal-vibration-control-devices-for-2024/"><u>Drones & Stability Optimal Vibration Control Devices for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/dvdipad-6-and/"><u>DVDからiPadへ簡単移行! - 6推した無料アプリをご紹介 - レビュー&口コミ集</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-v30-lite-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo V30 Lite 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-7-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 7 With or Without Password</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xr-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XR Location by Number | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/quick-and-efficient-hd-video-conversion-using-winx-dvd-ripper-pro-securely-rip-dvds-into-premium-mp4-h265hevc-within-half-an-hour/"><u>Quick and Efficient HD Video Conversion Using WinX DVD Ripper Pro: Securely Rip DVDs Into Premium MP4 (H.265/HEVC) Within Half an Hour</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-transferring-your-dvds-into-digital-format-across-pc-mac-and-mobile/"><u>Step-by-Step Guide: Transferring Your DVDs Into Digital Format Across PC, Mac and Mobile</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-13-no-cost-dvd-player-apps-compatible-with-windows-11-a-comprehensive-guide/"><u>Top 13 No-Cost DVD Player Apps Compatible with Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-personalized-steam-login-number/"><u>Unraveling Personalized Steam Login Number</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725289014560-winxvideo-ai/"><u>WinxVideo AI 正式推出:高端影片編輯解決方案及其對應的標準</u></a></li>
 </ul></div>
 

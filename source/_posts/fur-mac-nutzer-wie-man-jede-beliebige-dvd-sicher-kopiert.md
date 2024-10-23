@@ -1,7 +1,7 @@
 ---
 title: "Für Mac Nutzer: Wie Man Jede Beliebige DVD Sicher Kopiert"
-date: 2024-10-11T21:43:55.367Z
-updated: 2024-10-17T16:26:55.365Z
+date: 2024-10-19T16:23:06.309Z
+updated: 2024-10-23T17:01:41.334Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002cdc0aa0e847be271477f189f.jpg
@@ -56,6 +56,13 @@ Im Zeitalter der digitalen Medien ist es beunruhigend, wenn man noch viele älte
 * [So kopieren Sie DVDs auf die Mac-Festplatte mit VLC \[für ungeschützte Heimvideo-DVD\]](https://tools.techidaily.com/macxdvd/products/)
 * [FAQ zum Kopieren von DVDs auf die Mac-Festplatte](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Versuchen Sie zunächst, DVD-Inhalte direkt auf die Festplatte des Mac zu kopieren:
 
 Wenn die DVD kein DRM oder andere Kopierschutzmaßnahmen enthält, können Sie versuchen, den DVD-Inhalt per Drag & Drop auf Festplatten auf Macs zu kopieren. 
@@ -67,19 +74,6 @@ Schritt 2: Kopieren Sie dann den Ordner VIDEO\_TS auf die Festplatte Ihres Mac. 
 Schritt 3: Öffnen Sie nun den Ordner VIDEO\_TS und Sie sehen einige BUP-, IFO- und VOB-Dateien. Kopieren Sie die VOB-Dateien auf Ihre Festplatte, da sie den DVD-Film enthalten. VOB-Dateien werden jedoch nicht von QuickTime oder anderen Mac-Anwendungen unterstützt. Sie können Tools wie VLC, 5KPlayer usw. ausprobieren, um sie zu öffnen.
 
 Wenn Sie jedoch versuchen, die VOB-Dateien in einem DVD-Video\_TS-Ordner abzuspielen, stellen Sie möglicherweise fest, dass die Datei leer ist oder nicht normal abgespielt werden kann. Oder noch schlimmer: Sie können den DVD-Inhalt überhaupt nicht auf die Festplatte Ihres Mac kopieren. Dies liegt daran, dass die DVD kopiergeschützt ist und die Verschlüsselungen auf der DVD verhindern, dass Sie das DVD-Video direkt kopieren können. Wie kann man also eine geschützte DVD auf die Festplatte eines Mac übertragen?
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methode 1\. So kopieren Sie DVDs auf die Mac-Festplatte mit MacX DVD Ripper \[für hausgemachte und geschützte DVD\]
 
@@ -96,13 +90,6 @@ Für die ungeschützte DVD-Konvertierung ist es ganz einfach. Aber viele Film- o
 * Eine hohe Qualität der Ausgabedatei ist garantiert.
 
 [Download für Mac](https://tools.techidaily.com/macxdvd/products/) [Download für PC](https://tools.techidaily.com/macxdvd/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Schritte zum Kopieren einer DVD auf die Mac-Festplatte mit **MacX DVD Ripper Pro**:
 
@@ -145,10 +132,16 @@ Nachdem Sie die DVD auf die Mac-Festplatte gerippt haben, können Sie die DVD-Vi
 Die MacXDVD-Software ruft zum Kopieren oder Rippen von DVDs unter dem Konzept der fairen Nutzung auf und unterstützt keine illegale Verbreitung von urheberrechtlich geschützten Inhalten. Bitte beachten Sie dabei das lokale DVD-Urheberrechtsgesetz. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methode 2\. So kopieren Sie DVDs auf die Mac-Festplatte mit Disk Utility \[für ungeschützte Heimvideo-DVD\]
@@ -211,6 +204,13 @@ Es kann jedoch keine exakte Kopie einer DVD auf der Mac-Festplatte in einem ISO-
 * Handbrake kann keine exakte Kopie einer DVD auf der Festplatte speichern, da es nur MKV- und MP4-Formate ausgibt.
 * Handbrake ist komplizierter als andere DVD-Ripper-Optionen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Schritte zum Kopieren einer DVD auf die Mac-Festplatte mit Handbrake:
 
 **Schritt 1:** Laden Sie Handbrake auf Ihren Mac herunter und legen Sie eine DVD in das Laufwerk ein (Laden Sie die libdvdcss herunter, wenn Sie eine geschützte DVD kopieren möchten.). Öffnen Sie dann die Handbremse.
@@ -224,6 +224,13 @@ Es kann jedoch keine exakte Kopie einer DVD auf der Mac-Festplatte in einem ISO-
 **Schritt 4:** Klicken Sie auf Start und warten Sie auf den Vorgang. Sobald Sie fertig sind, finden Sie eine DVD-Kopie auf Ihrer Mac-Festplatte.
 
 ![dvd mit kopierschutz auf festplatte kopieren mac](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/handbrake-cpu-limit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methode 4\. So kopieren Sie DVDs auf die Mac-Festplatte mit MakeMKV \[für ungeschützte Heimvideo-DVD\]
 
@@ -258,10 +265,10 @@ MakeMKV ist möglicherweise nicht der [besten kostenlosen DVD-Ripper](https://to
 ![dvd film auf festplatte kopieren](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/makemkv-convert-700.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methode 5\. So kopieren Sie DVDs auf die Mac-Festplatte mit VLC \[für ungeschützte Heimvideo-DVD\]
@@ -279,13 +286,6 @@ VLC ist ein Multimedia-Player, der den meisten Computerbenutzern bekannt ist. Ei
 * VLC unterstützt keine geschützten DVDs. Um mit einer geschützten DVD umzugehen, können Sie versuchen, die DVD in VLC abzuspielen, sich den DVD-Titel merken und den DVD-Titel manuell in VLC eingeben.
 * VLC benötigt zu lange, um eine DVD zu kopieren.
 * VLC ist nicht so benutzerfreundlich oder intuitiv wie dedizierte DVD-Ripping-Software.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Schritte zum Kopieren einer DVD auf die Mac-Festplatte mit VLC:
 
@@ -312,6 +312,13 @@ Um Ihnen dabei zu helfen, die beste Methode zum Herunterladen einer DVD auf die 
 | Andere Eigenschaften                           | Bearbeiten, Parameter anpassen, Titel zusammenführen, Untertitel hinzufügen, zuschneiden, trimmen usw.               | NEIN               | Passen Sie Qualität, Encoder, Zuschneiden, Zuschneiden, Untertitel hinzufügen und mehr an. | NEIN                                                  | Passen Sie die Videoparameter an     |
 | Einfach zu verwenden                           | Ja                                                                                                                   | Ja                 | NEIN                                                                                       | Ja                                                    | Ja                                   |
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Zusammenfassung
 
 Um eine DVD auf eine Festplatte auf einem Mac zu kopieren, sind alle oben genannten Optionen ausreichend. Was den besseren Weg betrifft, hängt es von Ihren spezifischen Bedürfnissen und Vorlieben ab. Das Festplatten-Dienstprogramm ist eine kostenlose und einfache Option, verfügt jedoch nicht über erweiterte Funktionen. Handbrake und MakeMKV sind kostenlose Optionen mit mehr Anpassungsmöglichkeiten, erfordern jedoch möglicherweise einige technische Kenntnisse. VLC ist ein vielseitiger Mediaplayer, der auch DVDs rippen kann, im Vergleich zu dedizierter Software ist er jedoch möglicherweise nicht so benutzerfreundlich oder vielseitig. Insgesamt bietet MacX DVD Ripper ein benutzerfreundlicheres Erlebnis mit erweiterten Funktionen. Es zeigt auch eine bessere Leistung beim Kopieren geschützter DVDs auf die Festplatte, bei der Ausgabequalität und bei der Kopiergeschwindigkeit. 
@@ -324,16 +331,16 @@ Klicken Sie unten auf die Download-Schaltfläche, um den besten Mac-DVD-Ripper z
 
 Wenn Sie die DVD-Filme auf einer Festplatte auf dem Mac kopieren, um sie später auf Fernsehern abzuspielen, sollten Sie die DVD in einem vom Fernseher unterstützten Format kopieren. Sie können sich dafür entscheiden, die DVD in MP4 zu rippen, das von den meisten Fernsehern unterstützt wird, oder das Benutzerhandbuch Ihres TV-Modells überprüfen. Nachdem Sie die DVD auf eine externe Festplatte auf Mac/Windows gerippt haben, können Sie die Filme von der Festplatte auf dem Fernseher abspielen. Es gibt zwei Methoden, um Filme von einer Festplatte auf einem Fernseher abzuspielen.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Streamen Sie DVD-Filme von der Festplatte auf den TV über Plex
 
 Sobald alle DVDs auf einer externen Festplatte gerippt sind, können Sie Plex einrichten. Laden Sie Plex herunter und richten Sie es ein. Melden Sie sich an/erstellen Sie Ihr Konto und benennen Sie den Server. Erstellen Sie dann eine Bibliothek und fügen Sie Ihre Filme hinzu. Wenn Ihr Streaming-Player mit der Plex-App funktioniert, können Sie auf Ihre Filmbibliothek zugreifen und die DVD-Filme auf dem Fernseher ansehen. Beachten Sie, dass Plex DVD-Formate wie ISO-Image und Video\_TS-Ordner nicht unterstützt.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Verbinden Sie die Festplatte mit dem TV
 
@@ -409,13 +416,6 @@ Related Articles
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Kopiergeschützte DVD kopieren unter Windows (11/10)/Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic6.jpg)
@@ -428,13 +428,6 @@ Related Articles
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [3 Möglichkeiten zum Abspielen von DVDs auf einem Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic3.jpg)
@@ -442,6 +435,13 @@ Related Articles
 [Wie kann man Filme von DVD auf iPad kopieren trotz Kopierschutz](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Bester DVD Ripper für Mac/Win](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -488,15 +488,15 @@ Apple, das Apple-Logo, Mac, iPhone, iPad, iPod und iTunes sind Markenzeichen der
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-obs-studio-and-lut-application-guide-for-professional-cinematographers/"><u>[Updated] 2024 Approved OBS Studio & LUT Application Guide for Professional Cinematographers</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyys-timeline-5-boosts-productivity-with-innovative-task-mining-features/"><u>ABBYY's Timeline 5 Boosts Productivity with Innovative Task Mining Features</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/accelerating-digital-change-how-abbyys-smart-automation-powers-paragons-transformation-journey/"><u>Accelerating Digital Change: How ABBYY’s Smart Automation Powers Paragon's Transformation Journey</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/advancing-smart-multimodal-transit-solutions-the-insights-from-abbyys-perspective/"><u>Advancing Smart Multimodal Transit Solutions - The Insights From ABBYY's Perspective</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/boost-conversion-with-advanced-cookiebot-personalization-techniques/"><u>Boost Conversion with Advanced Cookiebot Personalization Techniques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/experience-professional-gaming-download-the-driving-force-gt-controller-driver-for-windows-windows-71011/"><u>Experience Professional Gaming: Download the Driving Force GT Controller Driver for Windows (Windows 7/10/11)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-magicard-rio-pro-driver-game-for-your-window-10-8-cuisine-and-7-machine-download-here/"><u>Get the Newest Magicard Rio Pro Driver Game for Your Window 10, 8. Cuisine, and 7 Machine: Download Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-drivers-for-universal-serial-bus-usb-human-interface-devices/"><u>How to Install the Latest Drivers for Universal Serial Bus (USB) Human Interface Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-fourfold-edge-of-using-claude-3-surpassing-chatgpt-in-modern-tech-needs/"><u>The Fourfold Edge of Using Claude 3: Surpassing ChatGPT in Modern Tech Needs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-enthralling-evaluation-and-secondary-recommendations-for-2024/"><u>[New] Enthralling Evaluation & Secondary Recommendations for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-analyzing-screen-capture-tech-for-professionals/"><u>[New] In 2024, Analyzing Screen Capture Tech for Professionals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-tv-experience-watching-fb-content-seamlessly-for-2024/"><u>[Updated] Enhancing TV Experience Watching Fb Content Seamlessly for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-to-disableremove-youtube-shorts-permanently2/"><u>2024 Approved How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-signs-exclusive-brand-license-agreement-with-xerox-expanding-document-solutions/"><u>ABBYY Signs Exclusive Brand License Agreement with Xerox: Expanding Document Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-lead-capture-with-the-help-of-cookiebot-technology/"><u>Automated Lead Capture with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/blog-post-exploring-how-cyber-intelligence-tools-are-revolutionizing-covid-1/"><u>Blog Post: Exploring How Cyber Intelligence Tools Are Revolutionizing COVID-1</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-procedural-blueprint-inserting-srt-within-mp4-recordings/"><u>In 2024, Procedural Blueprint Inserting SRT Within MP4 Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-pairing-10-films-for-fun-filled-family-nights-for-2024/"><u>Perfect Pairing 10 Films for Fun-Filled Family Nights for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-idpai/"><u>カールスバーググループ：世界最大ビールメーカーがABBYY IDP/AI認識ソフトウェア選定</u></a></li>
 </ul></div>
 
