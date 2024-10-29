@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights on the Google Pixel Eight: Outstanding Performance Meets High Cost Dilemma"
-date: 2024-10-16T17:13:46.385Z
-updated: 2024-10-23T16:32:25.264Z
+date: 2024-10-26T23:45:13.742Z
+updated: 2024-10-29T06:34:16.051Z
 tags:
   - product-reviews
 categories:
@@ -128,13 +128,6 @@ Expand
 
 ![Person holding the Google Pixel 8a showing the lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-lock-screen-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  A Pixel is a Pixel is a Pixel. At this point, unless you buy a foldable, most smartphones all look like metal and glass rectangles. Since the Pixel 6 series, Google has done a good job at helping the Pixel lineup stand out appearance-wise by including a camera bar that spans the back of the phone (which is also meant to highlight the killer camera performance; more on that below). That familiar shape also makes its way to the Pixel 8a but with slightly more round edges.
@@ -145,18 +138,18 @@ Justin Duino / How-To Geek
 
 ![Person holding the Google Pixel 8a showing the home screen and bezels](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-home-screen-and-bezels-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Speaking of the display, you'll find some serious bezels surrounding the screen. They're expected at this price point, but they still surprised me when I unboxed the device. What's annoying, though, is that the bezels aren't uniform, as the bottom portion is thicker than the top and sides. You mostly get used to and look past this detail, but it continued to bug me.
 
 ![Person holding the Google Pixel 8a showing the bottom bezels and home bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-bottom-bezels-and-home-bar-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -180,16 +173,16 @@ Close
 
  I should note that [Google I/O](https://extra-support.techidaily.com/new-leveraging-picture-in-progressive-mode-on-chrome-across-platforms/) is set to kick off a day after this review is published, and it's basically guaranteed that there will be endless AI announcements. A number of those will likely include features included in Android 15\. The Pixel 8a is set to receive seven years of OS, security, and Feature Drop updates, so fingers crossed that everything will come to the entire Pixel 8 series, not just the flagships.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Tensor G3 Continues to Be a Champ
 
 ![Google Pixel 8a sitting on a table showing the rear camera bar and power button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-sitting-on-a-table-showing-the-rear-camera-bar-and-power-button-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -197,9 +190,23 @@ Justin Duino / How-To Geek
 
  That same performance is found in the Pixel 8a. Paired with 8GB of RAM, I never ran into lag, and the screen never felt sluggish. Unfortunately, the Tensor's heat output is still very present. I didn't notice it as much with the 8 Pro—probably due to the different build materials—but the temperature was ever-present after 10 minutes of scrolling through Instagram or playing a game. The phone never got too hot to hold, and the heat didn't cause any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  All-Day Battery, Slow Wireless Charging
 
 ![Person holding the Google Pixel 8a showing the Battery menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-battery-menu-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -213,16 +220,22 @@ Justin Duino / How-To Geek
 
  Between it being hard to align the wireless coils (I once woke up with an almost dead handset) and the slow charging speed, I decided it was best to plug in the included USB-C cable.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I Will Forever Love the Pixel Camera
 
 ![Person holding the Google Pixel 8a showing the Camera app controls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-camera-app-controls-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -242,6 +255,13 @@ Close
 
 ![Person holding the Google Pixel 8a showing the front facing camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-front-facing-camera-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  The front-facing camera is a 13MP sensor with a fixed focus. With an ƒ/2.2 aperture, the focus area shouldn't be huge, but I had no issues taking sharp selfies.
@@ -249,13 +269,6 @@ Justin Duino / How-To Geek
 Close 
 
  Google's Portrait mode software is also top-notch. It almost always nailed the bokeh effect around my hair, but as you can see from the samples above, it sometimes struggles with different patterns. I noticed some clipping around my chair's headrest, which is made out of a mesh-like material. But if you look on the other side of the photo where there is more separation between the subject (me) and the background, the dropoff looks pretty natural.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Compared to the Pixel 8, the Pixel 8a Doesn't Make Sense
 
@@ -269,29 +282,22 @@ Justin Duino / How-To Geek
 
 ![Verizon website showing deals on the Google Pixel 8 lineup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-11-at-10-48-04-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Realistically, the Pixel 8a will be heavily discounted over the next year. The Pixel 7a was routinely on sale for $349\. It wouldn't surprise me to see these deals make it to Google's latest "budget" phone within a month or two.
 
  But if you want to stay on the price-conscience end of things, the [Samsung Galaxy A35](https://www.androidpolice.com/samsung-galaxy-a35-review/) is a worthy contender. It starts at $400, has a large OLED display, and features decent cameras. You lose all the Google AI features, though, so consider the tradeoffs carefully.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Buy the Google Pixel 8a?
 
  The [Google Pixel 8a](http://amazon.com/dp/B0CYQ916ZY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003093&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgoogle-pixel-8a-review%2F&asc%5Fcampaign=Authority) is a great mid-tier smartphone with the power and features of a flagship. Despite the more budget look and feel and slow wireless charging, if it wasn't for the $499 price tag, I'd recommend it to everyone. But instead, I firmly believe that most people are better off looking at Google's more premium handsets. As they typically cost just as much as the A-series, I don't see why you'd go for the "cheaper" device.
 
 ![Google Pixel 8a on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/google-pixel-8a-on-a-white-background.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Google Pixel 8a
 
@@ -316,19 +322,14 @@ The Google Pixel 8a is a mid-range smartphone powered by the Google Tensor G3 So
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-top-8-facebook-planners-for-enhanced-team-productivity/"><u>[New] In 2024, Top 8 Facebook Planners for Enhanced Team Productivity</u></a></li>
-<li><a href="https://solve-news.techidaily.com/ai-abbyy-abbyy/"><u>帳票処理の最新ソリューション: AIが主導する文書分類とデータ抽出技術について学ぶ - ABBYYではじめる | ABBYYブログ</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps-for-2024/"><u>Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-optimize-your-websites-visitor-tracking/"><u>Cookiebot-Enabled: Optimize Your Website's Visitor Tracking</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/empower-your-website-with-cookiebots-advanced-analytics-and-marketing-tools/"><u>Empower Your Website with Cookiebot's Advanced Analytics & Marketing Tools</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/enhance-your-site-with-cookiebots-ai-powered-behavioral-tracking-and-tailoring-techniques/"><u>Enhance Your Site with Cookiebot's AI-Powered Behavioral Tracking & Tailoring Techniques</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/enhanced-user-experience-with-customized-tracker-powered-by-the-innovative-cookiebot-technology/"><u>Enhanced User Experience with Customized Tracker: Powered by the Innovative Cookiebot Technology</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/enhancing-document-management-integrate-abbyy-capture-into-laserfiche-systems/"><u>Enhancing Document Management: Integrate ABBYY Capture Into Laserfiche Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-amplify-your-sounds-mac-studio-guide/"><u>In 2024, Amplify Your Sounds Mac Studio Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-s23-fe-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy S23 FE Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-90-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor 90 Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-synergy-in-copywriting-the-trio-technique-to-boost-your-fb-campaigns-performance/"><u>In 2024, Synergy in Copywriting The Trio Technique to Boost Your FB Campaign's Performance</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-iphone-remote-application-errors-and-bugs/"><u>Step-by-Step Fixes for iPhone Remote Application Errors and Bugs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-social-media-marketing-get-more-viewers-with-youtube/"><u>[Updated] Social Media Marketing Get More Viewers with YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ace-your-workflow-fast-signature-backdrop-elimination/"><u>2024 Approved Ace Your Workflow Fast Signature Backdrop Elimination</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-web-traffic-with-cookiebots-advanced-tracking-solutions/"><u>Enhance Web Traffic with Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-assessing-apple-watch-s9-and-fitbit-charge-6-side-by-side/"><u>In Depth Review: Assessing Apple Watch S9 and Fitbit Charge 6 Side by Side</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leverage-browser-cookies-for-superior-analytics-experience-the-power-of-cookiebot-technology/"><u>Leverage Browser Cookies for Superior Analytics - Experience the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/navigating-roadblocks-in-digital-evolution-three-critical-challenges-to-overcome-for-effective-change-with-abbyys-perspective/"><u>Navigating Roadblocks in Digital Evolution: Three Critical Challenges to Overcome for Effective Change with ABBYY's Perspective</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/navigating-the-conflict-how-gdpr-regulations-clash-with-blockchain-technology-insights/"><u>Navigating the Conflict: How GDPR Regulations Clash with Blockchain Technology Insights</u></a></li>
 </ul></div>
 

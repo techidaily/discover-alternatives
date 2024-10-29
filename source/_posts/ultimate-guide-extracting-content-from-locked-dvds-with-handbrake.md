@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Extracting Content From Locked DVDs with HandBrake"
-date: 2024-10-21T16:26:31.247Z
-updated: 2024-10-23T16:22:27.239Z
+date: 2024-10-27T01:15:47.150Z
+updated: 2024-10-28T18:53:49.581Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e50584f8b8db01d521f6c1c1d.jpg
@@ -47,13 +47,6 @@ Handbrake is only capable of copying unprotected homemade DVDs. When attempting 
 * [Part 1: How to Rip Copy-Protected DVDs with Handbrake](https://tools.techidaily.com/macxdvd/products/)
 * [Part 2: How to Fix Handbrake DVD Copy Protection Errors](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Rip Copy-Protected DVDs with Handbrake on Mac & Windows 
 
 To remove copy protections on DVDs using Handbrake, you will need the Handbrake copy protection plugin called Libdvdcss. Libdvdcss is a free and open-source software library developed for decoding DVDs with CSS (Content Scramble System). It is specifically used by Handbrake to copy DVDs protected by CSS and region codes. Now, let's learn how to use Handbrake to decrypt DVDs on both Mac and Windows operating systems.
@@ -67,13 +60,6 @@ Step 1: To download libdvdcss for Handbrake protection removal on Windows (Win 1
 Step 2: Copy the libdvdcss-2.dll to the Handbrake program folder, which is normally located at C:\\Program Files\\Handbrake. Please don't rename the libdvdcss file. 
 
 ![Download libdvdcss for Handbrake copy protection](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/libdvdcss-download.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Download libdvdcss on Windows
 
@@ -90,6 +76,13 @@ _cd /usr/local/lib_
 
 ![Download libdvdcss for Handbrake](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/libdvdcss-handbrake-mac.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Download libdvdcss on Mac
 
 ### Step 1\. Load the copy-protected DVD to Handbrake 
@@ -99,13 +92,6 @@ With libdvdcss installed on your Mac (or Windows), you can use Handbrake to rip 
 _**Note:** If it fails to read the DVD, check if the libdvdcss is installed correctly. Here's this [Handbrake Libdvdcss errors fix](https://tools.techidaily.com/macxdvd/products/) can help when you have problems. Even with libdvdcss installed correctly, Handbrake may still fail to handle a DVD protected by modern encryption schemes._ 
 
 ![Load protected DVD to Handbrake](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/hb-interface-700.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Load protected DVD to Handbrake
 
@@ -123,6 +109,13 @@ Now, under the Video option, choose a format from the Video Encoder dropdown men
 
 ![Rip protected DVD to MP4 Handbrake](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/hb-mp4-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Rip protected DVD to MP4 with Handbrake
 
 ### Step 4\. Start to rip protected DVD with Handbrake 
@@ -134,10 +127,10 @@ Continue to click on "Browse", choose a destination folder for the output copy p
 Start to rip the DVD
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Most Reliable Solution when Handbrake can't Remove Copy Protection
@@ -187,14 +180,14 @@ The Handbrake alternative can pick out the right movie title from the copy prote
 
 ![Alternative to Handbrake copy protection](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/drp-copy-dvd2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Copy protected DVD with Handbrake alternative
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -203,6 +196,19 @@ Handbrake is a popular software used for ripping DVDs and converting them to dig
 In this case, you can always choose another more powerful protected DVD ripper, such as MacX DVD Ripper Pro. It has a DVD decrypter inside so you don't need to experience the complicated process with Handbrake and libdvdcss. 
 
 _**Notice:** We only advocate copying and ripping DVDs under the concept of Fair Use and don't encourage any illegal reproduction or distribution of copyrighted content. Please abide by the local DVD copyright law before doing it._ 
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -229,16 +235,10 @@ Related Articles
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Handbrake Tutorial: Freely & Easily Convert DVD to MP4 with Handbrake](https://tools.techidaily.com/macxdvd/products/) 
@@ -248,6 +248,13 @@ Related Articles
 [Handbrake Tutorial: Is Handbrake the Easiest Way to Rip a DVD?](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [How to Copy Protected DVD to DVD on iMac/MacBook](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -261,16 +268,16 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Top 5 MakeMKV Alternatives - Free Rip DVD to MKV, MP4, etc](https://tools.techidaily.com/macxdvd/products/) 
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
@@ -287,13 +294,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Data Transfer >>](https://tools.techidaily.com/macxdvd/products/)
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Company
 
@@ -325,22 +325,24 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-9gag-pathway-to-piling-up-popular-memes/"><u>[New] The 9GAG Pathway to Piling Up Popular Memes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-masterclasses-in-applying-online-vhs-filters-and-graphics/"><u>[Updated] Masterclasses in Applying Online VHS Filters and Graphics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-of-sites-to-download-stylish-text-files/"><u>2024 Approved Ultimate List of Sites to Download Stylish Text Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dont-miss-out-activate-your-essential-icloud-setting-to-avoid-apples-accidental-photo-loss/"><u>Don't Miss Out: Activate Your Essential iCloud Setting to Avoid Apple's Accidental Photo Loss</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/download-festive-season-classics-at-no-cost-family-friendly-christmas-songs-for-december-collection/"><u>Download Festive Season Classics at No Cost - Family-Friendly Christmas Songs for December Collection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-x50-gt-music-recovery-recover-deleted-music-from-honor-x50-gt-by-fonelab-android-recover-music/"><u>Honor X50 GT Music Recovery - Recover Deleted Music from Honor X50 GT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-jokesinframe-instant-memes-and-more/"><u>In 2024, JokesInFrame Instant Memes & More</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/macx-dvd-ripper-pro-v495-upgraded-with-new-features-for-macos-sierra-and-iphone/"><u>MacX DVD Ripper Pro v4.9.5 Upgraded with New Features for macOS Sierra & iPhone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/optimized-with-the-help-of-cookiebot-enhancing-user-experience-and-conversion-rates/"><u>Optimized with the Help of Cookiebot: Enhancing User Experience and Conversion Rates</u></a></li>
-<li><a href="https://win-help.techidaily.com/pengenalan-prosedur-pemulihan-cari-file-dalam-windows-11-instruksinya-terpercaya/"><u>Pengenalan Prosedur Pemulihan Cari File Dalam Windows 11 - Instruksinya Terpercaya!</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/potentielle-verbesserungen-im-lagerbestandsmanagement-entdecken-ein-umfassender-checklisten-download/"><u>Potentielle Verbesserungen Im Lagerbestandsmanagement Entdecken: Ein Umfassender Checklisten-Download</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/seamless-ios-device-synchronization-with-your-mac-no-need-for-itunes/"><u>Seamless iOS Device Synchronization with Your Mac - No Need for iTunes!</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/the-journey-beyond-abbyys-transformation-insights-into-the-rebranded-future-explore-with-us-on-abbyy-reimagine-blog/"><u>The Journey Beyond ABBYY's Transformation: Insights Into the Rebranded Future | Explore with Us on ABBYY Reimagine Blog</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-subcontracting-partners-for-expert-abbyy-solutions/"><u>Top Subcontracting Partners for Expert ABBYY Solutions</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/ultimate-strategies-for-leveraging-process-intelligence-insights-from-forrester/"><u>Ultimate Strategies for Leveraging Process Intelligence: Insights From Forrester</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-capture-your-gaming-moments-3-easy-recording-options/"><u>Updated In 2024, Capture Your Gaming Moments 3 Easy Recording Options</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-visionary-6-eco-friendly-minecraft-mansions-for-2024/"><u>[Updated] Visionary 6 Eco-Friendly Minecraft Mansions for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-contrasting-copyright-clauses-in-youtube-and-the-freedom-of-cc/"><u>2024 Approved Contrasting Copyright Clauses in Youtube & the Freedom of CC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-focus-on-the-main-sound-in-video-capturing-free-advice/"><u>2024 Approved Focus on the Main Sound in Video Capturing (Free Advice)</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725286170502-vobmp4/"><u>高效率VOB到MP4转换器 - 如何将视频文件即时快捷转码</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/dvda-dvd-avi-mp4-h264-androidiphone/"><u>免费 DVDA转制软件，将 DVD 内容转为 AVI MP4 H264 - 适用于 Android、iPhone 与平板设备的自由工具</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/discover-the-ultimate-guide-to-free-ai-powered-video-improvement-tools-for-both-windows-and-macos-users/"><u>Discover the Ultimate Guide to Free AI-Powered Video Improvement Tools for Both Windows and macOS Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effective-fixes-for-your-lg-hardwares-usb-drivers-not-working-properly-in-latest-and-previous-windows-environments/"><u>Effective Fixes for Your LG Hardware's USB Drivers Not Working Properly in Latest and Previous Windows Environments</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/guia-passo-a-passo-para-copiar-um-dvd-em-um-pendrive-usb-no-windows-e-mac/"><u>Guia Passo-a-Passo Para Copiar Um DVD Em Um Pendrive USB No Windows E Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-gt-5-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme GT 5 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-gionee-f3-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Gionee F3 Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/linkedin-image-aspect-ratios-explained/"><u>LinkedIn Image Aspect Ratios Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-shots-with-ios-a-guide-to-iphone-cropping-features-for-2024/"><u>Perfect Shots with iOS A Guide to iPhone Cropping Features for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/perfecting-your-tiktok-videos-ideal-resolutions-and-sizes-for-maximum-impact/"><u>Perfecting Your TikTok Videos: Ideal Resolutions and Sizes for Maximum Impact</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/solving-the-problem-of-handbrake-not-reading-files-in-macos/"><u>Solving the Problem of HandBrake Not Reading Files in macOS</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-tutorial-enhancing-video-stability-with-google-photos-tools/"><u>Step-by-Step Tutorial: Enhancing Video Stability with Google Photos Tools</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/techniques-rapides-pour-rendre-les-films-mov-plus-petits-et-compacts/"><u>Techniques Rapides Pour Rendre Les Films MOV Plus Petits Et Compacts</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/toutes-les-etapes-pour-telecharger-vos-collections-de-dvd-vers-lamazon-cloud/"><u>Toutes Les Étapes Pour Télécharger Vos Collections De DVD Vers L'Amazon Cloud</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-the-budget-friendly-iphone-14-is-a-game-changer-for-tech-lovers-insights-from-zdnet/"><u>Why the Budget-Friendly iPhone 14 Is a Game-Changer for Tech Lovers (Insights From ZDNet)</u></a></li>
 </ul></div>
 

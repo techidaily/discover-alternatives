@@ -1,7 +1,7 @@
 ---
 title: "Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review"
-date: 2024-10-20T16:25:19.629Z
-updated: 2024-10-23T16:14:15.772Z
+date: 2024-10-28T09:13:45.164Z
+updated: 2024-10-29T08:07:17.371Z
 tags:
   - product-reviews
 categories:
@@ -76,28 +76,15 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
 Expand 
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Retro-Inspired for an Awkward, Lacking Design
 
 ![GameSir X2s Type-C gaming controller showing back](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-rear.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -113,13 +100,6 @@ Sergio Rodriguez / How-To Geek
 
 ![GameSir X2s Type-C close up of face buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-close-up.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  Size aside, the control is a simple, flimsy, lightweight piece of plastic that doesn’t do its buttons any justice. I really expected that the face buttons, triggers, or joysticks would feel loose or wouldn’t register inputs properly, as it felt like GameSir really went low-budget. But they didn't.
@@ -127,6 +107,13 @@ Sergio Rodriguez / How-To Geek
  On the contrary, the shell is not indicative of the care that went into the actual controller portion of the mobile unit. [Hall effect analog triggers and anti-drift thumbsticks](https://youtube-blog.techidaily.com/esthetic-alignment-for-online-glamour-content-for-2024/), which use sensors and magnets to gauge how far a button’s pressed, ensure every action and movement is smooth and accurate. Players can swap triggers between analog and hair-triggers for personalized playing styles, and as much as I love the resistance of DualSense’s triggers, I found hair-triggers to be better for mobile gaming.
 
  I tested games like “Call of Duty Mobile,” “Brawlhalla,” “Gears 5,” and “Forza Horizon 5,” and I felt the X2s worked well for each of the varying gameplay. The automatic button-mapping for “Call of Duty Mobile” was flawless, and the responsiveness during the chaotic fights of “Brawlhalla” didn’t disappoint. I also didn’t notice any glaring issues with how the controller worked with streaming “Gears 5” and “Forza.”
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Simplicity With Plenty to Offer
 
@@ -144,16 +131,16 @@ Close
 
  There are two additional controller modes—DS5 and HiD—but neither seemed to change much, save, maybe, for compatibility. GameSir’s manuals aren’t clear, but both seem to exist to allow the X2s to run games that already have native controller support, with DS5 mode made specifically for the PS5\. In future models, I’d like to see a mobile controller that mimics DualSense’s haptic feedback trigger so you can get the full experience of playing on the console.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Limited Only By Your Gaming Library
 
 ![Falout Shelter running on GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesirt-x2s-type-c-fallout.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -170,6 +157,13 @@ Sergio Rodriguez / How-To Geek
  If you’ve never had problems with your hands and don’t consider them big, then the X2s Type-C may be a fantastic budget mobile controller. It’s certainly a fine entry-level option around the house or for travel. It has all the quality features and compatibility I’ve come to expect from GameSir, and though no audio options certainly sting, their absence is far from a dealbreaker when you consider the budget price.
 
 ![GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gamesir-x2s-type-c.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -196,20 +190,24 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan/"><u>2024 Approved How To Downgrade Or Rollback The Macos Sierra To Os X El Capitan</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1724313315355-abbyy/"><u>ABBYY社の最高財務責任者に就任するジェームズ・リッター</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-usb-composite-devices-an-insight-into-outdated-technology/"><u>Decoding USB Composite Devices: An Insight Into Outdated Technology</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/elevate-your-flirting-game-the-best-pick-up-lines-in-english/"><u>Elevate Your Flirting Game: The Best Pick-Up Lines in English</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-respond-if-you-see-myself-in-a-facebook-live-video/"><u>How To Respond If You See Myself in a Facebook Live Video</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-from-passion-to-paycheck-a-strategic-guide-to-attracting-brand-backers-on-instagram/"><u>In 2024, From Passion to Paycheck A Strategic Guide to Attracting Brand Backers on Instagram</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/pearlescent-pictures-brighten-with-android-for-2024/"><u>Pearlescent Pictures Brighten with Android for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/securing-transactions-advanced-techniques-for-identifying-and-stopping-fraud-in-banking-systems-using-abbyy-technology/"><u>Securing Transactions: Advanced Techniques for Identifying & Stopping Fraud in Banking Systems Using ABBYY Technology</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-issue-invalid-driver-installation-on-your-pc/"><u>Solving the Issue: Invalid Driver Installation on Your PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-into-tomorrow-latest-apps-and-gaming-on-windows-10/"><u>Step Into Tomorrow Latest Apps & Gaming on Windows 10</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/study-reveals-americans-seek-ai-assistance-in-handling-over-half-their-duties/"><u>Study Reveals Americans Seek AI Assistance in Handling Over Half Their Duties</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/transform-your-invoices-with-abbyys-ai-ocr-achieve-a-dramatic-90-reduction-in-processing-time/"><u>Transform Your Invoices with ABBYY's AI OCR - Achieve a Dramatic 90% Reduction in Processing Time</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-finding-solutions-for-pc-instances-of-slime-rancher-ncrashes-and-stalls/"><u>Ultimate Guide to Finding Solutions for PC Instances of Slime Rancher nCrashes and Stalls</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/website-personalization-enhanced-using-cookiebot-technology/"><u>Website Personalization Enhanced Using Cookiebot Technology</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1724313576749-dxabbyy/"><u>エレガント解決策でDXを前進させる：ABBYYの革新的なデジタルインテリジェンス強化について</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-building-brand-loyalty-tips-for-higher-fb-page-ranking/"><u>[Updated] 2024 Approved Building Brand Loyalty Tips for Higher FB Page Ranking</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-music-transfer-essentials-keeping-your-playlist-alive/"><u>[Updated] 2024 Approved Music Transfer Essentials Keeping Your Playlist Alive</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-historys-high-scorers-on-reddit-top-10-list/"><u>2024 Approved History's High Scorers on Reddit - Top 10 List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>2024 Approved The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-free-youtube-video-grabbing-tools-for-mac-quick-easy-and-trusted-picks/"><u>Best Free Youtube Video Grabbing Tools For Mac - Quick, Easy, and Trusted Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-picture-editing-dynamic-wallpaper-finder-for-2024/"><u>Best Picture Editing Dynamic Wallpaper Finder for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/bold-personalities-setting-the-tech-stage-on-fire/"><u>Bold Personalities Setting the Tech Stage on Fire</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/convert-dvds-to-iphones-easily-on-mac-using-the-best-free-software-macx-ripper-featuring-copyguard-technology/"><u>Convert DVDs to iPhones Easily on Mac Using the Best Free Software - MacX Ripper Featuring CopyGuard Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/fix-showbox-issues-on-ios-devices-top-free-alternatives-available/"><u>Fix Showbox Issues on iOS Devices - Top Free Alternatives Available</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/guide-transferring-dvd-content-to-vimeo-for-easy-sharing/"><u>Guide: Transferring DVD Content to Vimeo for Easy Sharing</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-to-reclaim-storage-on-a-full-mac-hard-drive-with-easy-fixes/"><u>How to Reclaim Storage on a Full Mac Hard Drive with Easy Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-y100i-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo Y100i using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y36i-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y36i phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-c12-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia C12 Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor FRP</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724766350856-macx-mediatrans/"><u>MacX MediaTransでプロフェッショナルなビデオ移行・同期：インストールから使い方まで完全ガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-heic-image-support-for-cross-platform-use-on-macs-windows-and-android-phones/"><u>Mastering HEIC Image Support for Cross-Platform Use on Macs, Windows, and Android Phones</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-for-removing-copy-protection-from-your-disney-movie-dvd-set-disney99/"><u>Step-by-Step Guide for Removing Copy Protection From Your Disney Movie DVD Set (Disney99)</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-adding-srt-captions-to-your-avi-video-files-on-mac-or-pc/"><u>Step-by-Step Guide: Adding SRT Captions to Your AVI Video Files on Mac or PC</u></a></li>
 </ul></div>
 

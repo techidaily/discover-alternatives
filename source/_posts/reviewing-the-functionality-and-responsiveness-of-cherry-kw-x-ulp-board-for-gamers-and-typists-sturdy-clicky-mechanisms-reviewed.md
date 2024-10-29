@@ -1,7 +1,7 @@
 ---
 title: "Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed"
-date: 2024-10-17T17:35:49.363Z
-updated: 2024-10-23T16:24:56.925Z
+date: 2024-10-28T03:16:49.619Z
+updated: 2024-10-29T12:17:44.537Z
 tags:
   - product-reviews
 categories:
@@ -112,23 +112,9 @@ Expand
 
  The keyboard is thin, but it’s also wide across a desk. At nearly 17.4 inches, it’s not the most portable, which is a shame considering it offers three quick-swap wireless connections that make it easy to use the board on virtually any Windows-based device. Sorry, Mac users. You'll need to find your own ultra-thin board.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Latency-Free Quadruple Connectivity
 
 ![Wireless and Bluetooth connectivity buttons on ultra-low profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479489137_ae0f636efd_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -139,10 +125,10 @@ Sergio Rodriguez / How-To Geek
 ![Ultra-low-profile mechanical keyboard connected to multiple devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479487432_d3935187b9_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -150,6 +136,13 @@ Sergio Rodriguez / How-To Geek
  On the rare occasion, while connected via Bluetooth, it seemed I needed to wake the board up before it registered keystrokes. It seemed to happen when the battery was lower. I read through the keyboard’s manual but found nothing suggesting it went into sleep mode to conserve power.
 
  What I really liked about the keyboard is its battery life. I used the board for a full workweek and still didn’t have to charge it. You’ll easily get at least two weeks out of one charge, which is especially helpful if access to a plug isn't convenient.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  The Click You Get is the Click You Get
 
@@ -162,6 +155,13 @@ Sergio Rodriguez / How-To Geek
  It makes for a comfortable typing experience as my fingers don’t have to stretch to compensate for keys that are more spread out. The switches are still tactile, so you get that satisfying resistance, which is really helpful when typing fast. While recessed keys may not appeal to all users, the lack of wobble with longer keys like the spacebar or shift maximizes responsiveness with each keystroke. I don’t second guess whether I’ve hit every key nearly as much with Cherry’s MX ULP switches as I do on the [CyberPowerPC CK60](https://some-guidance.techidaily.com/the-seekers-manual-a-comprehensive-approach-to-purchasing-high-definition-monitors-for-2024/) mechanical board I used previously.
 
  My biggest gripe with any low-profile key is that they’re not easy to remove to clean the board. There’s no tool to help lift the keys, and the switches are far more fragile than hot-swappable alternatives.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Cherry Keys Companion App
 
@@ -179,35 +179,22 @@ Mark LoProto / How-to Geek
 
  For reference, a keyboard with a 2-key rollover will only read up to two keys. This is especially helpful in gaming when you need to perform button combinations, such as in fighting games. Since it does feature n-key rollover, the wireless board also has anti-ghosting, which prevents special characters or erroneous keys from being registered when too many keys are pressed.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Lighting and Additional Functions
 
  Unlike most mechanical keyboards built for gamers, Cherry opted against RGB lighting and went for a simple but bright white backlight. Each laser-etched key shines unmistakably so you can type confidently, even in low light.
 
 ![White backlight with red indicator lighting on low-profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53480801350_ae077610ee_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  Maybe even more helpful is that status keys like for the Caps lock, Num lock, and Scroll lock turn red when activated. The Windows buttons also turn red when the keyboard’s Gaming mode is activated, and the buttons are disabled to prevent accidental popups mid-game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy Cherry’s KW X ULP Wireless Keyboard?
 
@@ -218,6 +205,19 @@ Sergio Rodriguez / How-To Geek
  All of that aside, though, this wireless keyboard is a great companion for both office life and gaming. While I personally wouldn’t use it as a gaming board, it has staples like n-key rollover, anti-ghosting, and backlit keys, so you never lose your place. No matter how you use it, you can expect a wireless board that will last for weeks at a time without a charge. Though I wouldn't mind a 75% version, so I could travel more easily with this high-quality wireless board.
 
 ![Cherry KW X ULP ultra thin profile keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/cherry-kw-x-ulp-keyboard.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -244,20 +244,18 @@ Cherry's KW X ultra-low-profile keyboard features an aluminum frame, mechanical 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nleashing-potential-mastering-advertising-partnerships-with-famebit/"><u>[New] Unleashing Potential Mastering Advertising Partnerships with FameBit</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-all-inclusive-list-best-downloader-software-for-vimeo/"><u>2024 Approved All-Inclusive List Best Downloader Software for Vimeo</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725285689843-dvd/"><u>一般的なDVD変換ソフトウェアのエラーを解消するコツ</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-welcomes-jae-park-as-new-vice-president-of-sales-across-asia-pacific/"><u>ABBYY Welcomes Jae Park as New Vice President of Sales Across Asia-Pacific</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyys-timeline-5-boosts-productivity-with-innovative-task-mining-features/"><u>ABBYY's Timeline 5 Boosts Productivity with Innovative Task Mining Features</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/accelerating-digital-change-how-abbyys-smart-automation-powers-paragons-transformation-journey/"><u>Accelerating Digital Change: How ABBYY’s Smart Automation Powers Paragon's Transformation Journey</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/advancing-smart-multimodal-transit-solutions-the-insights-from-abbyys-perspective/"><u>Advancing Smart Multimodal Transit Solutions - The Insights From ABBYY's Perspective</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/boost-conversion-with-advanced-cookiebot-personalization-techniques/"><u>Boost Conversion with Advanced Cookiebot Personalization Techniques</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/boost-efficiency-with-abbyy-cut-invoice-processing-time-down-by-90/"><u>Boost Efficiency with ABBYY: Cut Invoice Processing Time Down by 90%</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/boost-your-sites-traffic-with-customized-analytics-smart-solutions-from-cookiebot/"><u>Boost Your Site's Traffic with Customized Analytics: Smart Solutions From Cookiebot</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clearing-dns-caches-on-a-mac-a-comprehensive-walkthrough-for-better-connectivity/"><u>Clearing DNS Caches on a Mac - A Comprehensive Walkthrough for Better Connectivity</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-s21-fe-5g-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy S21 FE 5G (2023) Location Settings | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-private-blog-networks-pbn-for-boosted-rankings-insights-and-tips/"><u>Mastering Private Blog Networks (PBN) for Boosted Rankings - Insights & Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-rage-raid-and-rebel-without-a-gta-tale/"><u>[Updated] Rage, Raid and Rebel Without a GTA Tale</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition-for-2024/"><u>[Updated] Unlock High-End Visuals A Practical Guide for SDR to HDR Transition for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/become-a-meme-genius-the-best-8-gif-making-methods/"><u>Become a Meme Genius The Best 8 GIF-Making Methods</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-mac-compactors-shrink-your-files-without-sacrificing-quality/"><u>Best Mac Compactors: Shrink Your Files without Sacrificing Quality</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effective-techniques-for-mac-data-preservation-on-external-drives-including-time-machine-alternatives/"><u>Effective Techniques for Mac Data Preservation on External Drives - Including Time Machine Alternatives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-writing-with-unique-tailored-gpt-from-openai/"><u>Elevate Writing with Unique, Tailored GPT From OpenAI</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/entwicklerherzen-beruhren-erfahrene-vergleich-und-test-von-6-fuhrenden-dvd-brennern/"><u>Entwicklerherzen Berühren: Erfahrene Vergleich Und Test Von 6 Führenden DVD-Brennern</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/free-roblox-playback-tutorial-capture-gaming-sessions-without-latency-and-include-audio/"><u>Free Roblox Playback Tutorial – Capture Gaming Sessions Without Latency and Include Audio</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-moto-g84-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-eight-fixes-if-your-iphone-or-ipad-wont-connect-to-wi-fi-anymore/"><u>Top Eight Fixes If Your iPhone or iPad Won't Connect to Wi-Fi Anymore</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-steps-to-overcome-freezing-and-sluggishness-in-macos-updates/"><u>Troubleshooting Steps to Overcome Freezing and Sluggishness in macOS Updates</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-tutorial-how-to-remove-and-save-movie-subtitles-across-windowsmacos-systems/"><u>Ultimate Tutorial: How to Remove & Save Movie Subtitles Across Windows/macOS Systems</u></a></li>
 </ul></div>
 
