@@ -1,7 +1,7 @@
 ---
 title: Windows上で動画ファイルのZIP形式圧縮方法詳しく解説
-date: 2024-11-08T06:12:15.545Z
-updated: 2024-11-12T16:45:26.040Z
+date: 2024-11-06T21:35:55.851Z
+updated: 2024-11-13T21:44:26.082Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd33648d01ffc32ac08c2f0a2eb4.jpg
@@ -44,6 +44,19 @@ Click the "Start" button and scroll down to find and open the "**Video Editor**"
 
 ![Open Video Editor](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-12.webp) 
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2\. Edit the Video as You Wish
 
 **Trim Video:** Click on the "**Trim**" button, and then move the two sliders to select a portion of the video. Click "**Done**" to save the change.
@@ -57,10 +70,10 @@ For more video editing functions, you just need to press the related icon to ope
 ![Edit Videos on Windows 10](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-13.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3\. Export Edited Video
@@ -68,6 +81,13 @@ For more video editing functions, you just need to press the related icon to ope
 Once finished editing, you can click "**Finish video**", choose a video quality, and click "**Export**" to export the edited video.
 
 ![Export Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-14.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, the Microsoft Photos app only supports a few video formats and often crashes when processing large videos. So I'm here to introduce a third-party free video editing tool for Windows 10 and 11\. It is powerful and user-friendly and allows you to easily edit videos with simple clicks. The next part will show you how to edit videos on Windows 10 for free. Just read on!
 
@@ -87,14 +107,14 @@ Just install this Windows video editor on your PC and learn how to edit a video 
 
 [Free Download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## \---How to Edit Videos with the Free Video Editor
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Add the Source Video into the Program
 
@@ -103,10 +123,16 @@ Launch _**Free HD Video Converter Factory**_ after installing it on your PC. Ope
 ![How to Edit Videos on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-1.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Edit Videos with Different Tools
@@ -120,10 +146,10 @@ To [merge videos into one file](https://tools.techidaily.com/videoconverterfacto
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-2.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Also See:** [Free Video Merger without Watermark](https://tools.techidaily.com/videoconverterfactory/video-watermark/) | [Join Videos without Re-encoding](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
@@ -172,13 +198,6 @@ Besides these exemplified editing features, this Windows 10 video editor also al
 
 ![Free Video Editing Software for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-9.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Choose a Preferred Output Format
 
 After finishing the video editing process, click the output format icon to unfold the full list of 500+ configured presets. Select a format from the **Video** tab or you can straightly choose a specific device model as you wish.
@@ -187,13 +206,6 @@ Tips: Open the **Parameter settings** window, and you'll be able to modify the v
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-10.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4: Start Exporting the Edited Video
 
 When everything is OK, specify a destination folder to save the output video by pressing the **inverted triangle** button on the bottom. Finally, hit the **Run** button to start exporting the video.
@@ -201,10 +213,10 @@ When everything is OK, specify a destination folder to save the output video by 
 ![How to Edit a Video on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-11.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Multi-functional Free Video Editor
@@ -219,6 +231,13 @@ Above is all I want to share with you about how to edit videos on Windows 10 for
 
 ## FAQs about Windows 10 Built-in Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q1\. Does Windows 10 have a video editing program?
 
 Yes, the video editor is a function in the Microsoft Photos application. It is an independent program, including some basic video editings features like trim, add background music, draw, text, 3D effects, etc.
@@ -228,13 +247,6 @@ Yes, the video editor is a function in the Microsoft Photos application. It is a
 Actually, Windows Media Player doesn't come with any video editing features. But you can trim videos in Windows Media Player with a smart plug-in (SolveigMM WMP Trimmer Plugin) installed.
 
 See how to trim video with Windows Media Player: [How to Cut Video in Windows Media Player](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How do I crop a video in Windows 10?
 
@@ -275,16 +287,24 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hero5-vs-yi-evaluating-cutting-edge-cameras/"><u>[New] Hero5 Vs. YI Evaluating Cutting-Edge Cameras</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-unveiling-the-premium-cost-free-screen-recording-tools-for-2024/"><u>[New] Unveiling the Premium, Cost-Free Screen Recording Tools for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1-revolutionize-your-financial-workflow-scenas-supplier-invoice-and-credit-note-management-triumphs-with-abbyy-and-engeneum-integration-cutting-processing-t21/"><u>1. Revolutionize Your Financial Workflow: Scena's Supplier Invoice & Credit Note Management Triumphs with ABBYY and Engeneum Integration, Cutting Processing Time by 60% for Enhanced Efficiency with Sage™ - A Success Story</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-japankddiocr/"><u>ABBYY JapanとKDDIがOCR技術で力を合わせる:最新情報解禁！|業界初の協同製品</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficient-stellar-file-wiping-software-windows-default-config-with-automated-cleanup-tasks/"><u>Efficient Stellar File Wiping Software: Windows Default Config with Automated Cleanup Tasks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-canon-scanner-up-and-running-on-windows-with-a-free-driver-download/"><u>Get Your Canon Scanner Up and Running on Windows with a Free Driver Download</u></a></li>
-<li><a href="https://win-online.techidaily.com/micro-sd/"><u>Micro SD卡上删除视频的恢复方法：详解</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/resolving-the-issue-of-itunes-ignoring-your-iphone-top-4-techniques/"><u>Resolving the Issue of iTunes Ignoring Your iPhone: Top 4 Techniques</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/the-competitive-edge-of-abbyy-recognition-server-seamless-patent-discovery-and-clarity-boosts-efficiency-at-rws/"><u>The Competitive Edge of ABBYY Recognition Server: Seamless Patent Discovery and Clarity Boosts Efficiency at RWS</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/worldwide-expansion-abbyys-strategic-restructure-to-accelerate-international-progress-company-statement/"><u>Worldwide Expansion: ABBYY's Strategic Restructure to Accelerate International Progress - Company Statement</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/zentrale-strategien-der-prozessanalyse-eine-vergleichende-analyse-von-zwei-hauptansatzen-pdf-abbyy/"><u>Zentrale Strategien Der Prozessanalyse: Eine Vergleichende Analyse Von Zwei Hauptansätzen (PDF) - ABBYY</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-maximize-video-reach-in-youtubes-seo-arena/"><u>[New] 2024 Approved Maximize Video Reach in YouTube's SEO Arena</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-powering-up-your-action-footage-one-gadget-at-a-time/"><u>[New] 2024 Approved Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streamlabs-obs-review-and-alternative/"><u>[New] Streamlabs OBS Review and Alternative</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-virtual-ventures-top-tech-for-immersive-experiences-for-2024/"><u>[New] Virtual Ventures Top Tech for Immersive Experiences for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-streamlined-subscription-links-for-video-channels-for-2024/"><u>[Updated] Guide to Streamlined Subscription Links for Video Channels for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-windows-10/"><u>10無法安裝問題 | Windows 10 安裝教程</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sky-warriors-guide-to-drone-racing-plus-selecting-premier-fpvs/"><u>2024 Approved Sky Warriors' Guide to Drone Racing + Selecting Premier FPVs</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyyblue-prism/"><u>ABBYYとBlue Prismが提案する最先端プロセスインテリジェンス: 自動化パフォーマンスの大幅な改善</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automatisierte-rechnungsverarbeitung-mit-abbyy-fur-die-geschaftsablaufe-der-bunting-gruppe-optimiertes-digitales-losungsangebot/"><u>Automatisierte Rechnungsverarbeitung Mit ABBYY Für Die Geschäftsabläufe Der BÜNTING-Gruppe – Optimiertes Digitales Lösungsangebot</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-your-traffic-with-cookiebot-the-ultimate-personalization-tool/"><u>Boost Your Traffic with Cookiebot: The Ultimate Personalization Tool</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/bruce-orcutt-senior-cmo-at-abbyy-leading-innovative-strategies/"><u>Bruce Orcutt: Senior CMO at ABBYY Leading Innovative Strategies</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/client-triumph-tales-real-stories-of-business-growth-and-success/"><u>Client Triumph Tales: Real Stories of Business Growth and Success</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comment-abbyy-renforce-son-alliance-avec-marlin-equity-partners-pour-des-retours-exceptionnels-sur-investissements/"><u>Comment ABBYY Renforce Son Alliance Avec Marlin Equity Partners Pour Des Retours Exceptionnels Sur Investissements</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comment-un-celebre-cabinet-davocats-ameliore-lexperience-client-grace-a-une-nouvelle-technologie-de-salles-de-courrier-digitales/"><u>Comment Un Célèbre Cabinet D’avocats Améliore L'expérience Client Grâce À Une Nouvelle Technologie De Salles De Courrier Digitales</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-boost-your-sites-traffic-with-advanced-tracking-technology/"><u>Cookiebot: Boost Your Site's Traffic with Advanced Tracking Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-8-gratis-html-creation-software-for-windows-computers/"><u>Discover the Leading 8 Gratis HTML Creation Software for Windows Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-speeding-up-safari-on-ios-devices/"><u>Quick Fixes: Speeding up Safari on iOS Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplify-aquatic-footage-7-key-shooting-strategies/"><u>Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyyaiocr-abbyy/"><u>トッパン・フォームズとABBYYが提携、AI駆動の請求書処理OCRソリューションを投入 - ABBYY紹介</u></a></li>
 </ul></div>
 

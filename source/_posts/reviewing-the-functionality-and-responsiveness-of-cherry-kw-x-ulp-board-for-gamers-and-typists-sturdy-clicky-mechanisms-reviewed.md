@@ -1,7 +1,7 @@
 ---
 title: "Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed"
-date: 2024-10-28T03:16:49.619Z
-updated: 2024-10-29T12:17:44.537Z
+date: 2024-11-08T01:02:56.322Z
+updated: 2024-11-13T21:23:32.136Z
 tags:
   - product-reviews
 categories:
@@ -104,6 +104,13 @@ Expand
 
 [$200 at Amazon](https://www.amazon.com/Cherry-Wireless-Mechanical-Keyboard-Switches/dp/B0C4HRP34X?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002387&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-kw-x-ulp-keyboard-review%2F&asc%5Fcampaign=Authority) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Thin Profile That Doesn’t Feel Cheap
 
  When a manufacturer goes thin, it always risks creating a product that feels cheap and flimsy. That’s not the case with the KW X ULP wireless keyboard, which boasts an aluminum plate for overall durability. Even the three kickstands that give the board some height are held in place well, ensuring they won’t randomly fold in while in use.
@@ -111,6 +118,13 @@ Expand
  All of this leads to a very sturdy typing experience, where at no point did I feel like something would give out after so many hours of use. The keys didn’t feel loose, and there was no part of the keyboard that had any give like a lower-quality plastic board may have. Overall, it’s something you can move around freely, so long as there's space for a full-sized width.
 
  The keyboard is thin, but it’s also wide across a desk. At nearly 17.4 inches, it’s not the most portable, which is a shame considering it offers three quick-swap wireless connections that make it easy to use the board on virtually any Windows-based device. Sorry, Mac users. You'll need to find your own ultra-thin board.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Latency-Free Quadruple Connectivity
 
@@ -124,13 +138,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Ultra-low-profile mechanical keyboard connected to multiple devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479487432_d3935187b9_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  On the rare occasion, while connected via Bluetooth, it seemed I needed to wake the board up before it registered keystrokes. It seemed to happen when the battery was lower. I read through the keyboard’s manual but found nothing suggesting it went into sleep mode to conserve power.
@@ -138,10 +145,10 @@ Sergio Rodriguez / How-To Geek
  What I really liked about the keyboard is its battery life. I used the board for a full workweek and still didn’t have to charge it. You’ll easily get at least two weeks out of one charge, which is especially helpful if access to a plug isn't convenient.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  The Click You Get is the Click You Get
@@ -155,13 +162,6 @@ Sergio Rodriguez / How-To Geek
  It makes for a comfortable typing experience as my fingers don’t have to stretch to compensate for keys that are more spread out. The switches are still tactile, so you get that satisfying resistance, which is really helpful when typing fast. While recessed keys may not appeal to all users, the lack of wobble with longer keys like the spacebar or shift maximizes responsiveness with each keystroke. I don’t second guess whether I’ve hit every key nearly as much with Cherry’s MX ULP switches as I do on the [CyberPowerPC CK60](https://some-guidance.techidaily.com/the-seekers-manual-a-comprehensive-approach-to-purchasing-high-definition-monitors-for-2024/) mechanical board I used previously.
 
  My biggest gripe with any low-profile key is that they’re not easy to remove to clean the board. There’s no tool to help lift the keys, and the switches are far more fragile than hot-swappable alternatives.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Cherry Keys Companion App
 
@@ -189,13 +189,6 @@ Sergio Rodriguez / How-To Geek
 
  Maybe even more helpful is that status keys like for the Caps lock, Num lock, and Scroll lock turn red when activated. The Windows buttons also turn red when the keyboard’s Gaming mode is activated, and the buttons are disabled to prevent accidental popups mid-game.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy Cherry’s KW X ULP Wireless Keyboard?
 
  With so many different keyboards on the market, it’s tough to say which is the best. I can say without hesitation that [Cherry’s KW X ULP](https://www.amazon.com/Cherry-Wireless-Mechanical-Keyboard-Switches/dp/B0C4HRP34X?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002387&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-kw-x-ulp-keyboard-review%2F&asc%5Fcampaign=Authority) ultra slim wireless keyboard is certainly up there, so long as you don’t mind its opinionated design choices.
@@ -207,19 +200,26 @@ Sergio Rodriguez / How-To Geek
 ![Cherry KW X ULP ultra thin profile keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/cherry-kw-x-ulp-keyboard.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Cherry KW X ULP
 
@@ -244,18 +244,24 @@ Cherry's KW X ultra-low-profile keyboard features an aluminum frame, mechanical 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-rage-raid-and-rebel-without-a-gta-tale/"><u>[Updated] Rage, Raid and Rebel Without a GTA Tale</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition-for-2024/"><u>[Updated] Unlock High-End Visuals A Practical Guide for SDR to HDR Transition for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/become-a-meme-genius-the-best-8-gif-making-methods/"><u>Become a Meme Genius The Best 8 GIF-Making Methods</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/best-mac-compactors-shrink-your-files-without-sacrificing-quality/"><u>Best Mac Compactors: Shrink Your Files without Sacrificing Quality</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/effective-techniques-for-mac-data-preservation-on-external-drives-including-time-machine-alternatives/"><u>Effective Techniques for Mac Data Preservation on External Drives - Including Time Machine Alternatives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-writing-with-unique-tailored-gpt-from-openai/"><u>Elevate Writing with Unique, Tailored GPT From OpenAI</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/entwicklerherzen-beruhren-erfahrene-vergleich-und-test-von-6-fuhrenden-dvd-brennern/"><u>Entwicklerherzen Berühren: Erfahrene Vergleich Und Test Von 6 Führenden DVD-Brennern</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/free-roblox-playback-tutorial-capture-gaming-sessions-without-latency-and-include-audio/"><u>Free Roblox Playback Tutorial – Capture Gaming Sessions Without Latency and Include Audio</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-moto-g84-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Motorola Moto G84 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-eight-fixes-if-your-iphone-or-ipad-wont-connect-to-wi-fi-anymore/"><u>Top Eight Fixes If Your iPhone or iPad Won't Connect to Wi-Fi Anymore</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-steps-to-overcome-freezing-and-sluggishness-in-macos-updates/"><u>Troubleshooting Steps to Overcome Freezing and Sluggishness in macOS Updates</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/ultimate-tutorial-how-to-remove-and-save-movie-subtitles-across-windowsmacos-systems/"><u>Ultimate Tutorial: How to Remove & Save Movie Subtitles Across Windows/macOS Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-minefield-suddenly-banned-videos-on-social-media/"><u>[New] 2024 Approved Navigating the Minefield Suddenly Banned Videos on Social Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-cutting-edge-beat-detection-for-aspiring-producers/"><u>[Updated] Free, Cutting-Edge Beat Detection for Aspiring Producers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-enhanced-conversion-tracking-with-the-help-of-cookiebot-solutions/"><u>1. Enhanced Conversion Tracking with the Help of Cookiebot Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compre-written-explanation-easy-hdr-understanding/"><u>2024 Approved Compre Written Explanation Easy HDR Understanding</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-and-bolshoi-opera-collaborate-digitizing-cultural-treasure-with-volunteer-efforts/"><u>ABBYY & Bolshoi Opera Collaborate: Digitizing Cultural Treasure with Volunteer Efforts</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-annonce-que-les-francais-sont-en-tete-du-process-mining-73-des-entreprises-utilisent-desormais-loutil-etudy-pour-une-meilleure-analyse-et-gestion-de-l16/"><u>ABBYY Annonce Que Les Français Sont en Tête Du Process Mining : 73 % Des Entreprises Utilisent Désormais L'outil Étudy Pour Une Meilleure Analyse Et Gestion De Leurs Données</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/advanced-sub-processor-partnerships-boosting-abbyy-professional-offerings/"><u>Advanced Sub-Processor Partnerships Boosting ABBYY Professional Offerings</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313320603-aiocr-abbyy/"><u>AI駆使したOCR技術で最適化された会計書類処理 - ABBYY製品レビュー</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/arwmovavi/"><u>ARW画像ファイルを無料で変換するためのMovaviオンラインガイド</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-conversion-tracking-with-cookiebot-integration/"><u>Automated Conversion Tracking with Cookiebot Integration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boosting-site-engagement-with-cookiebot-technology-integration/"><u>Boosting Site Engagement with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boosting-your-websites-visibility-using-advanced-cookiebot-solutions/"><u>Boosting Your Website's Visibility Using Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/celebrating-the-top-honorees-of-the-kmworld-awards-for-excellence-in-202/"><u>Celebrating the Top Honorees of the KMWorld Awards for Excellence in 202^®</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-13-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 13 mini Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-mac-tool-for-screen-and-audio-capture-for-2024/"><u>Innovative Mac Tool for Screen & Audio Capture for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/laughter-and-tears-on-insta-the-ultimate-meme-page-list-for-2024/"><u>Laughter & Tears on Insta The Ultimate Meme Page List for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-student-discount-opportunutes-on-lenovo-products-and-services/"><u>Navigating Student Discount Opportunutes on Lenovo Products and Services</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mac-video-editing-made-easy-slideshows-home-videos-and-more-with-ezvid/"><u>New 2024 Approved Mac Video Editing Made Easy Slideshows, Home Videos, and More with Ezvid</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-15-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 15? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

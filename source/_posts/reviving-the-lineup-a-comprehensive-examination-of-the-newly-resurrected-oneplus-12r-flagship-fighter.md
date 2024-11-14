@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter"
-date: 2024-10-28T09:31:19.094Z
-updated: 2024-10-29T06:55:56.328Z
+date: 2024-11-07T18:52:29.924Z
+updated: 2024-11-13T20:17:02.189Z
 tags:
   - product-reviews
 categories:
@@ -103,13 +103,6 @@ Expand
 
 [See at OnePlus](https://onepluscom.pxf.io/c/5597632/916678/12532?subId1=UUhtgUeUpU2001897&subId2=ehtg&u=https%3A%2F%2Fwww.oneplus.com%2Fus%2Foneplus-12r) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Foneplus-12r-128gb-unlocked-iron-gray%2F6571130.p%3FskuId%3D6571130) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  OnePlus 12R Design: A Refined Classic
 
 ![The camera on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-camera-on-the-oneplus-12r-1jpg_53484997386_o.jpg) 
@@ -126,9 +119,23 @@ Close
 
  Most importantly, the OnePlus 12R does not feel like the “budget” option in the OnePlus 12 family. It’s $300 cheaper than the standard OnePlus 12, but I would not have guessed that based on the feel of the phone. When I’m holding the 12R, it feels weighty, solid, and premium. That’s not always the case with budget devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  OnePlus 12R Display: Big, Bright, and Beautiful
 
 ![The lockscreen of the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-holding-the-oneplus-12r-on-its-homescreenjpg_53485137588_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -138,29 +145,28 @@ Sergio Rodriguez / How-To Geek
 
 ![OnePlus app folder on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus-app-folder-on-the-oneplus-12rjpg_53485297754_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  As mentioned, the OnePlus 12R’s display has an adaptive refresh rate that can automatically adjust from 1Hz to 120Hz, depending on what you're doing. This saves battery life and ensures a smooth and responsive performance when needed. The screen also has an adaptive brightness that can adjust from 1 nit to 4500 nits depending on the ambient light. All in all, this is a great display, up there with the best of the best from Samsung.
 
  In terms of durability, the display is protected by Gorilla Glass Victus 2, which is the toughest glass ever made by Corning. The display is curved along the edges, and a lot of people complain about that, but it’s not something that has ever bothered me. The screen also has an in-display fingerprint sensor that I found to be fast and accurate and a centered punch-hole selfie camera that is barely noticeable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  OnePlus 12R Software: Steady as She Goes
 
 ![The quick settings menu of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-pull-down-settings-menu-on-the-oneplus-12rjpg_53485136928_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -178,6 +184,13 @@ Close
 
 ![Box with included accessories for the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/box-with-included-accessories-for-the-oneplus12rjpg_53484088717_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The OnePlus 12R is a beast when it comes to performance. It has the Snapdragon 8 Gen 2 chip, which is the same one that powered the Galaxy S23 series. The model I tested had a whopping 16GB of RAM, and that is more than enough for any task I threw at it. Whether I was doing mundane daily tasks, scrolling social media, or watching a video while making my grocery list, the OnePlus 12R handled it all with ease.
@@ -185,6 +198,13 @@ Jerome Thomas / How-To Geek
  This is definitely the area where the OnePlus 12R excels. I could switch between apps, open multiple windows, and use the split-screen mode without any lag or stutter. This chip has been used in devices such as the OnePlus Open and Galaxy Z Fold 5, [which are essentially tablets](https://facebook-clips.techidaily.com/optimize-your-social-media-presence-with-mobile-based-live-videos-for-2024/), so it handles phone tasks with no problem at all. Granted, the 16GB RAM model is $100 more than the standard 8GB model, but that's still an excellent price.
 
 ![Close up of the OnePlus12R front camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus12r.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -212,23 +232,9 @@ Close
 
  The OnePlus 12R also has a 16MP selfie camera. The selfie camera doesn’t have autofocus or OIS, but it does have EIS (electronic image stabilization). The most important thing to me with a selfie camera is Portrait Mode, and OnePlus has one of the best. It’s not quite as good as Samsung, but probably on par with Google.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy the OnePlus 12R?
 
 ![Close up of the rear camera of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-of-the-rear-camera-of-the-oneplus12rjpg_53484088827_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -245,10 +251,10 @@ Jerome Thomas / How-To Geek
 ![OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/oneplus-12r.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
@@ -276,18 +282,16 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-greener-marketing-blend-screens-subscription-tech-for-2024/"><u>[New] Greener Marketing Blend Screens, Subscription Tech for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audiocapture-studio-download-test-and-discussion/"><u>[Updated] In 2024, AudioCapture Studio Download, Test & Discussion</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures/"><u>[Updated] In 2024, Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incredible-live-stream-options-a-compilation/"><u>[Updated] Incredible Live Stream Options - A Compilation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-flourishing-on-a-beauty-youtube-channel/"><u>2024 Approved Flourishing on a Beauty YouTube Channel</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/articulating-spanish-accents-a-step-by-step-approach/"><u>Articulating Spanish Accents: A Step-by-Step Approach</u></a></li>
-<li><a href="https://facebook.techidaily.com/claim-higher-tier-paid-meta-verification/"><u>Claim Higher Tier: Paid Meta Verification</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/empfohlene-audiokodierer-apps-fur-windows-11-and-mac-vergleichstabelle-der-top-tools/"><u>Empfohlene Audiokodierer Apps Für Windows 11 & Mac - Vergleichstabelle Der Top Tools</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/guide-to-moving-dvd-files-from-physical-discs-to-online-cloud-storage-platforms/"><u>Guide to Moving DVD Files From Physical Discs to Online Cloud Storage Platforms</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1724766792460-iphone/"><u>IPhoneで突然写真がなくなった？画像消失の理由と回復方法集</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rectifying-discrepancies-unexplained-websites-showing-up-in-iphones-screen-time-logs/"><u>Rectifying Discrepancies: Unexplained Websites Showing Up in iPhone's Screen Time Logs</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-transferring-images-efficiently-between-mac-and-iphones-xrxsx8plus/"><u>Step-by-Step Guide: Transferring Images Efficiently Between Mac and iPhones (XR/XS/X/8/Plus)</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-rated-must-have-mac-applications-of-202223-enhance-your-new-mac-experience/"><u>Top Rated Must-Have Mac Applications of 2022/23 – Enhance Your New Mac Experience!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-flashcapture-screen-tools/"><u>[Updated] In 2024, FlashCapture Screen Tools</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-email-personalization-and-engagement-solutions/"><u>Cookiebot Driven Email Personalization & Engagement Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-personalization-enhancing-your-websites-performance/"><u>Cookiebot-Driven Personalization: Enhancing Your Website's Performance</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-success-enhance-your-websites-performance/"><u>Cookiebot-Driven Success: Enhance Your Website's Performance</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-website-optimization-enhance-your-online-presence/"><u>Cookiebot-Driven Website Optimization: Enhance Your Online Presence</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-enhance-your-websites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics and Personalization</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-and-easy-download-brother-hl-3170cdw-printer-drivers/"><u>Fast & Easy Download: Brother HL-3170cdw Printer Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-13t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi 13T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-professional-webcam-and-software-solutions/"><u>Live Streaming Mastery with ManyCam: Professional Webcam & Software Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-redmi-note-12r-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Redmi Note 12R Location | Dr.fone</u></a></li>
 </ul></div>
 

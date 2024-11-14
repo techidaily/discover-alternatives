@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: How to Remove & Save Movie Subtitles Across Windows/macOS Systems"
-date: 2024-10-16T17:14:13.422Z
-updated: 2024-10-23T16:43:21.855Z
+date: 2024-11-10T17:31:47.915Z
+updated: 2024-11-13T17:31:48.419Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8e8ce84b7a7a9649ff05ac95.jpg
@@ -52,10 +52,10 @@ Prior to extracting subtitles from DVD movie on Windows/macOS, you'd better have
 To sum up, when it comes to strip DVD subtitles, it mainly refers to **soft subtitles or forced subtitles**, not hard subtitles/closed captions. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Rip Subtitles from DVD on Windows PC
@@ -74,13 +74,6 @@ From the first part, you know what kind of subtitles can be ripped from DVD disc
 
 ![free DVD to VIDEO_TS ripper](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/dvd-shrink-subtitle.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 free DVD to VIDEO\_TS ripper
 
 **4.** In the compression settings zone, the **subpicture means DVD subtitles**. If there is no subtitles, right click on the Title > tap "select default streams" > click "Display the Following Subpicture Streams" > choose subtitle streams that you wanna [rip DVD with subtitles](https://tools.techidaily.com/macxdvd/products/).
@@ -88,6 +81,13 @@ free DVD to VIDEO\_TS ripper
 **5.** Choose "Hard Disk Folder" as backup target, browse to choose destination folder, **tick "Create VIDEO\_TS and AUDIO\_TS subfolders"**. Tap "OK" to call it begin.
 
 ![update icon](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your DVD discs are commercial DVD, 90% of the time they're encrypted. Though DVD Shrink claims to have the decryption algorithms, it only copes with the basic DVD copyright protection like DVD Region Code, CSS. When it comes to the advanced yet complicated DVD encryption technology, DVD Shrink is willing to but powerless to render help (no constantly updates on decryption algorithms because of no stable incomes for its developer teams). 
 
@@ -108,13 +108,6 @@ To rip subtitles from DVD folder on Windows PC, we recommened the well-known **S
 **3.** Click "Open Dir" to choose the individual VOB files from VIDEO\_TS folder.
 
 ![Free extract subtitles from DVD on Windows](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/subrip.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 free extract subtitles from DVD
 
@@ -170,16 +163,16 @@ rip DVD subtitles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../blog/new-fourteen/question-jp.jpg)   **What is the difference between text subtitles and image subtitles?** 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Usually, the subtitles in DVD are text based subtitles, which can be extracted from DVD and saved as .srt, .ssa or .ass. and   **easily edited**. The common   **soft subtitles and forced subtitles**  are text based subtitles. As for image subtitles, there are two different types of image-based subtitles: hard subtitles (burned-in subtitles) that can't be extracted from video folder and extractable image subtitles that is only displayed on video image (**not into**) and can be extracted from video folder. Hence, for the image-based DVD subtitles, some can be stripped from DVD movies and some (into video) can't be ripped. 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../blog/new-fourteen/question-jp.jpg)   **Could you tell me what are the common used subtitle formats?** 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For image-based subtitles, the common used subtitle formats include .sub, .idx, .sub, .svcd, .cvd, .bmp, .jpg, .png and more.   
  For text-based subtitles, the common used subtitle formats cover .srt, .ssa, .ass, .txt, .dks and more.  
@@ -190,22 +183,29 @@ rip DVD subtitles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../blog/new-fourteen/question-jp.jpg)   **What is OCR?** 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Optical character recognition (also optical character reader, OCR) can be understood as a standard or medium, with which you can use the third-party subtitle extractor to successfully rip or convert subtitles to machine-encoded text, whether from a scanned document, a photo of a document, a scene-photo. Especially when you need to rip subtitles from DVD as .srt text subtitles, you need OCR. For more detailed info, [visit OCR Wikipedia](https://en.wikipedia.org/wiki/Optical%5Fcharacter%5Frecognition).
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../blog/new-fourteen/question-jp.jpg) **How to extract subtitles from DVD with HandBrake?**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In fact, HandBrake cannot rip subtitles from DVD.
 
 It's impossible to use HandBrake to create subtitles alone with no video. The only file types that HandBrake supports as output are MKV, MP4, and WebM. There are no output options that would create a subtitle file.
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../blog/new-fourteen/question-jp.jpg) **How to rip subtitles from DVD with VLC?**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 VLC can only rip video and audio from DVD. It cannot create subtitles alone with no video. 
 
@@ -223,23 +223,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [How to Rip DVD with Subtitles (Forced/External Subtitles)?](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to Add Soft/Hard Subtitles to Videos with Handbrake](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -249,9 +235,23 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to Rip DVD to FLV on Mac for Free](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Digitize DVD Collection to Hard Drive iPhone iPad](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -261,13 +261,6 @@ Related Articles
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
 ### Hot Products
@@ -275,6 +268,13 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -314,20 +314,18 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-curated-collection-of-the-best-9-cross-device-video-calls-androidiphone/"><u>[New] In 2024, Curated Collection of the Best 9 Cross-Device Video Calls (Android/iPhone)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-end-streaming-gear-for-professionals/"><u>2024 Approved High-End Streaming Gear for Professionals</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/assistenza-on-line-esperta-di-tecnologia-per-winx-dvd-rip-e-winx-video-intelligente/"><u>Assistenza On-Line Esperta Di Tecnologia Per WinX DVD Rip E WinX Video Intelligente</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/best-free-windows-11-video-transcoding-software-of-2020-hd4k-converter-tutorials-and-reviews/"><u>Best FREE Windows 11 Video Transcoding Software of 2020 – HD/4K Converter Tutorials & Reviews</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/creativetims-best-vue-and-ant-design-templates-for-stunning-web-applications/"><u>CreativeTim's Best Vue & Ant Design Templates for Stunning Web Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-googles-gemini-a-comprehensive-study-of-its-ai-endeavors/"><u>Dissecting Google’s Gemini: A Comprehensive Study of Its AI Endeavors</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/dvddigiarty/"><u>DVDダウンロード解除・動画変換の上手い方法：Digiartyソフトウェアサポートサービス</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/el-mejor-software-de-captura-de-pantalla-compatible-con-windows-1087-grabar-cualquier-parte-del-monitor-facilmente/"><u>El Mejor Software De Captura De Pantalla Compatible Con Windows 10/8/7 - Grabar Cualquier Parte Del Monitor Fácilmente</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-tecno-camon-20-premier-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Camon 20 Premier 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-lava-blaze-2-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Lava Blaze 2</u></a></li>
-<li><a href="https://fox-place.techidaily.com/lost-no-more-a-step-by-step-guide-to-retrieve-and-rebuild-vanished-firefox-bookmarks/"><u>Lost No More: A Step-by-Step Guide to Retrieve and Rebuild Vanished Firefox Bookmarks</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/plex-not-working-fix-your-video-streaming-sounds-on-smart-tvs-gaming-consoles-and-more/"><u>Plex Not Working? Fix Your Video Streaming Sounds on Smart TVs, Gaming Consoles, and More!</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-2024-walkthrough-transforming-physical-dvds-to-editable-files-on-a-pc-with-handbrake-software/"><u>Step-by-Step 2024 Walkthrough: Transforming Physical DVDs to Editable Files on a PC with HandBrake Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software/"><u>Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-complete-disk-overuse-in-windows-11-for-improved-performance/"><u>Troubleshooting Complete Disk Overuse in Windows 11 for Improved Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-shoppers-insight-making-an-informed-choice-on-your-next-360camera/"><u>[New] 2024 Approved Shopper's Insight Making an Informed Choice on Your Next 360Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ultimate-share-worthiness-creator/"><u>[New] 2024 Approved Ultimate Share Worthiness Creator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-real-story-exploring-recordcast-features-for-2024/"><u>[Updated] The Real Story Exploring RecordCast Features for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-introduction-to-color-grading-and-luts-in-pscc/"><u>A Comprehensive Introduction to Color Grading and LUTs in PSCC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advancing-consumer-rights-in-agriculture-how-john-deeres-new-pact-fuels-the-right-to-repair-drive/"><u>Advancing Consumer Rights in Agriculture: How John Deere's New Pact Fuels the 'Right to Repair' Drive</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-wmv-video-players-compatible-with-macos-windows-11-and-10/"><u>Best WMV Video Players Compatible with MacOS, Windows 11 & 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/digital-media-seeker/"><u>Digital Media Seeker</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/dvdipad-6-and/"><u>DVDからiPadへ簡単移行! - 6推した無料アプリをご紹介 - レビュー&口コミ集</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oneplus-11r-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 OnePlus 11R Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-world-of-openais-vulnerability-rewards-the-pathway-to-contribute-and-earn/"><u>Inside the World of OpenAI's Vulnerability Rewards – The Pathway to Contribute and Earn</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/quick-and-efficient-hd-video-conversion-using-winx-dvd-ripper-pro-securely-rip-dvds-into-premium-mp4-h265hevc-within-half-an-hour/"><u>Quick and Efficient HD Video Conversion Using WinX DVD Ripper Pro: Securely Rip DVDs Into Premium MP4 (H.265/HEVC) Within Half an Hour</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725289014560-winxvideo-ai/"><u>WinxVideo AI 正式推出:高端影片編輯解決方案及其對應的標準</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/au-wmvmovavi/"><u>あなたのAU WMVを自由に変換：Movavi 無料オンラインツール</u></a></li>
 </ul></div>
 

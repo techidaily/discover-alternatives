@@ -1,7 +1,7 @@
 ---
 title: 旧機種からiPhoneにデータ移行手順集：Android、以前のiPhoneを含む
-date: 2024-10-26T09:36:39.226Z
-updated: 2024-10-29T01:31:29.802Z
+date: 2024-11-10T17:25:38.370Z
+updated: 2024-11-14T01:05:08.460Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3eb3971cf8c85804bd7c66ed.jpg
@@ -30,6 +30,13 @@ iPhone 16/16 Pro/16 Pro Maxに機種変更、バックアップしたデータ�
  一番分かりやすいiPhone機種変更データ移行方法～MacX MediaTrans
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/pic1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 かなり優秀な評価の高いiOSデータ管理ソフト。他のソフトと比べて、バランスが一番良く、動作も軽く、転送スピードが想像以上に速い。音楽、動画、プレイリスト、写真などのデータを iPhone・iPod・iPadとPC間、iOSデバイス間に楽に転送！ Apple Music、Apple iBooks、iTunes Storeから購入した音楽にかかっているDRMをフリーにする。各データの編集、削除などの管理も手軽に完成、写真/ビデオを暗号化で出力、写真隠しロック、動画をパスワードで暗号化できる！
 
@@ -68,13 +75,6 @@ iPhoneではワイヤレス充電、顔認証（Face ID）、防水防塵、進�
 
 [![iPhone機種変更データ移行](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-data-migration-01.jpg)](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step1：**iPhoneを起動し、初期化した状態のiPhoneの場合は、まずiPhone初期設定方法を参考にしてください。設定途中、「Appとデータ」画面に進んだら、「Androidからデータを移行」項目をタップし、「続ける」⇒6桁のコードが表示されるのでこの数字を控えておく。
 
 **Step2：**Android端末で「Movie to iOS」を起動し、「iOSに移行」画面が表示されたら、「続ける」⇒「同意する」⇒「コードを検索」⇒「次へ」とクリックして、先ほどiPhoneをセットアップする時に控えた6桁のコードを入力し、iPhoneとAndroid端末がWi-Fiで接続される。
@@ -82,6 +82,13 @@ iPhoneではワイヤレス充電、顔認証（Face ID）、防水防塵、進�
 **Step3：**iPhoneとAndroid端末が接続したら、「データを転送」画面から「Googleアカウント」/「メッセージ」/「カメラロール」を選択し、「次へ」をタップすればOK。Android端末からiPhone機種変更データ移行が完了したら、「転送が完了しました」といったメッセージが画面に表示されるから、少々お待ちください。
 
 **TIPS：**Lineアカウント、トーク履歴を移行する場合は、設定からトーク履歴をDropBoxやOneDriveなどにコピーする。ただし、ここで保存されるのはテキストのみとなり、画像やスタンプは残らないという点が注意が必要。
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone機種変更データ移行方法2：旧iPhoneから新iPhoneに買い替えた方へ
 
@@ -94,20 +101,13 @@ Apple派にとっては、iPhone 16/16 Pro/16 Pro Maxに搭載されている新
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![iPhone機種変更データ移行](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-data-migration-02.jpg)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step1：**まず[MacX MediaTransをダウンロード](https://tools.techidaily.com/macxdvd/products/)してインストールする。パソコンにiPhoneを連携してください。このiPhoneがこのパソコンに差し込むと、「このコンピューターを信頼する…」という警告が表示された場合は、デバイスのロックを解除して「信頼」をタップする。そして、指示の通りにiTunesを設定して、「了解」と書かれたボタンをクリックして、ソフトの機能選択界面に進む。
@@ -175,27 +175,20 @@ iCloud経由でiPhone 16機種変更データ移行を行うには、安定し�
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btn.png)](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![iPhone機種変更データ移行](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-data-migration-02.jpg)](https://tools.techidaily.com/macxdvd/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step1：**まず[MacX MediaTransをダウンロード](https://tools.techidaily.com/macxdvd/products/)してインストールする。パソコンにiPhoneを連携してください。このiPhoneがこのパソコンに差し込むと、「このコンピューターを信頼する…」という警告が表示された場合は、デバイスのロックを解除して「信頼」をタップする。そして、指示の通りにiTunesを設定して、「了解」と書かれたボタンをクリックして、ソフトの機能選択界面に進む。
 
 **Step2：**「写真転送」「音楽管理」「ビデオ管理」「電子書籍」「音声を着信音」「USBメモリー」「DRM削除」といった機能があり、転送したいコンテンツに合わせるボタンをクリックすればいい。以下では、音楽ファイルをiPhone機種変更データ移行する方法を例として紹介する。
 
 **Step3：**ソフトウェアのインターフェースにある「音楽管理」をクリックし、転送画面が表示され、一番上にある「音楽追加」ボタンをクリックする。パソコンから移行したいファイルを追加する。確認したら、右下にある「同期」ボタンをクリックし、保存している音楽ファイルがiPhone買い替えデータ移行される。
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 【iTunes編：旧iPhoneからiPhone 16へデータを移行する方法】
 
@@ -227,6 +220,13 @@ iCloud経由でiPhone 16機種変更データ移行を行うには、安定し�
 **Step4：**「すべてのバックアップを表示」とタップし、バックアップを選択する。選択したバックアップにチェックを入れ、iPhone15買い替えデータ移行が始まる。完了したら「続ける」とタップする。もう一度Apple IDとパスワードを入力してください。
 
 **Step5：**新iPhoneへ機種変更時のデータ移行が完了したら、一番上にあるメニューバーでは「同期中～～ステップ1/3」が消え、Appleマークに変わる。後は、Wi-fiプロファイルなどの設定を行えばOK。
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone機種変更データ移行方法3：旧iPhoneから新iPhoneに買い替えた方へ
 
@@ -260,21 +260,34 @@ iCloud経由でiPhone 16機種変更データ移行を行うには、安定し�
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/zl.png) いつもシェアありがとうございます![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/zr.png) 
 
+## コメントの多い記事一覧
+
+* [_音楽アプリ無料_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p4.jpg) 通信量がかからない音楽アプリを最新おすすめ！iOS＆Android！](https://tools.techidaily.com/macxdvd/products/)
+* [_Music FM本物_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p8.jpg)本物のMusic FMをiPhoneにダウンロードする方法](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+* [_Wi-Fiなし音楽_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p7.jpg) オフラインやWi-Fiなしで聴ける無料音楽アプリ2024年版！](https://tools.techidaily.com/macxdvd/products/)
+
+* [_iPhone曲 PCなし_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p5.jpg) 超簡単！パソコンを使わずにiPhoneに曲を入れる方法3つ！](https://tools.techidaily.com/macxdvd/products/)
+
 <!-- affiliate ads begin -->
 <a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
   <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-## コメントの多い記事一覧
-
-* [_音楽アプリ無料_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p4.jpg) 通信量がかからない音楽アプリを最新おすすめ！iOS＆Android！](https://tools.techidaily.com/macxdvd/products/)
-* [_Music FM本物_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p8.jpg)本物のMusic FMをiPhoneにダウンロードする方法](https://tools.techidaily.com/macxdvd/products/)
-
-* [_Wi-Fiなし音楽_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p7.jpg) オフラインやWi-Fiなしで聴ける無料音楽アプリ2024年版！](https://tools.techidaily.com/macxdvd/products/)
-
-* [_iPhone曲 PCなし_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p5.jpg) 超簡単！パソコンを使わずにiPhoneに曲を入れる方法3つ！](https://tools.techidaily.com/macxdvd/products/)
 
 * [_iPhone写真_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p2.jpg) 勝手にiPhone写真が消えた！アイフォン写真消えた原因と復元方法](https://tools.techidaily.com/macxdvd/products/)
 
@@ -289,20 +302,13 @@ iCloud経由でiPhone 16機種変更データ移行を行うには、安定し�
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/f.png)](https://www.facebook.com/Digiarty.Software.Japan) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/tw.png)](https://twitter.com/DigiartyInc) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/y.png)](https://www.youtube.com/channel/UCqY5hItdifUTbKX2sKXe4fQ) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/top.png)](https://www.macxdvd.com/apple-iphone-transfer/javascript:;)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/ilogo.png)](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -350,15 +356,16 @@ Digiarty SoftwareがApple Inc.と開発または商業提携をしていませ�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-visual-velocity-time-lapse-photography-with-samsung-gear-for-2024/"><u>[New] Visual Velocity Time-Lapse Photography with Samsung Gear for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-xbox-fanatics-manual-perfect-your-screenshot-skills-for-2024/"><u>[Updated] Xbox Fanatics' Manual Perfect Your Screenshot Skills for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1-fixing-the-issue-how-to-resolve-non-playable-facebook-video-content/"><u>1. Fixing the Issue: How to Resolve Non-Playable Facebook Video Content</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a23-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A23 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-huawei-p60-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Huawei P60 FRP</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/precision-and-power-in-your-hands-the-ultimate-guide-to-the-gamesir-x2s-type-c-review/"><u>Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/reviewing-the-functionality-and-responsiveness-of-cherry-kw-x-ulp-board-for-gamers-and-typists-sturdy-clicky-mechanisms-reviewed/"><u>Reviewing the Functionality & Responsiveness of Cherry KW X ULP Board for Gamers and Typists: Sturdy, Clicky Mechanisms Reviewed</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/reviving-the-lineup-a-comprehensive-examination-of-the-newly-resurrected-oneplus-12r-flagship-fighter/"><u>Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/soaring-strengths-top-10-industrial-drones/"><u>Soaring Strengths Top 10 Industrial Drones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-in-depth-motion-evaluation-2023/"><u>[New] 2024 Approved In-Depth Motion Evaluation 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-complete-overview-the-spinning-lens-revolution/"><u>[New] Complete Overview The Spinning Lens Revolution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-plan-top-6-modernist-minecraft-villas/"><u>[New] Master Plan Top 6 Modernist Minecraft Villas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-digital-laughter-kapwing-meme-maker/"><u>2024 Approved Craft Digital Laughter – Kapwing Meme Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-excellent-backdrops-setting-the-stage-for-streaming/"><u>2024 Approved Excellent Backdrops Setting the Stage for Streaming</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-13c-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 13C to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/innovating-abbyys-brand-strategy-the-enthronement-of-its-novel-chief-marketing-executive/"><u>Innovating ABBYY's Brand Strategy: The Enthronement of Its Novel Chief Marketing Executive</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/introducing-abbyys-advanced-ocr-capabilities-for-uipath-go-users/"><u>Introducing ABBYY's Advanced OCR Capabilities for UiPath GO Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leading-security-consultancy-enhances-offerings-and-scales-operations-through-innovative-autoform-technology/"><u>Leading Security Consultancy Enhances Offerings & Scales Operations Through Innovative Autoform Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leverage-advanced-data-insights-with-websites-boosted-by-cookiebot-technology/"><u>Leverage Advanced Data Insights with Websites Boosted by Cookiebot Technology</u></a></li>
 </ul></div>
 

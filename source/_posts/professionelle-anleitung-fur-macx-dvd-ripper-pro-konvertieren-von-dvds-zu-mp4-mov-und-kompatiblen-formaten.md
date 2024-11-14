@@ -1,7 +1,7 @@
 ---
 title: "Professionelle Anleitung Für MacX DVD-Ripper Pro: Konvertieren Von DVDs Zu MP4, MOV Und Kompatiblen Formaten"
-date: 2024-10-24T12:45:59.897Z
-updated: 2024-10-28T19:49:38.134Z
+date: 2024-11-12T18:06:54.665Z
+updated: 2024-11-13T19:19:54.477Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79b5ffdb49f75954366a9ab9c.jpg
@@ -16,10 +16,10 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 ![](https://www.macxdvd.com/guide/../i-pic/prd-iphone-logo.jpg) ![](https://www.macxdvd.com/guide/../i-pic/prd-ipad-logo.jpg) ![](https://www.macxdvd.com/guide/../i-pic/prd-appletv-logo.jpg) ![](https://www.macxdvd.com/guide/../i-pic/prd-ipod-logo.jpg) ![](https://www.macxdvd.com/guide/../i-pic/prd-itunes-logo.jpg) ![](https://www.macxdvd.com/guide/../i-pic/prd-quicktime-logo.jpg) ![](https://www.macxdvd.com/guide/../i-pic/prd-psp-logo.jpg) ![](https://www.macxdvd.com/guide/../i-pic/prd-youtube-logo.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DVD in MOV, QT, MP4, FLV, AVI, MPEG, für iPhone, iPad, iPod rippen
@@ -42,13 +42,6 @@ Wie kann man DVD in AVI, MP4, FLV, MOV, für iPhone, iPad, Samsumg, HTC etc auf 
 
 ![DVD auf iPhone iPad umwandeln](https://www.macxdvd.com/guide/image-de/drp-guide-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt 2: Ausgabeformat wählen**. Wählen Sie das gewünschte Video- oder Audio-Ausgabeformat vom Dropdown-Fenster aus. Sie können ein Videoformat oder ein tragbares Gerät wählen, das Sie wollen, wie MP4, FLV, AVI, MPEG, MOV, iPhone, iPad, iPod, Samsung, HTC, WP8 etc.
 
 **Tipps:**  
@@ -61,19 +54,6 @@ Wie kann man DVD in AVI, MP4, FLV, MOV, für iPhone, iPad, Samsumg, HTC etc auf 
 **Schritt 4: Konversion starten**. Danach klicken Sie bitte auf “RUN”, um die Konvertierung zu starten. Sie können den Konvertierungsprozess sehen und auch ihn jederzeit abbrechen. 
 
 [Top](https://tools.techidaily.com/macxdvd/products/)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Wie kann man DVD mit neuesten Kopierschutzverfahren kopieren und umwandeln?
 
@@ -91,13 +71,6 @@ Sie können auch DVD-Titel manuell wählen (Wahlfrei).
 
 [Top](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Schwarze Grenzen zuschneiden, Seitenverhältnis ändern, um dem iPhone Bildschirm zu passen
 
 Wählen Sie die Registerkarte "Edit" und den DVD-Film, den Sie umwandeln möchten. Klicken Sie auf "Schneiden" und stellen Sie Seitenverhältnis des Videos ein, wie Vollbild, 16:9, 4:3, 1:1, um Ihrem iPad Bildschirm zu passen. Oder Sie können ungewünschte schwarze Grenze durch Einstellung der veränderbaren Leiter und Rahmen entfernen. Sobald Sie Ihre Einstellung fertig haben, klicken Sie auf "Ferig". 
@@ -111,10 +84,10 @@ Klicken Sie auf die Registerkarte "Edit". Die Untermenü für Schneiden-Fenster 
 ![DVD-Clips trimmen](https://www.macxdvd.com/guide/image-de/drp-guide-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Untertitelspuren und Sprache wählen. Dem Film externe Untertitel hinzufügen
@@ -122,6 +95,13 @@ Klicken Sie auf die Registerkarte "Edit". Die Untermenü für Schneiden-Fenster 
 Wählen Sie die Registerkarte "Edit" und das Video, das Sie konvertieren wollen. Klicken Sie auf "Untertitel", um dem Video eingebaute Untertitelspuren hinzuzufügen. Oder Sie können eine externe Untertielndatei laden. Wenn Sie jetzt keine Untertitelndateien haben, können Sie zu opensubtitles.org gehen und einen kostenlos herunterladen. 
 
 ![Externe Untertiteln hinzufügen](https://www.macxdvd.com/guide/image-de/drp-guide-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Tipps:** Es gibt eine große Menge von Nutzern, die eine Kopie des Inhalts mit erzwungenen Untertiteln erhalten möchten: "Ich verwende jetzt diesen MacX DVD Ripper Pro (Software Version 4.9.5). Ich habe schon es versucht, eine Sicherungskopie des Films 'Jack Ryan: Shadow Recruit' zu erstellen. Ich kann aber keine Kopie erstellen, die erzwungene Untertitel zeigt. Bitte lassen Sie mich wissen, wenn Sie einen Vorschlag haben." 
 
@@ -131,9 +111,23 @@ Untertitel ist standardmäßig deaktiviert. Hier können Sie erzwungene Untertit
 
 [Top](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Reiche Eigenschaften und einstellbare Parameters
 
 ![Reichende Eigenschaften für Einstellung](https://www.macxdvd.com/guide/image-de/drp-guide-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1\. Button 1 ermöglicht es Ihnen, einige Titel durch Klick auf "zusammenfügen" zu kombinieren.
 
@@ -144,10 +138,10 @@ Untertitel ist standardmäßig deaktiviert. Hier können Sie erzwungene Untertit
 4\. Button 4 erlaubt Ihnen, die im Film erscheinenden Bilder aufzunehmen und als PNG zu speichern. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacX DVD Ripper Pro deinstallieren
@@ -184,16 +178,24 @@ Digiarty Software wurde nicht von Apple Inc. entwickelt oder ist mit Apple Inc. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-youtube-livestreams-webcam-selection-mastery/"><u>[New] 2024 Approved Enhance YouTube Livestreams Webcam Selection Mastery</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-smart-choice-selecting-the-top-5-webcams-for-clear-audio/"><u>[New] 2024 Approved Smart Choice Selecting the Top 5 Webcams for Clear Audio</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-proven-methods-for-twitter-brand-awareness/"><u>[Updated] 2024 Approved Proven Methods for Twitter Brand Awareness</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/download-free-christmas-carol-versions-festive-holiday-music-collection/"><u>Download Free Christmas Carol Versions: Festive Holiday Music Collection</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/final-act-evaluation-critique-on-hitman-trilogys-last-chapter/"><u>Final Act Evaluation - Critique on Hitman Trilogy's Last Chapter</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/fur-mac-nutzer-wie-man-jede-beliebige-dvd-sicher-kopiert/"><u>Für Mac Nutzer: Wie Man Jede Beliebige DVD Sicher Kopiert</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/guida-passo-passo-per-riprodurre-e-copiare-un-dvd-sicuro-o-non-sicuro-su-mac-con-ottima-qualita-originale/"><u>Guida Passo-Passo per Riprodurre E Copiare Un DVD Sicuro O Non Sicuro Su Mac Con Ottima Qualità Originale</u></a></li>
-<li><a href="https://win-blog.techidaily.com/nba-2k23-freezing-up-discover-these-7-ultimate-solutions-for-pc/"><u>NBA 2K23 Freezing Up? Discover These 7 Ultimate Solutions for PC</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-process-for-transforming-mtsm2ts-video-files-into-premium-h265hevc-encoded-videos/"><u>Step-by-Step Process for Transforming MTS/M2TS Video Files Into Premium H.265/HEVC Encoded Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/testing-and-reviews-for-the-google-wireless-nest-doorbell-operating-on-batteries/"><u>Testing & Reviews for the Google Wireless Nest Doorbell Operating on Batteries</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/understanding-your-data-a-comprehensive-guide-to-what-is-backed-up-on-icloud/"><u>Understanding Your Data: A Comprehensive Guide to What Is Backed Up on iCloud</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-blueprint-for-successful-collaborative-video-production-on-youtube/"><u>[New] The Blueprint for Successful Collaborative Video Production on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-finest-free-online-recorders-top-picks-for-2024/"><u>[New] Unveiling the Finest Free Online Recorders – Top Picks for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-perfect-ringtones-leading-download-pages/"><u>[Updated] 2024 Approved Perfect Ringtones Leading Download Pages</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-ultimate-screenshot-sticker-guide-for-iphones-and-androids/"><u>[Updated] 2024 Approved The Ultimate Screenshot-Sticker Guide for iPhones and Androids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hevchdh2-65-4k8k/"><u>高效能HEVC壓縮技術：免費HD影片H.2 65 解碼器提供4K/8K播放功能</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-welcomes-jae-park-as-new-vice-president-of-sales-across-asia-pacific/"><u>ABBYY Welcomes Jae Park as New Vice President of Sales Across Asia-Pacific</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyys-timeline-5-boosts-productivity-with-innovative-task-mining-features/"><u>ABBYY's Timeline 5 Boosts Productivity with Innovative Task Mining Features</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313315355-abbyy/"><u>ABBYY社の最高財務責任者に就任するジェームズ・リッター</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-join-google-meet-on-laptop-and-mobile-for-2024/"><u>How to Join Google Meet On Laptop and Mobile for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-crystal-clear-captures-removing-fog-from-gopro-shots/"><u>In 2024, Crystal Clear Captures Removing Fog From GoPro Shots</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-f15-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy F15 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/is-it-possible-to-install-the-operating-system-on-an-outer-ssd-for-booting-purposes/"><u>Is It Possible to Install the Operating System on an Outer SSD for Booting Purposes?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/practical-techniques-for-efficient-video-downscaling/"><u>Practical Techniques for Efficient Video Downscaling</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/seamless-workflow-enhancement-uniting-abbyy-and-automation-anywhere/"><u>Seamless Workflow Enhancement: Uniting ABBYY and Automation Anywhere</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/securing-transactions-advanced-techniques-for-identifying-and-stopping-fraud-in-banking-systems-using-abbyy-technology/"><u>Securing Transactions: Advanced Techniques for Identifying & Stopping Fraud in Banking Systems Using ABBYY Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/study-reveals-americans-seek-ai-assistance-in-handling-over-half-their-duties/"><u>Study Reveals Americans Seek AI Assistance in Handling Over Half Their Duties</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/transform-your-invoices-with-abbyys-ai-ocr-achieve-a-dramatic-90-reduction-in-processing-time/"><u>Transform Your Invoices with ABBYY's AI OCR - Achieve a Dramatic 90% Reduction in Processing Time</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/website-personalization-enhanced-using-cookiebot-technology/"><u>Website Personalization Enhanced Using Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313576749-dxabbyy/"><u>エレガント解決策でDXを前進させる：ABBYYの革新的なデジタルインテリジェンス強化について</u></a></li>
 </ul></div>
 

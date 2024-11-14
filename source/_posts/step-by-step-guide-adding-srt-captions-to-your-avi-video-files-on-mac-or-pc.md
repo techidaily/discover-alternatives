@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding SRT Captions to Your AVI Video Files on Mac or PC"
-date: 2024-10-22T16:01:39.855Z
-updated: 2024-10-23T17:15:42.303Z
+date: 2024-11-06T17:03:50.307Z
+updated: 2024-11-13T18:16:42.078Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e806075d9660abdc53bcbc29eb.jpg
@@ -28,10 +28,10 @@ Free download AVI subtitles merge software to add hardcode subtitles to AVI, MKV
 [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/free-downm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/free-down.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 1: Download External Subtitles for AVI Movies
@@ -46,13 +46,6 @@ So you've saved a heap of downloaded AVI movies, TV shows, etc in foreign langua
 
 **Step 4:** Rename the SRT file to make it the same as your AVI file. For instance, if your video is Frozen.avi, change your SRT subtitle file into Frozen.srt. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 2: How to Add SRT Subtitles to AVI on macOS/Windows 
 
 In case you prepared the SRT subtitles, you can start to combine SRT subtitles with AVI file using MacX Video Converter Pro. 
@@ -62,10 +55,10 @@ Tips: MacXDVD provides two versions of SRT to AVI merger. For Mac users, please 
 ![Convert Video to MP4](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/qsv-add-subtitle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 1:** Free download and fire up this [subtitles to AVI merging software](https://tools.techidaily.com/macxdvd/products/) on your Mac, import the source video by clicking "Add File" button. You can also add more than one AVI video files at a time. 
@@ -79,10 +72,10 @@ Tips: This video converter for Mac also works as a monster to [add SRT subtitles
 ![Add .srt subtitle to MP4](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../guide/image/wz-vcp-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To edit AVI files with SRT subtitles, you have another choice-[add subtitles to iMovie](https://tools.techidaily.com/macxdvd/products/) for AVI video editing after AVI to MP4/MOV conversion. 
@@ -101,6 +94,13 @@ Make sure SRT comprises four parts including a number signifying the subtitle se
 2. **[Download MacX HD Video Converter Pro for Windows](https://tools.techidaily.com/macxdvd/products/)**
 
 _![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/icon1.png) Author: [Candice Liu](https://www.linkedin.com/in/candice-liu-444483a3/) | Updated on Jan 8, 2024_
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Related Article 
 
@@ -128,17 +128,22 @@ _![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/artic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-missing-video-functionality-in-sony-a6400/"><u>2024 Approved Missing Video Functionality in Sony A6400</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prior-upgrades-key-points-revisited/"><u>2024 Approved Prior Upgrades? Key Points Revisited</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-seamless-time-logging-on-youtube-desktopmobile/"><u>2024 Approved Seamless Time Logging on YouTube (Desktop/Mobile)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726223777839-swf-wmv-movavi/"><u>免費在線 SWF 變更為 WMV - 運用 Movavi 技術進行格式修改</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/easy-video-trimming-tutorial-mastering-the-essentials-of-vlc-media-player/"><u>Easy Video Trimming Tutorial: Mastering the Essentials of VLC Media Player</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung with Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-15-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 15 Pro Max when Phone is Broken?</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/place-your-coherent-light-source-laser-on-one-end-of-the-table-or-work-surface-ensure-its-positioned-at-an-angle-where-its-beam-can-reach-the-double-slits-w65/"><u>Place Your Coherent Light Source (Laser) on One End of the Table or Work Surface. Ensure It's Positioned at an Angle Where Its Beam Can Reach the Double-Slits without Obstruction and Project Onto the Screen Located on the Other Side of the Setup.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-ultimate-10-list-of-spanish-salutations-and-greetings/"><u>The Ultimate 10 List of Spanish Salutations & Greetings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-sites-for-downloading-desired-youtube-ringtones-for-2024/"><u>Top Sites for Downloading Desired YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/understanding-wav-and-mp3-files-a-comprehensive-guide-to-sound-fidelity-and-usage-preferences/"><u>Understanding WAV and MP3 Files: A Comprehensive Guide to Sound Fidelity and Usage Preferences</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/upgrade-your-media-experience-transforming-video-clarity-from-standard-to-high-definition-on-both-windows-and-macos-systems/"><u>Upgrade Your Media Experience: Transforming Video Clarity From Standard to High Definition on Both Windows & macOS Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-become-a-successful-smm-in-10-steps/"><u>[New] Become a Successful SMM in 10 Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-role-of-timestamps-in-content-longevity-and-popularity-for-2024/"><u>[New] The Role of Timestamps in Content Longevity and Popularity for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comment-utiliser-handbrake-sans-cuda-pour-accelerer-vos-projets-de-traitement-video/"><u>Comment Utiliser Handbrake Sans CUDA Pour Accélérer Vos Projets De Traitement Vidéo ?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-6-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/conversione-gratuita-dvd-h265hevc-mp4-con-la-qualita-ottimale/"><u>Conversione Gratuita DVD H.265/HEVC MP4 Con La Qualità Ottimale</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-great-free-substitutes-for-adobe-creative-suite-on-pc-download-affinity-photo-and-illustrator-today/"><u>Discover GREAT FREE Substitutes for Adobe Creative Suite on PC: Download Affinity Photo & Illustrator Today!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/downloadgratuitfr-votre-guide-ultime-pour-decrypter-tous-les-types-de-dvd-sans-limites/"><u>Downloadgratuit.fr : Votre Guide Ultime Pour Décrypter Tous Les Types De DVD Sans Limites</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-digital-experiences-with-the-power-of-cookiebot-technology/"><u>Enhanced Digital Experiences with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/free-file-restoration-techniques-on-windows-11-using-top-rated-tools-unveiling-the-five-superior-strategies-with-ifind-data-recovery/"><u>Free File Restoration Techniques on Windows 11 Using Top-Rated Tools: Unveiling the Five Superior Strategies with IFind Data Recovery</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725288575417-macdvd/"><u>Macユーザー向け無料・制限のない安心DVDリッピングソフトウェア - 使いやすさとセキュリティを兼ね揃えたオプション!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/techniques-for-non-intrusive-image-edits/"><u>Techniques for Non-Intrusive Image Edits</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-rated-mkv-editor-for-seamless-non-destructive-file-trimming/"><u>Top Rated MKV Editor for Seamless Non-Destructive File Trimming</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/transformar-archivos-mov-a-mp4-sin-costo-soluciones-para-macos-windows-11-y-navegadores/"><u>Transformar Archivos MOV a MP4 Sin Costo: Soluciones Para macOS, Windows 11 Y Navegadores</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-tutorial-converting-dvds-into-microsd-format-for-portable-movie-viewing/"><u>Ultimate Tutorial: Converting DVDs Into MicroSD Format for Portable Movie Viewing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elite-audio-synchronized-cinematic-crafting-applications-of-the-year-for-2024/"><u>Updated Elite Audio-Synchronized Cinematic Crafting Applications of the Year for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-s23-fe-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy S23 FE Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725284468267-winx-dvd-digiarty/"><u>WinX DVD (Digiarty) - ユーザーからよくある質問と回答集</u></a></li>
 </ul></div>
 

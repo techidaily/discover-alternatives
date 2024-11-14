@@ -1,7 +1,7 @@
 ---
 title: カールスバーググループ：世界最大ビールメーカーがABBYY IDP/AI認識ソフトウェア選定
-date: 2024-10-16T17:10:45.331Z
-updated: 2024-10-23T17:09:19.810Z
+date: 2024-11-08T17:30:04.187Z
+updated: 2024-11-13T18:51:16.290Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764cfef6c9d047807d2b22fa28f.jpg
@@ -36,16 +36,10 @@ ABBYY のグローバル・チャネル・チーフであるニール・マー�
 ABBYYが提供するインテリジェント・プロセス・オートメーション・プラットフォームには、業界をリードするIDP、プロセスマイニング、およびタスクマイニングソリューションが含まれています。これらには、AIを適用して高速かつシンプルな方法でドキュメントを理解する業界初のローコード／ノーコードプラットフォーム「[ABBYY Vantage（以下、Vantage）](https://tools.techidaily.com/abbyy/products/)」が含まれます。Vantageは、ドキュメントを読み取り、理解し、洞察を抽出するスキルを提供することで、今日のデジタルワーカーとプロセスをよりスマートにし、企業のデジタル変革加速化を支援します。「[ABBYY Timeline](https://tools.techidaily.com/abbyy/products/)」は、最新の人工知能（AI）を使用した高度なプロセスマイニングとタスクマイニング技術を搭載しています。これにより、企業は、業務のインタラクティブなデジタルツインを自動的に構築し、リアルタイムで分析、ボトルネックを特定、将来の結果を予測し、技術投資の意思決定を容易にすることができます。詳細については、下記をご覧ください。<https://www.abbyy.com/solutions/intelligent-process-automation-ipa/>。
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ABBYYについて
@@ -61,10 +55,10 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 報道関係者お問い合わせ先
@@ -91,17 +85,22 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ream-makers-the-online-marvel-experience/"><u>[New] Dream Makers The Online Marvel Experience</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-perfecting-the-picture-perfect-cover-photo-on-instagrams-highlights/"><u>[Updated] In 2024, Perfecting the Picture-Perfect Cover Photo on Instagram's Highlights</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-prime-recorder-devices-for-livestreaming-pros-on-youtube/"><u>[Updated] In 2024, Prime Recorder Devices for Livestreaming Pros on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastermind-knowledge-capture-via-mematics-app/"><u>[Updated] Mastermind Knowledge Capture via Mematic's App</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-easy-and-fast-youtubes-best-subtitle-getters-for-2024/"><u>Free, Easy and Fast YouTube's Best Subtitle Getters for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gratitude-for-endless-educational-offerings/"><u>Gratitude for Endless Educational Offerings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723807962479-how-to-recover-from-frozen-or-halted-windows-updates-fixes-at-hand/"><u>How to Recover From Frozen or Halted Windows Updates - Fixes at Hand!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-tecno-spark-20-proplus-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Spark 20 Pro+ Device</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/real-time-broadcasting-with-manycam-professional-streamers-virtual-camera-solution/"><u>Real-Time Broadcasting with ManyCam - Professional Streamer's Virtual Camera Solution</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/real-time-recording-and-streaming-with-manycam-the-ultimate-live-video-solution/"><u>Real-Time Recording & Streaming with ManyCam: The Ultimate Live Video Solution</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/real-time-streaming-discover-how-manycam-enhances-your-online-presence-with-superior-live-video-tech-and-digital-webcams/"><u>Real-Time Streaming: Discover How ManyCam Enhances Your Online Presence with Superior Live Video Tech and Digital Webcams</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-rated-manycam-app-professional-live-streaming-and-virtual-cam-solutions/"><u>Top-Rated ManyCam App: Professional Live Streaming and Virtual Cam Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ain-currency-with-500-youtube-followers/"><u>[New] Gain Currency with 500 YouTube Followers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-fb-story-sharing-a-four-step-guide-for-2024/"><u>[Updated] Mastering FB Story Sharing A Four-Step Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-understanding-aspect-ratio-regulations-on-twitter/"><u>[Updated] Understanding Aspect Ratio Regulations on Twitter</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/supporting-surface-hubmacbookchromebook-pixeldvdusb-type-c/"><u>如何在Supporting Surface Hub、MacBook和Chromebook Pixel等设备上将DVD转换成USB Type-C格式</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disconnected-from-vpn-client-errors/"><u>Addressing Disconnected From VPN Client Errors</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boosting-your-iphones-performance-proven-methods-to-accelerate-sluggish-devices/"><u>Boosting Your iPhone's Performance: Proven Methods to Accelerate Sluggish Devices</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/download-free-ultimate-windows-11-8-and-7-compatible-video-merge-application/"><u>Download Free Ultimate Windows 11, 8 & 7 Compatible Video Merge Application</u></a></li>
+<li><a href="https://solve-news.techidaily.com/easy-guide-how-to-download-your-favorite-songs-from-youtube-videos-as-mp3-files-using-top-video-to-audio-extractor/"><u>Easy Guide: How to Download Your Favorite Songs From YouTube Videos as MP3 Files Using Top Video-to-Audio Extractor</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhance-digital-footprint-with-cookiebot-power-solutions/"><u>Enhance Digital Footprint with Cookiebot Power Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-fanfare-unveiled-android-and-iphones-most-liked-apps-for-2024/"><u>Facebook Fanfare Unveiled Android & iPhone's Most Liked Apps for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-csr8510-a10-driver-problems-on-windows-systems-now-resolved/"><u>Fixing CSR8510 A10 Driver Problems on Windows Systems - Now Resolved</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/master-the-art-of-backup-phones-camera-roll-upload-to-social-apps-for-2024/"><u>Master the Art of Backup Phone's Camera Roll Upload to Social Apps for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725285310940-mp4mp3/"><u>MP4からMP3への自由な変換ツール |無償で高品質な音楽再生可能</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/next-gen-filmmaking-unveiling-the-costs-and-features-of-the-latest-8k-camcorder/"><u>Next-Gen Filmmaking: Unveiling the Costs & Features of the Latest 8K Camcorder</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/seamless-image-audio-and-video-file-migration-from-pc-to-iphoneipad-with-winx-mediatrans-elite-edition/"><u>Seamless Image, Audio & Video File Migration From PC to iPhone/iPad with WinX MediaTrans Elite Edition</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/telecharger-gratuit-centre-de-ressources-multimedia-winx-pour-conversion-et-extraction-video/"><u>Télécharger Gratuit: Centre De Ressources Multimédia WinX Pour Conversion Et Extraction Vidéo</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winx-dvd-creation-software-a-comprehensive-guide/"><u>WinX DVD Creation Software - A Comprehensive Guide</u></a></li>
 </ul></div>
 

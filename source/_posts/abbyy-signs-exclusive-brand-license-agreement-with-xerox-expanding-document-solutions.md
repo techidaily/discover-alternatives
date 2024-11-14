@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Signs Exclusive Brand License Agreement with Xerox: Expanding Document Solutions"
-date: 2024-10-17T16:16:18.629Z
-updated: 2024-10-23T17:20:31.803Z
+date: 2024-11-07T19:52:28.404Z
+updated: 2024-11-14T00:58:21.299Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220d8bf7217ccedaacd12e24ce.jpg
@@ -63,31 +63,25 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-breaking-down-augmented-realitys-mysteries/"><u>[New] Breaking Down Augmented Reality's Mysteries</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nsuring-accurate-earnings-tracking-for-creators-for-2024/"><u>[New] Ensuring Accurate Earnings Tracking for Creators for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-inside-the-high-definition-world-of-nikon-j5/"><u>[New] Inside the High-Definition World of Nikon J5</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/omen-at-war-yts-top-10-gamers/"><u>[New] Women at War YT's #Top 10 Gamers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-share-youtube-link-on-instagram-story/"><u>2024 Approved How to Share YouTube Link on Instagram Story</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-color-grading-using-luts-to-refine-your-work-in-ae/"><u>2024 Approved Navigating Color Grading Using LUTs to Refine Your Work in AE</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1726028396513-mp4-avi-movbmp/"><u>動画の互換性向上: MP4, AVI, MOVからBMPへのスムーズな変換テクニック</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1726030357743-20248/"><u>新鮮な最先端動画編集ソフトウェア2024選!無料でおすすめランキングトップ8推薦</u></a></li>
-<li><a href="https://discover-able.techidaily.com/a-comprehensive-guide-to-applying-stunning-overlay-effects-in-web-design/"><u>A Comprehensive Guide to Applying Stunning Overlay Effects in Web Design</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/anticipating-the-arrival-of-the-new-ipad-pro-is-it-worth-the-wait/"><u>Anticipating the Arrival of the New iPad Pro: Is It Worth the Wait?</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/bypassing-dvd-region-restrictions-for-australian-audiences/"><u>Bypassing DVD Region Restrictions for Australian Audiences</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-stabilize-iphone-videos-3-ways-for-2024/"><u>How to Stabilize iPhone Videos? [3-Ways] for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1726029266179-pc/"><u>PCやスマートフォンから撮影したビデオの音声除去テクニック</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/transform-any-camera-into-a-professional-webcam-with-manycams-advanced-live-streaming-features/"><u>Transform Any Camera Into a Professional Webcam with ManyCam's Advanced Live-Streaming Features!</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/transform-your-online-presence-with-manycam-the-essential-virtual-camera-tool-for-authentic-livestreaming/"><u>Transform Your Online Presence with ManyCam - The Essential Virtual Camera Tool for Authentic Livestreaming</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/transform-your-streaming-experience-with-manycam-virtual-webcams-and-more/"><u>Transform Your Streaming Experience with ManyCam - Virtual Webcams and More</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/unleash-your-creative-potential-capture-lifes-moments-with-manycam-for-seamless-livestream-and-virtual-background-experiences/"><u>Unleash Your Creative Potential: Capture Life's Moments with ManyCam for Seamless Livestream and Virtual Background Experiences</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-transforming-vocal-landscapes-a-methodical-approach-to-swapping-video-audio-tracks-part-1-for-2024/"><u>Updated Transforming Vocal Landscapes A Methodical Approach to Swapping Video Audio Tracks (Part 1) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ideal-capturists-for-academic-presentations/"><u>[New] Ideal Capturists for Academic Presentations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-quickcapture-lite-basic-chromecasting-tool/"><u>[Updated] 2024 Approved QuickCapture Lite Basic Chromecasting Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-art-of-gamers-screen-recording-on-win10/"><u>[Updated] The Art of Gamers' Screen Recording on Win10</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comparaison-av1-et-hevc-qui-sera-le-codec-de-demain/"><u>Comparaison AV1 Et HEVC : Qui Sera Le Codec De Demain ?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/dimensionare-i-tuoi-video-di-grandi-dimensioni-per-facebook-con-ease/"><u>Dimensionare I Tuoi Video Di Grandi Dimensioni per Facebook Con Ease</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gold-star-for-educators-mondly-kids-in-google-plays-top-2017-apps/"><u>Gold Star for Educators - Mondly Kids in Google Play's Top 2017 Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-8-hd-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 8 HD to Another | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 12 4G Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-luts-for-rich-color-grading-in-ar-apps-for-2024/"><u>Leveraging LUTs for Rich Color Grading in AR Apps for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/scopri-le-piu-efficaci-tecniche-di-rafforzamento-immagini-del-2024-una-guida-essenziale/"><u>Scopri Le Più Efficaci Tecniche Di Rafforzamento Immagini Del 2024: Una Guida Essenziale</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-rated-dvd-video-editing-software-for-windows-and-mac-enhance-your-projects/"><u>Top-Rated DVD Video Editing Software for Windows and Mac: Enhance Your Projects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions-for-2024/"><u>Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions for 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/wps/products/"><u>Wps's Products</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reclaim Storage on a Full Mac Hard Drive with Easy Fixes
-date: 2024-10-19T17:02:08.693Z
-updated: 2024-10-23T17:33:34.925Z
+date: 2024-11-06T20:17:33.444Z
+updated: 2024-11-13T20:26:48.098Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/acda250c18e670747053131396d60b9bcac1591759ba5c6ff305d48d55d3846c.jpg
@@ -32,10 +32,16 @@ Summary: this article is about how to clean your Mac hard drive so as to relieve
 A full startup disk is something that every Mac users might experience. In such a case, you will see a "Your startup disk is almost full" error message, with a vague note to delete some files in order to make more space available on the Mac. You see, deleting unnecessary files works on cleaning up Mac disk drive. But the answers of how to clean up Mac hard drive are never confined to this way. And in this article, we'd like to discuss top ways to clean up Mac hard drive and [free up disc space on Mac](https://tools.techidaily.com/macxdvd/products/) computer. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Do You Clean Mac Hard Drive?
@@ -43,13 +49,6 @@ A full startup disk is something that every Mac users might experience. In such 
 Actually a hard disk should never get beyond 85% capacity, especially a startup disk. And if you get an error message that your startup disk is almost full, you need to take measures to free up space immediately, or else you will experience **slowness and even errors** the further you get above that mark. Given that, you need to clean up Mac external drive to [speed up your Mac](https://tools.techidaily.com/macxdvd/products/) and get rid of the possible error causing by overloaded drive.
 
 ![You startup disk is full](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mac-hard-drive-clean-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You startup disk is full
 
@@ -62,9 +61,29 @@ So how do you free up disk space on Mac? The same way you solve the problem of a
 * [3\. Move files to external hard drive or cloud storage](https://tools.techidaily.com/macxdvd/products/)
 * [4\. Replace your Mac hard drive with an SSD](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## #1 Check What is Taking up All of Your Disk Space
 
 ![Mac startup disk storage](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mac-hard-drive-clean-3.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mac startup disk storage
 
@@ -78,13 +97,6 @@ Usually your Mac space goes insufficient mainly due to the large size files, whi
 
 ![how to clean up macbook hard drive](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mac-hard-drive-clean-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 how to clean up macbook hard drive
 
 **a. Empty your trash cans**
@@ -94,6 +106,13 @@ Ctrl+click or right-click the Trash icon at the bottom-right corner of the dock 
 BTW, Macs can actually have multiple trash cans, for example in iPhoto, iMovie, Mail etc, so you may need to empty several. For example, if you use iPhoto to manage your pictures and delete them in iPhoto, you'll have to clear the iPhoto trash to remove them from your external disk drive, just Ctrl+click or right-click the Trash option in that specific application and select Empty Trash.
 
 ![delete Mac backups](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mac-hard-drive-clean-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 delete Mac backups
 
@@ -116,13 +135,6 @@ You can also delete huge files to clean up Mac hard drive as well. Open Finder a
 
 ![mac hard drive clean up](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mac-hard-drive-clean-7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 mac hard drive clean up
 
 **e. Clear temporary files**
@@ -139,6 +151,13 @@ You are suggested to free up disk space on Mac by clearing temporary files such 
 If you don't want to delete any files on your Mac computer, you can buy an [external hard drive for Mac](https://tools.techidaily.com/macxdvd/products/) and then move files to it. Or you can also upload your files to cloud as well, for example upload Mac data to iCloud, [transfer DVD to media server](https://tools.techidaily.com/macxdvd/products/) etc. 
 
 ![clean up mac hard drive](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mac-hard-drive-clean-8.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 clean up mac hard drive
 
@@ -186,13 +205,6 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Best SSDs for Mac You Must Never Miss](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
@@ -205,13 +217,6 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Best NAS Drives for Storing & Streaming Media Files](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
@@ -220,20 +225,27 @@ Related Articles
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -244,10 +256,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Company
@@ -280,22 +292,18 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-elite-hd-video-recorder-macpc-fullscreen-for-2024/"><u>[New] Elite HD Video Recorder MacPC Fullscreen for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-maximize-your-earnings-with-youtube-short-tips/"><u>[New] In 2024, Maximize Your Earnings with Youtube Short Tips</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-obs-and-fb-live/"><u>[Updated] In 2024, Mastering the Art of OBS and FB Live</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pro-fishing-visionaries-discovering-our-5-best-cameras/"><u>[Updated] In 2024, Pro-Fishing Visionaries Discovering Our 5 Best Cameras</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/die-top-10-beliebtesten-gratuiten-software-zur-bearbeitung-von-mp4-dateien-fur-windows-macos-und-linux/"><u>Die Top 10 Beliebtesten Gratuiten Software Zur Bearbeitung Von MP4 Dateien Für Windows, macOS Und Linux</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/fix-ios-videos-wont-stream-on-your-windows-laptop-or-desktop/"><u>Fix: IOS Videos Won't Stream on Your Windows Laptop or Desktop</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/get-your-free-15-discount-for-winx-dvd-ripper-platinum-with-our-limited-time-offer/"><u>Get Your Free $15 Discount for WinX DVD Ripper Platinum with Our Limited-Time Offer!</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/h264-vs-h265/"><u>H.264 Vs. H.265: ビデオファイルの違いを見極めるための基本情報</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-14-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi 14 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/how-to-easily-change-movies-to-dvd-quality-videos-a-guide-to-the-5-best-cost-free-methods/"><u>How to Easily Change Movies to DVD-Quality Videos: A Guide to the 5 Best Cost-Free Methods</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-performance-with-latest-gtx-1050-ti-drivers/"><u>Maximize Performance with Latest GTX 1050 Ti Drivers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games/"><u>Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/restoring-lost-documents-on-windows-10-a-simple-and-effective-guide/"><u>Restoring Lost Documents on Windows 10: A Simple & Effective Guide</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-3-free-dvd-player-programs-compatible-with-windows-11-play-any-disc-easily/"><u>Top 3 Free DVD Player Programs Compatible with Windows 11 - Play Any Disc Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-comctl32dll-error-code-0xc0000142-fixes-and-solutions/"><u>Troubleshooting Guide: Resolving comctl32.dll Error Code 0Xc0000142 | Fixes & Solutions</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-handbrake-failures-in-movie-transcoding-understanding-the-issues-and-finding-remedies/"><u>Troubleshooting HandBrake Failures in Movie Transcoding: Understanding the Issues and Finding Remedies</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/ultimate-festive-season-sweepstakes-top-toys-treats-and-surprises-for-your-loved-ones/"><u>Ultimate Festive Season Sweepstakes: Top Toys, Treats, and Surprises for Your Loved Ones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-multi-image-compositions-photo-montages-guide/"><u>[New] Mastering Multi-Image Compositions Photo Montages Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-future-of-game-monitoring-advanced-alternatives-to-fbx/"><u>[Updated] 2024 Approved The Future of Game Monitoring Advanced Alternatives to FBX</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-your-guide-to-free-non-networked-android-games-for-2024/"><u>[Updated] Your Guide to Free, Non-Networked Android Games for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/el-mejor-software-de-captura-de-pantalla-compatible-con-windows-1087-grabar-cualquier-parte-del-monitor-facilmente/"><u>El Mejor Software De Captura De Pantalla Compatible Con Windows 10/8/7 - Grabar Cualquier Parte Del Monitor Fácilmente</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/eliminar-y-convertir-con-facilidad-tus-dvd-al-formato-mp4-usando-el-reproductor-de-dvd-de-windows-11-xwind/"><u>Eliminar Y Convertir Con Facilidad Tus DVD Al Formato MP4 Usando El Reproductor De DVD De Windows 11 XWind</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/expert-guide-to-dvd-extraction-and-video-conversion-with-winx-mastering-movie-downloads/"><u>Expert Guide to DVD Extraction & Video Conversion with WinX: Mastering Movie Downloads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/financial-arrangements-in-buying-guides-online/"><u>Financial Arrangements in Buying Guides Online?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-avoiding-malware-downloading-safe-and-gratis-vlc-on-apple-devices/"><u>In 2024, Avoiding Malware Downloading Safe and Gratis VLC on Apple Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-find-n3-flips-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find N3 Flips Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-8-best-video-animation-app-for-androidiphoneipad-2024-recommended/"><u>New 8 Best Video Animation App for Android/iPhone/iPad 2024 Recommended</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/overcoming-dvd-ripping-obstacles-with-vlc-effective-solutions-for-pc-and-mac-devices/"><u>Overcoming DVD Ripping Obstacles with VLC: Effective Solutions for PC and Mac Devices</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/plex-not-working-fix-your-video-streaming-sounds-on-smart-tvs-gaming-consoles-and-more/"><u>Plex Not Working? Fix Your Video Streaming Sounds on Smart TVs, Gaming Consoles, and More!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-misalignment-in-windows-10-fix/"><u>Reverse Screen Misalignment in Windows 10 [Fix]</u></a></li>
 </ul></div>
 
