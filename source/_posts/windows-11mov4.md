@@ -1,7 +1,7 @@
 ---
 title: Windows 11のMOV画像を効率よく回転させるための最適解4つ
-date: 2024-12-04T16:27:23.381Z
-updated: 2024-12-09T17:06:42.587Z
+date: 2024-12-22T16:26:34.306Z
+updated: 2024-12-24T16:36:50.275Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c7754394d186d31755e512b1e70.jpg
@@ -28,10 +28,6 @@ Quick Navigation:
 * [FAQs of Removing Audio from a Video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [The Bottom Line](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Audio from Videos on Windows?
 
 [WonderFox HD Video Converter Factory Pro](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) is a professional video converter for Windows with handy editing, recording, and downloading features. Using its simple video editor, you can easily remove audio from videos like MP4, MKV, MOV, AVI, and WebM. You have two options: mute the audio or remove the soundtrack. No matter which method you use, you can complete the task with several mouse clicks.
@@ -48,10 +44,6 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** There are two ways to mute the video.
 
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
@@ -59,7 +51,7 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 ![Remove Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-2.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Way 2:** Click “Parameter settings” below the output format. Navigate to the “Volume” option and move the slider towards the left to “0%”. Then, press “OK” to save the change. Doing so will mute all the videos you import into the software.
@@ -99,15 +91,15 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 
 ![Remove Audio from Video iMovie](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-5.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Tip. How to mute part of a video in iMovie?**  
  1\. After detaching the audio from the video, position the playhead (white line on the timeline) and split the audio into two or more parts.  
 2\. Select the audio clip you want to remove.  
 3\. Right-click the clip and select Delete from the menu.  
 4\. Go to Share > File to export your video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Mute a Video on iPhone and Android?
 
@@ -127,7 +119,7 @@ How to mute audio in a video in Google Photos:
 ![Remove Video Audio in Google Photos](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-6.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### • InShot
@@ -146,7 +138,7 @@ How to remove background audio from a video with InShot:
 ![Remove Original Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-7.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Remove Audio from Video Online?
@@ -161,6 +153,14 @@ Many online video editors can help you remove background sound from a video. How
 
 ![Remove Audio from Video Online Free](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-8.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Common Ways to Mute a Video
 
 ### • Clipchamp
@@ -172,7 +172,7 @@ Clipchamp is a free non-linear video editor that allows users to mute, trim, com
 ![Clipchamp Mute Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-9.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### • Adobe Premiere Pro
@@ -191,6 +191,10 @@ VLC is a well-known multimedia player for almost all platforms. It can help you 
 → Learn [how to remove audio from video using VLC](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
 ![Delete Audio from Video in VLC](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-11.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### • VSDC Video Editor
 
@@ -215,14 +219,6 @@ Firstly, import your video into the editing software and separate the audio from
 
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Q3\. How to mute a video on different apps?
 
 **YouTube:** You cannot mute the video already uploaded to YouTube, but you can mute it before uploading by clicking the speaker icon under Visibility.
@@ -242,7 +238,7 @@ All-in-one Video Editor, Converter & Downloader
 ![WonderFox HD Video Converter Factory Pro](https://www.videoconverterfactory.com/tips/img-autofit/single-hd-pro-free.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **WonderFox HD Video Converter Factory Pro**
@@ -254,6 +250,10 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 [Free Download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -270,24 +270,22 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-insta-tiktik-mastery-uniting-two-social-giants/"><u>[New] In 2024, Insta-TikTik Mastery Uniting Two Social Giants</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-key-elements-for-effective-spotify-ad-execution-for-2024/"><u>[New] The Key Elements for Effective Spotify Ad Execution for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fading-forward-ingenious-techniques-for-soft-echos-in-audacity/"><u>[Updated] Fading Forward Ingenious Techniques for Soft Echos in Audacity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-resolve-instagrams-video-problems-swiftly/"><u>[Updated] Resolve Instagram's Video Problems Swiftly</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1-regular-updates-on-digital-wallet-values-unveiling-the-frequency-exploring-yl-computings-insights/"><u>1. Regular Updates on Digital Wallet Values: Unveiling the Frequency - Exploring YL Computing's Insights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/prehensive-guide-to-earnings-from-youtube-short-videos-for-2024/"><u>A Comprehensive Guide to Earnings From YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/a-guide-to-strategic-cryptocurrency-investment-choices-with-yl-software-expertise/"><u>A Guide to Strategic Cryptocurrency Investment Choices with YL Software Expertise</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-performance-integrating-latest-atheros-drivers-on-windows-11-pcs/"><u>Boosting Performance: Integrating Latest Atheros Drivers on Windows 11 PCs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-video-files-for-free-transform-flv-into-high-quality-flac-using-movavis-service/"><u>Convert Video Files for Free - Transform FLV Into High-Quality FLAC Using Movavi's Service</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/easily-resize-system-icons-on-windows-tips-from-yl-computings-guide-the-ultimate-trick/"><u>Easily Resize System Icons on Windows: Tips From YL Computing's Guide - The Ultimate Trick!</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/identifying-signs-of-hardware-malfunction-a-guide-by-yl-computing-and-software/"><u>Identifying Signs of Hardware Malfunction: A Guide by YL Computing & Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mastering-the-art-of-spotting-crypto-market-movements-insights-from-yl-computings-expertise/"><u>Mastering the Art of Spotting Crypto Market Movements: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/solving-scanner-connection-problems-effective-troubleshooting-steps-tips-from-yl-computing/"><u>Solving Scanner Connection Problems: Effective Troubleshooting Steps - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/strategies-for-getting-in-touch-with-unlisted-phone-contacts/"><u>Strategies for Getting in Touch with Unlisted Phone Contacts</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-unrecognized-devices-how-to-fix-your-printer-connection-with-a-windows-pc-insights-by-yl-computing/"><u>Troubleshooting Unrecognized Devices: How to Fix Your Printer Connection with a Windows PC - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/verify-your-mouses-performance-with-simple-steps-tips-from-yl-computing/"><u>Verify Your Mouse's Performance with Simple Steps - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/why-are-my-speakers-not-working-unraveling-sound-card-issues-with-expert-insight-from-yl-software/"><u>Why Are My Speakers Not Working? Unraveling Sound Card Issues with Expert Insight From YL Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/yuneecs-aerodrone-typhoon-h-evaluation-report/"><u>Yuneec’s AeroDrone Typhoon H Evaluation Report</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-guidelines-for-renaming-yourself-in-online-meetings/"><u>[Updated] 2024 Approved Guidelines for Renaming Yourself in Online Meetings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-double-down-on-youtube-visibility-2-quick-methods-for-2024/"><u>[Updated] Double Down on YouTube Visibility (2 Quick Methods) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/combat-lag-and-frame-drops-in-cyberpunk-2077-effective-solutions-to-enhance-your-gameplay/"><u>Combat Lag and Frame Drops in Cyberpunk 2077: Effective Solutions to Enhance Your Gameplay</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/desktop-saving-essentials-a-step-by-step-guide-by-yl-computing/"><u>Desktop Saving Essentials: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/fix-your-battery-woes-effective-solutions-for-laptops-that-wont-charge-by-yl-computing-and-yl-software-experts/"><u>Fix Your Battery Woes: Effective Solutions for Laptops That Won't Charge, by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-the-workings-of-xboxs-gaming-cloud/"><u>Insights Into the Workings of Xbox's Gaming Cloud</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/maximizing-pc-efficiency-the-ultimate-guide-by-yl-computing/"><u>Maximizing PC Efficiency: The Ultimate Guide by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-googles-augmented-reality-adornments-for-2024/"><u>Navigating Google's Augmented Reality Adornments for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/professional-advancement-in-a-multilingual-world/"><u>Professional Advancement in a Multilingual World</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reverting-scanning-device-configuration-back-to-factory-conditions-with-yl-software-solutions/"><u>Reverting Scanning Device Configuration Back to Factory Conditions with YL Software Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/sky-drones-their-genres-for-2024/"><u>Sky Drones Their Genres for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/transforming-your-profile-video-allure-for-2024/"><u>Transforming Your Profile Video Allure for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unzipping-secrets-a-step-by-step-guide-to-extracting-compressed-files-in-windows-tips-by-yl-computing/"><u>Unzipping Secrets: A Step-by-Step Guide to Extracting Compressed Files in Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/what-prevents-a-laptop-from-booting-up-insights-for-tech-enthusiasts-by-yl-computing/"><u>What Prevents a Laptop From Booting Up? Insights for Tech Enthusiasts by YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-eliminated-distorted-displays/"><u>Windows 11: Eliminated Distorted Displays</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/yl-computings-guide-top-strategies-for-effective-virus-attack-response/"><u>YL Computing's Guide: Top Strategies for Effective Virus Attack Response</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/yl-softwares-collection-of-amazing-night-sky-wallpapers-in-ultra-hd-beautiful-images-for-your-pcmac/"><u>YL Software's Collection of Amazing Night Sky Wallpapers in Ultra HD: Beautiful Images for Your PC/MAC</u></a></li>
 </ul></div>
 
