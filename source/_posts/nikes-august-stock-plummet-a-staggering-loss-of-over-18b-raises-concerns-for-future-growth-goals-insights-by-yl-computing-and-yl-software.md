@@ -1,7 +1,7 @@
 ---
 title: "Nike's August Stock Plummet: A Staggering Loss of Over $18B Raises Concerns for Future Growth Goals - Insights by YL Computing & YL Software"
-date: 2025-01-12T22:26:47.417Z
-updated: 2025-01-15T06:59:33.656Z
+date: 2025-01-16T06:47:49.500Z
+updated: 2025-01-20T22:37:26.212Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-a78-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo A78 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-zte-blade-a73-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From ZTE Blade A73 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-blues-handling-and-correcting-microsoft-update-error-0x8024402c-on-windows/"><u>Beat the Blues: Handling and Correcting Microsoft Update Error 0X8024402C on Windows</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/best-free-windows-11-video-transcoding-software-of-2020-hd4k-converter-tutorials-and-reviews/"><u>Best FREE Windows 11 Video Transcoding Software of 2020 – HD/4K Converter Tutorials & Reviews</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/custom-flipbooks-made-easy-learn-how-to-tailor-your-own-with-flipbuilders-user-friendly-tools/"><u>Custom Flipbooks Made Easy: Learn How to Tailor Your Own with FlipBuilder's User-Friendly Tools</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/dvddigiarty/"><u>DVDダウンロード解除・動画変換の上手い方法：Digiartyソフトウェアサポートサービス</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/el-mejor-software-de-captura-de-pantalla-compatible-con-windows-1087-grabar-cualquier-parte-del-monitor-facilmente/"><u>El Mejor Software De Captura De Pantalla Compatible Con Windows 10/8/7 - Grabar Cualquier Parte Del Monitor Fácilmente</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/expert-guide-to-dvd-extraction-and-video-conversion-with-winx-mastering-movie-downloads/"><u>Expert Guide to DVD Extraction & Video Conversion with WinX: Mastering Movie Downloads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-blaze-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Blaze Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-erasing-extra-borders-for-smooth-youtube-playback/"><u>In 2024, Erasing Extra Borders for Smooth YouTube Playback</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-spotlight-on-distinguished-videographer-reputations/"><u>In 2024, Spotlight on Distinguished Videographer Reputations</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/overcoming-dvd-ripping-obstacles-with-vlc-effective-solutions-for-pc-and-mac-devices/"><u>Overcoming DVD Ripping Obstacles with VLC: Effective Solutions for PC and Mac Devices</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/plex-not-working-fix-your-video-streaming-sounds-on-smart-tvs-gaming-consoles-and-more/"><u>Plex Not Working? Fix Your Video Streaming Sounds on Smart TVs, Gaming Consoles, and More!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-android-and-iphone-select-top-tier-mobile-multimedia-tools/"><u>[New] In 2024, Android & iPhone Select Top-Tier Mobile Multimedia Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unboxing-essentials-selecting-audio-that-complements-videos-for-2024/"><u>[New] Unboxing Essentials Selecting Audio that Complements Videos for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/2-step-by-step-strategy-for-your-digital-evolution-secure-the-exclusive-action-plan-now/"><u>2. Step-by-Step Strategy for Your Digital Evolution: Secure the Exclusive Action Plan Now</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-finereader-die-kerntechnologie-fur-eine-umfassende-dokumentenbearbeitungslosung/"><u>ABBYY FineReader: Die Kerntechnologie Für Eine Umfassende Dokumentenbearbeitungslösung</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-timeline/"><u>ABBYY Timelineで強力に利用するためのプロセスマイニング:実践的な事例とアクティベーションポイント</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-upgrades-to-abbyy-finereader-server-with-significant-enhancements-and-rebranding/"><u>ABBYY Upgrades to ABBYY FineReader Server with Significant Enhancements and Rebranding</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-traffic-optimization-with-cookiebot-technology/"><u>Automated Traffic Optimization with Cookiebot Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/beyond-hype-identifying-pitfalls-of-artificial-intelligence-implementation-for-business-success/"><u>Beyond Hype: Identifying Pitfalls of Artificial Intelligence Implementation for Business Success</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-your-at-home-business-success-with-smart-strategies-to-minimize-denials-and-optimize-revenue-processes-guided-by-an-abbyy-professional/"><u>Boost Your At-Home Business Success with Smart Strategies to Minimize Denials & Optimize Revenue Processes - Guided by an ABBYY Professional</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-behind-the-scenes-unpacking-instagram-stories/"><u>In 2024, Behind the Scenes Unpacking Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-organization-with-these-exceptional-note-taking-tools/"><u>Master Organization with These Exceptional Note-Taking Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-connection-problem-troubleshooting-a-non-responsive-bluetooth-speaker/"><u>Silent Connection Problem: Troubleshooting a Non-Responsive Bluetooth Speaker</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-filming-in-full-view-9-tips/"><u>The Ultimate Guide to Filming in Full View (9 Tips)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-for-thoroughly-sanitizing-your-home-audio-speakers/"><u>Ultimate Guide: Steps for Thoroughly Sanitizing Your Home Audio Speakers</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-com-surrogate-has-halted-unexpectedly/"><u>Understanding and Solving: 'COM Surrogate Has Halted Unexpectedly'</u></a></li>
 </ul></div>
 

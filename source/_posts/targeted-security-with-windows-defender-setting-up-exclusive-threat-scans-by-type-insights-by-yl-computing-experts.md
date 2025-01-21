@@ -1,7 +1,7 @@
 ---
 title: "Targeted Security with Windows Defender: Setting Up Exclusive Threat Scans by Type – Insights by YL Computing Experts"
-date: 2025-01-14T08:41:19.206Z
-updated: 2025-01-14T19:09:57.500Z
+date: 2025-01-19T12:50:49.211Z
+updated: 2025-01-21T01:57:39.578Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,20 +56,14 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-edge-step-by-step-video-cropping-techniques/"><u>[New] Instagram Edge Step-by-Step Video Cropping Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-srt-openedit-manual-for-mac-users/"><u>[New] Ultimate SRT Open/Edit Manual for Mac Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-stream-smoothly-with-obs-studio-on-your-android-for-2024/"><u>[Updated] Stream Smoothly with OBS Studio on Your Android for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-smart-marketing-solutions-at-your-fingertips/"><u>Cookiebot-Driven Smart Marketing Solutions at Your Fingertips</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-sites-leveraging-automation-for-enhanced-user-experience/"><u>Cookiebot-Enabled Sites: Leveraging Automation for Enhanced User Experience</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enhanced-optimize-your-site-with-our-advanced-analytics-platform/"><u>Cookiebot-Enhanced: Optimize Your Site with Our Advanced Analytics Platform</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-fueled-website-optimization-boost-your-online-presence/"><u>Cookiebot-Fueled Website Optimization: Boost Your Online Presence</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-boost-your-sites-traffic-with-advanced-tracking-technology/"><u>Cookiebot: Boost Your Site's Traffic with Advanced Tracking Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-driver-refresh-techniques-for-your-scansnap-ix500-on-a-windows-computer/"><u>Easy Driver Refresh Techniques for Your ScanSnap iX500 on a Windows Computer</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/enhance-your-website-with-state-of-the-art-cookie-tracking-technology/"><u>Enhance Your Website with State-of-the-Art Cookie Tracking Technology</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-meizu-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Meizu online without jailbreak</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-funny-face-filters-giphy-style/"><u>In 2024, Fabricate Funny Face Filters Giphy Style</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>In 2024, The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-thumbnail-design-tips-and-pitfalls-for-2024/"><u>Mastering the Art of Thumbnail Design Tips and Pitfalls for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/testimonials-on-screen-marketings-best-friend/"><u>Testimonials on Screen Marketing's Best Friend</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-photopeas-background-erase-technique/"><u>[New] Mastering Photopea's Background Erase Technique</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-practices-reducing-video-size-before-sending-via-email/"><u>Best Practices: Reducing Video Size Before Sending via Email</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-y200e-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Y200e 5G</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/resolving-the-issue-audio-works-but-video-wont-play-in-your-mkv-files-a-step-by-step-guide/"><u>Resolving the Issue: Audio Works, But Video Won't Play in Your MKV Files - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-7-free-apps-for-tiktok-creations-on-macos-devices/"><u>Top 7 Free Apps for TikTok Creations on MacOS Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-gt-5-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme GT 5 Phones</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winx-dvd-copy-pro-effortless-dvd-cloning-and-iso-creation-for-reliable-backups/"><u>WinX DVD Copy Pro: Effortless DVD Cloning and ISO Creation for Reliable Backups</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/avchdtsmov/"><u>あらゆる形式の動画変換手順：AVCHD、TS、MOVなど各種ファイルを容易に変換する方法</u></a></li>
 </ul></div>
 
