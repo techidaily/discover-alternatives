@@ -1,7 +1,7 @@
 ---
 title: YouTube動画の字幕文字への変換手順【YouTubed字幕テキスト化】
-date: 2025-01-25T17:08:51.763Z
-updated: 2025-01-27T17:05:22.304Z
+date: 2025-02-02T21:36:35.850Z
+updated: 2025-02-09T05:41:38.209Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7aef2eb6fc1425b4243cea5954.jpg
@@ -44,15 +44,15 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** There are two ways to mute the video.
 
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
 
 ![Remove Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-2.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Way 2:** Click “Parameter settings” below the output format. Navigate to the “Volume” option and move the slider towards the left to “0%”. Then, press “OK” to save the change. Doing so will mute all the videos you import into the software.
 
@@ -64,10 +64,6 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Versatile Audio Remover App for PC
@@ -99,6 +95,10 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 
 ![Remove Audio from Video iMovie](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-5.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Tip. How to mute part of a video in iMovie?**  
  1\. After detaching the audio from the video, position the playhead (white line on the timeline) and split the audio into two or more parts.  
 2\. Select the audio clip you want to remove.  
@@ -123,7 +123,7 @@ How to mute audio in a video in Google Photos:
 ![Remove Video Audio in Google Photos](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-6.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### • InShot
@@ -141,10 +141,6 @@ How to remove background audio from a video with InShot:
 
 ![Remove Original Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-7.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Audio from Video Online?
 
 Many online video editors can help you remove background sound from a video. However, most online tools will leave a watermark on the output video. To [delete audio from videos online without watermarks](https://tools.techidaily.com/videoconverterfactory/video-watermark/), you can use AudioRemover or Ezgif. Here shows you how to remove audio from video free without watermark with Ezgif:
@@ -158,7 +154,7 @@ Many online video editors can help you remove background sound from a video. How
 ![Remove Audio from Video Online Free](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-8.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Common Ways to Mute a Video
@@ -181,7 +177,7 @@ You can try Adobe Premiere Pro for free for 7 days and then purchase a subscript
 ![Remove Audio from Video Premiere Pro](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-10.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### • VLC Media Player
@@ -192,10 +188,6 @@ VLC is a well-known multimedia player for almost all platforms. It can help you 
 
 ![Delete Audio from Video in VLC](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-11.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### • VSDC Video Editor
 
 VSDC Free Video Editor is an excellent tool for editing your videos on Windows. It’s able to process high-resolution footage, including 4K UHD, 3D, and VR 360-degree videos. Besides removing audio from a video, VSDC supports applying post-production effects, color correction, and motion tracking like other professional video editing software, which is also challenging for new users.
@@ -204,15 +196,19 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 
 ![VSDC Silence a Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-12.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Remove Audio from Video FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q1\. Can I remove the audio from an iPhone video?
 
 Yes. There are many ways to [remove sound from iPhone videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), such as using the Photos app, iMovie, an online video editor, or a third-party audio remover.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q2\. How do I remove a specific audio track from a video?
 
@@ -241,6 +237,10 @@ All-in-one Video Editor, Converter & Downloader
 
 ![WonderFox HD Video Converter Factory Pro](https://www.videoconverterfactory.com/tips/img-autofit/single-hd-pro-free.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **WonderFox HD Video Converter Factory Pro**
 
 It’s the easiest way to convert, edit, and download videos on Windows. Beyond that, it can record video and audio, make GIFs, create ringtones, extract subtitles, etc. Download the software now to achieve all your purposes in one tool!
@@ -252,7 +252,7 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -270,22 +270,24 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>[New] 2024 Approved Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-watermark-implementation-for-social-posts/"><u>[New] Navigating Watermark Implementation for Social Posts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-syma-x8c-performance-breakdown/"><u>[New] Syma X8C Performance Breakdown</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cut-to-impress-youtube-video-editing-made-simple/"><u>[Updated] 2024 Approved Cut to Impress YouTube Video Editing Made Simple</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning/"><u>[Updated] 2024 Approved Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-instagrams-privacy-features-for-anonymous-livestreams/"><u>[Updated] Understanding Instagram's Privacy Features for Anonymous Livestreams</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/blog-post-exploring-how-cyber-intelligence-tools-are-revolutionizing-covid-1/"><u>Blog Post: Exploring How Cyber Intelligence Tools Are Revolutionizing COVID-1</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/blue-prism-and-abbyy-unite-to-elevate-customer-uptake-amidst-surge-in-intelligent-automation-demand-insights-from-abbyy-newsroom/"><u>Blue Prism and ABBYY Unite to Elevate Customer Uptake Amidst Surge in Intelligent Automation Demand - Insights From ABBYY Newsroom</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-analytics-and-marketing-solutions/"><u>Cookiebot Driven Analytics & Marketing Solutions</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-analytics-boosting-online-engagement/"><u>Cookiebot-Driven Analytics: Boosting Online Engagement</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-performance-boost-your-sites-efficiency/"><u>Cookiebot-Driven Performance: Boost Your Site's Efficiency</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enhanced-smart-and-efficient-data-management/"><u>Cookiebot-Enhanced: Smart & Efficient Data Management</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-fueled-conversion-optimization-supercharge-your-sites-performance/"><u>Cookiebot-Fueled Conversion Optimization: Supercharge Your Site's Performance</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-harnessing-powerful-automation-tools-for-marketing-success/"><u>Cookiebot: Harnessing Powerful Automation Tools for Marketing Success</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-a-full-refund-understanding-digiarty-softwares-money-back-guarantee/"><u>How to Get a Full Refund: Understanding Digiarty Software's Money-Back Guarantee</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-digital-assets-how-to-distinguish-between-crypto-tokens-and-coins/"><u>Navigating Digital Assets: How to Distinguish Between Crypto Tokens and Coins</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-terrain-like-a-pro-a-thorough-evaluation-of-the-family-friendly-maisto-remote-controlled-rock-climber/"><u>Navigating Terrain Like a Pro: A Thorough Evaluation of the Family-Friendly Maisto Remote Controlled Rock Climber</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-from-raw-files-to-artwork-beginners-guide-to-lunapic/"><u>[New] From Raw Files to Artwork Beginner’s Guide to LunaPic</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-cloud-services-optimal-data-handling-and-locale-solutions/"><u>ABBYY Cloud Services: Optimal Data Handling and Locale Solutions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313240636-abbyy/"><u>ABBYYブログ: 最新のプロセスマイニングソリューションがヘルスケアを変革する方法</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accelerate-advocacy-with-precision-in-professional-vernacular/"><u>Accelerate Advocacy with Precision in Professional Vernacular</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-video-compression-techniques-that-preserve-quality/"><u>MP4 Video Compression Techniques That Preserve Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimizing-flight-a-list-of-essential-drone-accessories-for-2024/"><u>Optimizing Flight A List of Essential Drone Accessories for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-tw3-how-to-fix-the-crashing-problem-in-total-war-three-kingdoms/"><u>Resolving TW3: How to Fix the 'Crashing' Problem in Total War: Three Kingdoms</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionize-your-online-presence-using-advanced-ai-marketing-tools-for-unmatched-engagement-and-reach/"><u>Revolutionize Your Online Presence Using Advanced AI Marketing Tools for Unmatched Engagement and Reach</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-insurance-with-technology-how-abbyy-is-bridging-gaps-tech-insights/"><u>Revolutionizing Insurance with Technology: How ABBYY Is Bridging Gaps | Tech Insights</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-scanning-technology-with-new-abbyy-pdf-and-ocr-tools-spotlighted-at-the-american-bar-associations-annual-techshow-2019/"><u>Revolutionizing Scanning Technology with New ABBYY PDF and OCR Tools, Spotlighted at the American Bar Association's Annual Techshow 2019</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scaffolds-must-support-four-times-the-maximum-intended-load/"><u>Scaffolds Must Support Four Times the Maximum Intended Load.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-microsoft-office-365-on-your-computer/"><u>Step-by-Step Guide: Setting Up Microsoft Office 365 on Your Computer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-wireless-keyboard-issues-with-windows-computers/"><u>Troubleshooting Guide: Fixing Wireless Keyboard Issues with Windows Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-troubleshooting-for-handbrake-resolving-output-not-sequential-issues/"><u>Ultimate Troubleshooting for Handbrake: Resolving Output Not Sequential Issues</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/understanding-developer-preferences-for-abbyy-tools-insights-from-industry-professionals-on-their-top-choices/"><u>Understanding Developer Preferences for ABBYY Tools: Insights From Industry Professionals on Their Top Choices</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlocking-advanced-tracking-with-cookiebot-integration-for-improved-seo-results/"><u>Unlocking Advanced Tracking with Cookiebot Integration for Improved SEO Results</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlocking-digital-growth-with-cookiebot-technology-the-key-to-advanced-seo-strategies/"><u>Unlocking Digital Growth with Cookiebot Technology - The Key to Advanced SEO Strategies</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlocking-efficiency-with-innovation-how-abbyy-is-revolutionizing-business-through-its-process-digital-twin/"><u>Unlocking Efficiency with Innovation: How ABBYY Is Revolutionizing Business Through Its Process Digital Twin</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-most-innovative-metaverse-visors-and-wearables/"><u>Unveiling the Most Innovative Metaverse Visors & Wearables</u></a></li>
 </ul></div>
 
